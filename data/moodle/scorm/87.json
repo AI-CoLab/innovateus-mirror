@@ -1,0 +1,583 @@
+{
+  "description": "<div data-editor-id=\"04d508ec-142a-4146-9503-242d148ed83f\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video explains why task design determines whether participation produces usable results. It covers how to match tasks to goals, write clear and accessible instructions, and select platforms that support both participants and your team.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "_lPvLdkqT3w-qfnDJA76troJihMQ0VoK",
+      "items": [
+        {
+          "id": "3tjBp6jmZYlahtZ6_91w_SXzRVxpCuGV",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"30aac7d1-3c8c-4c0a-a8a3-ab0161df4088\"><p>This video explains why task design determines whether participation produces usable results. It covers how to match tasks to goals, write clear and accessible instructions, and select platforms that support both participants and your team.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "f8981dfa-02b5-4f8b-9cb8-3189c66739d8"
+        },
+        {
+          "id": "O3h2_d-_NvxcBrWu0GIxORxxKX34ODCp",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 8",
+              "description": "<div data-editor-id=\"d290af08-4fcb-443e-8643-2a9a8a4883b0\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS Logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing the Tasks: What You Ask Participants to Do.</p><p style=\"line-height: 1.5\">[Visual description]: A drone flyby of the U.S. Congress is shown.</p><p style=\"line-height: 1.5\">[Visual description]: A screenshot of the website Regulations.gov is shown.</p><p style=\"line-height: 1.5\">In the United States, federal agencies use Regulations.gov to collect information from the public to inform the quality of a rule: data, evidence, analysis, and practical insight about how a regulation will work in the real world.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Beth Simone Noveck, Professor, Northeastern University.</p><p style=\"line-height: 1.5\">[Visual description]: A screenshot of a Request for Information on Regulations.gov is shown. Titled: Development of an Artificial Intelligence Action Plan. A small section is highlighted reading: Comments Received: 8,755.</p><p style=\"line-height: 1.5\">Presenting participants with a blank comment box and inviting them to submit a comment, however, often produces large volumes of duplicative comments, low-value input, and opinions instead of information. What some people have called \"notice and spam\" rather than notice and comment. If you do not design and define the task, you will not get the input you need.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: What You’ll Learn.</p><p style=\"line-height: 1.5\">In this video, you'll learn: How to scope the tasks you want people to undertake.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Why Task Design Matters.</p><p style=\"line-height: 1.5\">How to design clear instructions to explain the task and pick a platform to match that task. If the task is unclear, too complex, or poorly matched to the goal, even strong participation will not produce useful results.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Helps to produce useful results.</p><p style=\"line-height: 1.5\">You may receive responses that are too voluminous, too vague, or too off-topic.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Avoids voluminous responses that are too vague and off-topic.</p><p style=\"line-height: 1.5\">Well-designed tasks guide participants to produce input that is relevant, actionable, and aligned with your goals.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Guides participants to produce input that is relevant, actionable, and aligned with your goals.</p><p style=\"line-height: 1.5\">Different goals require different kinds of tasks. A quick survey may be appropriate for broad input, while an in-depth deliberation may be appropriate for more complex decisions. If our goal is to innovate, we might ask participants to brainstorm ideas or submit proposals.</p><p style=\"line-height: 1.5\">[Visual description]: The word \"Innovate\" appears, with two arrows pointing to a person thinking and a stack of papers.</p><p style=\"line-height: 1.5\">If our goal is to understand lived experience, we might ask people to share stories or describe how a policy affects them.</p><p style=\"line-height: 1.5\">[Visual description]: The words \"Understand Lived Experience\" appear, with two arrows pointing to a person speaking behind a microphone and a group of people.</p><p style=\"line-height: 1.5\">If our goal is to prioritize among options, we might ask participants to rank choices or allocate resources.</p><p style=\"line-height: 1.5\">[Visual description]: The words \"Prioritize Options\" appear, with two arrows pointing to a list of three blank options and a person choosing between a sphere, a square, and a triangle.</p><p style=\"line-height: 1.5\">If our goal is to surface shared values, we might ask participants what matters most to them about an issue, helping us understand the principles that should guide decisions.</p><p style=\"line-height: 1.5\">[Visual description]: The words \"Surface Shared Values\" appear, with two arrows pointing to a scale icon and a group of three people with exclamation marks above their heads.</p><p style=\"line-height: 1.5\">If our goal is to weigh tradeoffs, we might design a deliberative process where people consider evidence, discuss options, and make recommendations.</p><p style=\"line-height: 1.5\">[Visual description]: The words \"Weigh trade offs\" appear, with two arrows pointing to a group of people speaking and a stack of papers.</p><p style=\"line-height: 1.5\">The task should produce the kind of input we need and you might need multiple tasks.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Writing Clear Instructions.</p><p style=\"line-height: 1.5\">Participants need to understand what is being asked of them and feel capable of doing it. Here are some tips. Prioritize clarity and accessibility. Avoid jargon. Instructions should match the literacy level and experience of your audience. Keep instructions short and easy to follow. Avoid long documents. Use brief text, simple visuals, or short videos, and ensure that your call to action is concise. Provide support or tutorials where needed. Define tasks precisely. Instead of broad questions, ask focused ones that prompt specific, actionable responses. The more specific the task, the more useful the output. Break complex tasks into simple steps. Clear, structured instructions make responses easier to compare and to use. Set expectations upfront. Explain why input is being collected, how it will be used, and when participants will hear back. Good instructions do more than just tell people what to do, they make people confident that they can do it well.</p><p style=\"line-height: 1.5\">Once you've defined the task, the next step is to decide whether you need a digital engagement platform and, if so, which one. This decision has two sides to it. You need to design the experience for participants: how easy it is to take part, what they're asked to do, how they engage. But just as important is the experience for your team: how you receive, organize, and act on contributions. A single platform does not need to do everything. In many cases, input can be collected in one place and downloaded for analysis using other tools. What matters is having a clear plan for how you will use input.</p><p style=\"line-height: 1.5\">[Visual description]: Overhead drone footage of Hamburg, Germany is shown.</p><p style=\"line-height: 1.5\">Hamburg's Digital Participation System shows what this looks like in practice.</p><p style=\"line-height: 1.5\">[Visual description]: The Digital Participation System (DIPAS) website is shown.</p><p style=\"line-height: 1.5\">Residents submit ideas and feedback on urban planning projects through maps and discussion tools.</p><p style=\"line-height: 1.5\">[Visual description]: A title appears over the webpage reading: Statistical Analysis. The page shows two bar graph sets in German.</p><p style=\"line-height: 1.5\">[Visual description]: A DIPAS webpage shows which AI tool is used for specific tasks, with examples of both input and output. It transitions to a Technical workflow page that further details how the AI tools use contributions and how they collaborate to turn input into output.</p><p style=\"line-height: 1.5\">The platform's AI tools then help cluster the comments, distinguish problems from proposals, and generate summaries, turning input that once overwhelmed staff into something they can analyze and act on in real time.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">The right setup supports both participation and decision-making, whether that happens within a single platform or across multiple tools.</p><p style=\"line-height: 1.5\">So start with your goal.</p><p style=\"line-height: 1.5\">[Visual description]: The word Goal appears with arrows pointing to the words Input and Participant experience.</p><p style=\"line-height: 1.5\">What kind of input do you need and what kind of experience do you want to create for participants? The answers should guide your choice of tool. Then consider participant needs. Does your community need multilingual support, mobile access, or alternatives to typing?</p><p style=\"line-height: 1.5\">[Visual description]: Three arrows labeled “Needs” point from Participant experience to the three mentioned possible community needs.</p><p style=\"line-height: 1.5\">Next, consider your team.</p><p style=\"line-height: 1.5\">[Visual description]: The word Team appears on screen with arrows pointing towards the words Management, Tools, AI, Practical Constraints, Cost, Technical capacity, and Long-Term Sustainability.</p><p style=\"line-height: 1.5\">How will input be managed once it arrives? Do you need tools to organize large volumes of responses, moderate discussions, or route submissions to the right place? If you use AI, it should help make sense of input, not just collect more of it. You need to assess practical constraints: cost, technical capacity, and long-term sustainability all matter. Relying on expensive or proprietary systems can create risks around access, transparency, and control.</p><p style=\"line-height: 1.5\">[Visual description]: List title: Core Criteria to Evaluate Platforms.</p><p style=\"line-height: 1.5\">Make sure to evaluate platforms against a few core criteria: cost and technical requirements, features aligned to the task, quality and depth of input it can collect, accessibility and language support, data governance and transparency, and track record of use.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of the People Powered article, titled: Guide to Digital Participation Platforms. Subheading: Selecting a Digital Participation Platform.</p><p style=\"line-height: 1.5\">Ask clear questions about data and AI. Who owns the data? How is it stored? If AI is used, what role does it play, and how does it work? Make sure the platform complies with relevant laws and organizational policies. Make sure to test before launching. Walk through the experience as a public participant and as an organizational participant. Is it intuitive? Does it work in the languages your community speaks? Ask others who have used the platform about their experience.</p><p style=\"line-height: 1.5\">Finally, remember that the right choice may be no platform at all: a workshop, a questionnaire, or just standing on the corner with a clipboard may be more effective than a complex tool.</p><p style=\"line-height: 1.5\">[Visual description]: Three bullet points appear: Workshop, Questionnaire, and Face-to-face interviews.</p><p style=\"line-height: 1.5\">Choose the method that serves the engagement, not the other way around.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: How You Can Use AI to Support Task Design.</p><p style=\"line-height: 1.5\">AI can support task design in several practical ways. It can help refine your instructions. You can use AI to draft and test different versions of task prompts, simplify complex language, and adapt materials for different audiences. AI can expand how people contribute. Tools like speech-to-text, transcription, screen-reader support, all make it easier for people to participate regardless of literacy level, language, or ability. It can enable multilingual participation. Real-time translation allows people to engage in the language they are most comfortable using. AI can also help participants develop their ideas. By prompting with follow-up questions or suggesting ways to clarify input, AI can improve the quality of what people submit.</p><p style=\"line-height: 1.5\">[Visual description]: A drone flyby video of the Boston skyline is shown.</p><p style=\"line-height: 1.5\">In Boston, for example, the Open Feedback tool coaches residents as they draft comments about city services, helping them clarify their ideas and complete their submissions.</p><p style=\"line-height: 1.5\">[Visual description]: The Boston.gov permitting website is shown.</p><p style=\"line-height: 1.5\">This kind of support ensures that the quality of input reflects the strength of the idea, not the writing skills of the participant.</p><p style=\"line-height: 1.5\">[Visual description]: An Instagram video of the Boston mayor explaining that the Permitting site has been redesigned in order to reduce hurdles while touring a small business is shown on screen.</p><p style=\"line-height: 1.5\">When used thoughtfully, AI makes tasks easier to complete and improves the quality of input without replacing human judgment.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Risks in Task Design.</p><p style=\"line-height: 1.5\">Getting task design wrong can undermine the entire engagement. Vague tasks produce unusable input. When participants do not know what's being asked of them, responses become broad or off-topic. Misaligned tasks waste effort. If the task does not match the goal, even thoughtful contributions will not support decision-making. AI can also distort the input you receive. If tools are too directive, you risk collecting AI-generated responses rather than people's own thinking. AI should help organize and summarize what people say, not substitute its own interpretation for theirs. Poorly designed tasks lead to lost time, frustrated participants, and eroded trust.</p><p style=\"line-height: 1.5\">[Visual description]: A globe appears on screen with the title: Project Spotlight. The camera zooms in on Kenya.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Ushahidi - Crowdsourcing Crisis Response in Kenya.</p><p style=\"line-height: 1.5\">[Visual description]: A new speaker appears: Shakira Ndagire Seruwagi, Quality Assurance Engineer, Ushahidi.</p><p style=\"line-height: 1.5\">In 2007, a contested presidential election triggered widespread violence across Kenya.</p><p style=\"line-height: 1.5\">[Visual description]: The Ushahidi website appears with the tagline: \"Ushahidi empowers people through citizen-generated data to develop solutions that strengthen their communities.\"</p><p style=\"line-height: 1.5\">With a media blackout in effect, a group of technologists launched Ushahidi, a platform that lets residents report incidents via text, web, and social media.</p><p style=\"line-height: 1.5\">[Visual description]: A webpage appears titled: Team Curated Deployments. It lists two projects, one in Italy called Anpas, and one in Togo, called Covid Togo.</p><p style=\"line-height: 1.5\">The task was tightly defined: Tell us what you're seeing, where, and when. More than 40,000 reports poured in, giving aid organizations and journalists a real-time picture of conditions on the ground. The platform has since been used more than 200,000 times around the world, and now incorporates AI to help with categorizing and translating incident reports. The initiative works because the task matched exactly what organizers needed. Specific, structured, geolocated, and immediately actionable data.</p><p style=\"line-height: 1.5\">[Visual description]: A second project page is shown, it lists 209 deployments and projects.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Beth Simone Noveck returns as speaker.</p><p style=\"line-height: 1.5\">The task is the bridge between your engagement goals and the input you receive. Match the task to the goal, pick a platform designed for that task and give participants the guidance they need to contribute effectively. Next, we'll focus on how to analyze and evaluate the input you've collected.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Reviewing Inputs.</p><p style=\"line-height: 1.5\"></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "24a905cf-27ba-4efe-8d6b-b0331186e452"
+        },
+        {
+          "id": "uePa_7Ihx9Ibf5ehaON6LSYhxJWq2ohz",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2008%20V5.mp4",
+                  "url": "transcoded-tcQRA-lEUMhl_ULq.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2008%20V5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsaretzm004g3d799oabmu7x",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2008%20V5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 08 V5.vtt"
+                    }
+                  ],
+                  "inputKey": "rise/courses/u0egAsEkbViWztZk47LAT_XkrrdBk-_a/tcQRA-lEUMhl_ULq.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/u0egAsEkbViWztZk47LAT_XkrrdBk-_a/transcoded-tcQRA-lEUMhl_ULq.0000000.jpg",
+                  "captionUID": "cmsareu82004h3d79z4ld8iyb",
+                  "originalUrl": "2625GovLab Public Engagement Video 08 V5.mp4",
+                  "transcodeId": "1784852283394-g2d3d6"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "66556633-0f14-4bd5-8397-552e946906e3"
+        },
+        {
+          "id": "GBwbmHIJoknFnEqldCUHyGQZCcDIkqGa",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "6bc26fb6-8603-43e6-b1cc-c521cca28f7f"
+        }
+      ],
+      "settings": {},
+      "title": "Video 8: Designing the Tasks: What You Ask Participants to Do",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "u0egAsEkbViWztZk47LAT_XkrrdBk-_a",
+      "createdAt": "2026-07-26T19:00:20.924Z",
+      "deleted": false,
+      "duplicatedFromId": "pxkP_kRcdMwLPsihgsVSDBBNZAR0tNVr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T19:23:39.815Z"
+    },
+    {
+      "description": "",
+      "id": "X5quxLjpL43Gqbb1n1IZIHK0-7SwgN8w",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "0b35b19d-906f-432f-b118-8ce0119da831"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"a99d1ee4-678b-4307-a258-9573721540e1\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>According to the video, what risk may occur when the task is poorly defined?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"8224a52e-d2c8-466e-937a-5fa14fb69fa9\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Participants generate more creative input</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"01130230-0590-482a-bab1-4df30ec8b1b8\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>AI tools automatically correct for vague instructions</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"23e26a60-1204-4bad-9a13-ed30d9050f5e\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Responses may be too voluminous, too vague, or too off-topic to be useful</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"30cf82a4-eafe-40eb-abbc-3e47a947644b\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Participation rates increase because the task feels more open</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "39c28f9e-f275-4798-aec9-82e26b9bbe27"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "1f0a0748-2e54-4921-8507-9ea16fb903b5"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"7ae8131c-4cfe-44bc-904c-53e10c6cda5f\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>What does the video recommend as the first step in choosing an engagement platform?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"dd83fe82-b67b-445b-8fc6-9ae6d72605e1\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Find the platform with the most features&nbsp;</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"77a8b486-eee1-4faf-9f0b-a8f02d72d66f\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Pick the least expensive option available</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"f36f99d9-164d-4f30-a5bc-f56534f96537\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Choose the platform that uses the most advanced AI</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"5709b35d-7257-4e34-a130-4b6bbfe207c2\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Start with your goal and the kind of input you need</span></span></span></p></div>",
+                  "correct": true
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "b7ca186b-322f-47dc-aeb0-3e1ca9e6fcbe"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "76322413-3d76-4f0e-bf9d-ae856154040f"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "u0egAsEkbViWztZk47LAT_XkrrdBk-_a",
+      "createdAt": "2026-08-01T02:47:38.080Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-02T20:56:02.860Z"
+    },
+    {
+      "description": "",
+      "id": "W5-qvLzE_doVjrnI-S3V9GMwyiDyqkCB",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"eeff1d84-934f-46e7-a716-e360cf2cdf6c\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 8 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to <em>Video 9. Reviewing Inputs.</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "dd0f7399-5f5c-4f2e-898b-cd3ea7f1f9a2"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "u0egAsEkbViWztZk47LAT_XkrrdBk-_a",
+      "createdAt": "2026-08-01T02:48:40.813Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:54:48.435Z"
+    }
+  ],
+  "title": "Video 8: Designing the Tasks: What You Ask Participants to Do",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "u0egAsEkbViWztZk47LAT_XkrrdBk-_a_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 8: Designing the Tasks: What You Ask Participants to Do",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "u0egAsEkbViWztZk47LAT_XkrrdBk-_a",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "IZKqeOeaEk5wWGhp7DMwGWIE2K0fMz1_",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773498659",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:41:06.512Z",
+  "updatedAt": "2026-08-03T16:11:38.659Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:11:40.933Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-02T20:56:02.860Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:11:40.933Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

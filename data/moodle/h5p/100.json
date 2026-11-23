@@ -1,0 +1,353 @@
+{
+  "title": "Video 14.3 Creating a Pilot",
+  "mainLibrary": "H5P.InteractiveVideo",
+  "language": "und",
+  "content": {
+    "interactiveVideo": {
+      "video": {
+        "startScreenOptions": {
+          "title": "Interactive Video",
+          "hideStartTitle": true
+        },
+        "textTracks": {
+          "videoTrack": [
+            {
+              "label": "Subtitles",
+              "kind": "subtitles",
+              "srcLang": "en",
+              "track": {
+                "path": "files/track-6459616dc8e9a.txt",
+                "mime": "text/plain",
+                "copyright": {
+                  "license": "U"
+                }
+              }
+            }
+          ]
+        },
+        "files": [
+          {
+            "path": "videos/files-6450045306a00.mp4",
+            "mime": "video/mp4",
+            "copyright": {
+              "license": "U"
+            }
+          }
+        ]
+      },
+      "assets": {
+        "interactions": [
+          {
+            "x": 0,
+            "y": 0,
+            "width": 40,
+            "height": 22.5,
+            "duration": {
+              "from": 313,
+              "to": 317
+            },
+            "libraryTitle": "Single Choice Set",
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "choices": [
+                  {
+                    "subContentId": "13890a41-0616-4f53-862b-bdc6ef3d1d8f",
+                    "question": "<p dir=\"ltr\">Communicate pilot results ________ with ________ and the affected ________ to foster trust,&nbsp; ________, and continued engagement.&nbsp;</p>\n\n<p dir=\"ltr\">Options to complete the sentence:</p>\n\n<p dir=\"ltr\" role=\"presentation\">1. Transparently </p>\n\n<p dir=\"ltr\" role=\"presentation\">2. Stakeholders</p>\n\n<p dir=\"ltr\" role=\"presentation\">3. Accountability</p>\n\n<p dir=\"ltr\" role=\"presentation\">4. Community </p>\n",
+                    "answers": [
+                      "<p>1, 2, 4, 3</p>\n",
+                      "<p>1, 4, 2, 3</p>\n",
+                      "<p>3, 2, 4, 1</p>\n"
+                    ]
+                  }
+                ],
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": true,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Next question",
+                  "showSolutionButtonLabel": "Show solution",
+                  "retryButtonLabel": "Retry",
+                  "solutionViewTitle": "Solution list",
+                  "correctText": "Correct!",
+                  "incorrectText": "Incorrect!",
+                  "shouldSelect": "Should have been selected",
+                  "shouldNotSelect": "Should not have been selected",
+                  "muteButtonLabel": "Mute feedback sound",
+                  "closeButtonLabel": "Close",
+                  "slideOfTotal": "Slide :num of :total",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                }
+              },
+              "subContentId": "e64b9344-cab1-4ee4-96ad-e8283f991ede",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Question 2"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          },
+          {
+            "x": 3.5128805620608903,
+            "y": 8.33008066614624,
+            "width": 37.002341920374704,
+            "height": 19.67213114754098,
+            "duration": {
+              "from": 311,
+              "to": 312
+            },
+            "libraryTitle": "Multiple Choice",
+            "action": {
+              "library": "H5P.MultiChoice 1.16",
+              "params": {
+                "media": {
+                  "disableImageZooming": false
+                },
+                "answers": [
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Choose a sample that is representative of the target population</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Use random sampling, stratified sampling, or other techniques depending on the intervention</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Ensure the inclusion of diverse participants, particularly vulnerable populations</div>\n"
+                  },
+                  {
+                    "correct": true,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>All of the above</div>\n"
+                  }
+                ],
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "type": "auto",
+                  "singlePoint": false,
+                  "randomAnswers": false,
+                  "showSolutionsRequiresInput": true,
+                  "confirmCheckDialog": false,
+                  "confirmRetryDialog": false,
+                  "autoCheck": false,
+                  "passPercentage": 100,
+                  "showScorePoints": true
+                },
+                "UI": {
+                  "checkAnswerButton": "Check",
+                  "submitAnswerButton": "Submit",
+                  "showSolutionButton": "Show solution",
+                  "tryAgainButton": "Retry",
+                  "tipsLabel": "Show tip",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "tipAvailable": "Tip available",
+                  "feedbackAvailable": "Feedback available",
+                  "readFeedback": "Read feedback",
+                  "wrongAnswer": "Wrong answer",
+                  "correctAnswer": "Correct answer",
+                  "shouldCheck": "Should have been checked",
+                  "shouldNotCheck": "Should not have been checked",
+                  "noInput": "Please answer before viewing the solution",
+                  "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                },
+                "confirmCheck": {
+                  "header": "Finish ?",
+                  "body": "Are you sure you wish to finish ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry ?",
+                  "body": "Are you sure you wish to retry ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Confirm"
+                },
+                "question": "<p>What is important when selecting a sample of participants for an evaluation?</p>\n"
+              },
+              "subContentId": "046ca4ae-5318-4e0f-ab12-f9351c664dce",
+              "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Question 1"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          }
+        ],
+        "endscreens": [
+          {
+            "time": 314.4678134236712,
+            "label": "5:14 Submit screen"
+          }
+        ]
+      },
+      "summary": {
+        "task": {
+          "library": "H5P.Summary 1.10",
+          "params": {
+            "intro": "Choose the correct statement.",
+            "summaries": [
+              {
+                "subContentId": "bf58addb-cbb3-461e-9d14-45d69dedbf4c",
+                "tip": ""
+              }
+            ],
+            "overallFeedback": [
+              {
+                "from": 0,
+                "to": 100
+              }
+            ],
+            "solvedLabel": "Progress:",
+            "scoreLabel": "Wrong answers:",
+            "resultLabel": "Your result",
+            "labelCorrect": "Correct.",
+            "labelIncorrect": "Incorrect! Please try again.",
+            "alternativeIncorrectLabel": "Incorrect",
+            "labelCorrectAnswers": "Correct answers.",
+            "tipButtonLabel": "Show tip",
+            "scoreBarLabel": "You got :num out of :total points",
+            "progressText": "Progress :num of :total"
+          },
+          "subContentId": "3bfc8115-f377-4705-a4f2-7fd00d226b27",
+          "metadata": {
+            "contentType": "Summary",
+            "license": "U",
+            "title": "Untitled Summary"
+          }
+        },
+        "displayAt": 3
+      }
+    },
+    "override": {
+      "autoplay": false,
+      "loop": false,
+      "showBookmarksmenuOnLoad": false,
+      "showRewind10": false,
+      "preventSkippingMode": "none",
+      "deactivateSound": false
+    },
+    "l10n": {
+      "interaction": "Interaction",
+      "play": "Play",
+      "pause": "Pause",
+      "mute": "Mute, currently unmuted",
+      "unmute": "Unmute, currently muted",
+      "quality": "Video Quality",
+      "captions": "Captions",
+      "close": "Close",
+      "fullscreen": "Fullscreen",
+      "exitFullscreen": "Exit Fullscreen",
+      "summary": "Open summary dialog",
+      "bookmarks": "Bookmarks",
+      "endscreen": "Submit screen",
+      "defaultAdaptivitySeekLabel": "Continue",
+      "continueWithVideo": "Continue with video",
+      "more": "More player options",
+      "playbackRate": "Playback Rate",
+      "rewind10": "Rewind 10 Seconds",
+      "navDisabled": "Navigation is disabled",
+      "navForwardDisabled": "Navigating forward is disabled",
+      "sndDisabled": "Sound is disabled",
+      "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
+      "back": "Back",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds",
+      "currentTime": "Current time:",
+      "totalTime": "Total time:",
+      "singleInteractionAnnouncement": "Interaction appeared:",
+      "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
+      "videoPausedAnnouncement": "Video is paused",
+      "content": "Content",
+      "answered": "@answered answered",
+      "endcardTitle": "@answered Question(s) answered",
+      "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
+      "endcardInformationOnSubmitButtonDisabled": "You have answered @answered questions.",
+      "endcardInformationNoAnswers": "You have not answered any questions.",
+      "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
+      "endcardSubmitButton": "Submit Answers",
+      "endcardSubmitMessage": "Your answers have been submitted!",
+      "endcardTableRowAnswered": "Answered questions",
+      "endcardTableRowScore": "Score",
+      "endcardAnsweredScore": "answered",
+      "endCardTableRowSummaryWithScore": "You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.",
+      "endCardTableRowSummaryWithoutScore": "You have answered the @question that appeared after @minutes minutes and @seconds seconds.",
+      "videoProgressBar": "Video progress"
+    }
+  }
+}

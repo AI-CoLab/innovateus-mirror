@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "google_certificate_page_id": 1,
+    "google_cert_info_id": 1
+  },
+  {
+    "id": 2,
+    "google_certificate_page_id": 1,
+    "google_cert_info_id": 2
+  },
+  {
+    "id": 3,
+    "google_certificate_page_id": 1,
+    "google_cert_info_id": 3
+  }
+]

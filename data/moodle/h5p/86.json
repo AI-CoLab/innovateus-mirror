@@ -1,0 +1,423 @@
+{
+  "title": "7.2 A Checklist for Equitable Engagement [Part 2]",
+  "mainLibrary": "H5P.InteractiveVideo",
+  "language": "und",
+  "content": {
+    "interactiveVideo": {
+      "video": {
+        "startScreenOptions": {
+          "title": "Interactive Video",
+          "hideStartTitle": true
+        },
+        "textTracks": {
+          "videoTrack": [
+            {
+              "label": "Subtitles",
+              "kind": "subtitles",
+              "srcLang": "en",
+              "track": {
+                "path": "files/track-640e85b393ba0.vtt",
+                "mime": "text/plain",
+                "copyright": {
+                  "license": "U"
+                }
+              }
+            }
+          ]
+        },
+        "files": [
+          {
+            "path": "videos/files-6409d31b75be4.mp4",
+            "mime": "video/mp4",
+            "copyright": {
+              "license": "U"
+            },
+            "metadata": {
+              "qualityName": "1080p"
+            }
+          }
+        ]
+      },
+      "assets": {
+        "interactions": [
+          {
+            "x": 2.1834061135371177,
+            "y": 1.9417475728155338,
+            "width": 37.55458515283843,
+            "height": 21.179039301310045,
+            "duration": {
+              "from": 370,
+              "to": 371
+            },
+            "libraryTitle": "Statements",
+            "action": {
+              "library": "H5P.Summary 1.10",
+              "params": {
+                "intro": "<p>In the following list of ten questions, nine of them are meant to guide you through an engagement process. Can you identify the question that does not belong in this list?</p>\n",
+                "summaries": [
+                  {
+                    "subContentId": "bd0502e3-d39a-41ff-904b-e946a6a0cd76",
+                    "summary": [
+                      "<p>How will you make sure you avoid using technology?</p>\n",
+                      "<p>Have you articulated the project’s goals?</p>\n",
+                      "<p>Have you identified the right participants?</p>\n",
+                      "<p>Can you reach the participants you identified?</p>\n",
+                      "<p>Who is the right owner who will take responsibility for completing the project?</p>\n",
+                      "<p>Have you included incentives for participation?</p>\n",
+                      "<p>Have you defined the tasks?</p>\n",
+                      "<p>How will you use responses from the engagement to take action?</p>\n",
+                      "<p>Have you established the “workflow” from end to beginning?</p>\n",
+                      "<p>How will you use what the group creates?</p>\n"
+                    ],
+                    "tip": ""
+                  }
+                ],
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "solvedLabel": "Progress:",
+                "scoreLabel": "Wrong answers:",
+                "resultLabel": "Your result",
+                "labelCorrect": "Correct.",
+                "labelIncorrect": "Incorrect! Please try again.",
+                "alternativeIncorrectLabel": "Incorrect",
+                "labelCorrectAnswers": "Correct answers.",
+                "tipButtonLabel": "Show tip",
+                "scoreBarLabel": "You got :num out of :total points",
+                "progressText": "Progress :num of :total"
+              },
+              "subContentId": "1aba7dc8-97a3-4c7f-b500-598e120a626a",
+              "metadata": {
+                "contentType": "Summary",
+                "license": "U",
+                "title": "Self Assessment 1"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              }
+            },
+            "label": ""
+          },
+          {
+            "x": 2.1834061135371177,
+            "y": 3.8831271227559436,
+            "width": 35.80786026200874,
+            "height": 20.087336244541486,
+            "duration": {
+              "from": 371,
+              "to": 372
+            },
+            "libraryTitle": "True/False Question",
+            "action": {
+              "library": "H5P.TrueFalse 1.8",
+              "params": {
+                "media": {
+                  "disableImageZooming": false
+                },
+                "correct": "true",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "confirmCheckDialog": false,
+                  "confirmRetryDialog": false,
+                  "autoCheck": false
+                },
+                "l10n": {
+                  "trueText": "True",
+                  "falseText": "False",
+                  "score": "You got @score of @total points",
+                  "checkAnswer": "Check",
+                  "submitAnswer": "Submit",
+                  "showSolutionButton": "Show solution",
+                  "tryAgain": "Retry",
+                  "wrongAnswerMessage": "Wrong answer",
+                  "correctAnswerMessage": "Correct answer",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                },
+                "confirmCheck": {
+                  "header": "Finish ?",
+                  "body": "Are you sure you wish to finish ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry ?",
+                  "body": "Are you sure you wish to retry ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Confirm"
+                },
+                "question": "<p>Clearly articulating which inputs are valid and which are not is key for a successful engagement.</p>\n"
+              },
+              "subContentId": "f3969acd-80cd-40d7-9747-ba8d1eea0d32",
+              "metadata": {
+                "contentType": "True/False Question",
+                "license": "U",
+                "title": "Self Assessment 2"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          },
+          {
+            "x": 3.2751091703056767,
+            "y": 5.82393255701116,
+            "width": 36.681222707423586,
+            "height": 20.52401746724891,
+            "duration": {
+              "from": 372,
+              "to": 373
+            },
+            "libraryTitle": "Multiple Choice",
+            "action": {
+              "library": "H5P.MultiChoice 1.16",
+              "params": {
+                "media": {
+                  "disableImageZooming": false
+                },
+                "answers": [
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>How input will be used</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Make clear what you won’t do</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>What actions will be taken on the group’s work</div>\n"
+                  },
+                  {
+                    "correct": true,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>All of the above</div>\n"
+                  }
+                ],
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "type": "multi",
+                  "singlePoint": false,
+                  "randomAnswers": false,
+                  "showSolutionsRequiresInput": true,
+                  "confirmCheckDialog": false,
+                  "confirmRetryDialog": false,
+                  "autoCheck": false,
+                  "passPercentage": 100,
+                  "showScorePoints": true
+                },
+                "UI": {
+                  "checkAnswerButton": "Check",
+                  "submitAnswerButton": "Submit",
+                  "showSolutionButton": "Show solution",
+                  "tryAgainButton": "Retry",
+                  "tipsLabel": "Show tip",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "tipAvailable": "Tip available",
+                  "feedbackAvailable": "Feedback available",
+                  "readFeedback": "Read feedback",
+                  "wrongAnswer": "Wrong answer",
+                  "correctAnswer": "Correct answer",
+                  "shouldCheck": "Should have been checked",
+                  "shouldNotCheck": "Should not have been checked",
+                  "noInput": "Please answer before viewing the solution",
+                  "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                },
+                "confirmCheck": {
+                  "header": "Finish ?",
+                  "body": "Are you sure you wish to finish ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry ?",
+                  "body": "Are you sure you wish to retry ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Confirm"
+                },
+                "question": "<p>The following criteria is crucial to run an engagement and needs to be communicated to participants before the start:</p>\n"
+              },
+              "subContentId": "bb744b41-f8a1-493f-aa34-ff2a0e9491a5",
+              "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Self Assessment 3"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          }
+        ],
+        "endscreens": [
+          {
+            "time": 374.39183,
+            "label": "6:14 Submit screen"
+          }
+        ]
+      },
+      "summary": {
+        "task": {
+          "library": "H5P.Summary 1.10",
+          "params": {
+            "intro": "Choose the correct statement.",
+            "summaries": [
+              {
+                "subContentId": "0867437d-eef6-4b7b-88a0-ed9d7fc5ccd5",
+                "tip": ""
+              }
+            ],
+            "overallFeedback": [
+              {
+                "from": 0,
+                "to": 100
+              }
+            ],
+            "solvedLabel": "Progress:",
+            "scoreLabel": "Wrong answers:",
+            "resultLabel": "Your result",
+            "labelCorrect": "Correct.",
+            "labelIncorrect": "Incorrect! Please try again.",
+            "alternativeIncorrectLabel": "Incorrect",
+            "labelCorrectAnswers": "Correct answers.",
+            "tipButtonLabel": "Show tip",
+            "scoreBarLabel": "You got :num out of :total points",
+            "progressText": "Progress :num of :total"
+          },
+          "subContentId": "89392db5-a9de-40cc-b8f9-f12eaf810819",
+          "metadata": {
+            "contentType": "Summary",
+            "license": "U",
+            "title": "Untitled Summary"
+          }
+        },
+        "displayAt": 3
+      }
+    },
+    "override": {
+      "autoplay": false,
+      "loop": false,
+      "showBookmarksmenuOnLoad": false,
+      "showRewind10": false,
+      "preventSkipping": false,
+      "deactivateSound": false
+    },
+    "l10n": {
+      "interaction": "Interaction",
+      "play": "Play",
+      "pause": "Pause",
+      "mute": "Mute, currently unmuted",
+      "unmute": "Unmute, currently muted",
+      "quality": "Video Quality",
+      "captions": "Captions",
+      "close": "Close",
+      "fullscreen": "Fullscreen",
+      "exitFullscreen": "Exit Fullscreen",
+      "summary": "Open summary dialog",
+      "bookmarks": "Bookmarks",
+      "endscreen": "Submit screen",
+      "defaultAdaptivitySeekLabel": "Continue",
+      "continueWithVideo": "Continue with video",
+      "more": "More player options",
+      "playbackRate": "Playback Rate",
+      "rewind10": "Rewind 10 Seconds",
+      "navDisabled": "Navigation is disabled",
+      "sndDisabled": "Sound is disabled",
+      "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
+      "back": "Back",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds",
+      "currentTime": "Current time:",
+      "totalTime": "Total time:",
+      "singleInteractionAnnouncement": "Interaction appeared:",
+      "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
+      "videoPausedAnnouncement": "Video is paused",
+      "content": "Content",
+      "answered": "@answered answered",
+      "endcardTitle": "@answered Question(s) answered",
+      "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
+      "endcardInformationOnSubmitButtonDisabled": "You have answered @answered questions.",
+      "endcardInformationNoAnswers": "You have not answered any questions.",
+      "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
+      "endcardSubmitButton": "Submit Answers",
+      "endcardSubmitMessage": "Your answers have been submitted!",
+      "endcardTableRowAnswered": "Answered questions",
+      "endcardTableRowScore": "Score",
+      "endcardAnsweredScore": "answered",
+      "endCardTableRowSummaryWithScore": "You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.",
+      "endCardTableRowSummaryWithoutScore": "You have answered the @question that appeared after @minutes minutes and @seconds seconds.",
+      "videoProgressBar": "Video progress"
+    }
+  }
+}

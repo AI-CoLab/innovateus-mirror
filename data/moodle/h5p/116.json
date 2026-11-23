@@ -1,0 +1,481 @@
+{
+  "title": "Video 2.7: Journey Mapping",
+  "mainLibrary": "H5P.InteractiveVideo",
+  "language": "und",
+  "content": {
+    "interactiveVideo": {
+      "video": {
+        "startScreenOptions": {
+          "title": "Video 2.7: Journey Mapping",
+          "hideStartTitle": true
+        },
+        "textTracks": {
+          "videoTrack": [
+            {
+              "label": "Subtitles",
+              "kind": "subtitles",
+              "srcLang": "en",
+              "track": {
+                "path": "files/track-65aa5fdf577ac.vtt",
+                "mime": "text/plain",
+                "copyright": {
+                  "license": "U"
+                }
+              }
+            }
+          ]
+        },
+        "files": [
+          {
+            "path": "videos/files-65b75363a8a9d.mp4",
+            "mime": "video/mp4",
+            "copyright": {
+              "license": "U"
+            }
+          }
+        ]
+      },
+      "assets": {
+        "interactions": [
+          {
+            "x": 12.008733624454148,
+            "y": 9.70402717127608,
+            "width": 27.94759825327511,
+            "height": 17.03056768558952,
+            "duration": {
+              "from": 457.3,
+              "to": 457.4
+            },
+            "libraryTitle": "Multiple Choice",
+            "action": {
+              "library": "H5P.MultiChoice 1.16",
+              "params": {
+                "media": {
+                  "disableImageZooming": false
+                },
+                "answers": [
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Mapping human movement in a system</div>\n"
+                  },
+                  {
+                    "correct": true,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Improve a service or another complete experience</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Practice designing solutions</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Readily identify the cause</div>\n"
+                  }
+                ],
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": false,
+                  "enableCheckButton": true,
+                  "type": "auto",
+                  "singlePoint": false,
+                  "randomAnswers": true,
+                  "showSolutionsRequiresInput": false,
+                  "confirmCheckDialog": false,
+                  "confirmRetryDialog": false,
+                  "autoCheck": false,
+                  "passPercentage": 100,
+                  "showScorePoints": false
+                },
+                "UI": {
+                  "checkAnswerButton": "Check",
+                  "submitAnswerButton": "Submit",
+                  "showSolutionButton": "Show solution",
+                  "tryAgainButton": "Retry",
+                  "tipsLabel": "Show tip",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "tipAvailable": "Tip available",
+                  "feedbackAvailable": "Feedback available",
+                  "readFeedback": "Read feedback",
+                  "wrongAnswer": "Wrong answer",
+                  "correctAnswer": "Correct answer",
+                  "shouldCheck": "Should have been checked",
+                  "shouldNotCheck": "Should not have been checked",
+                  "noInput": "Please answer before viewing the solution",
+                  "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                },
+                "confirmCheck": {
+                  "header": "Finish ?",
+                  "body": "Are you sure you wish to finish ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry ?",
+                  "body": "Are you sure you wish to retry ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Confirm"
+                },
+                "question": "<p>Journey mapping can be used for any problem where we want to:</p>\n"
+              },
+              "subContentId": "c5639233-a428-4bda-98e7-82597df4fd56",
+              "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Question 1"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          },
+          {
+            "x": 31.65938864628821,
+            "y": 21.348859776807377,
+            "width": 24.890829694323145,
+            "height": 11.353711790393014,
+            "duration": {
+              "from": 457.5,
+              "to": 457.6
+            },
+            "libraryTitle": "True/False Question",
+            "action": {
+              "library": "H5P.TrueFalse 1.8",
+              "params": {
+                "media": {
+                  "disableImageZooming": false
+                },
+                "correct": "false",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "confirmCheckDialog": false,
+                  "confirmRetryDialog": false,
+                  "autoCheck": false
+                },
+                "l10n": {
+                  "trueText": "True",
+                  "falseText": "False",
+                  "score": "You got @score of @total points",
+                  "checkAnswer": "Check",
+                  "submitAnswer": "Submit",
+                  "showSolutionButton": "Show solution",
+                  "tryAgain": "Retry",
+                  "wrongAnswerMessage": "Wrong answer",
+                  "correctAnswerMessage": "Correct answer",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                },
+                "confirmCheck": {
+                  "header": "Finish ?",
+                  "body": "Are you sure you wish to finish ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry ?",
+                  "body": "Are you sure you wish to retry ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Confirm"
+                },
+                "question": "<p>True or false: Journey maps will not allow you to redefine your problem and refocus your solutions on specific points in the journey.</p>\n"
+              },
+              "subContentId": "9472b02c-0a8c-4d24-9d4e-c8350ddd98fc",
+              "metadata": {
+                "contentType": "True/False Question",
+                "license": "U",
+                "title": "Question 2"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          },
+          {
+            "x": 17.46724890829694,
+            "y": 13.585638039786511,
+            "width": 25.32751091703057,
+            "height": 17.03056768558952,
+            "duration": {
+              "from": 457.7,
+              "to": 457.8
+            },
+            "libraryTitle": "Multiple Choice",
+            "action": {
+              "library": "H5P.MultiChoice 1.16",
+              "params": {
+                "media": {
+                  "disableImageZooming": false
+                },
+                "answers": [
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>What you’re doing</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>What you’re thinking</div>\n"
+                  },
+                  {
+                    "correct": true,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Where you’re going</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>How you’re feeling</div>\n"
+                  }
+                ],
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": false,
+                  "enableCheckButton": true,
+                  "type": "auto",
+                  "singlePoint": false,
+                  "randomAnswers": true,
+                  "showSolutionsRequiresInput": false,
+                  "confirmCheckDialog": false,
+                  "confirmRetryDialog": false,
+                  "autoCheck": false,
+                  "passPercentage": 100,
+                  "showScorePoints": false
+                },
+                "UI": {
+                  "checkAnswerButton": "Check",
+                  "submitAnswerButton": "Submit",
+                  "showSolutionButton": "Show solution",
+                  "tryAgainButton": "Retry",
+                  "tipsLabel": "Show tip",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "tipAvailable": "Tip available",
+                  "feedbackAvailable": "Feedback available",
+                  "readFeedback": "Read feedback",
+                  "wrongAnswer": "Wrong answer",
+                  "correctAnswer": "Correct answer",
+                  "shouldCheck": "Should have been checked",
+                  "shouldNotCheck": "Should not have been checked",
+                  "noInput": "Please answer before viewing the solution",
+                  "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                },
+                "confirmCheck": {
+                  "header": "Finish ?",
+                  "body": "Are you sure you wish to finish ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry ?",
+                  "body": "Are you sure you wish to retry ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Confirm"
+                },
+                "question": "<p>Which does not need to be defined in a touchpoint?</p>\n"
+              },
+              "subContentId": "dc951aa4-021b-4889-a8a2-14bde8c8ef61",
+              "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Question 3"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          }
+        ],
+        "endscreens": [
+          {
+            "time": 458.743102347,
+            "label": "7:38 Submit screen"
+          }
+        ]
+      },
+      "summary": {
+        "task": {
+          "library": "H5P.Summary 1.10",
+          "params": {
+            "intro": "Choose the correct statement.",
+            "summaries": [
+              {
+                "subContentId": "5c551f67-d3f8-459f-ba56-ba939f7c84fe",
+                "tip": ""
+              }
+            ],
+            "overallFeedback": [
+              {
+                "from": 0,
+                "to": 100
+              }
+            ],
+            "solvedLabel": "Progress:",
+            "scoreLabel": "Wrong answers:",
+            "resultLabel": "Your result",
+            "labelCorrect": "Correct.",
+            "labelIncorrect": "Incorrect! Please try again.",
+            "alternativeIncorrectLabel": "Incorrect",
+            "labelCorrectAnswers": "Correct answers.",
+            "tipButtonLabel": "Show tip",
+            "scoreBarLabel": "You got :num out of :total points",
+            "progressText": "Progress :num of :total"
+          },
+          "subContentId": "e3942da5-3951-4625-87d4-54e20b9e88bc",
+          "metadata": {
+            "contentType": "Summary",
+            "license": "U",
+            "title": "Untitled Summary"
+          }
+        },
+        "displayAt": 3
+      }
+    },
+    "override": {
+      "autoplay": false,
+      "loop": false,
+      "showBookmarksmenuOnLoad": false,
+      "showRewind10": false,
+      "preventSkippingMode": "none",
+      "deactivateSound": false
+    },
+    "l10n": {
+      "interaction": "Interaction",
+      "play": "Play",
+      "pause": "Pause",
+      "mute": "Mute, currently unmuted",
+      "unmute": "Unmute, currently muted",
+      "quality": "Video Quality",
+      "captions": "Captions",
+      "close": "Close",
+      "fullscreen": "Fullscreen",
+      "exitFullscreen": "Exit Fullscreen",
+      "summary": "Open summary dialog",
+      "bookmarks": "Bookmarks",
+      "endscreen": "Submit screen",
+      "defaultAdaptivitySeekLabel": "Continue",
+      "continueWithVideo": "Continue with video",
+      "more": "More player options",
+      "playbackRate": "Playback Rate",
+      "rewind10": "Rewind 10 Seconds",
+      "navDisabled": "Navigation is disabled",
+      "navForwardDisabled": "Navigating forward is disabled",
+      "sndDisabled": "Sound is disabled",
+      "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
+      "back": "Back",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds",
+      "currentTime": "Current time:",
+      "totalTime": "Total time:",
+      "singleInteractionAnnouncement": "Interaction appeared:",
+      "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
+      "videoPausedAnnouncement": "Video is paused",
+      "content": "Content",
+      "answered": "@answered answered",
+      "endcardTitle": "@answered Question(s) answered",
+      "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
+      "endcardInformationOnSubmitButtonDisabled": "You have answered @answered questions.",
+      "endcardInformationNoAnswers": "You have not answered any questions.",
+      "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
+      "endcardSubmitButton": "Submit Answers",
+      "endcardSubmitMessage": "Your answers have been submitted!",
+      "endcardTableRowAnswered": "Answered questions",
+      "endcardTableRowScore": "Score",
+      "endcardAnsweredScore": "answered",
+      "endCardTableRowSummaryWithScore": "You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.",
+      "endCardTableRowSummaryWithoutScore": "You have answered the @question that appeared after @minutes minutes and @seconds seconds.",
+      "videoProgressBar": "Video progress",
+      "howToCreateInteractions": "Play the video to start creating interactions"
+    }
+  }
+}

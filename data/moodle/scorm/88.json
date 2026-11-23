@@ -1,0 +1,584 @@
+{
+  "description": "<div data-editor-id=\"39a5943f-e72b-48ae-a91e-c8cc97a553e0\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video walks through how to design a review process — from setting clear evaluation criteria to deciding who reviews contributions. It explains how AI can support analysis through deduplication, summarization, topic modeling, sentiment analysis, and criteria-based classification, while emphasizing that human judgment must guide final decisions</span>.</span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "5Kxn-De0Jvz8owWgfcF0kqpLMNdZ31Vo",
+      "items": [
+        {
+          "id": "Q0z0YIqa4DcP8Po3ai1V7nUPsl86b453",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"e4b12247-05f6-4fcf-8abb-479193390b8b\"><p>This video walks through how to design a review process — from setting clear evaluation criteria to deciding who reviews contributions. It explains how you can use AI to support analysis through deduplication, summarization, topic modeling, sentiment analysis, and criteria-based classification, while emphasizing that human judgment must guide final decisions.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "d5827b51-7a77-41d8-aa59-4de700058f7b"
+        },
+        {
+          "id": "YiG0Tl_Q0ySothcTwHmj_tmdBUiLq6c9",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 9",
+              "description": "<div data-editor-id=\"6eea9661-29fa-41f7-be5f-812e80f25797\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS Logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Reviewing Inputs.</p><p style=\"line-height: 1.5\">[Visual description]: A drone flyby video of the Oakland Bay Bridge is shown.</p><p style=\"line-height: 1.5\">In Oakland, California, the City Challenge invited residents to propose solutions to issues like homelessness and public safety.</p><p style=\"line-height: 1.5\">[Visual description]: A screenshot of the website City Challenge Oakland is shown.</p><p style=\"line-height: 1.5\">The city received hundreds of ideas, along with comments and votes from the community.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Danielle Allen, Professor, Harvard University.</p><p style=\"line-height: 1.5\">Before starting, the city defined a collaborative plan for reviewing contributions.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Proposal Reviewed for: Text appears in list form as spoken.</p><p style=\"line-height: 1.5\">A panel of staff, community leaders, and experts reviewed proposals for feasibility, impact, scalability, and whether they could be implemented with available resources. The structured review process is what made the engagement meaningful.</p><p style=\"line-height: 1.5\">[Visual description]: A screenshot of the website City Challenge Oakland is shown again. A cursor clicks on a Participate Now button.</p><p style=\"line-height: 1.5\">Without it, the city would have had a long list of ideas with no clear way to act on them.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">Today we will discuss how to review and evaluate what you are learning.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Why Your Review Process Matters.</p><p style=\"line-height: 1.5\">Without a review plan, staff can be overwhelmed by the volume of public comments, and decisions become inconsistent, opaque, or unfair.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Your Review Process.</p><p style=\"line-height: 1.5\">Start with your values and goals. What are you trying to achieve? The answer should shape how you evaluate input. If your goal is to generate innovative ideas, you may prioritize originality and potential impact. If you're shaping policy, feasibility and alignment with institutional authority may matter more. If you're trying to understand community needs, representativeness and breadth may be key. From there, establish a small set of clear evaluation criteria that define what good looks like.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">Common examples include: Feasibility. Can this idea be implemented with available resources? Impact. Does it address a significant need or affect many people? Sustainability. Can it be maintained over time? Legality and authority. Is it within your organization's power to act?</p><p style=\"line-height: 1.5\">You can also support participants in meeting your criteria. Workshops, guidance, or feedback can help people strengthen their contributions before evaluation, ensuring that good ideas are not overlooked simply because they are poorly presented. Finally, be transparent. Explain how input will be evaluated and who will be involved. When participants understand how their contributions will be evaluated, they can tailor their input accordingly, and they are more likely to trust the process.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Organizing Input For Review.</p><p style=\"line-height: 1.5\">Before contributions can be analyzed, they need to be organized: grouped, summarized, or structured so they can be reviewed effectively.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Goal is to create a clear picture of what people are saying.</p><p style=\"line-height: 1.5\">The goal at this stage is not to decide which ideas are best, but to create a clear picture of what people are saying. This may involve identifying common themes, grouping similar responses, or distinguishing among different types of contributions.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: How You Can Use AI to Support Analysis.</p><p style=\"line-height: 1.5\">AI can support both organizing and analyzing input, helping your team move from large volumes of submissions to clear, actionable decisions. A useful starting point is duplicate and template-based submissions. You can use AI to identify duplicate or near-identical submissions. Coordinated submissions are common in large engagements. This allows you to reduce repetition while still tracking the level of support behind an idea. From there, you can use AI to generate summaries of submissions, giving your team a readable overview without needing to review every response individually. The most useful summaries go beyond surface-level themes to capture the underlying arguments, what people are proposing, why, and with what reasoning.</p><p style=\"line-height: 1.5\">You can use topic modeling to analyze patterns in how words appear together across submissions to identify clusters of related ideas. AI can allow you to group similar submissions based on meaning rather than keywords, allowing you to map patterns in the conversation, even when participants use different language to describe the same issue. You can then refine those themes through human review. Through sentiment analysis, AI can understand whether responses are broadly positive, negative, or mixed, helping you understand how people feel about an issue.</p><p style=\"line-height: 1.5\">You can use AI to apply your evaluation criteria more consistently. It can classify submissions, for example, identifying which proposals are feasible, within scope, or aligned with policy priorities, and generate rankings or scores as a starting point for review. You can also use AI to compare responses, highlighting differences in views across groups. In practice, the most effective approach combines methods. You might review a sample of submissions manually to define categories and criteria, use AI to organize and classify the full data set, and then apply human judgment to interpret and act on the results.</p><p style=\"line-height: 1.5\">At every stage, remember that organizing and evaluating input is not neutral. The way submissions are grouped, filtered, and prioritized shapes what decision-makers see. AI can help teams navigate large data sets, but its outputs should always be treated as a starting point for human analysis, not final decisions.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: AI should always be treated as a starting point for human analysis, not final decisions.</p><p style=\"line-height: 1.5\">We know you will be eager for more detail on how to do each of these techniques, so check out the course page.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Risks in Review.</p><p style=\"line-height: 1.5\">First, not all input should be treated equally. A large number of identical comments may signal strong public feeling, but a smaller number of well-informed contributions may contain more useful information. Be clear about what you are prioritizing. Second, AI can introduce distortions. It may misinterpret tone, miss nuance, or overemphasize repeated or coordinated inputs, making some views appear more prevalent than they are. AI-generated outputs must be used with caution and should always be reviewed against the original input. Third, failing to account for practical constraints. If your evaluation criteria don't reflect what your organization can realistically implement, you risk elevating ideas that can't be acted on, raising expectations without delivering results. Evaluation requires both rigor and realism.</p><p style=\"line-height: 1.5\">[Visual description]: A globe appears on screen with the title: Project Spotlight. The camera zooms in on Brazil.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Brazil’s e-Citizenship Portal - Evaluating Public Proposals at Scale.</p><p style=\"line-height: 1.5\">[Visual description]: A new speaker appears: Alisson Bruno, e-Citizenship Coordinator, Senate of Brazil.</p><p style=\"line-height: 1.5\">When we opened the e-Citizenship portal, our goal was to give residents a direct way to propose laws to the Brazilian Senate.</p><p style=\"line-height: 1.5\">[Visual description]: A drone flyby video of the Carioca Aqueduct in Rio is shown.</p><p style=\"line-height: 1.5\">But with more than 1,000 proposals submitted each month, we needed a clear and consistent way to evaluate them.</p><p style=\"line-height: 1.5\">[Visual description]: The e-Cidadania (e-Citizenship portal) website is shown.</p><p style=\"line-height: 1.5\">[Visual description]: An IPEN Network article is shown, titled: Spotlight on public engagement practice - E-Cidadania uses AI to tag citizen responses in hearings in Brazil.</p><p style=\"line-height: 1.5\">We review every submission against defined criteria. Each proposal must be constitutionally valid, fall within the Senate's authority, and be clear enough to develop into legislation. Those that meet these standards are published and open for public support. If a proposal reaches 20,000 signatures, it moves forward to a Senate committee for consideration.</p><p style=\"line-height: 1.5\">To manage the volume, we have experimented with using AI to identify resident-submitted ideas that align with bills currently being drafted. When a bill is published, we can then acknowledge that it reflects contributions and priorities raised by residents. However, the Senate has not officially adopted this approach. Create your review plan first, then apply it consistently at scale.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Conclusion.</p><p style=\"line-height: 1.5\">[Visual description]: Danielle Allen returns as speaker.</p><p style=\"line-height: 1.5\">You need to make sense of input in order to act on it. Define clear evaluation criteria, align them with your goals, and make them visible to participants. AI can support consistency and scale, but keep judgment with the people responsible for acting on the results. Next, we'll discuss how to use what the group creates.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Next Up: Using What the Group Creates.</p><p style=\"line-height: 1.5\"></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "d664bf24-6ab6-4c92-b803-6741b3e670c4"
+        },
+        {
+          "id": "1IPNiuDEzrHjzZTCN_Lc8Q9f7Iy-ojvK",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2009%20v5.mp4",
+                  "url": "transcoded-ug-sJD4KnbzRAQC0.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2009%20v5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsarovom00383d79i249dsde",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2009%20v5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 09 v5.vtt"
+                    }
+                  ],
+                  "duration": 502,
+                  "inputKey": "rise/courses/eTcl7GSqcmidhhob903SqGRf2S5StPPg/ug-sJD4KnbzRAQC0.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eTcl7GSqcmidhhob903SqGRf2S5StPPg/transcoded-ug-sJD4KnbzRAQC0.0000000.jpg",
+                  "captionUID": "cmsarovxs00393d798g57dswb",
+                  "originalUrl": "2625GovLab Public Engagement Video 09 v5.mp4",
+                  "transcodeId": "1785612456783-01khlr"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "5830a4f1-085d-4d59-acdc-c2b6990de988"
+        },
+        {
+          "id": "ve0rQ1NGJ_XtGWmyNnH4u-yQYP0JorEu",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "172e1591-8e55-4fb6-9e5f-5973f3cf3e4c"
+        }
+      ],
+      "settings": {},
+      "title": "Video 9: Reviewing Inputs",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "eTcl7GSqcmidhhob903SqGRf2S5StPPg",
+      "createdAt": "2026-07-26T19:00:28.651Z",
+      "deleted": false,
+      "duplicatedFromId": "lWSLA0jBjZboFs-GhS5dqjlaCEPXAAQw",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T19:31:53.357Z"
+    },
+    {
+      "description": "",
+      "id": "X1KsNHVSEiQNV98VWMUawDU5fyziu2UJ",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "026ca4c3-ed54-4ac7-8f46-299618098530"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"c047d611-cc02-4fd7-9b65-eb36891fcd3c\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>How should AI-generated analysis of public input be treated?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"243ca0aa-553d-44d2-987d-b960ac92cd96\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>As the final decision</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"592fcafb-7249-4a6a-ba76-2514aff2fe69\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>As unnecessary if the volume of input is manageable</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"83a0de45-c4a8-4c50-a01c-0f23c056267f\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>As more reliable than human review</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"47b9e0cc-0736-4649-a48b-702534275c43\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>As a starting point for human analysis not as a final decision</span></span></span></p></div>",
+                  "correct": true
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "d4f9af98-a3ae-4e23-a3c8-6bffbc9ff020"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "21ac380e-9d82-47c3-9178-712f3787045f"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"00274bd8-dd26-4a9c-b9e0-f79a05aa80e4\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>Why is it important to be transparent about your review process?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"271a19bb-4691-4ee1-bee8-005c9ab46c45\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>When participants understand how contributions will be evaluated, they are more likely to trust the process</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"aec037a4-a9d5-4b48-9df3-33e3e3e6d5d0\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Transparency is legally required in all jurisdictions</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"406f8a75-ad11-4eab-853f-941b69e8d7e4\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It discourages low-quality submissions</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"31c1d384-720b-4206-a8a0-05cbe9e0d296\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It reduces the number of participants</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "5ccd332e-0076-451a-8c6e-0294c7e66f82"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "7798ed3d-8c4e-4e80-b068-35552cfddf89"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "eTcl7GSqcmidhhob903SqGRf2S5StPPg",
+      "createdAt": "2026-08-01T02:47:34.941Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-02T20:56:38.135Z"
+    },
+    {
+      "description": "",
+      "id": "1K-WSY49ndVTWkdwpB2XQON3CDa88FPu",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"1ca2c545-9f6c-4d8a-8e09-fd65527f0613\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 9 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to <em>Video 10. Using What the Group Creates.</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "30220e39-ccd6-40c8-8bcd-d90361f2f3d8"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "eTcl7GSqcmidhhob903SqGRf2S5StPPg",
+      "createdAt": "2026-08-01T02:48:44.305Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:55:18.109Z"
+    }
+  ],
+  "title": "Video 9: Reviewing Inputs",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "eTcl7GSqcmidhhob903SqGRf2S5StPPg_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 9: Reviewing Inputs",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "eTcl7GSqcmidhhob903SqGRf2S5StPPg",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "BEIC5u_vIr6UNvHV75Q2-VbtVLbSFSFY",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773532337",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:41:00.420Z",
+  "updatedAt": "2026-08-03T16:12:12.337Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:12:13.030Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-02T20:56:38.135Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:12:13.030Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

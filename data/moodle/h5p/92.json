@@ -1,0 +1,436 @@
+{
+  "title": "10.2 Chatbots and Blockchain",
+  "mainLibrary": "H5P.InteractiveVideo",
+  "language": "und",
+  "content": {
+    "interactiveVideo": {
+      "video": {
+        "startScreenOptions": {
+          "title": "Interactive Video",
+          "hideStartTitle": true
+        },
+        "textTracks": {
+          "videoTrack": [
+            {
+              "label": "Subtitles",
+              "kind": "subtitles",
+              "srcLang": "en",
+              "track": {
+                "path": "files/track-640e86ea93b24.vtt",
+                "mime": "text/plain",
+                "copyright": {
+                  "license": "U"
+                }
+              }
+            }
+          ]
+        },
+        "files": [
+          {
+            "path": "videos/files-6409ec0bb398a.mp4",
+            "mime": "video/mp4",
+            "copyright": {
+              "license": "U"
+            }
+          }
+        ]
+      },
+      "assets": {
+        "interactions": [
+          {
+            "x": 5.458515283842795,
+            "y": 5.82393255701116,
+            "width": 34.49781659388646,
+            "height": 20.087336244541486,
+            "duration": {
+              "from": 466,
+              "to": 467
+            },
+            "libraryTitle": "True/False Question",
+            "action": {
+              "library": "H5P.TrueFalse 1.8",
+              "params": {
+                "media": {
+                  "disableImageZooming": false
+                },
+                "correct": "false",
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "confirmCheckDialog": false,
+                  "confirmRetryDialog": false,
+                  "autoCheck": false
+                },
+                "l10n": {
+                  "trueText": "True",
+                  "falseText": "False",
+                  "score": "You got @score of @total points",
+                  "checkAnswer": "Check",
+                  "submitAnswer": "Submit",
+                  "showSolutionButton": "Show solution",
+                  "tryAgain": "Retry",
+                  "wrongAnswerMessage": "Wrong answer",
+                  "correctAnswerMessage": "Correct answer",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                },
+                "confirmCheck": {
+                  "header": "Finish ?",
+                  "body": "Are you sure you wish to finish ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry ?",
+                  "body": "Are you sure you wish to retry ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Confirm"
+                },
+                "question": "<p>Artificial intelligence techniques assemble their own data and evidence to predict future patterns, events or trends.</p>\n"
+              },
+              "subContentId": "d05efd04-f99a-4762-bb45-609ab0b03641",
+              "metadata": {
+                "contentType": "True/False Question",
+                "license": "U",
+                "title": "Self Assessment 1"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          },
+          {
+            "x": 3.2751091703056767,
+            "y": 7.766254245511887,
+            "width": 33.18777292576419,
+            "height": 18.777292576419214,
+            "duration": {
+              "from": 468,
+              "to": 469
+            },
+            "libraryTitle": "Multiple Choice",
+            "action": {
+              "library": "H5P.MultiChoice 1.16",
+              "params": {
+                "media": {
+                  "disableImageZooming": false
+                },
+                "answers": [
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Are messaging or voice-based application</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Simulate human conversation</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Automate and improve the delivery of services</div>\n"
+                  },
+                  {
+                    "correct": false,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>Help complete routine tasks</div>\n"
+                  },
+                  {
+                    "correct": true,
+                    "tipsAndFeedback": {
+                      "tip": "",
+                      "chosenFeedback": "",
+                      "notChosenFeedback": ""
+                    },
+                    "text": "<div>All of the above</div>\n"
+                  }
+                ],
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "enableCheckButton": true,
+                  "type": "multi",
+                  "singlePoint": false,
+                  "randomAnswers": false,
+                  "showSolutionsRequiresInput": true,
+                  "confirmCheckDialog": false,
+                  "confirmRetryDialog": false,
+                  "autoCheck": false,
+                  "passPercentage": 100,
+                  "showScorePoints": true
+                },
+                "UI": {
+                  "checkAnswerButton": "Check",
+                  "submitAnswerButton": "Submit",
+                  "showSolutionButton": "Show solution",
+                  "tryAgainButton": "Retry",
+                  "tipsLabel": "Show tip",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "tipAvailable": "Tip available",
+                  "feedbackAvailable": "Feedback available",
+                  "readFeedback": "Read feedback",
+                  "wrongAnswer": "Wrong answer",
+                  "correctAnswer": "Correct answer",
+                  "shouldCheck": "Should have been checked",
+                  "shouldNotCheck": "Should not have been checked",
+                  "noInput": "Please answer before viewing the solution",
+                  "a11yCheck": "Check the answers. The responses will be marked as correct, incorrect, or unanswered.",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                },
+                "confirmCheck": {
+                  "header": "Finish ?",
+                  "body": "Are you sure you wish to finish ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Finish"
+                },
+                "confirmRetry": {
+                  "header": "Retry ?",
+                  "body": "Are you sure you wish to retry ?",
+                  "cancelLabel": "Cancel",
+                  "confirmLabel": "Confirm"
+                },
+                "question": "<p>Chatbots :</p>\n"
+              },
+              "subContentId": "4fcc85dd-35d7-478b-9327-0fece55ee409",
+              "metadata": {
+                "contentType": "Multiple Choice",
+                "license": "U",
+                "title": "Self Assessment 2"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          },
+          {
+            "x": 4.366812227074235,
+            "y": 7.766254245511887,
+            "width": 37.11790393013101,
+            "height": 20.087336244541486,
+            "duration": {
+              "from": 470,
+              "to": 471
+            },
+            "libraryTitle": "Single Choice Set",
+            "action": {
+              "library": "H5P.SingleChoiceSet 1.11",
+              "params": {
+                "choices": [
+                  {
+                    "subContentId": "f7aaf827-7001-432c-841f-54df31dec95c",
+                    "question": "<p>Blockchain makes it transparent when records are changed. Therefore it can be useful to:</p>\n",
+                    "answers": [
+                      "<p>Verify people’s identities and managing records or contracts</p>\n",
+                      "<p>Track transactions and avoid using unique identifiers</p>\n",
+                      "<p>Record online voting using only low amounts of energy consumption</p>\n"
+                    ]
+                  }
+                ],
+                "overallFeedback": [
+                  {
+                    "from": 0,
+                    "to": 100
+                  }
+                ],
+                "behaviour": {
+                  "autoContinue": true,
+                  "timeoutCorrect": 2000,
+                  "timeoutWrong": 3000,
+                  "soundEffectsEnabled": true,
+                  "enableRetry": true,
+                  "enableSolutionsButton": true,
+                  "passPercentage": 100
+                },
+                "l10n": {
+                  "nextButtonLabel": "Next question",
+                  "showSolutionButtonLabel": "Show solution",
+                  "retryButtonLabel": "Retry",
+                  "solutionViewTitle": "Solution list",
+                  "correctText": "Correct!",
+                  "incorrectText": "Incorrect!",
+                  "muteButtonLabel": "Mute feedback sound",
+                  "closeButtonLabel": "Close",
+                  "slideOfTotal": "Slide :num of :total",
+                  "scoreBarLabel": "You got :num out of :total points",
+                  "solutionListQuestionNumber": "Question :num",
+                  "a11yShowSolution": "Show the solution. The task will be marked with its correct solution.",
+                  "a11yRetry": "Retry the task. Reset all responses and start the task over again."
+                }
+              },
+              "subContentId": "b66b7974-d4fe-486a-8e64-79ff58d7bb25",
+              "metadata": {
+                "contentType": "Single Choice Set",
+                "license": "U",
+                "title": "Self Assessment 3"
+              }
+            },
+            "pause": true,
+            "displayType": "poster",
+            "buttonOnMobile": false,
+            "adaptivity": {
+              "correct": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "wrong": {
+                "allowOptOut": false,
+                "message": ""
+              },
+              "requireCompletion": false
+            },
+            "label": ""
+          }
+        ],
+        "endscreens": [
+          {
+            "time": 472.383,
+            "label": "7:52 Submit Screen"
+          }
+        ]
+      },
+      "summary": {
+        "task": {
+          "library": "H5P.Summary 1.10",
+          "params": {
+            "intro": "Choose the correct statement.",
+            "summaries": [
+              {
+                "subContentId": "768b4836-3c4b-41d9-a5fc-1392fbdf4ae4",
+                "tip": ""
+              }
+            ],
+            "overallFeedback": [
+              {
+                "from": 0,
+                "to": 100
+              }
+            ],
+            "solvedLabel": "Progress:",
+            "scoreLabel": "Wrong answers:",
+            "resultLabel": "Your result",
+            "labelCorrect": "Correct.",
+            "labelIncorrect": "Incorrect! Please try again.",
+            "alternativeIncorrectLabel": "Incorrect",
+            "labelCorrectAnswers": "Correct answers.",
+            "tipButtonLabel": "Show tip",
+            "scoreBarLabel": "You got :num out of :total points",
+            "progressText": "Progress :num of :total"
+          },
+          "subContentId": "a1dd7c99-8308-47ce-b8c4-b2d882936a7e",
+          "metadata": {
+            "contentType": "Summary",
+            "license": "U",
+            "title": "Untitled Summary"
+          }
+        },
+        "displayAt": 3
+      }
+    },
+    "override": {
+      "autoplay": false,
+      "loop": false,
+      "showBookmarksmenuOnLoad": false,
+      "showRewind10": false,
+      "preventSkipping": false,
+      "deactivateSound": false
+    },
+    "l10n": {
+      "interaction": "Interaction",
+      "play": "Play",
+      "pause": "Pause",
+      "mute": "Mute, currently unmuted",
+      "unmute": "Unmute, currently muted",
+      "quality": "Video Quality",
+      "captions": "Captions",
+      "close": "Close",
+      "fullscreen": "Fullscreen",
+      "exitFullscreen": "Exit Fullscreen",
+      "summary": "Open summary dialog",
+      "bookmarks": "Bookmarks",
+      "endscreen": "Submit screen",
+      "defaultAdaptivitySeekLabel": "Continue",
+      "continueWithVideo": "Continue with video",
+      "more": "More player options",
+      "playbackRate": "Playback Rate",
+      "rewind10": "Rewind 10 Seconds",
+      "navDisabled": "Navigation is disabled",
+      "sndDisabled": "Sound is disabled",
+      "requiresCompletionWarning": "You need to answer all the questions correctly before continuing.",
+      "back": "Back",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds",
+      "currentTime": "Current time:",
+      "totalTime": "Total time:",
+      "singleInteractionAnnouncement": "Interaction appeared:",
+      "multipleInteractionsAnnouncement": "Multiple interactions appeared.",
+      "videoPausedAnnouncement": "Video is paused",
+      "content": "Content",
+      "answered": "@answered answered",
+      "endcardTitle": "@answered Question(s) answered",
+      "endcardInformation": "You have answered @answered questions, click below to submit your answers.",
+      "endcardInformationOnSubmitButtonDisabled": "You have answered @answered questions.",
+      "endcardInformationNoAnswers": "You have not answered any questions.",
+      "endcardInformationMustHaveAnswer": "You have to answer at least one question before you can submit your answers.",
+      "endcardSubmitButton": "Submit Answers",
+      "endcardSubmitMessage": "Your answers have been submitted!",
+      "endcardTableRowAnswered": "Answered questions",
+      "endcardTableRowScore": "Score",
+      "endcardAnsweredScore": "answered",
+      "endCardTableRowSummaryWithScore": "You got @score out of @total points for the @question that appeared after @minutes minutes and @seconds seconds.",
+      "endCardTableRowSummaryWithoutScore": "You have answered the @question that appeared after @minutes minutes and @seconds seconds.",
+      "videoProgressBar": "Video progress"
+    }
+  }
+}

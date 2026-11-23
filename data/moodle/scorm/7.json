@@ -1,0 +1,455 @@
+{
+  "id": "jhaVmgWxbNSTl1NKN4O0eBatFAp0yoyw",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124c8e",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "dHZ7VPTiHVnQbZ45oWvNSk8iQcVJ2btG",
+  "copyOf": "",
+  "order": "1781216969942",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "lessons": [
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "jhaVmgWxbNSTl1NKN4O0eBatFAp0yoyw",
+      "createdAt": "2026-04-10T18:06:36.622Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "_zsnH8DCJt15CFaWZWTGr-WsDAEf721g",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "9a8wQM1wXlXcUtf1cT-P7d-FYOQhShCI",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Welcome!",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-04-10T18:06:36.736Z",
+      "items": [
+        {
+          "id": "cm0v45bf3002a356uagsuldaa",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0v45bf4002g356ufd7qcb5t",
+              "heading": "<p><strong>Module 1: Course Overview </strong></p>",
+              "paragraph": "<div data-editor-id=\"336ddae2-2d08-4670-9070-4fc2599df14d\"><p>This module introduces the course and highlights the transformative potential of Generative AI (GenAI) in the public sector. Participants will gain an understanding of how GenAI can assist them in their work through hands-on activities and best practices. The importance of delivering value while maintaining public trust and safety is emphasized. </p><p>After each video ends, a continue button appears below the video player. Click it to reveal the additional navigation and the InnovateUS website link containing readings and resources. Learners with screen readers can use the down arrow key to navigate through the video player’s controls and access the continue button. Another “continue” button will appear to move on to the Self-Assessments after each video.</p><p><strong>Audio description transcripts</strong><br class=\"break-when-trailing\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\">All videos in this module include audio description transcripts. You’ll find them directly below each video in an accordion titled “Audio description transcript”</span></p><ul><li><p>Select the heading to expand and read the transcript.</p></li><li><p><strong>Screen reader and keyboard users:</strong> tab to the accordion heading and press Enter or Space to open or close it.</p></li></ul></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "textWidth": 76,
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "3269759a-6775-44a2-bfe5-3be68ac05e0b"
+        },
+        {
+          "id": "cmi90d67z003l3b6otnuqabok",
+          "type": "text",
+          "items": [
+            {
+              "id": "cmi90d680003m3b6o6e7triag",
+              "paragraph": "<div data-editor-id=\"6dbb42f8-f5c1-4ec2-92a0-178a4b3fea87\"><p><span style=\"font-size: 1.8rem\"><strong>Reminder:</strong> Consult with your organization’s policies before using any tool or platform. &nbsp;</span></p><p><span style=\"font-size: 1.8rem\"><strong>Disclaimer:</strong> The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</span></p></div>"
+            }
+          ],
+          "family": "impact",
+          "variant": "note",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "5bf76dc1-de7a-4aeb-a6e0-2a7d1f84d291"
+        },
+        {
+          "id": "cm1b06ky3007y3b6cqbsxhx9y",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm1b06ky3007z3b6cgaq9oi46",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "d59edee9-f059-4fbe-aa77-27339e18c69e"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "jhaVmgWxbNSTl1NKN4O0eBatFAp0yoyw",
+      "createdAt": "2026-02-10T17:15:45.869Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "idsx0tmyAAd5gWf_5obxiZ7nbndzfUYN",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "jEtNDm5ffL3JMnaN3yCKGSxjS8r7ftQz",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 0,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 1.1 | Course Overview",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-07T17:33:23.806Z",
+      "items": [
+        {
+          "id": "clx8tc5x9001v3b6c57hstay9",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tc5xa00213b6cl2hvo2nt",
+              "heading": "",
+              "paragraph": "<div data-editor-id=\"7f5cf3fa-baf9-4455-ada4-a792f56d234c\"><p>The course introduction highlights the potential of Generative AI (GenAI) to revolutionize work in the public sector. Participants will learn to use GenAI as a powerful companion to assist in their work through hands-on activities and best practices. The importance of delivering value while maintaining public trust and safety is emphasized. </p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "16640d95-a454-48a8-8a25-4e83644c7f3d"
+        },
+        {
+          "id": "cmi7vgt0100283b6olt6dzboe",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmi7vgt02002b3b6oh8wcj2bz",
+              "title": "Audio description transcript - Course Overview",
+              "description": "<p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Using GenAI in Government.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Course Overview.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome to Responsible AI for Public Sector Professionals: Using Generative AI at Work. I'm Ariana, and I'll be your guide.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Generative AI – or GenAI for short – has the potential to improve how we do our jobs, make policy, and deliver services to the public.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">This course was designed for people like you — public sector professionals who want to use these tools thoughtfully and responsibly.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: an image of a public sector office worker, reading over papers at his desk with a list of projects appearing in front of him. Generated by ChatGPT 5.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">With invaluable input from leading thinkers and doers in government, technology, academia, and civil society, this short course helps you use AI as a powerful companion in your work.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">This field moves fast. Specific tools, research or policies may have changed since we recorded this course. Please check with your agency AI or IT lead for the most current information about your organization’s policies.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: For the most up-to-date tools, research, and policies, please check with your agency AI or IT lead for the most current information about your organization’s Generative AI policies.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Also, if you are in a union workplace, your collective bargaining agreement may include provisions about the introduction of new technologies, including AI, so check in with your union representative or labor relations office.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: an image of a laptop displaying the ChatGPT website. Generated by ChatGPT 5.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Through hands-on examples, this course explains in plain language what Generative AI is, what it does and doesn’t do well, and how you can use these tools in your day-to-day work.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">We demonstrate using several leading platforms. We’re not endorsing any. Be sure to check which tools are approved for use in your organization.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Various logos of AI platforms fly past the screen, notable brands are: ChatGPT, Claude, Gemini, Midjourney, and Copilot.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">As public sector professionals, we have a unique responsibility to the residents we serve. Throughout this training, we emphasize delivering value while maintaining public trust and safety.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: For the most up-to-date tools, research, and policies, please check with your agency AI or IT lead for the most current information about your organization’s Generative AI policies.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">We take the approach of \"AI on tap, not on top.” &nbsp;AI works for us, not the other way around.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Note that this introductory course focuses on your individual use of GenAI. We also have a wide array of additional free courses and live workshops for every skill level and role.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the InnovateUS webpage with various courses listed.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Course Learning Goals.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">By the end of this course, you will be able to:</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Explain in plain language what Generative AI is and how it works</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Apply GenAI to ten types of tasks common in public sector work</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Write effective prompts using proven techniques</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Recognize and mitigate key risks from data privacy, hallucination, and bias</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Navigate key societal issues including copyright, deepfakes, and accountability</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Let's dive in.</span></span></p>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "zoomOnClick": false,
+            "quotesInline": false,
+            "audioPosition": "top",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "b48d48d1-d61d-4c53-8866-87c6a211dd71"
+        },
+        {
+          "id": "clwyznbus00033b6c9cf4595o",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyznbut00043b6cra8qnk0l",
+              "media": {
+                "video": {
+                  "key": "2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-75N1mDGsiK9spmXv.mp4",
+                  "type": "video",
+                  "poster": "2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx5x71500373b7j9gyh4oxp",
+                      "key": "Video%201%20-%201.1%20-%20.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 1 - 1.1 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 170,
+                  "inputKey": "rise/courses/jhaVmgWxbNSTl1NKN4O0eBatFAp0yoyw/75N1mDGsiK9spmXv.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/jhaVmgWxbNSTl1NKN4O0eBatFAp0yoyw/transcoded-75N1mDGsiK9spmXv.0000000.jpg",
+                  "captionUID": "cmpx5x79700383b7jwy8we79a",
+                  "originalUrl": "2408GovLabAI 2026 Video 01 - 1.1 v3.1.mp4",
+                  "transcodeId": "1780425118035-km6psk"
+                }
+              },
+              "caption": "<p>Video 1.1: Course Overview</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "48bc1369-80d3-4b48-ac5f-2fc0ee124bab"
+        },
+        {
+          "id": "cmq427sbc004e3d6zyhgn74lr",
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmq427sbd004f3d6z5i6btvoo",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "createdAt": "2026-06-07T17:32:18.677Z",
+          "updatedAt": "2026-06-07T17:32:18.677Z",
+          "globalBlockId": "d535d33e-7d0f-45d8-8f34-f60eafabed35"
+        }
+      ]
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-02-10T17:15:03.175Z",
+  "updatedAt": "2026-06-11T22:29:29.942Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 1",
+    "format": "zip",
+    "quizId": null,
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "dHZ7VPTiHVnQbZ45oWvNSk8iQcVJ2btG",
+    "activeLMS": 0,
+    "hideLmsUi": false,
+    "reporting": "passed-incomplete",
+    "exportType": "lms",
+    "identifier": "jhaVmgWxbNSTl1NKN4O0eBatFAp0yoyw_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": true,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "completionPercentage": "100",
+    "notifyLearnersOfUpdates": false,
+    "translationModelVersion": null,
+    "enableTelemetryCollection": false
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124c8e",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/16_misc.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": false,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-06-11T22:29:32.434Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      },
+      "PDF": {
+        "published_at": "2026-05-01T16:51:21.788Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      },
+      "REVIEW": {
+        "published_at": "2026-04-29T16:29:33.359Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {},
+  "description": "",
+  "title": "Module 1",
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "blank"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-06-07T17:33:23.806Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-06-11T22:29:32.434Z",
+  "aiTutorImage": null,
+  "localizationMetadata": {},
+  "features": {
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "lmsOptions": {
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "enableTelemetryCollection": false
+  },
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

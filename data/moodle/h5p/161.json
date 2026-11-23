@@ -1,0 +1,109 @@
+{
+  "title": "Module 3 Quiz",
+  "mainLibrary": "InnovateUS.KnowledgeCheck",
+  "language": "und",
+  "content": {
+    "behaviour": {
+      "passPercentage": 100,
+      "autoAdvance": false,
+      "delayCorrect": 3,
+      "delayWrong": 5,
+      "shuffleAnswers": true,
+      "showNextModule": true
+    },
+    "l10n": {
+      "progress": "Question :num of :total",
+      "correct": "Correct!",
+      "incorrect": "Not quite. The right answer is highlighted.",
+      "incorrectMulti": "Not quite. Select every right answer and no wrong ones.",
+      "nextQuestion": "Next question",
+      "seeResult": "See your result",
+      "resultPassed": "Well done!",
+      "resultFailed": "Almost there",
+      "scoreText": "You got :score of :total right.",
+      "passedText": "Continue to the next module when you are ready.",
+      "failedText": "You need to answer every question correctly to continue. Have a look at the answers below, then try again.",
+      "yourAnswer": "Your answer",
+      "yourAnswers": "You chose",
+      "rightAnswer": "Right answer",
+      "rightAnswers": "Right answers",
+      "retry": "Try again",
+      "nextModule": "Next module",
+      "backToCourse": "Back to course",
+      "checkAnswer": "Check answer",
+      "selectAll": "Select all that apply."
+    },
+    "questions": [
+      {
+        "text": "Your team is developing a solicitation. Which of the following are appropriate uses of AI at this stage? Select all that apply.",
+        "answers": [
+          {
+            "text": "Generating a first draft of the RFP based on existing templates and past solicitations",
+            "correct": true
+          },
+          {
+            "text": "Scanning compliance guidelines to flag elements missing from the draft",
+            "correct": true
+          },
+          {
+            "text": "Deciding which vendor should receive the contract based on the scope of work",
+            "correct": false
+          },
+          {
+            "text": "Determining whether a vendor meets legal eligibility requirements",
+            "correct": false
+          },
+          {
+            "text": "Identifying gaps or inconsistencies in the draft scope of work",
+            "correct": true
+          }
+        ],
+        "multiple": true
+      },
+      {
+        "text": "At which stage of the procurement lifecycle is human judgment most critical and AI least appropriate as a decision-maker?",
+        "answers": [
+          {
+            "text": "Planning and needs identification",
+            "correct": false
+          },
+          {
+            "text": "Solicitation development",
+            "correct": false
+          },
+          {
+            "text": "Vendor engagement",
+            "correct": false
+          },
+          {
+            "text": "Evaluation and award",
+            "correct": true
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "A contract manager oversees 40 active contracts across multiple departments. Vendors have begun delivering on some contracts without the City having processed required milestone approvals, and a few discount terms have lapsed unnoticed. What is the most likely root cause of these problems, and how could AI help address it?",
+        "answers": [
+          {
+            "text": "The contracts were poorly written at the solicitation stage; AI could help generate better RFPs in the future",
+            "correct": false
+          },
+          {
+            "text": "The evaluation process failed to screen out unreliable vendors; AI could improve proposal scoring",
+            "correct": false
+          },
+          {
+            "text": "Critical contract obligations are not being consistently tracked; AI could monitor milestones and flag upcoming deadlines and renewals automatically",
+            "correct": true
+          },
+          {
+            "text": "Vendors are not submitting required documentation; AI could generate automated reminder emails to vendors",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      }
+    ]
+  }
+}

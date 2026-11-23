@@ -1,0 +1,147 @@
+{
+  "title": "Module 2 Quiz",
+  "mainLibrary": "InnovateUS.KnowledgeCheck",
+  "language": "und",
+  "content": {
+    "behaviour": {
+      "passPercentage": 100,
+      "autoAdvance": false,
+      "delayCorrect": 3,
+      "delayWrong": 5,
+      "shuffleAnswers": true,
+      "showNextModule": true
+    },
+    "l10n": {
+      "progress": "Question :num of :total",
+      "correct": "Correct!",
+      "incorrect": "Not quite. The right answer is highlighted.",
+      "incorrectMulti": "Not quite. Select every right answer and no wrong ones.",
+      "nextQuestion": "Next question",
+      "seeResult": "See your result",
+      "resultPassed": "Well done!",
+      "resultFailed": "Almost there",
+      "scoreText": "You got :score of :total right.",
+      "passedText": "Continue to the next module when you are ready.",
+      "failedText": "You need to answer every question correctly to continue. Have a look at the answers below, then try again.",
+      "yourAnswer": "Your answer",
+      "yourAnswers": "You chose",
+      "rightAnswer": "Right answer",
+      "rightAnswers": "Right answers",
+      "retry": "Try again",
+      "nextModule": "Next module",
+      "backToCourse": "Back to course",
+      "checkAnswer": "Check answer",
+      "selectAll": "Select all that apply."
+    },
+    "questions": [
+      {
+        "text": "What is the most important factor in getting useful output from a generative AI tool?",
+        "answers": [
+          {
+            "text": "Using the most advanced AI model available",
+            "correct": false
+          },
+          {
+            "text": "Writing clear, specific, and well-structured prompts",
+            "correct": true
+          },
+          {
+            "text": "Running the same prompt multiple times and averaging the results",
+            "correct": false
+          },
+          {
+            "text": "Uploading as many reference documents as possible",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "Which of the following are appropriate uses of AI in a procurement workflow? Select all that apply.",
+        "answers": [
+          {
+            "text": "Using AI to make the final vendor selection based on proposal scores",
+            "correct": false
+          },
+          {
+            "text": "Using AI to pre-screen a large volume of vendor submissions for completeness before human review",
+            "correct": true
+          },
+          {
+            "text": "Using AI to determine best value among competing bids",
+            "correct": false
+          },
+          {
+            "text": "Using AI to flag invoices that don&#039;t match contract terms for human review",
+            "correct": true
+          },
+          {
+            "text": "Using AI to summarize a lengthy publicly available contract and identify key clauses for a procurement officer to review",
+            "correct": true
+          },
+          {
+            "text": "Using AI to waive a compliance requirement when a vendor narrowly misses a threshold",
+            "correct": false
+          }
+        ],
+        "multiple": true
+      },
+      {
+        "text": "As AI becomes more integrated into procurement workflows, which of the following skills will become more important for procurement professionals? Select all that apply.",
+        "answers": [
+          {
+            "text": "Manual data entry and document formatting",
+            "correct": false
+          },
+          {
+            "text": "Writing effective AI prompts to get reliable, useful outputs",
+            "correct": true
+          },
+          {
+            "text": "Familiarity with legacy procurement software systems",
+            "correct": false
+          },
+          {
+            "text": "The ability to write code and configure AI systems independently",
+            "correct": false
+          },
+          {
+            "text": "Interpreting AI-generated analysis and knowing when to question it",
+            "correct": true
+          },
+          {
+            "text": "Ensuring fairness and transparency in AI-assisted evaluation processes",
+            "correct": true
+          },
+          {
+            "text": "Professional judgment and accountability for consequential procurement decisions",
+            "correct": true
+          }
+        ],
+        "multiple": true
+      },
+      {
+        "text": "A procurement officer uses AI to summarize a 200-page vendor contract. The AI returns a summary that looks complete and well-organized. What should the officer do next?",
+        "answers": [
+          {
+            "text": "Accept the summary as final and move forward",
+            "correct": false
+          },
+          {
+            "text": "Share the summary directly with legal counsel without further review",
+            "correct": false
+          },
+          {
+            "text": "Verify the AI&#039;s output against the original contract before relying on it",
+            "correct": true
+          },
+          {
+            "text": "Re-run the prompt with different wording to get a second opinion",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      }
+    ]
+  }
+}

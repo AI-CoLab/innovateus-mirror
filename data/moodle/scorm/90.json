@@ -1,0 +1,584 @@
+{
+  "description": "<div data-editor-id=\"5bca3972-2119-43c3-8cd7-a07a067d5824\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video explains how to design a project plan by working backward from the decision you need to make. It covers how to sequence different methods across phases, assign clear ownership, and use AI to structure timelines, simulate scenarios, and stress-test your design.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "iVfb0UMXhsZQzn9VQoWtnLTn_6zf3osE",
+      "items": [
+        {
+          "id": "yl24hSwgctiglOKhQJr2xjPff3_s-rbo",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"69e8b89c-52ef-4005-91ca-0b5cec4dcc5d\"><p>This video explains how to design a project plan by working backward from the decision you need to make. It covers how to sequence different methods across phases and assign clear ownership, and how you can use AI to structure timelines, simulate scenarios, and stress-test your design.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "b6f81c7e-e7fa-4eaa-9f4d-1fbceefc63d5"
+        },
+        {
+          "id": "yMxig_o6MpvMhQzRKk8flF7RSYMstzJY",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 11",
+              "description": "<div data-editor-id=\"adaad4cd-e54e-4c8e-a3bc-60c709b399ad\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS Logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Your Project Plan.</p><p style=\"line-height: 1.5\">[Visual description]: A drone flyby video of Piccadilly Circus, London is shown.</p><p style=\"line-height: 1.5\">[Visual description]: A screenshot of the Camden Council website “Who Cares”.</p><p style=\"line-height: 1.5\">In Camden, London, the council wanted to improve adult social care. They designed a multi-stage process that began by gathering broad input from residents, then worked with a smaller representative group to develop proposals, opened those proposals to wider feedback, and finally refined them into recommendations.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Danielle Allen, Professor, Harvard University.</p><p style=\"line-height: 1.5\">Each phase had a clear purpose and built on the one before it.</p><p style=\"line-height: 1.5\">[Visual description]: A four-step process flows left to right, each stage linked by an arrow to the next: Picking the Right Owner, Designing Incentives, Collecting Input, and Delivering Impact.</p><p style=\"line-height: 1.5\">Effective engagement requires a project plan that maps the full journey from picking the right owner and designing incentives to collecting input and delivering impact.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">Now, having learned the key questions to ask yourself when planning your engagement, you'll put it all together. We'll discuss how to design a clear project plan and identify where AI can support each step.</p><p style=\"line-height: 1.5\">[Visual description]: Two bullet points appear: Clear project plan, and AI support.</p><p style=\"line-height: 1.5\">Let's get started.</p><p style=\"line-height: 1.5\">Designing your plan. Mapping your project plan before you launch, ensuring each phase has a clear purpose, an owner, and a connection to what comes next, is essential. Start by working backward from the decision. What does the decision-maker need to see, in what form, and by when? Then design the steps required to get there. This keeps the process focused on what is actionable, not just what is interesting. Think about how different types of input fit together. A useful approach is to start broad, surfacing issues and gathering perspectives, and then narrow toward shared priorities and concrete recommendations. Use different methods at different stages. Early phases may focus on gathering input from a wide audience, while later phases may involve smaller groups working in more depth. The goal is to match the method to the task at each step. Design for continuity. Engagement should not be a one-off event, but part of an ongoing cycle where each effort builds on what came before and informs what comes next. Connect the process to decision-making. Align each phase to a specific moment where input can influence policy or action. The clearer the connection, the more likely participation will matter. Finally, assign clear ownership. Each phase should have someone responsible with the authority to move it forward. A plan only works if people are accountable for carrying it out.</p><p style=\"line-height: 1.5\">[Visual description]: Each of the previously mentioned project plan phases appears on screen with arrows between them, creating a flowchart.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Using AI to Develop Your Project Plan.</p><p style=\"line-height: 1.5\">Using AI to develop your project plan. AI can support the design of your project plan in several practical ways. You can use it to structure the process. Given a goal and timeline, AI can help outline the phases of an engagement, suggesting how to move from input collection to deliberation to decision-making, and identifying where different methods may fit. By simulating different scenarios, such as high participation or delays between phases, AI can help you identify where the process might slow down or break, and adjust your plan before launch. It can support coordination. You can use AI to create checklists or run-of-show documents that keep teams aligned as the engagement unfolds. It can also help you stress-test your design. You can use AI to review your plan from different perspectives—participant, staff, or decision-maker—to identify gaps, unclear transitions, or missing steps. Done well, you are using AI to help you design a clearer, more resilient project plan that connects to real decisions.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Use AI to help design a clearer, more resilient project plan that connects to real decisions.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Risks to Watch For.</p><p style=\"line-height: 1.5\">Risks to watch for. A few risks deserve attention.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Poorly designed project plans.</p><p style=\"line-height: 1.5\">First, poorly designed project plans can create bottlenecks that delay or derail the process. If responsibilities are unclear, timelines are unrealistic, or phases are not connected, input can get stuck between collection and decision-making. The best way to prevent this is to assign clear owners and define how each step leads to the next before you launch.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Overcomplicating the process.</p><p style=\"line-height: 1.5\">Second, overcomplicating the process can make it harder to manage and harder for participants to follow. Too many stages, tools, or transitions increase the risk of confusion, drop-off, and breakdowns between phases.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Keep the plan simple while still meeting your goals.</p><p style=\"line-height: 1.5\">Keep the plan as simple as possible while still meeting your goals.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Poor decision-making.</p><p style=\"line-height: 1.5\">Finally, a plan that isn't grounded in decision-making will fail to deliver results. If there is no clear path from input to action, participation may generate activity without impact.</p><p style=\"line-height: 1.5\">A strong project plan is clear, connected, and accountable, designed from the start to move input all the way through to decisions.</p><p style=\"line-height: 1.5\">[Visual description]: A globe appears on screen with the title: Project Spotlight. The camera zooms in on Austria.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Vienna’s Climate Team - Multi-Stage Workflow for Climate Action.</p><p style=\"line-height: 1.5\">[Visual description]: A new speaker appears: Nina Chladek-Danklmaier, Climate Team Project Manager, Office for Participation and Empowerment, City of Vienna.</p><p style=\"line-height: 1.5\">[Visual description]: A drone flyby video of Vienna’s city center is shown.</p><p style=\"line-height: 1.5\">When we launched the Climate Team, our goal was not just to collect ideas, but to turn them into projects we could implement.</p><p style=\"line-height: 1.5\">[Visual description]: A Go Vocal case study is shown, titled: Vienna’s Climate Team: award-winning hybrid engagement project.</p><p style=\"line-height: 1.5\">That required a clear project plan from the start.</p><p style=\"line-height: 1.5\">[Visual description]: A person is filling in a paper survey.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Vienna Climate Team: together for a good climate!</p><p style=\"line-height: 1.5\">We began by inviting residents to share ideas online, in person, and through simple channels like postcards, so we could reach a wide range of participants.</p><p style=\"line-height: 1.5\">[Visual description]: A parkside community get-together organized by the Vienna Climate Team is shown.</p><p style=\"line-height: 1.5\">[Visual description]: A picture of a group of people looking at photographs of sources of pollution is shown. Another image shows the project title: Wiener Klima Mosaik.</p><p style=\"line-height: 1.5\">With more than 5,000 ideas submitted, we used an online platform to help us quickly collect and organize the input, giving us a clear picture of what people were proposing. We are considering using AI tools in the future to help summarize and organize public input more rapidly.</p><p style=\"line-height: 1.5\">[Visual description]: The Vienna Climate Team project website, called Klimateam, is shown. A second page shows the 1-year cycle used by the Vienna Climate Team in 5 phases on a flowchart: 1: Submit ideas. 2: Idea evaluation. 3: Developing project drafts. 4: Citizens’ jury. 5: Project implementation.</p><p style=\"line-height: 1.5\">From there, we moved through a series of stages. Our teams assessed which ideas were feasible and within our authority to deliver. We then worked directly with residents to refine the strongest proposals, combining local knowledge with technical expertise.</p><p style=\"line-height: 1.5\">[Visual description]: A webpage more closely detailing Phase 4 in German text is shown. A second slide shows that Decision-making was done according to the consent principle. There are three options to vote for with each proposal: 1: I agree! This is accompanied by a Thumb up icon. 2: I agree, even if it’s not my 1st choice. This is accompanied by a Thumb halfway up icon. 3: I do NOT agree. I have an objection! This is accompanied by a Thumb down icon.</p><p style=\"line-height: 1.5\">Finally, a randomly selected group of residents made the final decision about which projects to fund. Because each phase had a clear purpose and built on the last, we were able to move from broad input to concrete action.</p><p style=\"line-height: 1.5\">[Visual description]: Three images of people voting with their thumbs at a roundtable meeting are shown in sequence.</p><p style=\"line-height: 1.5\">We committed upfront to implementing the selected projects, and that commitment shaped the entire process.</p><p style=\"line-height: 1.5\">[Visual description]: A short sequence of images of people collectively participating in various ways, from reading, writing notes, to voting, is shown.</p><p style=\"line-height: 1.5\">[Visual description]: A title appears above 5 connected steps, reading: A Strong Project Plan Connects. The 5 steps with arrows between them read: Participation, Clear steps, Clear ownership, Clear path to action, and Implementation.</p><p style=\"line-height: 1.5\">A strong project plan connects participation to implementation with clear steps, clear ownership, and a clear path to action.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Conclusion.</p><p style=\"line-height: 1.5\">Plan the full journey before you begin.</p><p style=\"line-height: 1.5\">[Visual description]: Danielle appears.</p><p style=\"line-height: 1.5\">Assign clear responsibility at each step and use AI to manage volume without losing nuance. In our final video, we'll look back at what we've covered and introduce tools to help you put these principles into practice.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: What We’ve Learned.</p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "8d426688-6beb-4cac-bfd7-705aca2277c7"
+        },
+        {
+          "id": "5nbggShVZKtVR982gAi_M1w7h9Kd4TCj",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2011%20v5.mp4",
+                  "url": "transcoded-rHLcQaASpaNjOCJn.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2011%20v5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsarz9jk003p3d79b2cighum",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2011%20v5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 11 v5.vtt"
+                    }
+                  ],
+                  "duration": 434,
+                  "inputKey": "rise/courses/KFXpTHudu1zYzL0wXTudR7oKTJwYnyyv/rHLcQaASpaNjOCJn.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/KFXpTHudu1zYzL0wXTudR7oKTJwYnyyv/transcoded-rHLcQaASpaNjOCJn.0000000.jpg",
+                  "captionUID": "cmsarz9sz003q3d793vd4kms5",
+                  "originalUrl": "2625GovLab Public Engagement Video 11 v5.mp4",
+                  "transcodeId": "1784946965191-2o6bpf"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "a23eb5d3-8fb0-42c8-a86a-37cb0a8c38fa"
+        },
+        {
+          "id": "ayCOBssd7xzpQEa-AMh35a5rsdvGuD1T",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "93f4de98-cf5d-463b-8340-d6acb4291394"
+        }
+      ],
+      "settings": {},
+      "title": "Video 11: Designing Your Project Plan",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "KFXpTHudu1zYzL0wXTudR7oKTJwYnyyv",
+      "createdAt": "2026-07-26T19:00:45.402Z",
+      "deleted": false,
+      "duplicatedFromId": "DBYKGDNx3Pu55e4h7c9j1BocrCfvg6_-",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T19:39:33.135Z"
+    },
+    {
+      "description": "",
+      "id": "p0FzCGpcyPg3LwP6ffNYZbJYTWOaKu8j",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "7cfd6b3f-deb7-466f-8114-60556b9784f5"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"aac1c92d-4d9c-4e33-ad7f-c98e8264c0de\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>According to the video, what is the recommended starting point for designing a project plan?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"d3ac7de7-078c-47b1-ab62-70efe3387571\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Choose your engagement platform first</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"3e4d2e5c-3423-4dbd-b621-07091623f516\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Wait until you have secured full funding</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"b33ac5a5-3aab-472b-9202-402580e6f75e\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Begin with the largest possible public consultation</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"15c2364d-156a-48b2-af8f-0568732c3595\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Work backward from the decision you need to make</span></span></span></p></div>",
+                  "correct": true
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "eb5dba26-2561-4702-b145-d86046364916"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "62a12405-2234-42c4-bb0d-6a8e4123a88c"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"d8a44794-2eb1-41ab-b719-a98959d1b278\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>How can AI help with project planning?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"c4826ff5-178d-4bed-8dcc-6241dd9d94f7\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>By making all key decisions about the engagement design</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"23332989-6684-4ed7-b52d-912b06492f3d\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>By structuring timelines, simulating scenarios, and stress-testing the plan from different perspectives</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"fdcf38be-b528-4dc2-8f54-96c753a00ed2\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>By eliminating the need for human ownership of the process</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"ee43ee44-f207-4607-83e2-d6852f23ca46\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>By automatically launching the engagement when the plan is complete</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "424abafe-38f6-4151-aeed-cf95038274a4"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "962a48dc-3862-46fa-b9d4-b700842ee6cb"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "KFXpTHudu1zYzL0wXTudR7oKTJwYnyyv",
+      "createdAt": "2026-08-01T02:47:27.292Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-02T20:57:52.097Z"
+    },
+    {
+      "description": "",
+      "id": "ujx0_AuycyUNm69_4R6t63TSq9SNI4hV",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"58004cfc-95be-4c54-b077-f9d7902e930c\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 11 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to the final video in this course<em>.</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "10e2deb9-648a-4dc5-9d96-956efd316ae2"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "KFXpTHudu1zYzL0wXTudR7oKTJwYnyyv",
+      "createdAt": "2026-08-01T02:48:16.886Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:56:15.833Z"
+    }
+  ],
+  "title": "Video 11: Designing Your Project Plan",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "KFXpTHudu1zYzL0wXTudR7oKTJwYnyyv_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 11: Designing Your Project Plan",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "KFXpTHudu1zYzL0wXTudR7oKTJwYnyyv",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "yjthiRHICQexVmxv3bIaUPI43U8XlEr6",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773695562",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:40:44.338Z",
+  "updatedAt": "2026-08-03T16:14:55.562Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:14:56.482Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-02T20:57:52.097Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:14:56.482Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

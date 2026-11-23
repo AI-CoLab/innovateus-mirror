@@ -1,0 +1,5079 @@
+[
+  {
+    "kind": "course-image",
+    "course": 31,
+    "path": "moodle/courses/31/insa-course-image.png",
+    "size": 422268
+  },
+  {
+    "kind": "course-image",
+    "course": 32,
+    "path": "moodle/courses/32/DALL_E 2024-07-03 16.38.40 - A simple abstract art piece with a color theme focusing on shades of yellow and white. The composition should feature a blend of these colors in a min ",
+    "size": 269895
+  },
+  {
+    "kind": "course-image",
+    "course": 33,
+    "path": "moodle/courses/33/DALL_E 2024-05-22 14.43.47 - A simple abstract art piece with a color theme focusing on varying shades of blue_ white_ and incorporating a touch of teal. The composition should fe.",
+    "size": 167025
+  },
+  {
+    "kind": "course-image",
+    "course": 34,
+    "path": "moodle/courses/34/DALL_E 2024-07-03 16.32.28 - A simple abstract art piece with a color theme focusing on shades of green_ white_ and incorporating a touch of light green. The composition should fe ",
+    "size": 393489
+  },
+  {
+    "kind": "course-image",
+    "course": 35,
+    "path": "moodle/courses/35/ai-part2.jpg",
+    "size": 383901
+  },
+  {
+    "kind": "course-image",
+    "course": 39,
+    "path": "moodle/courses/39/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+    "size": 130931
+  },
+  {
+    "kind": "course-image",
+    "course": 40,
+    "path": "moodle/courses/40/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_0-2.jpg",
+    "size": 107802
+  },
+  {
+    "kind": "course-image",
+    "course": 41,
+    "path": "moodle/courses/41/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+    "size": 130931
+  },
+  {
+    "kind": "course-image",
+    "course": 42,
+    "path": "moodle/courses/42/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+    "size": 130931
+  },
+  {
+    "kind": "course-image",
+    "course": 44,
+    "path": "moodle/courses/44/claudio0060_A_top-down_minimalist_collage_of_a_desk._On_one_s_257d2c7f-f920-443c-8425-008390494348_1-2-3.jpg",
+    "size": 65079
+  },
+  {
+    "kind": "course-image",
+    "course": 45,
+    "path": "moodle/courses/45/claudio0060_A_top-down_minimalist_collage_of_a_desk._On_one_s_257d2c7f-f920-443c-8425-008390494348_0-2.jpg",
+    "size": 43600
+  },
+  {
+    "kind": "course-image",
+    "course": 46,
+    "path": "moodle/courses/46/democratic-engagement-course.png",
+    "size": 1991349
+  },
+  {
+    "kind": "scorm",
+    "course": 34,
+    "id": 7,
+    "name": "1. Lecture Videos",
+    "packageSize": 55233119,
+    "rise": true,
+    "path": "moodle/scorm/7",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 4752
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 364759
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 49774108
+      },
+      {
+        "name": "scormcontent/assets/Video 1 - 1.1 - .vtt",
+        "size": 3745
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 71685
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 34,
+    "id": 10,
+    "name": "2. Lecture Videos",
+    "packageSize": 222406156,
+    "rise": true,
+    "path": "moodle/scorm/10",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5397
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 594936
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 73897278
+      },
+      {
+        "name": "scormcontent/assets/2k-rTd/2408GovLabAI 2026 Vide.jpg",
+        "size": 594936
+      },
+      {
+        "name": "scormcontent/assets/2qDR3A/2408GovLabAI 2026 Vide.mp4",
+        "size": 37139136
+      },
+      {
+        "name": "scormcontent/assets/Jj-dg4/2408GovLabAI 2026 Vide.jpg",
+        "size": 500150
+      },
+      {
+        "name": "scormcontent/assets/Video 2 - 2.1 - .vtt",
+        "size": 5929
+      },
+      {
+        "name": "scormcontent/assets/Video 3 - 2.2 - .vtt",
+        "size": 4169
+      },
+      {
+        "name": "scormcontent/assets/Video 4 - 2.3 - .vtt",
+        "size": 4627
+      },
+      {
+        "name": "scormcontent/assets/Video 5 - 2.4 - .vtt",
+        "size": 2143
+      },
+      {
+        "name": "scormcontent/assets/nW5gNN/2408GovLabAI 2026 Vide.mp4",
+        "size": 58147306
+      },
+      {
+        "name": "scormcontent/assets/qqxrSI/2408GovLabAI 2026 Vide.mp4",
+        "size": 46975629
+      },
+      {
+        "name": "scormcontent/assets/zSAFSF/2408GovLabAI 2026 Vide.jpg",
+        "size": 594936
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 144081
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 34,
+    "id": 11,
+    "name": "3. Lecture Videos",
+    "packageSize": 152203516,
+    "rise": true,
+    "path": "moodle/scorm/11",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5397
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 39541805
+      },
+      {
+        "name": "scormcontent/assets/B1CqPM/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/D1XMm1/2408GovLabAI 2026 Vide.jpg",
+        "size": 383
+      },
+      {
+        "name": "scormcontent/assets/DYlQ94/2408GovLabAI 2026 Vide.mp4",
+        "size": 61504792
+      },
+      {
+        "name": "scormcontent/assets/Video 6 - 3.1 - .vtt",
+        "size": 3396
+      },
+      {
+        "name": "scormcontent/assets/Video 7 - 3.2 - .vtt",
+        "size": 1810
+      },
+      {
+        "name": "scormcontent/assets/Video 8 - 3.3 - .vtt",
+        "size": 5858
+      },
+      {
+        "name": "scormcontent/assets/Video 9 - 3.4 - .vtt",
+        "size": 2714
+      },
+      {
+        "name": "scormcontent/assets/WS1cki/2408GovLabAI 2026 Vide.mp4",
+        "size": 17601535
+      },
+      {
+        "name": "scormcontent/assets/iuuvyL/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/vzcCcj/2408GovLabAI 2026 Vide.mp4",
+        "size": 27684191
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 142189
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 34,
+    "id": 12,
+    "name": "4. Lecture Videos",
+    "packageSize": 121511477,
+    "rise": true,
+    "path": "moodle/scorm/12",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 6591
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 10.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 10.mp4",
+        "size": 14785640
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 10.vtt",
+        "size": 1124
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 11.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 11.mp4",
+        "size": 31924345
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 11.vtt",
+        "size": 3003
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 12.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 12.mp4",
+        "size": 69181067
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 12.vtt",
+        "size": 4798
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 1051
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 94794
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 34,
+    "id": 13,
+    "name": "5. Lecture Videos",
+    "packageSize": 257296215,
+    "rise": true,
+    "path": "moodle/scorm/13",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5660
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/10zOYr/2408GovLabAI 2026 Vide.mp4",
+        "size": 62582064
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 635194
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 28060973
+      },
+      {
+        "name": "scormcontent/assets/7I3aUA/2408GovLabAI 2026 Vide.mp4",
+        "size": 37643531
+      },
+      {
+        "name": "scormcontent/assets/AtnP1f/2408GovLabAI 2026 Vide.jpg",
+        "size": 563060
+      },
+      {
+        "name": "scormcontent/assets/IcwaKr/2408GovLabAI 2026 Vide.jpg",
+        "size": 635194
+      },
+      {
+        "name": "scormcontent/assets/OoKBgV/2408GovLabAI 2026 Vide.mp4",
+        "size": 67554245
+      },
+      {
+        "name": "scormcontent/assets/UmjNV6/2408GovLabAI 2026 Vide.mp4",
+        "size": 54574530
+      },
+      {
+        "name": "scormcontent/assets/Video 13 - 5.1 -.vtt",
+        "size": 1615
+      },
+      {
+        "name": "scormcontent/assets/Video 14 - 5.2 -.vtt",
+        "size": 3117
+      },
+      {
+        "name": "scormcontent/assets/Video 15 - 5.3 -.vtt",
+        "size": 3685
+      },
+      {
+        "name": "scormcontent/assets/Video 16 - 5.4 -.vtt",
+        "size": 4600
+      },
+      {
+        "name": "scormcontent/assets/Video 17 - 5.5 -.vtt",
+        "size": 5251
+      },
+      {
+        "name": "scormcontent/assets/WyhBCA/2408GovLabAI 2026 Vide.jpg",
+        "size": 576568
+      },
+      {
+        "name": "scormcontent/assets/w5K6pA/2408GovLabAI 2026 Vide.jpg",
+        "size": 634513
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 156858
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 34,
+    "id": 14,
+    "name": "6. Lecture Videos",
+    "packageSize": 250357749,
+    "rise": true,
+    "path": "moodle/scorm/14",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 6578
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 18.jpg",
+        "size": 563060
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 18.mp4",
+        "size": 47822949
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 19.jpg",
+        "size": 563060
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 19.mp4",
+        "size": 96013153
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 19.vtt",
+        "size": 6462
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 20.jpg",
+        "size": 576568
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 20.mp4",
+        "size": 101488024
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 20.vtt",
+        "size": 6595
+      },
+      {
+        "name": "scormcontent/assets/Video 18 - 6.1 - V3.1 QCd.vtt",
+        "size": 3516
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 1042
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 117646
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 34,
+    "id": 15,
+    "name": "7. Lecture Videos",
+    "packageSize": 46204735,
+    "rise": true,
+    "path": "moodle/scorm/15",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 6032
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 21.jpg",
+        "size": 635194
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Video 21.mp4",
+        "size": 41224188
+      },
+      {
+        "name": "scormcontent/assets/Video 21 - 7.1 - V3.1 QCd.vtt",
+        "size": 2979
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 1033
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 51014
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 35,
+    "id": 17,
+    "name": "1. Lecture Video",
+    "packageSize": 51528995,
+    "rise": true,
+    "path": "moodle/scorm/17",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 3902
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 1.1 v2.2.jpg",
+        "size": 281111
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 1.1 v2.2.mp4",
+        "size": 49434029
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 1.1 v2.2.mp4.vtt",
+        "size": 3908
+      },
+      {
+        "name": "scormcontent/assets/LXcQUd8KzGPptYV8.jpg",
+        "size": 33043
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 15240
+      },
+      {
+        "name": "scormcontent/locales/und.js",
+        "size": 35467
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 35,
+    "id": 18,
+    "name": "2. Lecture Video",
+    "packageSize": 388103582,
+    "rise": true,
+    "path": "moodle/scorm/18",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 4532
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.1 V2.1.jpg",
+        "size": 343322
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.1 V2.1.mp4",
+        "size": 101180604
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.1 V2.1.mp4.vtt",
+        "size": 8499
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.2 V2.1.jpg",
+        "size": 281111
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.2 V2.1.mp4",
+        "size": 87203287
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.2 V2.1.mp4.vtt",
+        "size": 7326
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.3 V3.jpg",
+        "size": 281111
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.3 V3.mp4",
+        "size": 95588049
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.3 V3.mp4.vtt",
+        "size": 8331
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.4 V3.jpg",
+        "size": 281111
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.4 V3.mp4",
+        "size": 103848230
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.4 V3.mp4.vtt",
+        "size": 9901
+      },
+      {
+        "name": "scormcontent/assets/ew_tZbkE4grZbHVU.jpg",
+        "size": 33043
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 15248
+      },
+      {
+        "name": "scormcontent/locales/und.js",
+        "size": 77439
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 35,
+    "id": 19,
+    "name": "3. Lecture Video",
+    "packageSize": 389783395,
+    "rise": true,
+    "path": "moodle/scorm/19",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 4572
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.1 V2.1.jpg",
+        "size": 281111
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.1 V2.1.mp4",
+        "size": 120612069
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.1 V2.1.mp4.vtt",
+        "size": 10933
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.2 V3.jpg",
+        "size": 281111
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.2 V3.mp4",
+        "size": 104444303
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.2 V3.mp4.vtt",
+        "size": 10066
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.3 V2.1.jpg",
+        "size": 281111
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.3 V2.1.mp4",
+        "size": 90655978
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.3 V2.1.mp4.vtt",
+        "size": 7368
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.4 V3.jpg",
+        "size": 343322
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.4 V3.mp4",
+        "size": 73356363
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.4 V3.mp4.vtt",
+        "size": 6394
+      },
+      {
+        "name": "scormcontent/assets/4TFqStQNuoDKnchi.jpg",
+        "size": 33043
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 15268
+      },
+      {
+        "name": "scormcontent/locales/und.js",
+        "size": 77271
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 35,
+    "id": 20,
+    "name": "4. Lecture Video",
+    "packageSize": 285367908,
+    "rise": true,
+    "path": "moodle/scorm/20",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 4550
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.1 v3.1.jpg",
+        "size": 343322
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.1 v3.1.mp4",
+        "size": 79434974
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.1 v3.1.mp4.vtt",
+        "size": 7383
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.2 V2.2.jpg",
+        "size": 301357
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.2 V2.2.mp4",
+        "size": 54379372
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.2 V2.2.mp4.vtt",
+        "size": 3926
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.3 v2.1.jpg",
+        "size": 301357
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.3 v2.1.mp4",
+        "size": 89995278
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.3 v2.1.mp4.vtt",
+        "size": 6218
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.4 V2.1.jpg",
+        "size": 301357
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.4 V2.1.mp4",
+        "size": 59857105
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.4 V2.1.mp4.vtt",
+        "size": 4742
+      },
+      {
+        "name": "scormcontent/assets/hipIINK7P8uRaJpu.jpg",
+        "size": 33043
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 15251
+      },
+      {
+        "name": "scormcontent/locales/und.js",
+        "size": 74727
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 35,
+    "id": 21,
+    "name": "5. Lecture Video",
+    "packageSize": 409959954,
+    "rise": true,
+    "path": "moodle/scorm/21",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 4560
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.1 V2.1.jpg",
+        "size": 343322
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.1 V2.1.mp4",
+        "size": 91223574
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.1 V2.1.mp4.vtt",
+        "size": 7620
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.2 V2.2.jpg",
+        "size": 301357
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.2 V2.2.mp4",
+        "size": 95972399
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.2 V2.2.mp4.vtt",
+        "size": 7361
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.3 V2.2.jpg",
+        "size": 301357
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.3 V2.2.mp4",
+        "size": 104974924
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.3 V2.2.mp4.vtt",
+        "size": 10679
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.4 V3.jpg",
+        "size": 301357
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.4 V3.mp4",
+        "size": 117327607
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.4 V3.mp4.vtt",
+        "size": 7479
+      },
+      {
+        "name": "scormcontent/assets/X--WVyLe-Bv8LkcQVR.jpg",
+        "size": 33043
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 15258
+      },
+      {
+        "name": "scormcontent/locales/und.js",
+        "size": 70715
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 35,
+    "id": 22,
+    "name": "6. Lecture Video",
+    "packageSize": 455053499,
+    "rise": true,
+    "path": "moodle/scorm/22",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 4744
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.1 V3.jpg",
+        "size": 359143
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.1 V3.mp4",
+        "size": 74903955
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.1 V3.mp4.vtt",
+        "size": 6447
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.2 V3.jpg",
+        "size": 359143
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.2 V3.mp4",
+        "size": 122062622
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.2 V3.mp4.vtt",
+        "size": 7777
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.3 V3.jpg",
+        "size": 359143
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.3 V3.mp4",
+        "size": 80563275
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.3 V3.mp4.vtt",
+        "size": 6081
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.4 v3.jpg",
+        "size": 359143
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.4 v3.mp4",
+        "size": 77586594
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.4 v3.mp4.vtt",
+        "size": 5737
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.5 v3.jpg",
+        "size": 359143
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.5 v3.mp4",
+        "size": 98138539
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.5 v3.mp4.vtt",
+        "size": 8365
+      },
+      {
+        "name": "scormcontent/assets/4ztN-Z6yLR9bKnjR.jpg",
+        "size": 33043
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 15259
+      },
+      {
+        "name": "scormcontent/locales/und.js",
+        "size": 88687
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 35,
+    "id": 23,
+    "name": "7. Lecture Video",
+    "packageSize": 47972383,
+    "rise": true,
+    "path": "moodle/scorm/23",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 3898
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 7.1 v3.jpg",
+        "size": 343322
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 7.1 v3.mp4",
+        "size": 45623400
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 7.1 v3.mp4.vtt",
+        "size": 4068
+      },
+      {
+        "name": "scormcontent/assets/QCOyekeT-KNn_EFi.jpg",
+        "size": 33043
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 15240
+      },
+      {
+        "name": "scormcontent/locales/und.js",
+        "size": 33907
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 39,
+    "id": 52,
+    "name": "Course Overview",
+    "packageSize": 55201635,
+    "rise": true,
+    "path": "moodle/scorm/52",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 4752
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 364759
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 49774108
+      },
+      {
+        "name": "scormcontent/assets/Video 1 - 1.1 - .vtt",
+        "size": 3745
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 71617
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 39,
+    "id": 53,
+    "name": "Explaining Generative AI: What it is",
+    "packageSize": 222374749,
+    "rise": true,
+    "path": "moodle/scorm/53",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5397
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 594936
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 73897278
+      },
+      {
+        "name": "scormcontent/assets/CYX_XQ/2408GovLabAI 2026 Vide.jpg",
+        "size": 594936
+      },
+      {
+        "name": "scormcontent/assets/NtKtck/2408GovLabAI 2026 Vide.jpg",
+        "size": 594936
+      },
+      {
+        "name": "scormcontent/assets/Qf6I9e/2408GovLabAI 2026 Vide.mp4",
+        "size": 37139136
+      },
+      {
+        "name": "scormcontent/assets/Video 2 - 2.1 - .vtt",
+        "size": 5929
+      },
+      {
+        "name": "scormcontent/assets/Video 3 - 2.2 - .vtt",
+        "size": 4169
+      },
+      {
+        "name": "scormcontent/assets/Video 4 - 2.3 - .vtt",
+        "size": 4627
+      },
+      {
+        "name": "scormcontent/assets/Video 5 - 2.4 - .vtt",
+        "size": 2143
+      },
+      {
+        "name": "scormcontent/assets/iSJhSP/2408GovLabAI 2026 Vide.mp4",
+        "size": 58147306
+      },
+      {
+        "name": "scormcontent/assets/lgrGJO/2408GovLabAI 2026 Vide.mp4",
+        "size": 46975629
+      },
+      {
+        "name": "scormcontent/assets/t6qGia/2408GovLabAI 2026 Vide.jpg",
+        "size": 500150
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 144013
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 39,
+    "id": 54,
+    "name": "Effective use part 1: How Generative AI can help your day-to-day",
+    "packageSize": 152172067,
+    "rise": true,
+    "path": "moodle/scorm/54",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5397
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/1kcnky/2408GovLabAI 2026 Vide.jpg",
+        "size": 383
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 39541805
+      },
+      {
+        "name": "scormcontent/assets/BTF-DF/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/Video 6 - 3.1 - .vtt",
+        "size": 3396
+      },
+      {
+        "name": "scormcontent/assets/Video 7 - 3.2 - .vtt",
+        "size": 1810
+      },
+      {
+        "name": "scormcontent/assets/Video 8 - 3.3 - .vtt",
+        "size": 5858
+      },
+      {
+        "name": "scormcontent/assets/Video 9 - 3.4 - .vtt",
+        "size": 2714
+      },
+      {
+        "name": "scormcontent/assets/bV6g1g/2408GovLabAI 2026 Vide.mp4",
+        "size": 27684191
+      },
+      {
+        "name": "scormcontent/assets/jDNMNM/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/o_k0g3/2408GovLabAI 2026 Vide.mp4",
+        "size": 17601535
+      },
+      {
+        "name": "scormcontent/assets/wg33Z5/2408GovLabAI 2026 Vide.mp4",
+        "size": 61504792
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 142117
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 39,
+    "id": 55,
+    "name": "Effective use part 2: Generative AI best practices",
+    "packageSize": 127976985,
+    "rise": true,
+    "path": "moodle/scorm/55",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5377
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/0cO1rN/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 14785640
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 1_ .jpg",
+        "size": 368
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 1_ .mp4",
+        "size": 6131686
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 1_ .vtt",
+        "size": 2237
+      },
+      {
+        "name": "scormcontent/assets/DtFLLm/2408GovLabAI 2026 Vide.jpg",
+        "size": 602827
+      },
+      {
+        "name": "scormcontent/assets/Video 10 - 4.1 -.vtt",
+        "size": 1151
+      },
+      {
+        "name": "scormcontent/assets/Video 11 - 4.2 -.vtt",
+        "size": 3081
+      },
+      {
+        "name": "scormcontent/assets/Video 12 - 4.3 -.vtt",
+        "size": 4980
+      },
+      {
+        "name": "scormcontent/assets/YjuIWa/2408GovLabAI 2026 Vide.mp4",
+        "size": 31924345
+      },
+      {
+        "name": "scormcontent/assets/sNVz33/2408GovLabAI 2026 Vide.mp4",
+        "size": 69181067
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 111553
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 40,
+    "id": 56,
+    "name": "Overcoming risks: Your individual use",
+    "packageSize": 257327761,
+    "rise": true,
+    "path": "moodle/scorm/56",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5680
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 635194
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 28060973
+      },
+      {
+        "name": "scormcontent/assets/7UpbCO/2408GovLabAI 2026 Vide.jpg",
+        "size": 576568
+      },
+      {
+        "name": "scormcontent/assets/BkDbxZ/2408GovLabAI 2026 Vide.jpg",
+        "size": 634513
+      },
+      {
+        "name": "scormcontent/assets/DLuduN/2408GovLabAI 2026 Vide.mp4",
+        "size": 62582064
+      },
+      {
+        "name": "scormcontent/assets/GsRasG/2408GovLabAI 2026 Vide.jpg",
+        "size": 635194
+      },
+      {
+        "name": "scormcontent/assets/SxVA6O/2408GovLabAI 2026 Vide.jpg",
+        "size": 563060
+      },
+      {
+        "name": "scormcontent/assets/TX3Btn/2408GovLabAI 2026 Vide.mp4",
+        "size": 54574530
+      },
+      {
+        "name": "scormcontent/assets/UuYuhs/2408GovLabAI 2026 Vide.mp4",
+        "size": 67554245
+      },
+      {
+        "name": "scormcontent/assets/Video 13 - 5.1 -.vtt",
+        "size": 1615
+      },
+      {
+        "name": "scormcontent/assets/Video 14 - 5.2 -.vtt",
+        "size": 3117
+      },
+      {
+        "name": "scormcontent/assets/Video 15 - 5.3 -.vtt",
+        "size": 3685
+      },
+      {
+        "name": "scormcontent/assets/Video 16 - 5.4 -.vtt",
+        "size": 4600
+      },
+      {
+        "name": "scormcontent/assets/Video 17 - 5.5 -.vtt",
+        "size": 5251
+      },
+      {
+        "name": "scormcontent/assets/rIuliI/2408GovLabAI 2026 Vide.mp4",
+        "size": 37643531
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 156964
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 40,
+    "id": 57,
+    "name": "Societal Challenges",
+    "packageSize": 251056055,
+    "rise": true,
+    "path": "moodle/scorm/57",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5218
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/1JnuPW/2408GovLabAI 2026 Vide.jpg",
+        "size": 563060
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 563060
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 47822949
+      },
+      {
+        "name": "scormcontent/assets/FAIRct/2408GovLabAI 2026 Vide.jpg",
+        "size": 576568
+      },
+      {
+        "name": "scormcontent/assets/N59bzN/2408GovLabAI 2026 Vide.mp4",
+        "size": 96013153
+      },
+      {
+        "name": "scormcontent/assets/Video 18 - 6.1 -.vtt",
+        "size": 3516
+      },
+      {
+        "name": "scormcontent/assets/Video 19 - 6.2 -.vtt",
+        "size": 6714
+      },
+      {
+        "name": "scormcontent/assets/Video 20 - 6.3 -.vtt",
+        "size": 6911
+      },
+      {
+        "name": "scormcontent/assets/XSQwn3/2408GovLabAI 2026 Vide.mp4",
+        "size": 101488024
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 127782
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 40,
+    "id": 59,
+    "name": "Course Conclusion",
+    "packageSize": 46840728,
+    "rise": true,
+    "path": "moodle/scorm/59",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 4774
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.jpg",
+        "size": 635194
+      },
+      {
+        "name": "scormcontent/assets/2408GovLabAI 2026 Vide.mp4",
+        "size": 41224188
+      },
+      {
+        "name": "scormcontent/assets/Video 21 - 7.1 -.vtt",
+        "size": 2979
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 61513
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 41,
+    "id": 35,
+    "name": "Designing AI Projects in Government",
+    "packageSize": 833618360,
+    "rise": true,
+    "path": "moodle/scorm/35",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5741
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.1 V2.1.mp4.vtt",
+        "size": 8499
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.2 V2.1.mp4.vtt",
+        "size": 7326
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.3 V3.mp4.vtt",
+        "size": 8331
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 2.4 V3.mp4.vtt",
+        "size": 9901
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.1 V2.1.mp4.vtt",
+        "size": 10933
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.2 V3.mp4.vtt",
+        "size": 10066
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.3 V2.1.mp4.vtt",
+        "size": 7368
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 3.4 V3.mp4.vtt",
+        "size": 6394
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 3_ Conclusion.jpg",
+        "size": 368
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 3_ Conclusion.mp4",
+        "size": 4956128
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 3_ Conclusion.vtt",
+        "size": 1895
+      },
+      {
+        "name": "scormcontent/assets/Video1.1.jpg",
+        "size": 447842
+      },
+      {
+        "name": "scormcontent/assets/Video1.1.mp4",
+        "size": 53161679
+      },
+      {
+        "name": "scormcontent/assets/Video1.1_otter_ai-3.vtt",
+        "size": 3793
+      },
+      {
+        "name": "scormcontent/assets/Video2.1.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video2.1.mp4",
+        "size": 101978140
+      },
+      {
+        "name": "scormcontent/assets/Video2.2.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video2.2.mp4",
+        "size": 88108954
+      },
+      {
+        "name": "scormcontent/assets/Video2.3.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video2.3.mp4",
+        "size": 93792666
+      },
+      {
+        "name": "scormcontent/assets/Video2.4.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video2.4.mp4",
+        "size": 102735307
+      },
+      {
+        "name": "scormcontent/assets/Video3.1.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video3.1.mp4",
+        "size": 120358563
+      },
+      {
+        "name": "scormcontent/assets/Video3.2.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video3.2.mp4",
+        "size": 104104385
+      },
+      {
+        "name": "scormcontent/assets/Video3.3.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video3.3.mp4",
+        "size": 88524031
+      },
+      {
+        "name": "scormcontent/assets/Video3.4.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video3.4.mp4",
+        "size": 71947483
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 17464
+      },
+      {
+        "name": "scormcontent/locales/und.js",
+        "size": 156771
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 42,
+    "id": 36,
+    "name": "Implementing AI Projects in Government",
+    "packageSize": 1131227391,
+    "rise": true,
+    "path": "moodle/scorm/36",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 6420
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.2 V2.2.mp4.vtt",
+        "size": 3926
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.3 v2.1.mp4.vtt",
+        "size": 6218
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 4.4 V2.1.mp4.vtt",
+        "size": 4742
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.1 V2.1.mp4.vtt",
+        "size": 7620
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.2 V2.2.mp4.vtt",
+        "size": 7361
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.3 V2.2.mp4.vtt",
+        "size": 10679
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 5.4 V3.mp4.vtt",
+        "size": 7479
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.1 V3.mp4.vtt",
+        "size": 6447
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.2 V3.mp4.vtt",
+        "size": 7777
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.3 V3.mp4.vtt",
+        "size": 6081
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.4 v3.mp4.vtt",
+        "size": 5737
+      },
+      {
+        "name": "scormcontent/assets/2425GovLabAIP2 6.5 v3.mp4.vtt",
+        "size": 8365
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 4_ Conclusion.jpg",
+        "size": 368
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 4_ Conclusion.mp4",
+        "size": 3464678
+      },
+      {
+        "name": "scormcontent/assets/AI Basics Part 4_ Conclusion.vtt",
+        "size": 1160
+      },
+      {
+        "name": "scormcontent/assets/Video2.1.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video2.1.mp4",
+        "size": 78103893
+      },
+      {
+        "name": "scormcontent/assets/Video2.1_otter_ai.vtt",
+        "size": 7647
+      },
+      {
+        "name": "scormcontent/assets/Video2.2.jpg",
+        "size": 466162
+      },
+      {
+        "name": "scormcontent/assets/Video2.2.mp4",
+        "size": 55075511
+      },
+      {
+        "name": "scormcontent/assets/Video2.3.jpg",
+        "size": 466162
+      },
+      {
+        "name": "scormcontent/assets/Video2.3.mp4",
+        "size": 88294362
+      },
+      {
+        "name": "scormcontent/assets/Video2.4.jpg",
+        "size": 466162
+      },
+      {
+        "name": "scormcontent/assets/Video2.4.mp4",
+        "size": 58285258
+      },
+      {
+        "name": "scormcontent/assets/Video3.1.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video3.1.mp4",
+        "size": 89854999
+      },
+      {
+        "name": "scormcontent/assets/Video3.2.jpg",
+        "size": 466162
+      },
+      {
+        "name": "scormcontent/assets/Video3.2.mp4",
+        "size": 93816822
+      },
+      {
+        "name": "scormcontent/assets/Video3.3.jpg",
+        "size": 466162
+      },
+      {
+        "name": "scormcontent/assets/Video3.3.mp4",
+        "size": 103712602
+      },
+      {
+        "name": "scormcontent/assets/Video3.4.jpg",
+        "size": 466162
+      },
+      {
+        "name": "scormcontent/assets/Video3.4.mp4",
+        "size": 116158728
+      },
+      {
+        "name": "scormcontent/assets/Video4.1.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video4.1.mp4",
+        "size": 72951827
+      },
+      {
+        "name": "scormcontent/assets/Video4.2.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video4.2.mp4",
+        "size": 116962677
+      },
+      {
+        "name": "scormcontent/assets/Video4.3.jpg",
+        "size": 493985
+      },
+      {
+        "name": "scormcontent/assets/Video4.3.mp4",
+        "size": 77790912
+      },
+      {
+        "name": "scormcontent/assets/Video4.4.jpg",
+        "size": 466162
+      },
+      {
+        "name": "scormcontent/assets/Video4.4.mp4",
+        "size": 75435385
+      },
+      {
+        "name": "scormcontent/assets/Video4.5.jpg",
+        "size": 466162
+      },
+      {
+        "name": "scormcontent/assets/Video4.5.mp4",
+        "size": 96040907
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 18745
+      },
+      {
+        "name": "scormcontent/locales/en.js",
+        "size": 206730
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 44,
+    "id": 44,
+    "name": "Everyday Tools and Best Practices",
+    "packageSize": 1460077804,
+    "rise": true,
+    "path": "moodle/scorm/44",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 8547
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.1 v2.jpg",
+        "size": 146384
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.1 v2.mp4",
+        "size": 69481022
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.1.1 v2.vtt",
+        "size": 5216
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.1 v2.jpg",
+        "size": 151043
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.1 v2.mp4",
+        "size": 59824457
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.1 v2.vtt",
+        "size": 4822
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.2 v2.jpg",
+        "size": 153082
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.2 v2.mp4",
+        "size": 51405014
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.2 v2.vtt",
+        "size": 5160
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.3 v2.jpg",
+        "size": 151043
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.3 v2.mp4",
+        "size": 74809388
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.3 v2.vtt",
+        "size": 5346
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.4 v2.jpg",
+        "size": 137099
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.4 v2.mp4",
+        "size": 79132202
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.4 v2.vtt",
+        "size": 6756
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.5 v2.jpg",
+        "size": 241720
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.5 v2.mp4",
+        "size": 68150362
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.2.5 v2.vtt",
+        "size": 6109
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.1 v2.jpg",
+        "size": 143585
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.1 v2.mp4",
+        "size": 35544528
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.1 v2.vtt",
+        "size": 2605
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.2 v2.jpg",
+        "size": 159274
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.2 v2.mp4",
+        "size": 101260648
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.2 v2.vtt",
+        "size": 5453
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.3 v2.jpg",
+        "size": 143173
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.3 v2.mp4",
+        "size": 77590714
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.3 v2.vtt",
+        "size": 7629
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.4 v2.jpg",
+        "size": 146384
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.4 v2.mp4",
+        "size": 122230907
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.4 v2.vtt",
+        "size": 8394
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.5 v2.jpg",
+        "size": 151043
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.5 v2.mp4",
+        "size": 65456290
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.3.5 v2.vtt",
+        "size": 5774
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.1 v2.jpg",
+        "size": 137604
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.1 v2.mp4",
+        "size": 75862563
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.1 v2.vtt",
+        "size": 7717
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.2 v2.jpg",
+        "size": 149250
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.2 v2.mp4",
+        "size": 107031335
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.2 v2.vtt",
+        "size": 7061
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.3 v2.jpg",
+        "size": 134918
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.3 v2.mp4",
+        "size": 55949595
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.3 v2.vtt",
+        "size": 6062
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.4 v2.jpg",
+        "size": 148106
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.4 v2.mp4",
+        "size": 47518750
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.4.4 v2.vtt",
+        "size": 4294
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.1 v2.jpg",
+        "size": 148106
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.1 v2.mp4",
+        "size": 26754277
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.1 v2.vtt",
+        "size": 2376
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.2 v2.jpg",
+        "size": 146664
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.2 v2.mp4",
+        "size": 82758591
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.2 v2.vtt",
+        "size": 8323
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.3 v2.jpg",
+        "size": 151043
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.3 v2.mp4",
+        "size": 71231136
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.3 v2.vtt",
+        "size": 5587
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.4 v2.jpg",
+        "size": 137604
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.4 v2.mp4",
+        "size": 112091990
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.5.4 v2.vtt",
+        "size": 11116
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.6.1 v2.jpg",
+        "size": 151043
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.6.1 v2.mp4",
+        "size": 76588325
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 1.6.1 v2.vtt",
+        "size": 5706
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 18753
+      },
+      {
+        "name": "scormcontent/locales/en.js",
+        "size": 316890
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 45,
+    "id": 45,
+    "name": "Designing AI Policy, Projects and Societal Impact",
+    "packageSize": 1416909406,
+    "rise": true,
+    "path": "moodle/scorm/45",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 7306
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4258
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.1.1 v2.jpg",
+        "size": 142568
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.1.1 v2.mp4",
+        "size": 81300311
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.1.1 v2.vtt",
+        "size": 5176
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.1 v2.jpg",
+        "size": 143585
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.1 v2.mp4",
+        "size": 30650925
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.1 v2.vtt",
+        "size": 1719
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.2 v2.jpg",
+        "size": 142568
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.2 v2.mp4",
+        "size": 140466935
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.2 v2.vtt",
+        "size": 7340
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.3 v2.jpg",
+        "size": 143585
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.3 v2.mp4",
+        "size": 150114671
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.3 v2.vtt",
+        "size": 9719
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.4 v2.jpg",
+        "size": 228
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.4 v2.mp4",
+        "size": 150795125
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.2.4 v2.vtt",
+        "size": 8567
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.1 v2.jpg",
+        "size": 149827
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.1 v2.mp4",
+        "size": 82557017
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.1 v2.vtt",
+        "size": 8422
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.2 v2.jpg",
+        "size": 146384
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.2 v2.mp4",
+        "size": 68526844
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.2 v2.vtt",
+        "size": 5351
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.3 v2.jpg",
+        "size": 142568
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.3 v2.mp4",
+        "size": 43378985
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.3 v2.vtt",
+        "size": 2532
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.4 v2.jpg",
+        "size": 143585
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.4 v2.mp4",
+        "size": 63920370
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.3.4 v2.vtt",
+        "size": 4530
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.1 v2.jpg",
+        "size": 143585
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.1 v2.mp4",
+        "size": 43792828
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.1 v2.vtt",
+        "size": 2696
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.2 v2.jpg",
+        "size": 143585
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.2 v2.mp4",
+        "size": 68580568
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.2 v2.vtt",
+        "size": 4537
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.3 v2.jpg",
+        "size": 146664
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.3 v2.mp4",
+        "size": 70059994
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.3 v2.vtt",
+        "size": 6410
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.4 v2.jpg",
+        "size": 146384
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.4 v2.mp4",
+        "size": 57173831
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.4.4 v2.vtt",
+        "size": 3833
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.5.1 v2.jpg",
+        "size": 151043
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.5.1 v2.mp4",
+        "size": 285922781
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.5.1 v2.vtt",
+        "size": 18107
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.6.1 v2.jpg",
+        "size": 142568
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.6.1 v2.mp4",
+        "size": 77888334
+      },
+      {
+        "name": "scormcontent/assets/2501GovLab Module 2.6.1 v2.vtt",
+        "size": 5588
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 18731
+      },
+      {
+        "name": "scormcontent/locales/en.js",
+        "size": 235714
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 80,
+    "name": "Video 1 – Why Engagement Matters Today",
+    "packageSize": 99437265,
+    "rise": true,
+    "path": "moodle/scorm/80",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5737
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 01 v5.jpg",
+        "size": 632154
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 01 v5.mp4",
+        "size": 94869491
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 01 v5.vtt",
+        "size": 9732
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 977
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 67166
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 81,
+    "name": "Video 2 – A Checklist for Planning Your Engagement",
+    "packageSize": 65233951,
+    "rise": true,
+    "path": "moodle/scorm/81",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5763
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 02 v5.jpg",
+        "size": 664954
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 02 v5.mp4",
+        "size": 60306775
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 02 v5.vtt",
+        "size": 4183
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 937
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 58042
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 82,
+    "name": "Video 3 – Defining Goals for Engagement and Action",
+    "packageSize": 138849181,
+    "rise": true,
+    "path": "moodle/scorm/82",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5761
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 03 v5.jpg",
+        "size": 432306
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 03 v5.mp4",
+        "size": 134678783
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 03 v5.vtt",
+        "size": 13335
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 936
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 63090
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 83,
+    "name": "Video 4 – Ensuring Ownership, Accountability and Action",
+    "packageSize": 105069065,
+    "rise": true,
+    "path": "moodle/scorm/83",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5773
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 04 V5.jpg",
+        "size": 447876
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 04 V5.mp4",
+        "size": 100502179
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 04 V5.vtt",
+        "size": 8468
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 942
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 62122
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 84,
+    "name": "Video 5: Identifying Participants",
+    "packageSize": 103351886,
+    "rise": true,
+    "path": "moodle/scorm/84",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5729
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 05 v5.jpg",
+        "size": 691853
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 05 v5.mp4",
+        "size": 98788431
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 05 v5.vtt",
+        "size": 8452
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 920
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 63686
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 85,
+    "name": "Video 6 – Designing Outreach Strategies",
+    "packageSize": 105785059,
+    "rise": true,
+    "path": "moodle/scorm/85",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5739
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 06 v5.jpg",
+        "size": 684054
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 06 v5.mp4",
+        "size": 101132117
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 06 v5.vtt",
+        "size": 9461
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 925
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 63090
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 86,
+    "name": "Video 7 – Designing Incentives for Participation",
+    "packageSize": 112068734,
+    "rise": true,
+    "path": "moodle/scorm/86",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5759
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 07 V5.jpg",
+        "size": 632154
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 07 V5.mp4",
+        "size": 107523311
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 07 V5.vtt",
+        "size": 8498
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 935
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 63470
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 87,
+    "name": "Video 8 – Designing the Tasks: What You Ask Participants to Do",
+    "packageSize": 155376683,
+    "rise": true,
+    "path": "moodle/scorm/87",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5785
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 08 V5.jpg",
+        "size": 684054
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 08 V5.mp4",
+        "size": 151507550
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 08 V5.vtt",
+        "size": 16050
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 948
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 72182
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 88,
+    "name": "Video 9 – Reviewing Inputs",
+    "packageSize": 130773467,
+    "rise": true,
+    "path": "moodle/scorm/88",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5713
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 09 v5.jpg",
+        "size": 691853
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 09 v5.mp4",
+        "size": 126893291
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 09 v5.vtt",
+        "size": 12991
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 912
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 65126
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 89,
+    "name": "Video 10 – Using What the Group Creates",
+    "packageSize": 146955443,
+    "rise": true,
+    "path": "moodle/scorm/89",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5739
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 10 v5.jpg",
+        "size": 659005
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 10 v5.mp4",
+        "size": 142475928
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 10 v5.vtt",
+        "size": 12400
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 925
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 66810
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 90,
+    "name": "Video 11 – Designing Your Project Plan",
+    "packageSize": 118669824,
+    "rise": true,
+    "path": "moodle/scorm/90",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5737
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 11 v5.jpg",
+        "size": 684054
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 11 v5.mp4",
+        "size": 114444056
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 11 v5.vtt",
+        "size": 10585
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 924
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 66282
+      }
+    ]
+  },
+  {
+    "kind": "scorm",
+    "course": 46,
+    "id": 91,
+    "name": "Video 12: Conclusion",
+    "packageSize": 25999582,
+    "rise": true,
+    "path": "moodle/scorm/91",
+    "files": [
+      {
+        "name": "imsmanifest.xml",
+        "size": 5703
+      },
+      {
+        "name": "metadata.xml",
+        "size": 4146
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 12 V5.jpg",
+        "size": 664954
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 12 V5.mp4",
+        "size": 20869648
+      },
+      {
+        "name": "scormcontent/assets/2625GovLab Public Engagement Video 12 V5.vtt",
+        "size": 2374
+      },
+      {
+        "name": "scormcontent/index.html",
+        "size": 907
+      },
+      {
+        "name": "scormcontent/runtime-data.js",
+        "size": 43694
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 67,
+    "name": "Innovation Pathways",
+    "packageSize": 29323957,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/67",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3290
+      },
+      {
+        "name": "content/files/track-63f854b0b465e.vtt",
+        "size": 10700
+      },
+      {
+        "name": "content/videos/files-63f8549971a4e.mp4",
+        "size": 26595231
+      },
+      {
+        "name": "h5p.json",
+        "size": 1014
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 68,
+    "name": "Overview of public problem solving skills",
+    "packageSize": 14523996,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/68",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3306
+      },
+      {
+        "name": "content/files/track-63f8523aebecd.vtt",
+        "size": 5224
+      },
+      {
+        "name": "content/videos/files-63f8522b32aa8.mp4",
+        "size": 11618901
+      },
+      {
+        "name": "h5p.json",
+        "size": 1028
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 69,
+    "name": "Video 2.1: Why Problem Definition Matters",
+    "packageSize": 62925214,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/69",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10587
+      },
+      {
+        "name": "content/files/track-63d0aa49685b3.vtt",
+        "size": 9942
+      },
+      {
+        "name": "content/videos/files-63cb2a88bc325.mp4",
+        "size": 60682305
+      },
+      {
+        "name": "h5p.json",
+        "size": 1174
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 70,
+    "name": "Video 2.2: How to engage in effective problem solving",
+    "packageSize": 97370201,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/70",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 11297
+      },
+      {
+        "name": "content/files/track-63d0c46debfc6.vtt",
+        "size": 11238
+      },
+      {
+        "name": "content/videos/files-63cb118f75a32.mp4",
+        "size": 95463485
+      },
+      {
+        "name": "h5p.json",
+        "size": 1176
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 71,
+    "name": "Video 2.3: What is Problem Definition",
+    "packageSize": 54633132,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/71",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10617
+      },
+      {
+        "name": "content/files/track-63d0cf9c6cec8.vtt",
+        "size": 9362
+      },
+      {
+        "name": "content/videos/files-63cb2e5dbca4d.mp4",
+        "size": 52324373
+      },
+      {
+        "name": "h5p.json",
+        "size": 1171
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 72,
+    "name": "Video 3.1: Why is Human Centered Design Important?",
+    "packageSize": 67620467,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/72",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10528
+      },
+      {
+        "name": "content/files/track-63d1221d8b93e.vtt",
+        "size": 9614
+      },
+      {
+        "name": "content/videos/files-63cb2f49c25d3.mp4",
+        "size": 64912754
+      },
+      {
+        "name": "h5p.json",
+        "size": 1173
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 73,
+    "name": "Video 3.2: How to use Human Centered Design to Define a Problem",
+    "packageSize": 70765464,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/73",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10789
+      },
+      {
+        "name": "content/files/track-63d1223bad1a1.vtt",
+        "size": 10061
+      },
+      {
+        "name": "content/videos/files-63cb3104c2666.mp4",
+        "size": 68149875
+      },
+      {
+        "name": "h5p.json",
+        "size": 1186
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 74,
+    "name": "Video 3.3: Risks and Limitations of Human Centered Design",
+    "packageSize": 96001954,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/74",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 11350
+      },
+      {
+        "name": "content/files/track-63d1225f08a10.vtt",
+        "size": 12538
+      },
+      {
+        "name": "content/videos/files-63f8c835d77d4.mp4",
+        "size": 93546296
+      },
+      {
+        "name": "h5p.json",
+        "size": 1110
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 75,
+    "name": "Video 4.1: Using data to define public problems",
+    "packageSize": 59528468,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/75",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10612
+      },
+      {
+        "name": "content/files/track-63d0aa98c7a01.vtt",
+        "size": 10865
+      },
+      {
+        "name": "content/videos/files-63cb33bfa23db.mp4",
+        "size": 56771377
+      },
+      {
+        "name": "h5p.json",
+        "size": 1170
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 76,
+    "name": "Video 4.2: Using Open Data",
+    "packageSize": 67796006,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/76",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 9425
+      },
+      {
+        "name": "content/files/track-63d122819778b.vtt",
+        "size": 8545
+      },
+      {
+        "name": "content/videos/files-63cb3553ad891.mp4",
+        "size": 65009208
+      },
+      {
+        "name": "h5p.json",
+        "size": 1149
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 77,
+    "name": "Video 4.3: Other Types of Data",
+    "packageSize": 60916987,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/77",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 11050
+      },
+      {
+        "name": "content/files/track-63d122a180f02.vtt",
+        "size": 8182
+      },
+      {
+        "name": "content/videos/files-63cb3726284a0.mp4",
+        "size": 58073982
+      },
+      {
+        "name": "h5p.json",
+        "size": 1083
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 78,
+    "name": "Video 4.4: Risks while using data",
+    "packageSize": 41231241,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/78",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10345
+      },
+      {
+        "name": "content/files/track-63d122c047b1f.vtt",
+        "size": 7036
+      },
+      {
+        "name": "content/videos/files-63cb37cd4bbc4.mp4",
+        "size": 38285785
+      },
+      {
+        "name": "h5p.json",
+        "size": 1156
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 81,
+    "name": "Video 5.1 Traditional Tools for Public Problem Solving",
+    "packageSize": 53151222,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/81",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 6780
+      },
+      {
+        "name": "content/files/track-640e53b61c116.vtt",
+        "size": 5258
+      },
+      {
+        "name": "content/videos/files-6408cfcc16f0b.mp4",
+        "size": 53894641
+      },
+      {
+        "name": "h5p.json",
+        "size": 1254
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 82,
+    "name": "Video 5.2 Expanding Your Solutions Toolkit",
+    "packageSize": 91831014,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/82",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 9433
+      },
+      {
+        "name": "content/files/track-640e57b1eb1ee.vtt",
+        "size": 15554
+      },
+      {
+        "name": "content/videos/files-6408fa12473b0.mp4",
+        "size": 89551382
+      },
+      {
+        "name": "h5p.json",
+        "size": 1315
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 83,
+    "name": "Video 6.1: Introduction to Collective Intelligence",
+    "packageSize": 75976357,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/83",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8806
+      },
+      {
+        "name": "content/files/track-640e6cd410ef3.vtt",
+        "size": 11347
+      },
+      {
+        "name": "content/videos/files-64090c4a5eedf.mp4",
+        "size": 73493310
+      },
+      {
+        "name": "h5p.json",
+        "size": 1249
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 84,
+    "name": "Video 6.2: Collective Intelligence in Practice",
+    "packageSize": 76527220,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/84",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 9718
+      },
+      {
+        "name": "content/files/track-640e84b140d15.vtt",
+        "size": 9388
+      },
+      {
+        "name": "content/videos/files-64090f308782f.mp4",
+        "size": 81014897
+      },
+      {
+        "name": "h5p.json",
+        "size": 1319
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 85,
+    "name": "Video 7.1: A Checklist for Equitable Engagement  [Part 1]",
+    "packageSize": 100029654,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/85",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8709
+      },
+      {
+        "name": "content/files/track-640e856fc580f.vtt",
+        "size": 15171
+      },
+      {
+        "name": "content/videos/files-6409d16a1bcf2.mp4",
+        "size": 97764693
+      },
+      {
+        "name": "h5p.json",
+        "size": 1253
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 86,
+    "name": "Video 7.2: A Checklist for Equitable Engagement [Part 2]",
+    "packageSize": 68021775,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/86",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 9657
+      },
+      {
+        "name": "content/files/track-640e85b393ba0.vtt",
+        "size": 7453
+      },
+      {
+        "name": "content/videos/files-6409d31b75be4.mp4",
+        "size": 73474567
+      },
+      {
+        "name": "h5p.json",
+        "size": 1183
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 87,
+    "name": "Video 8.1: Introduction to Fast Field Scanning",
+    "packageSize": 85944009,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/87",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 11187
+      },
+      {
+        "name": "content/files/track-640e85d7ebe6d.vtt",
+        "size": 13879
+      },
+      {
+        "name": "content/videos/files-6409da2777074.mp4",
+        "size": 83706327
+      },
+      {
+        "name": "h5p.json",
+        "size": 1173
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 88,
+    "name": "Video 8.2: Fast Field Scanning Part 2",
+    "packageSize": 54054976,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/88",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8982
+      },
+      {
+        "name": "content/files/track-640e864a4ee8f.vtt",
+        "size": 10372
+      },
+      {
+        "name": "content/videos/files-6409dbc34945c.mp4",
+        "size": 51489472
+      },
+      {
+        "name": "h5p.json",
+        "size": 1231
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 89,
+    "name": "Video 9.1: Introduction to Behavioral Insights",
+    "packageSize": 16376761,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/89",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 7059
+      },
+      {
+        "name": "content/files/track-640e8682409fe.vtt",
+        "size": 4865
+      },
+      {
+        "name": "content/videos/files-6409dde535607.mp4",
+        "size": 13434342
+      },
+      {
+        "name": "h5p.json",
+        "size": 1245
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 90,
+    "name": "Video 9.2: Designing Your Own Behavioral Insights Program",
+    "packageSize": 79519542,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/90",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 9837
+      },
+      {
+        "name": "content/files/track-640e86a6d7918.vtt",
+        "size": 15414
+      },
+      {
+        "name": "content/videos/files-640b852a03a53.mp4",
+        "size": 77846517
+      },
+      {
+        "name": "h5p.json",
+        "size": 1329
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 91,
+    "name": "Video 10.1: Big Data and Artificial Intelligence",
+    "packageSize": 35938581,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/91",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8727
+      },
+      {
+        "name": "content/files/track-640e86c465bfc.vtt",
+        "size": 10769
+      },
+      {
+        "name": "content/videos/files-6409e57d19b52.mp4",
+        "size": 33462017
+      },
+      {
+        "name": "h5p.json",
+        "size": 1247
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 92,
+    "name": "Video 10.2: Artificial Intelligence, Chatbots and Blockchain",
+    "packageSize": 30913875,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/92",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 9616
+      },
+      {
+        "name": "content/files/track-640e86ea93b24.vtt",
+        "size": 9808
+      },
+      {
+        "name": "content/videos/files-6409ec0bb398a.mp4",
+        "size": 28402662
+      },
+      {
+        "name": "h5p.json",
+        "size": 1307
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 93,
+    "name": "Video 11.1 Reasons to Partner",
+    "packageSize": 60757844,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/93",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8628
+      },
+      {
+        "name": "content/files/track-64596056c00b0.txt",
+        "size": 10674
+      },
+      {
+        "name": "content/videos/files-644fd64d85989.mp4",
+        "size": 57855784
+      },
+      {
+        "name": "h5p.json",
+        "size": 1168
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 94,
+    "name": "Video 11.2 Creating Effective Partnerships",
+    "packageSize": 59807118,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/94",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 9183
+      },
+      {
+        "name": "content/files/track-6459607d6cb85.txt",
+        "size": 11606
+      },
+      {
+        "name": "content/videos/files-644fd19dc027f.mp4",
+        "size": 57037588
+      },
+      {
+        "name": "h5p.json",
+        "size": 1216
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 95,
+    "name": "Video 12.1: Designing an implementation plan",
+    "packageSize": 66859512,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/95",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 6918
+      },
+      {
+        "name": "content/files/track-645960aa6da19.txt",
+        "size": 7703
+      },
+      {
+        "name": "content/videos/files-644ff70b3ab08.mp4",
+        "size": 68420466
+      },
+      {
+        "name": "h5p.json",
+        "size": 1216
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 96,
+    "name": "Video 12.2 Theory of Change and Logic Models",
+    "packageSize": 34694968,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/96",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8640
+      },
+      {
+        "name": "content/files/track-645960ca16e83.txt",
+        "size": 10972
+      },
+      {
+        "name": "content/videos/files-644ffb9aa65e9.mp4",
+        "size": 31869730
+      },
+      {
+        "name": "h5p.json",
+        "size": 1233
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 97,
+    "name": "Video 13.1: Why Memo Writing is So Important",
+    "packageSize": 35605082,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/97",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8948
+      },
+      {
+        "name": "content/files/track-645960e90e24c.txt",
+        "size": 8639
+      },
+      {
+        "name": "content/videos/files-644ffda16c4cf.mp4",
+        "size": 32474147
+      },
+      {
+        "name": "h5p.json",
+        "size": 1180
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 105,
+    "name": "Video 13.2: Going Through the Sections of Your Memo",
+    "packageSize": 63907190,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/105",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8755
+      },
+      {
+        "name": "content/files/track-6459610aa9e03.txt",
+        "size": 4980
+      },
+      {
+        "name": "content/videos/files-644fffd94432a.mp4",
+        "size": 63548571
+      },
+      {
+        "name": "h5p.json",
+        "size": 1240
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 98,
+    "name": "Video 14.1: Introduction to Pilots",
+    "packageSize": 45335621,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/98",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 7061
+      },
+      {
+        "name": "content/files/track-6459612d177ec.txt",
+        "size": 5214
+      },
+      {
+        "name": "content/videos/files-6450094d4eaca.mp4",
+        "size": 45292054
+      },
+      {
+        "name": "h5p.json",
+        "size": 1239
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 99,
+    "name": "Video 14.2 Why Pilots?",
+    "packageSize": 57971135,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/99",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 6961
+      },
+      {
+        "name": "content/files/track-6459614d3e5cf.txt",
+        "size": 5809
+      },
+      {
+        "name": "content/videos/files-64500357828e1.mp4",
+        "size": 59840669
+      },
+      {
+        "name": "h5p.json",
+        "size": 1227
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 100,
+    "name": "Video 14.3: Creating a Pilot",
+    "packageSize": 59381217,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/100",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8180
+      },
+      {
+        "name": "content/files/track-6459616dc8e9a.txt",
+        "size": 6987
+      },
+      {
+        "name": "content/videos/files-6450045306a00.mp4",
+        "size": 61730633
+      },
+      {
+        "name": "h5p.json",
+        "size": 1236
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 101,
+    "name": "Video 14.4: Risks",
+    "packageSize": 74887133,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/101",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 7108
+      },
+      {
+        "name": "content/files/track-6459618ae548f.txt",
+        "size": 8029
+      },
+      {
+        "name": "content/videos/files-645004c0f4093.mp4",
+        "size": 77931530
+      },
+      {
+        "name": "h5p.json",
+        "size": 1222
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 102,
+    "name": "Video 15.1: Introduction to Experiments",
+    "packageSize": 54831330,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/102",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 7814
+      },
+      {
+        "name": "content/files/track-645961c8801e0.txt",
+        "size": 6959
+      },
+      {
+        "name": "content/videos/files-645012ae8c31d.mp4",
+        "size": 55692213
+      },
+      {
+        "name": "h5p.json",
+        "size": 1172
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 103,
+    "name": "Video 15.2: Agile Approaches to Evaluation",
+    "packageSize": 68382650,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/103",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 7737
+      },
+      {
+        "name": "content/files/track-645961f40d917.txt",
+        "size": 7196
+      },
+      {
+        "name": "content/videos/files-645013d63c869.mp4",
+        "size": 70507292
+      },
+      {
+        "name": "h5p.json",
+        "size": 1175
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 31,
+    "id": 104,
+    "name": "Video 15.3: Measuring What Works",
+    "packageSize": 75474847,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/104",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 7053
+      },
+      {
+        "name": "content/files/track-6459621470d3c.txt",
+        "size": 7581
+      },
+      {
+        "name": "content/videos/files-6450150bbaeeb.mp4",
+        "size": 77462824
+      },
+      {
+        "name": "h5p.json",
+        "size": 1237
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 106,
+    "name": "Video 1.1:  Introduction to the Course",
+    "packageSize": 147218855,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/106",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3393
+      },
+      {
+        "name": "content/files/track-65aa558b607ab.vtt",
+        "size": 6509
+      },
+      {
+        "name": "content/videos/files-65b74e779f117.mp4",
+        "size": 143592154
+      },
+      {
+        "name": "h5p.json",
+        "size": 1024
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 107,
+    "name": "Video 1.2: Introduction to HCD",
+    "packageSize": 141296458,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/107",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3390
+      },
+      {
+        "name": "content/files/track-65aa58549ed25.vtt",
+        "size": 5347
+      },
+      {
+        "name": "content/videos/files-65b751a8e7637.mp4",
+        "size": 137692561
+      },
+      {
+        "name": "h5p.json",
+        "size": 1021
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 108,
+    "name": "Video 1.3: HCD Process Overview",
+    "packageSize": 177208724,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/108",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 16105
+      },
+      {
+        "name": "content/files/track-65aa590fd20d3.vtt",
+        "size": 7717
+      },
+      {
+        "name": "content/videos/files-65b751e42be49.mp4",
+        "size": 173657661
+      },
+      {
+        "name": "h5p.json",
+        "size": 1165
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 109,
+    "name": "Video 2.1: Empathize",
+    "packageSize": 80028699,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/109",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3383
+      },
+      {
+        "name": "content/files/track-65aa5b9616dfd.vtt",
+        "size": 3316
+      },
+      {
+        "name": "content/videos/files-65b7521bed133.mp4",
+        "size": 76117244
+      },
+      {
+        "name": "h5p.json",
+        "size": 1014
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 111,
+    "name": "Video 2.2: Problem Framing",
+    "packageSize": 117661983,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/111",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10499
+      },
+      {
+        "name": "content/files/track-65aa5bf4d2783.vtt",
+        "size": 5074
+      },
+      {
+        "name": "content/videos/files-65b75245b6198.mp4",
+        "size": 113826472
+      },
+      {
+        "name": "h5p.json",
+        "size": 1160
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 112,
+    "name": "Video 2.3: Tools for Problem Framing",
+    "packageSize": 138110098,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/112",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 9041
+      },
+      {
+        "name": "content/files/track-65aa5c5d11b8e.vtt",
+        "size": 6347
+      },
+      {
+        "name": "content/videos/files-65b7527117d79.mp4",
+        "size": 134466321
+      },
+      {
+        "name": "h5p.json",
+        "size": 1100
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 113,
+    "name": "Video 2.4: Stakeholder Mapping",
+    "packageSize": 171945014,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/113",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10834
+      },
+      {
+        "name": "content/files/track-65aa5cc28c6f2.vtt",
+        "size": 7477
+      },
+      {
+        "name": "content/videos/files-65b752a4b3cac.mp4",
+        "size": 167965262
+      },
+      {
+        "name": "h5p.json",
+        "size": 1164
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 114,
+    "name": "Video 2.5:  Empathy Interviews",
+    "packageSize": 165901306,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/114",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 14354
+      },
+      {
+        "name": "content/files/track-65aa5d5fa819c.vtt",
+        "size": 8248
+      },
+      {
+        "name": "content/videos/files-65b752fa5a71c.mp4",
+        "size": 161834674
+      },
+      {
+        "name": "h5p.json",
+        "size": 1093
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 115,
+    "name": "Video 2.6: Empathy Mapping",
+    "packageSize": 133521485,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/115",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8780
+      },
+      {
+        "name": "content/files/track-65aa5dd0428a1.vtt",
+        "size": 6468
+      },
+      {
+        "name": "content/videos/files-65b7532bd3e3d.mp4",
+        "size": 129738889
+      },
+      {
+        "name": "h5p.json",
+        "size": 1090
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 116,
+    "name": "Video 2.7: Journey Mapping",
+    "packageSize": 229137899,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/116",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10581
+      },
+      {
+        "name": "content/files/track-65aa5fdf577ac.vtt",
+        "size": 11874
+      },
+      {
+        "name": "content/videos/files-65b75363a8a9d.mp4",
+        "size": 225575870
+      },
+      {
+        "name": "h5p.json",
+        "size": 1160
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 117,
+    "name": "Video 3.1: Define",
+    "packageSize": 64222914,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/117",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3377
+      },
+      {
+        "name": "content/files/track-65aa61df55457.vtt",
+        "size": 2446
+      },
+      {
+        "name": "content/videos/files-65b7538f9c618.mp4",
+        "size": 60384297
+      },
+      {
+        "name": "h5p.json",
+        "size": 1008
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 118,
+    "name": "Video 3.2: Data Synthesis",
+    "packageSize": 157206976,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/118",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 13046
+      },
+      {
+        "name": "content/files/track-65aa621c7863e.vtt",
+        "size": 8801
+      },
+      {
+        "name": "content/videos/files-65b753baad25c.mp4",
+        "size": 153416359
+      },
+      {
+        "name": "h5p.json",
+        "size": 1159
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 119,
+    "name": "Video 3.3: How Might We Questions",
+    "packageSize": 164481219,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/119",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 12001
+      },
+      {
+        "name": "content/files/track-65aa628069957.vtt",
+        "size": 8765
+      },
+      {
+        "name": "content/videos/files-65b753f11e4c1.mp4",
+        "size": 160967221
+      },
+      {
+        "name": "h5p.json",
+        "size": 1097
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 120,
+    "name": "Video 3.4: Personas",
+    "packageSize": 222838665,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/120",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10709
+      },
+      {
+        "name": "content/files/track-65aa63116253e.vtt",
+        "size": 12085
+      },
+      {
+        "name": "content/videos/files-65b75436e62b8.mp4",
+        "size": 219427917
+      },
+      {
+        "name": "h5p.json",
+        "size": 1153
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 121,
+    "name": "Video 4.1: Ideate",
+    "packageSize": 89254446,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/121",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3377
+      },
+      {
+        "name": "content/files/track-65aa63b06d6e4.vtt",
+        "size": 3405
+      },
+      {
+        "name": "content/videos/files-65b75465e29ab.mp4",
+        "size": 85465212
+      },
+      {
+        "name": "h5p.json",
+        "size": 1008
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 122,
+    "name": "Video 4.2: Brainstorming Overview",
+    "packageSize": 96472682,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/122",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 10445
+      },
+      {
+        "name": "content/files/track-65aa6411cef55.vtt",
+        "size": 4418
+      },
+      {
+        "name": "content/videos/files-65b7548c7b55a.mp4",
+        "size": 92656767
+      },
+      {
+        "name": "h5p.json",
+        "size": 1167
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 123,
+    "name": "Video 4.3: Brainstorming Methods",
+    "packageSize": 140743954,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/123",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 11390
+      },
+      {
+        "name": "content/files/track-65aa648df0476.vtt",
+        "size": 6060
+      },
+      {
+        "name": "content/videos/files-65b754bd5044c.mp4",
+        "size": 136896086
+      },
+      {
+        "name": "h5p.json",
+        "size": 1096
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 124,
+    "name": "Video 4.4: Prioritizing Solutions",
+    "packageSize": 112860848,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/124",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 8896
+      },
+      {
+        "name": "content/files/track-65aa64fcba1b6.vtt",
+        "size": 6045
+      },
+      {
+        "name": "content/videos/files-65b754ede96c1.mp4",
+        "size": 109072860
+      },
+      {
+        "name": "h5p.json",
+        "size": 1097
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 125,
+    "name": "Video 5.1: Prototyping",
+    "packageSize": 210795965,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/125",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3394
+      },
+      {
+        "name": "content/files/track-65aa658e31bdb.vtt",
+        "size": 9829
+      },
+      {
+        "name": "content/videos/files-65b75525b4f68.mp4",
+        "size": 207009424
+      },
+      {
+        "name": "h5p.json",
+        "size": 1025
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 32,
+    "id": 126,
+    "name": "Video 5.2: Testing",
+    "packageSize": 202518700,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/126",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 14654
+      },
+      {
+        "name": "content/files/track-65aa663881e93.vtt",
+        "size": 8145
+      },
+      {
+        "name": "content/videos/files-65b755635b58f.mp4",
+        "size": 198760682
+      },
+      {
+        "name": "h5p.json",
+        "size": 1098
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 129,
+    "name": "Video 1.1",
+    "packageSize": 4202761,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/129",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 128,
+    "name": "Video 1.2",
+    "packageSize": 4202762,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/128",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 130,
+    "name": "Video 2.1",
+    "packageSize": 4202762,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/130",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 131,
+    "name": "Video 2.2",
+    "packageSize": 4202763,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/131",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 132,
+    "name": "Video 2.3",
+    "packageSize": 4202763,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/132",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 133,
+    "name": "Video 2.4",
+    "packageSize": 4202758,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/133",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 134,
+    "name": "Video 3.1",
+    "packageSize": 4202764,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/134",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 135,
+    "name": "Video 3.2",
+    "packageSize": 4202764,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/135",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 136,
+    "name": "Video 3.3",
+    "packageSize": 4202762,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/136",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 137,
+    "name": "Video 4.1",
+    "packageSize": 4202765,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/137",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 138,
+    "name": "Video 4.2",
+    "packageSize": 4202765,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/138",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 139,
+    "name": "Video 4.3",
+    "packageSize": 4202764,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/139",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 140,
+    "name": "Video 4.4",
+    "packageSize": 4202765,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/140",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 141,
+    "name": "Video 5.1",
+    "packageSize": 4202767,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/141",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 142,
+    "name": "Video 5.2",
+    "packageSize": 4202761,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/142",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 143,
+    "name": "Video 5.3",
+    "packageSize": 4202764,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/143",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 144,
+    "name": "Video 5.4",
+    "packageSize": 4202763,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/144",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 145,
+    "name": "Video 6.1",
+    "packageSize": 4202767,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/145",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 146,
+    "name": "Video 6.2",
+    "packageSize": 4202763,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/146",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 147,
+    "name": "Video 7.1",
+    "packageSize": 4202764,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/147",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 148,
+    "name": "Video 7.2",
+    "packageSize": 4202765,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/148",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 149,
+    "name": "Video 8.1",
+    "packageSize": 4202764,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/149",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 150,
+    "name": "Video 8.2",
+    "packageSize": 4202763,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/150",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 33,
+    "id": 151,
+    "name": "Video 8.3",
+    "packageSize": 4202761,
+    "mainLibrary": "H5P.InteractiveVideo",
+    "path": "moodle/h5p/151",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3450
+      },
+      {
+        "name": "h5p.json",
+        "size": 1000
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 49,
+    "id": 157,
+    "name": "Module 1 Quiz",
+    "packageSize": 66467,
+    "mainLibrary": "InnovateUS.KnowledgeCheck",
+    "path": "moodle/h5p/157",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 1975
+      },
+      {
+        "name": "h5p.json",
+        "size": 253
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 49,
+    "id": 160,
+    "name": "Module 2 Quiz",
+    "packageSize": 67024,
+    "mainLibrary": "InnovateUS.KnowledgeCheck",
+    "path": "moodle/h5p/160",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3609
+      },
+      {
+        "name": "h5p.json",
+        "size": 253
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 49,
+    "id": 161,
+    "name": "Module 3 Quiz",
+    "packageSize": 66828,
+    "mainLibrary": "InnovateUS.KnowledgeCheck",
+    "path": "moodle/h5p/161",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 2919
+      },
+      {
+        "name": "h5p.json",
+        "size": 253
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 49,
+    "id": 162,
+    "name": "Module 4 Quiz",
+    "packageSize": 66798,
+    "mainLibrary": "InnovateUS.KnowledgeCheck",
+    "path": "moodle/h5p/162",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 2683
+      },
+      {
+        "name": "h5p.json",
+        "size": 253
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 49,
+    "id": 159,
+    "name": "Module 5 Quiz",
+    "packageSize": 67235,
+    "mainLibrary": "InnovateUS.KnowledgeCheck",
+    "path": "moodle/h5p/159",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3995
+      },
+      {
+        "name": "h5p.json",
+        "size": 253
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 49,
+    "id": 163,
+    "name": "Module 6 Quiz",
+    "packageSize": 67226,
+    "mainLibrary": "InnovateUS.KnowledgeCheck",
+    "path": "moodle/h5p/163",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 4010
+      },
+      {
+        "name": "h5p.json",
+        "size": 253
+      }
+    ]
+  },
+  {
+    "kind": "h5p",
+    "course": 49,
+    "id": 164,
+    "name": "Module 7 Quiz",
+    "packageSize": 66911,
+    "mainLibrary": "InnovateUS.KnowledgeCheck",
+    "path": "moodle/h5p/164",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3045
+      },
+      {
+        "name": "h5p.json",
+        "size": 253
+      }
+    ]
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 84,
+    "name": "problem-definition-worksheets-2 (1).pdf",
+    "size": 61463,
+    "path": "moodle/pages/84/problem-definition-worksheets-2 (1).pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 84,
+    "name": "problem-definition-worksheets-2.pdf",
+    "size": 61463,
+    "path": "moodle/pages/84/problem-definition-worksheets-2.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 85,
+    "name": "hcd_worksheet.pdf",
+    "size": 2294469,
+    "path": "moodle/pages/85/hcd_worksheet.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 86,
+    "name": "Data-Analytical-Mindset-Worksheets.pdf",
+    "size": 52413,
+    "path": "moodle/pages/86/Data-Analytical-Mindset-Worksheets.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 87,
+    "name": "ExpandingYourSolutionsToolkit_worksheet.pdf",
+    "size": 46444,
+    "path": "moodle/pages/87/ExpandingYourSolutionsToolkit_worksheet.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 90,
+    "name": "FastFieldScanning_worksheets.pdf",
+    "size": 70124,
+    "path": "moodle/pages/90/FastFieldScanning_worksheets.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 91,
+    "name": "EAST_Framework.pdf",
+    "size": 74020,
+    "path": "moodle/pages/91/EAST_Framework.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 94,
+    "name": "problem-definition-worksheets-3.pdf",
+    "size": 61463,
+    "path": "moodle/pages/94/problem-definition-worksheets-3.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 95,
+    "name": "writing-the-killer-memo-worksheet.pdf",
+    "size": 37068,
+    "path": "moodle/pages/95/writing-the-killer-memo-worksheet.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 96,
+    "name": "Pilots.pdf",
+    "size": 49823,
+    "path": "moodle/pages/96/Pilots.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 31,
+    "id": 97,
+    "name": "Designing Your Own Experiment .pdf",
+    "size": 43033,
+    "path": "moodle/pages/97/Designing Your Own Experiment .pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 32,
+    "id": 101,
+    "name": "HCD-Module2-Worksheets.pdf",
+    "size": 919268,
+    "path": "moodle/pages/101/HCD-Module2-Worksheets.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 32,
+    "id": 103,
+    "name": "HCD-Module3-Worksheets.pdf",
+    "size": 2196982,
+    "path": "moodle/pages/103/HCD-Module3-Worksheets.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 32,
+    "id": 105,
+    "name": "HCD-Module4-Worksheets.pdf",
+    "size": 823077,
+    "path": "moodle/pages/105/HCD-Module4-Worksheets.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 32,
+    "id": 107,
+    "name": "HCD-Module5-Worksheets.pdf",
+    "size": 255302,
+    "path": "moodle/pages/107/HCD-Module5-Worksheets.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 33,
+    "id": 125,
+    "name": "FFS_worksheets.pdf",
+    "size": 125433,
+    "path": "moodle/pages/125/FFS_worksheets.pdf"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-554.h5p",
+    "size": 50791182,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-562.h5p",
+    "size": 76911770,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-563.h5p",
+    "size": 82007114,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-564.h5p",
+    "size": 92963903,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-565.h5p",
+    "size": 69927395,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-566.h5p",
+    "size": 91661847,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-567.h5p",
+    "size": 65743011,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-568.h5p",
+    "size": 109622016,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-569.h5p",
+    "size": 52083663,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-570.h5p",
+    "size": 45745569,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-571.h5p",
+    "size": 128417621,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-file",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-572.h5p",
+    "size": 144347417,
+    "skipped": "attached to the page but not shown on it"
+  },
+  {
+    "kind": "page-h5p",
+    "course": 39,
+    "id": 141,
+    "name": "interactive-video-573.h5p",
+    "size": 10010528,
+    "path": "moodle/pages/141/interactive-video-573",
+    "files": [
+      {
+        "name": "content/content.json",
+        "size": 3373
+      },
+      {
+        "name": "content/files/track-6972b93fb8afb.vtt",
+        "size": 2237
+      },
+      {
+        "name": "content/videos/files-6972b93128587.mp4",
+        "size": 6131686
+      },
+      {
+        "name": "h5p.json",
+        "size": 1008
+      }
+    ]
+  }
+]

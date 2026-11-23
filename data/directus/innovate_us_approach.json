@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon_id": "fa-bullseye-arrow",
+    "description": "Introduces the concept of problem definition, why it matters, and teaches viewers how to effectively define a problem, including developing a hypothesis, defining root causes, and reframing the problem. ",
+    "title": "Problem definition"
+  },
+  {
+    "id": 2,
+    "icon_id": "fa-lightbulb-exclamation-on",
+    "description": "Provides an overview of the tools and methods available to government to address public problems.",
+    "title": "Solution identification"
+  },
+  {
+    "id": 3,
+    "icon_id": "fa-cubes",
+    "description": "Introduces the benefits of partnerships in implementing projects, goes over the how-to's of partnership and collaboration with accompanying practical worksheets and guidance, and lays out the challenges of partnerships and how to mitigate them. ",
+    "title": "Implementation"
+  },
+  {
+    "id": 4,
+    "icon_id": "fa-clipboard-list-check",
+    "description": "Uses rigorous evaluation to improve state and federal government operations, policies, and programs. ",
+    "title": "Evaluation"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "user_created": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "date_created": "2026-04-28T22:57:52.404Z",
+    "about_us_description": "<p><strong>Join 200,000 learners from 50+ government partners.Grow your skills and serve the public better with Innovate(EU).</strong><br><br>Innovate(EU) provides no-cost at-your-own-pace and live learning on data, digital, innovation, and AI skills for public service professionals like you.<br><br>Governed by a coalition of public sector learning and innovation leaders across the United States, our programs give you the skills to deliver more effective, equitable and engaged policies and services.<br><br>Innovate(EU) is brought to you by a team at The Governance Lab. We maintain full and sole control over writing, editing, and creation of Innovate(EU) course and workshop content, without influence from our generous funders.</p>",
+    "about_us_title": "<p>Our mission is to improve lives by enabling public service professionals to deliver more effective and equitable policies and services.</p>",
+    "status": "published",
+    "ws_subtitle_label": "<p>Free, one-hour, live, online sessions with expert faculty to build practical skills you can use right away. Explore live and recorded sessions.</p>",
+    "course_subtitle_label": "<p>At-your-own pace short videos. All learners receive a certification for completion</p>",
+    "id": 1,
+    "hero_subtitle": "<p>Free, online, and tailored for public professionals</p>",
+    "course_title_label": "<p>Take a <em>course</em></p>",
+    "partner_title": "<p>Our <em>partners</em></p>",
+    "user_updated": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "hero_title": "<p>AI and Innovation courses, workshops and coaching programs</p>",
+    "date_updated": "2026-08-28T17:40:56.190Z",
+    "ws_title_label": "<p>Take a <em>workshop</em></p>",
+    "partner_subtitle": null,
+    "innovateeu_partner_logos": [
+      2,
+      3
+    ],
+    "innovate_eu_benefits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "about_us_flyers": [
+      2,
+      1
+    ],
+    "innovate_eu_translations": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "courses": [
+      1,
+      2
+    ]
+  }
+]

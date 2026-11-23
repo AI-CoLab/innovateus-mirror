@@ -1,0 +1,1811 @@
+{
+  "id": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "title": "Module 2: Overview of AI approaches",
+  "sharePassword": "",
+  "description": "<p>This module provides a comprehensive introduction to artificial intelligence (AI), machine learning, and generative AI. It explores the three main approaches to machine learning (supervised learning, unsupervised learning, and reinforcement learning) and the crucial decision of choosing the right algorithm for an AI project. The module also discusses the differences between generative AI and traditional machine learning, highlighting the accessibility and challenges of generative AI.</p>",
+  "shareId": "Fp5BrnALQ4jBQc-Py-XtlUqoQwb57tkX",
+  "copyOf": "",
+  "order": "1727111222501",
+  "fonts": null,
+  "media": {},
+  "coverImage": {
+    "media": {
+      "image": {
+        "key": "rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/fOma1jRyxLTUGZMv-DALL%25C2%25B7E%25202024-08-10%252015.36.16%2520-%2520A%2520simple%2520abstract%2520art%2520piece%2520with%2520a%2520color%2520theme%2520focusing%2520on%2520dark%2520blue%2520and%2520white%252C%2520with%2520more%2520curved%2520and%2520flowing%2520lines.%2520The%2520composition%2520should%2520feature%2520a%2520b%2520copy.jpg",
+        "crushedKey": "ew_tZbkE4grZbHVU.jpg",
+        "originalUrl": "DALL·E 2024-08-10 15.36.16 - A simple abstract art piece with a color theme focusing on dark blue and white, with more curved and flowing lines. The composition should feature a b copy.jpg",
+        "sourcedFrom": "USER",
+        "useCrushedKey": true,
+        "src": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/2_construction.jpg"
+      }
+    }
+  },
+  "lessons": [
+    {
+      "id": "3V8Fh1oAsdBtFSuzuUpl1SRj1qSDDNl_",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Welcome back!",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0o1e6ub001h3b6jcr8x5fbw",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0o1e6ub001n3b6joa965wyp",
+              "heading": "<p><strong>Module 2: Overview of AI approaches</strong></p>",
+              "paragraph": "<p>This module provides a comprehensive introduction to artificial intelligence (AI), machine learning, and generative AI. It explores the three main approaches to machine learning (supervised learning, unsupervised learning, and reinforcement learning) and the crucial decision of choosing the right algorithm for an AI project. The module also discusses the differences between generative AI and traditional machine learning, highlighting the accessibility and challenges of generative AI.<br><br>After each video ends, a continue button appears below the video player. Click it to reveal the additional navigation and the InnovateUS website link containing readings and resources. Learners with screen readers can use the down arrow key to navigate through the video player’s controls and access the continue button. <strong><em>Another</em></strong> “continue” button will appear to move on to the Self-Assessments after each video. </p><ul><li><p><strong>Reminder:</strong> Consult with your organization’s policies before using any tool or platform. &nbsp;</p></li><li><p><strong>Disclaimer</strong>: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</p></li></ul>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0o1ljyh00a73b6jtm1ixp4o",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0o1ljyh00a83b6jqsuaileg",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-09-04T15:52:14.136Z",
+      "updatedAt": "2024-09-05T16:36:37.399Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 8,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "1L740RS0vfHMVZc-4TAy8bfzpI1qO5VI",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Video 2.1: What is AI",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyriq7dd00033b7cmbrm8t2z",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyriq7de00093b7cnucg7x2x",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video provides a jargon-free introduction to artificial intelligence (AI), machine learning, and generative AI. It explains how AI works by identifying patterns in large amounts of data to solve problems and highlights the distinctions between narrow AI and general-purpose AI. Examples of AI applications in government, such as healthcare and fraud detection, are presented to illustrate the potential impact of these technologies.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyriqhnm000q3b7cykcsag95",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyriqhnm000r3b7cgvla16gh",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzof4byk000s3b6e7fjbce3b",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzof4byl000t3b6eg2dppok4",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%202.1%20V2.1.mp4",
+                  "url": "transcoded-gfa5H1OwlLuYZY34-2425GovLabAIP2%25202.1%2520V2.1.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%202.1%20V2.1.jpg",
+                  "captions": [
+                    {
+                      "id": "cm0fd3da3002q3b6e0kdhclfd",
+                      "key": "2425GovLabAIP2%202.1%20V2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 2.1 V2.1.mp4.vtt"
+                    }
+                  ],
+                  "duration": 410,
+                  "inputKey": "rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/gfa5H1OwlLuYZY34-2425GovLabAIP2%202.1%20V2.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/transcoded-gfa5H1OwlLuYZY34-2425GovLabAIP2%25202.1%2520V2.1.0000000.jpg",
+                  "captionUID": "cm0fd3dld002r3b6eo9cj945n",
+                  "originalUrl": "2425GovLabAIP2 2.1 V2.1.mp4",
+                  "transcodeId": "1723311456121-rjan4c"
+                }
+              },
+              "caption": "<p>Video 2.1: What is AI</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu54c8e001v3b6esdloroqg",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu54c8e001w3b6eoihdsnge",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzp3zd001b3b6eq6bwj249",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzp3ze001c3b6e10pkv83y",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0o1mdxt00dc3b6j93mqo8qv",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0o1mdxt00dd3b6jd8v1nv5h",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T17:01:23.571Z",
+      "updatedAt": "2024-09-04T15:58:43.004Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 0,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "nTrkl7XeJ_CcpRcX9qAyKvzXSLORioYq",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Self Assessment 2.1",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "cm0oaffv1009p3b6jhrzwfht3",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Which of the following statements is true about machine learning approaches?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. There is a single, universal approach to machine learning that everyone uses.</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. The machine learning approach used depends on the type of data and the specific problem being solved.</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. All machine learning approaches are interchangeable and can be used for any task.</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. The machine learning approach used is determined solely by the size of the dataset.</p>"
+            }
+          ],
+          "correct": "cm0oaffv1009r3b6jz35z7wwr",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is B. The machine learning approach used depends on the type of data and the specific problem being solved. There is no single, universal approach that everyone uses, and different approaches are not interchangeable for any task. The approach is determined by the data and problem, not solely by the dataset size.</p>"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-09-04T20:05:11.497Z",
+      "updatedAt": "2024-09-04T20:32:32.776Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 7,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "Fb-NV-8lIQx55AJpqPRwarQbtMLU3LBy",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Video 2.2: Three types of machine learning",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyritolo001q3b7ckknq7xt6",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyritolo001w3b7cm6d6zlu6",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video explores the three main methods to machine learning: supervised learning, unsupervised learning, and reinforcement learning. Each method is explained using real-world examples, such as analyzing mammograms for cancer detection. The video emphasizes the importance of selecting the appropriate machine learning methods based on the available data and the specific problem at hand.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyritztn002d3b7cvfncjtg7",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyritztn002e3b7compf4gqy",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzof8ksf001y3b6e16iqzgob",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzof8ksg001z3b6e7t1b96i9",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%202.2%20V2.1.mp4",
+                  "url": "transcoded-kQ542KzG8eif-NX_-2425GovLabAIP2%25202.2%2520V2.1.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%202.2%20V2.1.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoiyr8p002g3b6epzvufi7s",
+                      "key": "2425GovLabAIP2%202.2%20V2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 2.2 V2.1.mp4.vtt"
+                    }
+                  ],
+                  "duration": 357,
+                  "inputKey": "rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/kQ542KzG8eif-NX_-2425GovLabAIP2%202.2%20V2.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/transcoded-kQ542KzG8eif-NX_-2425GovLabAIP2%25202.2%2520V2.1.0000000.jpg",
+                  "captionUID": "clzoiyrim002h3b6elm5clr2c",
+                  "originalUrl": "2425GovLabAIP2 2.2 V2.1.mp4",
+                  "transcodeId": "1723311634587-rvcrua"
+                }
+              },
+              "caption": "<p>Video 2.2: Three types of machine learning</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu5545f004g3b6ejcl1icq2",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu5545f004h3b6eejje0fh2",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzs45800513b6edvwwb3jh",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzs45900523b6emdv797an",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0pifm5q005s3b6jmbe4gll6",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0pifm5r005t3b6johi0fpec",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T17:04:05.875Z",
+      "updatedAt": "2024-09-05T16:37:06.740Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 2,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "lCgUIp2Sj-KHtFWzB73NL-lL2nrvHcsd",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Self Assessment 2.2",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "gEfCZhtrPX9SqjjQwH0NArhrZwc5uGGI",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the defining characteristic of supervised learning?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. The AI model learns from data that is put into specific categories, also called \"labeled data\"</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. The AI model learns from data without any predefined categories or labels</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. The AI model is explicitly programmed with rules and logic</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. The AI model learns through trial and error and receives feedback in the form of rewards or penalties</p>"
+            }
+          ],
+          "correct": "cm0oaffv1009q3b6jpftsfwmk",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is A. Supervised learning is defined by the AI model learning from data that is labeled with specific categories. This differs from unsupervised learning (B), traditional programming (C), and reinforcement learning (D).</p>"
+        },
+        {
+          "id": "cm0obnndy000h356uppdulyfy",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the key difference between unsupervised learning and supervised learning?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. Unsupervised learning models are more accurate than supervised learning models</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. Unsupervised learning models are trained on unlabeled data, while supervised learning models are trained on labeled data</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. Unsupervised learning is used for classification tasks, while supervised learning is used for anomaly detection</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. Unsupervised learning requires more human expertise than supervised learning</p>"
+            }
+          ],
+          "correct": "cm0oaffv1009r3b6jz35z7wwr",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is B. The key difference between unsupervised and supervised learning is that unsupervised learning models are trained on unlabeled data, while supervised learning models are trained on labeled data. The relative accuracy (A), typical use cases (C), and required human expertise (D) mentioned in the other options are not the defining distinctions between the two approaches.</p>"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "nTrkl7XeJ_CcpRcX9qAyKvzXSLORioYq",
+      "deleted": false,
+      "createdAt": "2024-09-04T20:28:52.603Z",
+      "updatedAt": "2024-09-04T20:41:38.209Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 3,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "_axCkK-cl2avVJNsoMX2Q8vlkzdkTDWj",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Video 2.3: Choosing an AI algorithm",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyriy74x004d3b7c3mwfmlww",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyriy74y004j3b7cpmgbbdee",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video delves into the crucial decision of choosing the right algorithm for an AI project, highlighting the trade-off between performance and interpretability. It explains how interpretability is essential in the public sector, where decisions directly impact residents&#39; lives. The video emphasizes the importance of collaborating with data scientists, technologists, and AI ethicists to ensure the chosen approach aligns with the project&#39;s requirements and potential risks.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrj06vh00503b7c32nmvz7v",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrj06vp00513b7c5nv5m9hv",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzofzisv00343b6e5u6wc99v",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzofzisw00353b6em0b9lqp1",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%202.3%20V3.mp4",
+                  "url": "transcoded-NmxF4XIGPmx0DZcr-2425GovLabAIP2%25202.3%2520V3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%202.3%20V3.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoizcpc003r3b6ea9szz1w6",
+                      "key": "2425GovLabAIP2%202.3%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 2.3 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 392,
+                  "inputKey": "rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/NmxF4XIGPmx0DZcr-2425GovLabAIP2%202.3%20V3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/transcoded-NmxF4XIGPmx0DZcr-2425GovLabAIP2%25202.3%2520V3.0000000.jpg",
+                  "captionUID": "clzoizcyh003s3b6e3r221nku",
+                  "originalUrl": "2425GovLabAIP2 2.3 V3.mp4",
+                  "transcodeId": "1723312940837-dt3133"
+                }
+              },
+              "caption": "<p>Video 2.3: Choosing an AI algorithm</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu5myab00413b6eht79grc0",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu5myac00423b6ebtiusaq6",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztztb8w007h3b6ebyny4nwb",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztztb8w007i3b6efs7xxuiy",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0pifsdj008h3b6j9s92fa4i",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0pifsdj008i3b6jsbddcsnu",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T17:07:28.646Z",
+      "updatedAt": "2024-09-05T16:37:14.976Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 4,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "_rl8uRGTsID1xHqVPFgao6stUI7bVpSm",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Self Assessment 2.3",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "pBMC5gyG1XebS09iQGLkQamXKfpT8V-C",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is a key benefit of using a more interpretable AI model, for high-stakes decisions?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. Increased efficiency and reduced computational costs</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. Improved ability to identify and mitigate bias in the model's predictions</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. Greater protection against adversarial attacks and security breaches</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. Enhanced public trust and accountability through transparent decision-making processes</p>"
+            }
+          ],
+          "correct": "cm0oas24c00043b6e527bjnb2",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is D. A key benefit of using a more interpretable model for high-stakes decisions is enhanced public trust and accountability, as the transparent decision-making process allows for greater scrutiny and understanding of how the model arrives at its predictions. While interpretability is important, it does not necessarily improve efficiency (A), mitigate bias (B), or protect against security threats (C) in the ways suggested by the other options. These aspects of model performance and robustness are influenced more by factors such as the model's architecture, training data, and security practices.</p>"
+        },
+        {
+          "id": "cm0obvlua000t356ucl2vmlli",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>Which of the following are potential drawbacks of using deep learning models for decision-making in the public sector? Select all that apply.</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. Lack of transparency in how the model arrives at its decisions</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. Increased risk of the model learning and perpetuating biases from the training data</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. Difficulty in achieving high accuracy and performance on complex tasks</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. High computational costs and longer training times compared to simpler models</p>"
+            }
+          ],
+          "correct": "cm0oas24c00043b6e527bjnb2",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr",
+            "cm0oas24c00043b6e527bjnb2"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answers are A, B, and D. Potential drawbacks of using deep learning models for public sector decision-making include lack of transparency in the model's decision-making process (A), increased risk of the model learning and amplifying biases from the training data (B), and high computational costs and longer training times compared to simpler models (D). While deep learning models can struggle with interpretability and bias, they are often able to achieve high accuracy on complex tasks (C), making this option incorrect in the context of the question.</p>"
+        },
+        {
+          "id": "cm0oby1vz0011356unqe1m1h3",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the main reason for using deep learning models despite their potential drawbacks?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. Deep learning models are more transparent and explainable than other types of models</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. Deep learning models can achieve high performance on complex tasks that other models struggle with</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. Deep learning models are less computationally expensive and faster to train than simpler models</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. Deep learning models are more resistant to biases in the training data compared to other models</p>"
+            }
+          ],
+          "correct": "cm0oaffv1009r3b6jz35z7wwr",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is B. The main reason for using deep learning models despite their potential drawbacks is their ability to achieve high performance on complex tasks, such as image recognition, natural language processing, and predicting intricate outcomes, that other models may struggle with. The transparency (A), computational efficiency (C), and bias resistance (D) mentioned in the other options are not the primary motivations for using deep learning models and are actually potential drawbacks that need to be carefully considered and mitigated when deploying these models in practice.</p>"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "lCgUIp2Sj-KHtFWzB73NL-lL2nrvHcsd",
+      "deleted": false,
+      "createdAt": "2024-09-04T20:33:31.348Z",
+      "updatedAt": "2024-09-04T20:49:19.664Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 5,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "FzTyyr8zEL64Dk8BHYvnjY8mjzOVxPS5",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Video 2.4: Generative AI",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrj7gd400723b7chcnfp2jo",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrj7gd400783b7cl3w0l9zb",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video focuses on the differences between generative AI and traditional machine learning. It explains how generative AI is a general-purpose AI that can perform a wide variety of tasks, while traditional machine learning is designed for specific tasks. The video also discusses the accessibility of generative AI, which allows users to interact using plain language, and the importance of fine-tuning models for specialized tasks. Additionally, it covers the challenges of generative AI, such as lack of interpretability and the potential to replicate biases found in training data.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrj7mr9007p3b7c1h3opj7j",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrj7mrg007q3b7c9epxznhq",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzog48w9004a3b6e90w36hfw",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzog48w9004b3b6eg3k33v21",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%202.4%20V3.mp4",
+                  "url": "transcoded-Dvue_HNO9i5ce9VQ-2425GovLabAIP2%25202.4%2520V3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%202.4%20V3.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoizxul00523b6e01hqx85j",
+                      "key": "2425GovLabAIP2%202.4%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 2.4 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 464,
+                  "inputKey": "rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/Dvue_HNO9i5ce9VQ-2425GovLabAIP2%202.4%20V3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn/transcoded-Dvue_HNO9i5ce9VQ-2425GovLabAIP2%25202.4%2520V3.0000000.jpg",
+                  "captionUID": "clzoizy4700533b6ept6b1bo0",
+                  "originalUrl": "2425GovLabAIP2 2.4 V3.mp4",
+                  "transcodeId": "1723313188663-57golg"
+                }
+              },
+              "caption": "<p>Video 2.4: Generative AI</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu5nnwm006h3b6evfq6cnku",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu5nnwn006i3b6eycdk5l7q",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzuhyy009x3b6ejgue18ro",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzuhyy009y3b6eu0vrct0h",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0pifx3b00b63b6jy8g1z5jy",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0pifx3b00b73b6jgf0mqbi5",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T17:14:40.527Z",
+      "updatedAt": "2024-09-05T16:37:20.996Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 6,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "Q273eKOH7vFL8HXVWYWHAMcjusTBtD-_",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Self Assessment 2.4",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "nNbfuq8ozLGdmS7Ll2vN_-1gVSLWu_j5",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What distinguishes Generative AI (GenAI) from traditional machine learning?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. GenAI is considered a form of Narrow AI, while traditional machine learning is a form of General Purpose AI</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. GenAI is trained on smaller, more focused datasets compared to traditional machine learning</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. GenAI can perform a wide variety of tasks using a single model, while traditional machine learning models are designed for specific tasks</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. GenAI requires more technical expertise to use than traditional machine learning models</p>"
+            }
+          ],
+          "correct": "cm0oaqfj100023b6ejlffy1f6",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is C. The key distinction between Generative AI (GenAI) and traditional machine learning is that GenAI models can perform a wide variety of tasks using a single model, while traditional machine learning models are designed for specific, narrow tasks. GenAI is considered a form of General Purpose AI (A), and is trained on vast amounts of diverse data (B), making it more versatile than traditional machine learning. Additionally, GenAI models are often more accessible to non-technical users (D) due to their natural language interfaces, while traditional machine learning may require more technical expertise to use effectively.</p>"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "_rl8uRGTsID1xHqVPFgao6stUI7bVpSm",
+      "deleted": false,
+      "createdAt": "2024-09-04T20:35:26.801Z",
+      "updatedAt": "2024-09-04T20:51:47.680Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 7,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "_qNsbECVaCAUrpG4kLCRXHtyUb5wG9bA",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn",
+      "title": "Next Up: Module 3: Surfacing and Selecting AI Projects for Scale",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0od0drz00183b6eiodyb2up",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cm0od0ds000193b6e3z817epf",
+              "type": "exit-course",
+              "label": "Exit module",
+              "description": "<p><span style=\"font-size: 1.7rem\"><strong>Next Up! Module 3: Surfacing and Selecting AI Projects for Scale</strong></span></p><p><span style=\"font-size: 1.6rem\">In the next module we focus on how to identify and prioritize AI projects that deliver meaningful results for the organization and the public. </span>Click \"Exit module\" to proceed. </p>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-09-04T21:15:45.848Z",
+      "updatedAt": "2024-09-06T21:07:23.462Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 9,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2024-07-18T17:00:41.073Z",
+  "updatedAt": "2024-09-23T17:07:02.501Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 2: Overview of AI approaches",
+    "format": "zip",
+    "quizId": "Q273eKOH7vFL8HXVWYWHAMcjusTBtD-_",
+    "target": "scorm12",
+    "shareId": "Fp5BrnALQ4jBQc-Py-XtlUqoQwb57tkX",
+    "activeLMS": 0,
+    "reporting": "completed-incomplete",
+    "exportType": "lms",
+    "identifier": "yR5KnXiw_OUAeA2ov9DTsMfV6Zq1igjn_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "quizComplete": false,
+    "activeEdition": 0,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": true,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "completionPercentage": 100
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "-MPEM2R_v3eTh0hQInNv-2WAwVwql-Pw",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": {},
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "SPLIT_LEFT_IMAGE",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/2_construction.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "locale": null,
+  "sourceCourseLocaleId": null,
+  "experiments": null,
+  "settings": {},
+  "features": {
+    "rise-a-11-y-img-gallery-carousel": true,
+    "rise-course-navigation": true,
+    "rise-img-dimensions": true,
+    "rise-img-zoom": true,
+    "rise-timed-quizzes": true
+  },
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "bodyTypeface": "DM Sans",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato",
+  "lmsOptions": {
+    "enableExitCourse": false,
+    "disableCoverPage": true
+  },
+  "mondrian": {}
+}

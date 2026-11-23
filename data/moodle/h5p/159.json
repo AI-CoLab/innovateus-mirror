@@ -1,0 +1,139 @@
+{
+  "title": "Module 5 Quiz",
+  "mainLibrary": "InnovateUS.KnowledgeCheck",
+  "language": "und",
+  "content": {
+    "behaviour": {
+      "passPercentage": 100,
+      "autoAdvance": false,
+      "delayCorrect": 3,
+      "delayWrong": 5,
+      "shuffleAnswers": true,
+      "showNextModule": true
+    },
+    "l10n": {
+      "progress": "Question :num of :total",
+      "correct": "Correct!",
+      "incorrect": "Not quite. The right answer is highlighted.",
+      "incorrectMulti": "Not quite. Select every right answer and no wrong ones.",
+      "nextQuestion": "Next question",
+      "seeResult": "See your result",
+      "resultPassed": "Well done!",
+      "resultFailed": "Almost there",
+      "scoreText": "You got :score of :total right.",
+      "passedText": "Continue to the next module when you are ready.",
+      "failedText": "You need to answer every question correctly to continue. Have a look at the answers below, then try again.",
+      "yourAnswer": "Your answer",
+      "yourAnswers": "You chose",
+      "rightAnswer": "Right answer",
+      "rightAnswers": "Right answers",
+      "retry": "Try again",
+      "nextModule": "Next module",
+      "backToCourse": "Back to course",
+      "checkAnswer": "Check answer",
+      "selectAll": "Select all that apply."
+    },
+    "questions": [
+      {
+        "text": "Your jurisdiction uses an AI tool to monitor contract compliance and match invoices to contract terms. The system suddenly flags a vendor that has had a clean record for two years as having multiple discrepancies. What is the most appropriate response?",
+        "answers": [
+          {
+            "text": "Accept the AI&#039;s assessment and immediately issue a notice of non-compliance to the vendor",
+            "correct": false
+          },
+          {
+            "text": "Dismiss the flags since the vendor has a strong track record and the AI may be malfunctioning",
+            "correct": false
+          },
+          {
+            "text": "Investigate the flagged discrepancies using the underlying contract documents and invoice records before taking any action",
+            "correct": true
+          },
+          {
+            "text": "Switch to a different AI tool to see if it produces the same result",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "A staff member wants to use a free AI tool they found online to analyze a contract containing sensitive vendor pricing data. What should they do first?",
+        "answers": [
+          {
+            "text": "Proceed, since the tool produces accurate results in their testing",
+            "correct": false
+          },
+          {
+            "text": "Ask a colleague to review the output to catch any errors",
+            "correct": false
+          },
+          {
+            "text": "Use the tool but remove the vendor names before uploading",
+            "correct": false
+          },
+          {
+            "text": "Check whether the tool is on their jurisdiction&#039;s approved list and complies with data security requirements",
+            "correct": true
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "A jurisdiction is rolling out a new AI tool and several staff members have expressed concerns about job displacement. Which of the following are appropriate responses from procurement leadership? Select all that apply.",
+        "answers": [
+          {
+            "text": "Reassure staff that their concerns are unfounded and move forward without addressing them further",
+            "correct": false
+          },
+          {
+            "text": "Communicate clearly and early about what the tool is, what it isn&#039;t, and what problems it aims to solve",
+            "correct": true
+          },
+          {
+            "text": "Pause the rollout indefinitely until all staff concerns are fully resolved",
+            "correct": false
+          },
+          {
+            "text": "Provide structured training and ongoing learning resources so staff feel confident using the tool",
+            "correct": true
+          },
+          {
+            "text": "Limit access to the tool to staff who are already comfortable with AI",
+            "correct": false
+          },
+          {
+            "text": "Create space for staff to raise concerns and give feedback throughout the rollout",
+            "correct": true
+          },
+          {
+            "text": "Emphasize that AI will handle repetitive tasks, freeing staff to focus on higher-value work that requires their expertise",
+            "correct": true
+          }
+        ],
+        "multiple": true
+      },
+      {
+        "text": "Which of the following best describes the goal of cross-functional collaboration in AI risk management?",
+        "answers": [
+          {
+            "text": "To slow down AI adoption until all risks are fully understood",
+            "correct": false
+          },
+          {
+            "text": "To transfer responsibility for AI risk from procurement to IT",
+            "correct": false
+          },
+          {
+            "text": "To bring procurement, IT, legal, and leadership together to assess risks and define mitigation strategies before deployment",
+            "correct": true
+          },
+          {
+            "text": "To create a committee that approves every AI output before it is used",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      }
+    ]
+  }
+}

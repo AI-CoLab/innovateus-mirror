@@ -1,0 +1,62 @@
+[
+  {
+    "title": "At-Your-Own-Pace Courses",
+    "description_updated": "<p dir=\"ltr\">Video-based certificate courses in the latest technology and innovation topics. Our at-your-own-paced courses are deep dives into topics such as AI and Human-Centered Design. Those who complete a course receive a certificate of completion.&nbsp;</p>",
+    "icon": "9a69b8d0-88c8-44a9-b97a-7cf833981dd4",
+    "id": 1,
+    "description": "Online classes in AI, innovation, and problem-solving skills\n\n",
+    "icon_id": "fa-solid fa-computer",
+    "button_text": "Explore the courses",
+    "link_to": "course"
+  },
+  {
+    "title": "Skill-Building Workshops",
+    "description_updated": "<p>Online workshops help you gain practical, innovative skills to apply right away. Each session introduces new approaches to government work, explains why they matter, and offers concrete strategies for implementation. With clear learning objectives, real-world examples, and interactive discussions, our expert presenters bring both deep knowledge and hands-on experience to every workshop.</p>",
+    "icon": "f139f252-668b-4ecd-8464-48ec63de65b9",
+    "id": 2,
+    "description": "Live sessions from leading practitioners. Online workshops help you gain practical, innovative skills to apply right away. Each session introduces new approaches to government work, explains why they matter, and offers concrete strategies for implementation. With clear learning objectives, real-world examples, and interactive discussions, our expert presenters bring both deep knowledge and hands-on experience to every workshop. Browse our library of over 100 recorded sessions.",
+    "icon_id": "fa-cubes",
+    "button_text": "Explore the workshops",
+    "link_to": "workshops"
+  },
+  {
+    "title": "Career Certificates",
+    "description_updated": "<p>With support from Google.org, InnovateUS aims to expand the uptake of digital skills in the public sector by providing full scholarships to public sector professionals to enroll for free in a Google Career Certificate program.&nbsp;</p>",
+    "icon": "069f6fc5-61af-4474-8cbd-4b94a98d3e7f",
+    "id": 3,
+    "description": "Free scholarships for the Grow with Google certification program covering topics like cybersecurity, project management, and more.",
+    "icon_id": "fa-file-certificate",
+    "button_text": "Learn more",
+    "link_to": "google-certificates"
+  },
+  {
+    "title": "Coaching Programs",
+    "description_updated": "<p>Our coaching programs are a cohort-based opportunity, typically accommodating around 20 participants. These programs include a series of three 90-minute workshops led by an expert instructor, designed to help participants explore a specific topic while addressing questions or challenges from their professional practice.</p>",
+    "icon": null,
+    "id": 4,
+    "description": "Multi-part programs designed to help you apply skills learned to your own projects. Work with our experts to develop tailor-made guidance for your team.\n",
+    "icon_id": "fa-person-chalkboard",
+    "button_text": "Contact us!",
+    "link_to": "mailto: hello@innovate-us.org"
+  },
+  {
+    "title": "Live Online workshops",
+    "description_updated": "<p>Twice-weekly workshops covering critical topics like AI, human-centered design, problem definition, and more</p>",
+    "icon": null,
+    "id": 5,
+    "description": null,
+    "icon_id": "fa-sharp-duotone fa-solid fa-screen-users",
+    "button_text": "Browse upcoming workshops",
+    "link_to": "https://innovate-us.org/workshops"
+  },
+  {
+    "title": "On-demand workshops",
+    "description_updated": "<p>If you can&rsquo;t make it to our live workshops or prefer to learn on your own, we have a robust archive of recorded instructor-led workshops. </p>",
+    "icon": null,
+    "id": 6,
+    "description": null,
+    "icon_id": "fa-sharp-duotone fa-solid fa-laptop",
+    "button_text": "Browse recorded workshops",
+    "link_to": "https://innovate-us.org/workshops"
+  }
+]

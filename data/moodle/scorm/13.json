@@ -1,0 +1,1646 @@
+{
+  "id": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124c8e",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "UKtZVxn33BJxMK4DUvy1jdRkKRaectaT",
+  "copyOf": "",
+  "order": "1780859236649",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "lessons": [
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-06-02T21:34:57.893Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "GAo_d0pd45tCxR_xNQbt7eXK-g4la4Sc",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "gUPpK1vVlA2srzEOTE0tMil1G4277vIQ",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Course Overview",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-05T21:04:52.790Z",
+      "items": [
+        {
+          "id": "-C0WmGbIX0klySgOquztuxmGspL7i3pJ",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 5.1 | Data Privacy</strong></p>",
+              "paragraph": "<div data-editor-id=\"0e811c65-21d7-4f4f-932f-b560dd42872d\"><p>This lesson introduces the module and turns the focus from how to use GenAI toward the risks of misusing it. Participants will gain an understanding of what can go wrong through real-world cases, such as leaked trade secrets and fabricated legal citations. The module's learning goals and key risks—data privacy, hallucinations, and bias—are previewed.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "21ef9865-d756-4893-ae42-ad8a49a0c9ca"
+        },
+        {
+          "id": "nFY3k8VnNgIh9YrF5LORmibsj0umsgJ4",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq7g55h003m3b6o7u0cv3n6",
+              "title": "Audio description transcript - Course Overview",
+              "description": "<div data-editor-id=\"786bb267-1f18-4baf-aa19-d0e21b60bd25\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Understanding Risks.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back. In our prior videos, we've focused on what to do. Now let's turn to the risks and what not to do.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the Forbes article titled: Samsung Bans ChatGPT Among Employees After Sensitive Code Leak.&nbsp;</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Like any tool, GenAI can be misused. You might have heard a story about an employee typing trade secrets into ChatGPT.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the CNBC article titled: Judge sanctions lawyers for brief written by A.I. with fake citations.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">&nbsp;Or the lawyer who let GenAI write his legal brief — resulting in fabricated case citations submitted to a court.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Learning Goals.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">By the end of this module, you will:</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Have a deeper understanding of the risks associated with GenAI use</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Have a set of ethical guidelines to ensure you work responsibly with GenAI</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Know practical strategies for overcoming those risks</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: What we’ll cover.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">We focus on risks specific to your own use of these tools at work, including data privacy, hallucinations, and bias and how to assess and avoid each. Later on we'll address broader societal issues like copyright.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Of course, our advice is not a substitute for your agency's specific policies. Let's dive in.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "7ac99a8b-75e3-45d2-88b9-85f6bb3174ed"
+        },
+        {
+          "id": "gz1wRE6WweSHkUkO6HQmUi9AeeuamTMv",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-uYsGKE-JpusGm_M7.mp4",
+                  "type": "video",
+                  "poster": "2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6h2fk003w3b7jhptjpzsr",
+                      "key": "Video%2013%20-%205.1%20-.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 13 - 5.1 - V3.2 QCd.vtt"
+                    }
+                  ],
+                  "duration": 74,
+                  "inputKey": "rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/uYsGKE-JpusGm_M7.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/transcoded-uYsGKE-JpusGm_M7.0000000.jpg",
+                  "captionUID": "cmpx6h2mx003x3b7jf2703hg7",
+                  "originalUrl": "2408GovLabAI 2026 Video 13 - 5.1 v3.2.mp4",
+                  "transcodeId": "1780436165536-otpjlc"
+                }
+              },
+              "caption": "<div data-editor-id=\"ac2cc4f9-db6a-4200-b308-5e1b0048ea13\"><p>Course Overview</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": false,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "cfc268d1-7752-4012-8f0a-7740d88b7497"
+        },
+        {
+          "id": "azFbEqdaY1D5e6Y3dsHI5_TFU1EYxLB0",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "9ece32b9-2bac-4663-8b9f-7b55f8ffbe8b"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-02-10T20:58:46.980Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "d5xZrxTLSgdCFMO5LPDTxsbIZysWSioD",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "GAo_d0pd45tCxR_xNQbt7eXK-g4la4Sc",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 0,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 1.1 | Data Privacy",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-03T20:00:00.735Z",
+      "items": [
+        {
+          "id": "clx8tfk4l000s3b6ccps30ll3",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 5.1 | Data Privacy</strong></p>",
+              "paragraph": "<p>The module addresses the responsible use of GenAI by discussing potential risks and mitigation strategies. Data privacy, hallucinations, and bias are introduced as key challenges. Participants learn to assess and avoid these risks through practical guidance and organizational policies.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "69abc412-da44-416c-9e80-56087ebe98a7"
+        },
+        {
+          "id": "cmiq7g55g003j3b6omn32v4fh",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq7g55h003m3b6o7u0cv3n6",
+              "title": "Audio description transcript - Data Privacy",
+              "description": "<div data-editor-id=\"0d63656e-38dc-496d-8469-d76afc6a0d4b\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Data Privacy.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">As with any software or website, the privacy of what you input into GenAI tools is governed by the software's terms of use, which vary by platform and your organization’s contract.&nbsp;</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Privacy.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Read the ‘Terms of Use’ and check with legal counsel.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">It's always advisable to read those terms and check with legal counsel when in doubt.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">As a general rule, free versions of popular GenAI tools may use what you input to train and improve their technology. Assume you have limited privacy on these platforms.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: An AI siphoning data from a user's computer while saying “Feed me your data” and “I’m free, you pay me with your data!”, generated by Canva.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Enterprise Licences.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Enterprise-wide licenses offered by major services often provide greater privacy protection, including limiting the reuse of your data. You should always check with your IT department regarding what's approved in your organization before using any AI tool, and especially before inputting any personally-identifiable information about residents, colleagues, or yourself.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Privacy.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Unless using an approved tool and &nbsp;your agency policy permits otherwise (many do)</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Do not share internal memos, documents not cleared for publication, sensitive data</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Do not include personally identifiable information about residents, colleagues, or yourself</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Do not share passwords, private keys, or proprietary details</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Don't share anything you wouldn't share publicly</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">One more consideration: even when using an approved AI assistant, in many jurisdictions, your prompts and GenAI outputs may be subject to public records laws, freedom of information law requests, or records retention requirements — just like email or other official communications. Some agencies also require that AI-assisted work products be logged or disclosed.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">These tools are excellent for transcribing and summarizing audio recordings. But be mindful that meeting transcriptions may also be subject to retention and disclosure laws.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">And, of course, make sure you have consent before recording or transcribing any meeting, especially involving sensitive or confidential topics.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "3bdbff7a-6a25-44bb-afe8-10d1f74ef780"
+        },
+        {
+          "id": "clwyxyw9900033b6c28ei3uhk",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "7I3aUA/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-zOoRvJoN_c4DaFR4.mp4",
+                  "type": "video",
+                  "poster": "IcwaKr/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6i0vx004o3b7jdhzwgf81",
+                      "key": "Video%2014%20-%205.2%20-.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 14 - 5.2 - V3.2 QCd.vtt"
+                    }
+                  ],
+                  "duration": 148,
+                  "inputKey": "rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/zOoRvJoN_c4DaFR4.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/transcoded-zOoRvJoN_c4DaFR4.0000000.jpg",
+                  "captionUID": "cmpx6i141004p3b7jzkyab13b",
+                  "originalUrl": "2408GovLabAI 2026 Video 14 - 5.2 v3.2.mp4",
+                  "transcodeId": "1780433765951-79bmjk"
+                }
+              },
+              "caption": "<div data-editor-id=\"5c22ea8a-928a-4a42-8794-4ab12aba3297\"><p>Video 1.1: Data Privacy</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": false,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "125ddd8d-c72a-4eb6-8d0b-b4fb90676f6f"
+        },
+        {
+          "id": "clwyy6nzy000j3b6c4tcdhfg2",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "1774e1ee-78fd-4d2b-b8cb-157bcb68aa63"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-02-10T20:58:53.481Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"69d49425-e927-40dc-b5fe-89c024e32f36\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "DZI3PZWnQhtHhLgGMxA0UrIeAxKtnJxX",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "e6-1ZFElb2noIE8pWzb5vsVX8UOhf4Wp",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 1.1",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-06-03T21:09:56.541Z",
+      "items": [
+        {
+          "id": "clx3vkept00063b78par475ap",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>What steps should you take to ensure responsible use of generative AI tools from a privacy perspective? (Select all that apply)</p>",
+          "answers": [
+            {
+              "id": "clx3vkept00073b78rquomoag",
+              "title": "<div data-editor-id=\"7f899514-370a-43a9-a083-b5cda3697a01\"><p>A. Read and understand the terms and conditions of the tool</p></div>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clx3vkept00093b78wdxbmzr4",
+              "title": "<div data-editor-id=\"4250b907-4b99-4d09-8193-99cac621ab3c\"><p>B. Consult with legal counsel if you have doubts or questions</p></div>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vkept000a3b780x9ihvez",
+              "title": "<div data-editor-id=\"5cac77b3-a5dd-4a13-bcbc-cf415255f301\"><p>C. Share sensitive information to test the tool's privacy measures</p></div>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vkept00083b78yihvra6r",
+              "title": "<div data-editor-id=\"971a1f91-da63-4462-a14c-66413f7a9ea5\"><p>D. Assume the tool has strong privacy protections without checking</p></div>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "",
+          "corrects": [
+            "clx3vkept00073b78rquomoag",
+            "clx3vkept00093b78wdxbmzr4"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "globalBlockId": "14710410-0ca1-4fc6-b11d-3b72ffe75785",
+          "feedbackIncorrect": "<p>The correct answers are A and B. To ensure responsible use of generative AI tools from a privacy perspective, you should read and understand the terms and conditions of the tool and consult with legal counsel if you have doubts or questions.</p>"
+        },
+        {
+          "id": "clx3vmsmh00183b78sdi0pz0q",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>How do free generative AI tools differ from paid versions in terms of data usage?</p>",
+          "answers": [
+            {
+              "id": "clx3vkept00073b78rquomoag",
+              "title": "<p>Free and paid versions use the input data in exactly the same way</p>",
+              "correct": true,
+              "feedback": "<p>Free and paid versions often have different data usage policies, with paid versions typically offering more privacy.</p>"
+            },
+            {
+              "id": "clx3vkept00093b78wdxbmzr4",
+              "title": "<p>Free versions use the data to train the AI, while all paid versions do not use the data at all</p>",
+              "feedback": "<p>While paid versions may offer more privacy, they may still use some data for AI improvement.</p>"
+            },
+            {
+              "id": "clx3vkept000a3b780x9ihvez",
+              "title": "<div data-editor-id=\"4ab43d2e-b544-4b8c-b800-6ff5b841239f\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Enterprise or organizational licenses often (but not always) offer greater privacy protection for input data</span></span></p></div>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vkept00083b78yihvra6r",
+              "title": "<div data-editor-id=\"6252d1f5-062c-4099-af5c-acdca60b1d66\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Enterprise versions sell the input data to third-party advertisers, while free versions do not</span></span></p></div>",
+              "correct": true,
+              "feedback": "<div data-editor-id=\"74e44617-b0ea-49d0-b808-3f7421943967\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Enterprise versions generally offer more privacy protections, not increased data selling to third parties.</span></span></p></div>"
+            }
+          ],
+          "correct": "clx3vkept000a3b780x9ihvez",
+          "corrects": [
+            "clx3vkept00073b78rquomoag",
+            "clx3vkept00083b78yihvra6r"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "9254f0ab-8d0e-49c1-93f7-8eb5a359f3d8"
+        },
+        {
+          "id": "clx3voviw00233b78o7ody32j",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What type of data should you avoid inputting into generative AI tools?</p>",
+          "answers": [
+            {
+              "id": "clx3vkept00073b78rquomoag",
+              "title": "<p>Publicly available information from official sources</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clx3vkept00093b78wdxbmzr4",
+              "title": "<p>Sensitive data, such as personally identifiable information</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vkept000a3b780x9ihvez",
+              "title": "<p>General knowledge and facts that are not specific to individuals</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vkept00083b78yihvra6r",
+              "title": "<p>Information about upcoming public events and announcements</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "clx3vkept00093b78wdxbmzr4",
+          "corrects": [
+            "clx3vkept00073b78rquomoag",
+            "clx3vkept00083b78yihvra6r"
+          ],
+          "feedback": "",
+          "globalBlockId": "b5133777-4220-4dd6-8d66-450ac412a06a"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-02-10T20:58:58.235Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "89U2xVfWNQtWmlUvwZ_g9Qoqraq9g48r",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "3Mvo3i2BPJtMofBJNodh6QkY6exIl_bM",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 1.2 | Hallucinations and Accuracy",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-05T21:53:02.106Z",
+      "items": [
+        {
+          "id": "pIel0eGB8ejTYz-eoyjsfscFCZNp0TO_",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 5.2 | Hallucinations</strong></p>",
+              "paragraph": "<p>Hallucinations, or inaccurate outputs, are explored in depth. Strategies to identify and mitigate hallucinations are provided, including using multiple models, temperature settings, and retrieval-augmented generation. The importance of fact-checking and iterative improvement is emphasized.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "93d4bb23-81aa-4042-8cb4-f8875c7bf86d"
+        },
+        {
+          "id": "cmiq7q15q00743b6oo7lqro0y",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq7q15q00773b6o3vszdiq8",
+              "title": "Audio description transcript - Hallucinations and Accuracy",
+              "description": "<div data-editor-id=\"4818c7ea-dbfa-4ade-bf2d-15ee3843fd75\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Hallucinations and Accuracy.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Generative AI can sound confident even when it is wrong.&nbsp;</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of The Markup article titled: NYC’s AI Chatbot Tells Businesses to Break the Law.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">One city’s business chatbot, for example, was reported to give incorrect legal guidance—such as suggesting employers could withhold workers’ tips—and a subsequent audit found instances of inaccurate and inconsistent responses.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Why do hallucinations happen?&nbsp;</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: What is a hallucination?</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Generative AI creates responses based on patterns in language, which means it can produce text that is fluent, confident, and false. This is often called a “hallucination.”</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">These systems have improved, but the problem has not disappeared. Error rates vary by platform, task, and prompt—and they change as models are updated. When accuracy matters, treat AI output as a starting point and verify it against authoritative sources.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Hallucinations.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">What can you do about hallucinations?</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">First, try more than one tool. If you run the same prompt in different systems, you can compare the answers—like getting a second opinion.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Second, use tools that show their sources. Some systems combine AI with web search and give you citations, which makes it easier to check their claims.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Third, when possible, use tools that are grounded in specific data—like a set of official documents or policies. That can reduce errors, though it doesn’t eliminate them.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Fourth, be clear in how you ask. More specific prompts usually lead to better results.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the IEEE Spectrum article titled: AI Models Fail Miserably at This One Easy Task: Telling Time.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">And finally, check the output. AI models may write a flawless memo but they &nbsp;cannot reliably tell time</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Think of it like reviewing work from a junior colleague—you still need to verify before you rely on it.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">When you’re checking AI output, there are a few simple things to look for.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">If it cites a study or a statistic, take a moment to find the original source.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Fabricated or misattributed citations do happen. If it names an author, make sure that person actually exists—and that they really wrote what’s being attributed to them.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">For important claims, cross-check against a reliable source you trust.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">And if the tool gives you a link, click it. AI-generated URLs can look convincing but sometimes lead nowhere.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Finally, you can also ask the tool directly: Are you confident this is accurate? What’s your source? It won’t always fix the problem, but it can surface useful clues.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">One practical point: AI outputs can change from one run to the next. For official work, keep a record of what the tool produced and what you changed.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Next up: let's talk about bias.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "180cdcea-9f03-42a5-96d9-b07f2bdb1fd3"
+        },
+        {
+          "id": "anfRleb8kQABICTjsv27ipDZDooQq1Tf",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "10zOYr/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-Xv5s2EbOiX9dt2xM.mp4",
+                  "type": "video",
+                  "poster": "w5K6pA/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpylzu6a003i3b7jjv9wy3r6",
+                      "key": "Video%2015%20-%205.3%20-.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 15 - 5.3 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 189,
+                  "inputKey": "rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/Xv5s2EbOiX9dt2xM.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/transcoded-Xv5s2EbOiX9dt2xM.0000000.jpg",
+                  "captionUID": "cmpylzuer003j3b7jfc2bmqr1",
+                  "originalUrl": "2408GovLabAI 2026 Video 15 - 5.3 v3.2.mp4",
+                  "transcodeId": "1780433913035-cnim3l"
+                }
+              },
+              "caption": "<div data-editor-id=\"3deec41a-53a4-4aee-ab4e-22f3a4c0533d\"><p>Video 1.2: Hallucinations and Accuracy</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": false,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "229ab30b-748e-490a-a2d3-6889f802eeb4"
+        },
+        {
+          "id": "LxrEegsiWfnQ-d3wvdrBg9kioz63cRHE",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "ee3d88bb-34e1-4705-a497-6df03c71c391"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-02-10T20:59:02.008Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"534e0949-6bcd-453f-929d-ae88506278bb\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "mLe0cPgyKk-xYKk_bylJddcJoCoptNIu",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "xEOwcMMc9VWgF8Krd2ouGaRw9-pTf32e",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 1.2",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-06-03T21:14:03.344Z",
+      "items": [
+        {
+          "id": "clx3vqqk500293b78s7h5kjgj",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the term used to describe the phenomenon of generative AI tools producing false or inaccurate information?</p>",
+          "answers": [
+            {
+              "id": "clx3vqqk5002a3b78b6bjixol",
+              "title": "<p>Deception</p>",
+              "correct": true,
+              "feedback": "<p>Deception implies intentional misleading, which is not the case with generative AI hallucinations.</p>"
+            },
+            {
+              "id": "clx3vqqk5002c3b78nnmrw59i",
+              "title": "<p>Hallucination</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vqqk5002d3b78kd5ddjj8",
+              "title": "<p>Bias</p>",
+              "feedback": "<p>While bias can contribute to inaccurate outputs, the specific phenomenon described here is known as hallucination.</p>"
+            },
+            {
+              "id": "clx3vqqk5002b3b7804gsj4mi",
+              "title": "<p>Glitch</p>",
+              "correct": true,
+              "feedback": "<p>A glitch suggests a temporary malfunction, whereas hallucination is a byproduct of the AI&#39;s language modeling approach.</p>"
+            }
+          ],
+          "correct": "clx3vqqk5002c3b78nnmrw59i",
+          "corrects": [
+            "clx3vqqk5002a3b78b6bjixol",
+            "clx3vqqk5002b3b7804gsj4mi"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "a93669a5-c459-4f4f-9bec-31dd9da8103e"
+        },
+        {
+          "id": "clx3vrwk900393b783tze2yb4",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the primary reason generative AI tools can sometimes produce false or inaccurate information?</p>",
+          "answers": [
+            {
+              "id": "clx3vqqk5002a3b78b6bjixol",
+              "title": "<p>They intentionally deceive users by generating false information</p>",
+              "correct": true,
+              "feedback": "<p>Generative AI tools do not intentionally deceive users, but can produce inaccurate information due to their probabilistic nature.</p>"
+            },
+            {
+              "id": "clx3vqqk5002c3b78nnmrw59i",
+              "title": "<div data-editor-id=\"468f6ecd-97d3-46b2-a25a-224c9c3649fd\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">They generate responses based on patterns in language, which can produce text that sounds convincing but is actually false</span></span></p></div>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vqqk5002d3b78kd5ddjj8",
+              "title": "<p>They are programmed to occasionally generate false information to test user attentiveness</p>",
+              "feedback": "<p>False information is not intentionally generated to test users, but is a byproduct of the AI&#39;s language modeling approach.</p>"
+            },
+            {
+              "id": "clx3vqqk5002b3b7804gsj4mi",
+              "title": "<p>They have a built-in bias towards generating false information</p>",
+              "correct": true,
+              "feedback": "<p>The generation of false information is not due to a built-in bias, but rather a result of the probabilistic language modeling technique.</p>"
+            }
+          ],
+          "correct": "clx3vqqk5002c3b78nnmrw59i",
+          "corrects": [
+            "clx3vqqk5002a3b78b6bjixol",
+            "clx3vqqk5002b3b7804gsj4mi"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "5021b69d-4b39-45e5-8319-95c1da90fbb4"
+        },
+        {
+          "id": "clx3vuwv1003a3b78wipyqvqf",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Why is using more than one AI model helpful for spotting hallucinations?</p>",
+          "answers": [
+            {
+              "id": "clx3vqqk5002a3b78b6bjixol",
+              "title": "<p>Different models will always produce the same hallucinations</p>",
+              "correct": true,
+              "feedback": "<p>Different models are likely to produce different hallucinations, not the same ones.</p>"
+            },
+            {
+              "id": "clx3vqqk5002c3b78nnmrw59i",
+              "title": "<p>Comparing outputs from multiple models can highlight inconsistencies and potential inaccuracies</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vqqk5002d3b78kd5ddjj8",
+              "title": "<p>&nbsp;Using multiple models guarantees the complete elimination of hallucinations</p>",
+              "feedback": "<p>While using multiple models can help identify hallucinations, it does not guarantee their complete elimination.</p>"
+            },
+            {
+              "id": "clx3vqqk5002b3b7804gsj4mi",
+              "title": "<p>Multiple models are required to generate any output at all</p>",
+              "correct": true,
+              "feedback": "<p>Multiple models are not required to generate output, but rather serve as a means of comparison to identify potential issues.</p>"
+            }
+          ],
+          "correct": "clx3vqqk5002c3b78nnmrw59i",
+          "corrects": [
+            "clx3vqqk5002a3b78b6bjixol",
+            "clx3vqqk5002b3b7804gsj4mi"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "9a92b974-268c-4515-b575-307d0ea65a23"
+        },
+        {
+          "id": "clx3vwxj5003b3b78dqepltg6",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the most important step when using generative AI tools?</p>",
+          "answers": [
+            {
+              "id": "clx3vqqk5002a3b78b6bjixol",
+              "title": "<p>Blindly trusting the AI-generated output without review</p>",
+              "correct": true,
+              "feedback": "<p>Blindly trusting AI output without review can lead to the use of inaccurate or inappropriate information.</p>"
+            },
+            {
+              "id": "clx3vqqk5002c3b78nnmrw59i",
+              "title": "<p>Checking and proofreading the results generated by the AI</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vqqk5002d3b78kd5ddjj8",
+              "title": "<p>&nbsp;Assuming the AI output is always inferior to human-generated content</p>",
+              "feedback": "<p>While human oversight is important, assuming AI output is always inferior can lead to underutilization of these tools.</p>"
+            },
+            {
+              "id": "clx3vqqk5002b3b7804gsj4mi",
+              "title": "<p>Avoiding the use of generative AI tools in all circumstances</p>",
+              "correct": true,
+              "feedback": "<p>Generative AI tools can be helpful when used responsibly, so avoiding them altogether may not be the best approach.</p>"
+            }
+          ],
+          "correct": "clx3vqqk5002c3b78nnmrw59i",
+          "corrects": [
+            "clx3vqqk5002a3b78b6bjixol",
+            "clx3vqqk5002b3b7804gsj4mi"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "4f0788c0-e47a-4e6d-ab50-4ee46a79a918"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-02-10T20:59:07.880Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "8PBN38cwNA35MDVBmQhpgwRqSjBhR2D-",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "2rRSfRDWWPfifT9nYB1b66WjeUX7mz8f",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 4,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 1.3 | Bias",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-03T20:02:28.233Z",
+      "items": [
+        {
+          "id": "IQCGa0Syz0q-GBH-Agd-Kz1KgWEb00gs",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 5.3 | Bias</strong></p>",
+              "paragraph": "<p>Bias in GenAI is discussed, stemming from biased training data. Examples illustrate how GenAI can replicate societal biases. Techniques to correct for bias, such as targeted prompting and manual correction, are introduced, along with the potential for GenAI to help identify bias.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "6dcb6b4f-b3fb-4faf-84db-3b677055772f"
+        },
+        {
+          "id": "cmiq7uyh400ak3b6o1i4if30b",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq7uyh400an3b6otok12cg6",
+              "title": "Audio description transcript - Bias",
+              "description": "<div data-editor-id=\"175a086b-61a3-4335-9a37-1eeee12fb5ab\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Using GenAI in Government.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Bias.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back. We’ve looked at hallucinations—now let’s turn to bias.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: A scale leveraging Bias against Facts within a person's head, generated by ChatGPT5.5.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Bias in AI means outputs are not neutral—they can advantage some groups and disadvantage others. In government, that can lead to unequal treatment, flawed decisions, and reduced trust.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The root of this bias lies in the training data. GenAI is trained on vast amounts of text from the internet — the good and the bad.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Data with “Bias In” written on it enters a visual representation of a Gen AI, and it then outputs data with “Bias Out” written on it.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Generative AI does not create bias from scratch; it learns patterns in the data and can reproduce or amplify them.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">For example, when asked to generate or evaluate resumes, a model may produce different responses for otherwise identical candidates based only on names, reflecting patterns of bias found in human decision-making.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Two CVs are reviewed by a Gen AI, one of the CVs is passed, and the other is labeled Fail.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Even with balanced training data, bias can also arise from how the model generalizes patterns. If training data overrepresents certain pathways to success—such as graduates of a small set of prestigious universities—the model may reflect those patterns even when they are not relevant.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">AI researchers are working to reduce bias through techniques like Reinforcement Learning from Human Feedback, where models are trained to avoid harmful or stereotypical outputs. But because these systems learn from real-world data, bias cannot be fully eliminated.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You can sometimes correct for bias directly. If you ask for an image of a lawyer and get only one gender or race, ask for alternatives.&nbsp;</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The AI first generates an image of a white male lawyer. When asked to provide alternatives with different genders and races, it creates four images of lawyers with various racial backgrounds, of which 3 are female.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You can also ask GenAI to review text or images for potential bias, and some tools are designed specifically for that purpose. Still, these are not perfect detectors and require human judgment.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>When asked to generate an image of a doctor without bias on race or gender, the AI provides two images containing a female doctor.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Bias also appears in translation. Quality is generally strong for widely spoken languages, but it can be weaker for less-resourced languages, including many indigenous languages. This can lead to inaccurate or culturally inappropriate results. When translating for these communities, always have a fluent speaker review the output.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Bias is not always easy to detect. Although Generative AI systems can provide explanations, these do not reliably reflect how the model produced its output, making problematic patterns difficult to identify.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>When asked to explain the reasoning behind an answer, the AI does not mention bias in its analysis of its own response.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">This is one reason policymakers have placed limits on high-risk uses of AI, especially in areas like employment, education, and access to services.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the EU Artificial Intelligence Act. Chapter: High-Risk AI Systems.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The takeaway is straightforward: be thoughtful about the tasks you assign to GenAI, and stay in control of decisions that affect people.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the White House paper titled: Accelerating Federal Use of AI through Innovation, Governance, and Public Trust.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">At the same time, GenAI can also help identify bias—if used carefully. You can ask it to flag potentially biased language or outputs for you to correct, but the final judgment must remain with you.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In our final video in this section, we'll discuss strategies for mitigating all these risks.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "8d059379-d57e-4de9-9f21-0e5dcb0a8236"
+        },
+        {
+          "id": "45RCq0laL-dzMuX900HMtFz2WC7N9Tvf",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "UmjNV6/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-VZS9gKJoxKpAY1dI.mp4",
+                  "type": "video",
+                  "poster": "AtnP1f/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6luo5006e3b7jxc1m1f3h",
+                      "key": "Video%2016%20-%205.4%20-.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 16 - 5.4 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 216,
+                  "inputKey": "rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/VZS9gKJoxKpAY1dI.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/transcoded-VZS9gKJoxKpAY1dI.0000000.jpg",
+                  "captionUID": "cmpx6luv7006f3b7j5djgcx5y",
+                  "originalUrl": "2408GovLabAI 2026 Video 16 - 5.4 v3.1.mp4",
+                  "transcodeId": "1780434075238-b10ixr"
+                }
+              },
+              "caption": "<div data-editor-id=\"9314e03f-9afc-4c4e-bdad-fcb7cd66ff12\"><p>Video 1.3: Bias</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": false,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "49ad7841-f5ba-4c27-83ac-bad2e33dc625"
+        },
+        {
+          "id": "Sz6jyeo0uEmSIbwk7-DORkhsAUC1EUBq",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "2c990744-fcad-4e5f-922f-ea975c54537e"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-02-10T20:59:12.150Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"68134147-ae10-4db6-994b-0148d683ade3\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "8ze65SjweC_xefGFWgeZ4fIqROgfQ9Dt",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "lrBMW8DKKWk-gSgWZU0d-mli9Ev8u2YJ",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 5,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 1.3",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-06-03T21:16:24.975Z",
+      "items": [
+        {
+          "id": "clx3vz5pv003g3b78tufjcdqc",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What does it mean when we say that generative AI &quot;reflects the bias that created it&quot;?</p>",
+          "answers": [
+            {
+              "id": "clx3vz5pv003h3b78bh5exhjz",
+              "title": "<p>The AI tools actively create new biases that did not exist before</p>",
+              "correct": true,
+              "feedback": "<p>Generative AI tools do not create entirely new biases, but rather reflect and perpetuate existing ones.</p>"
+            },
+            {
+              "id": "clx3vz5pv003j3b78kezy0vk8",
+              "title": "<div data-editor-id=\"262829e6-42d8-46bc-a385-a29ae1c06ea1\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The AI learns patterns from its training data and can reproduce or even amplify biases present in that data</span></span></p></div>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vz5pv003k3b78z3lyajgk",
+              "title": "<p>The AI tools eliminate all biases and produce perfectly neutral outputs</p>",
+              "feedback": "<p>While AI tools can be helpful, they are not capable of eliminating all biases and producing perfectly neutral outputs.</p>"
+            },
+            {
+              "id": "clx3vz5pv003i3b780ueidliv",
+              "title": "<p>The AI tools only reflect the biases of their current users, not their training data</p>",
+              "correct": true,
+              "feedback": "<p>The biases in AI outputs are primarily a reflection of the training data, not just the biases of current users.</p>"
+            }
+          ],
+          "correct": "clx3vz5pv003j3b78kezy0vk8",
+          "corrects": [
+            "clx3vz5pv003h3b78bh5exhjz",
+            "clx3vz5pv003i3b780ueidliv"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "2eff2fb6-6001-40ad-b730-486303fae540"
+        },
+        {
+          "id": "clx3w0d7b004a3b78acqi01s6",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What makes it challenging to identify bias in generative AI outputs?</p>",
+          "answers": [
+            {
+              "id": "clx3vz5pv003h3b78bh5exhjz",
+              "title": "<p>The transparent and easily understandable nature of AI decision-making processes</p>",
+              "correct": true,
+              "feedback": "<p>AI decision-making processes are often complex and opaque, not transparent and easily understandable.</p>"
+            },
+            {
+              "id": "clx3vz5pv003j3b78kezy0vk8",
+              "title": "<p>The lack of bias in the data used to train AI models</p>",
+              "feedback": "<p>Bias in AI outputs often stems from biases present in the training data, not a lack of bias in the data.</p>"
+            },
+            {
+              "id": "clx3vz5pv003k3b78z3lyajgk",
+              "title": "<p>The complexity and unclear nature of AI decision-making processes</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vz5pv003i3b780ueidliv",
+              "title": "<p>The absence of any bias in AI-generated outputs</p>",
+              "correct": true,
+              "feedback": "<p>Bias can exist in AI-generated outputs, and the challenge lies in identifying and addressing it.</p>"
+            }
+          ],
+          "correct": "clx3vz5pv003k3b78z3lyajgk",
+          "corrects": [
+            "clx3vz5pv003h3b78bh5exhjz",
+            "clx3vz5pv003i3b780ueidliv"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "ef342d9f-0505-4b8e-b00b-e8622e273f16"
+        },
+        {
+          "id": "clx3w33cn004b3b78cnld83eb",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is an example of a task that you should be cautious about asking generative AI to perform?</p>",
+          "answers": [
+            {
+              "id": "clx3vz5pv003h3b78bh5exhjz",
+              "title": "<p>Generating a summary of a publicly available research article</p>",
+              "correct": true,
+              "feedback": "<p>Summarizing a publicly available research article is generally a low-risk task for AI, as long as the output is reviewed for accuracy.</p>"
+            },
+            {
+              "id": "clx3vz5pv003j3b78kezy0vk8",
+              "title": "<p>Producing a transcript of a public meeting recording</p>",
+              "feedback": "<p>Transcribing a public meeting recording is typically a suitable task for AI, provided no sensitive information is shared.</p>"
+            },
+            {
+              "id": "clx3vz5pv003k3b78z3lyajgk",
+              "title": "<p>Making a decision or recommendation that significantly impacts people&#39;s lives</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vz5pv003i3b780ueidliv",
+              "title": "<p>Creating a first draft of a non-sensitive document for internal review</p>",
+              "correct": true,
+              "feedback": "<p>Generating a first draft of a non-sensitive document for internal review is an appropriate use of AI, as long as the output is reviewed and edited by humans.</p>"
+            }
+          ],
+          "correct": "clx3vz5pv003k3b78z3lyajgk",
+          "corrects": [
+            "clx3vz5pv003h3b78bh5exhjz",
+            "clx3vz5pv003i3b780ueidliv"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "22bd1eee-fd24-4a69-9259-b3053dbf3c5a"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-02-10T20:59:17.712Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "Sdg2zny37BdhF00kAQKQLrQEJ4WtXVy4",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "nOh47pSVrqS2PLNII7usYKgVUqJc-PQI",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 6,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 1.4 | Mitigating Risks Responsibly",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-05T21:23:17.754Z",
+      "items": [
+        {
+          "id": "8TIgQHja7m3UbaFW4PwebUm_aGREviQw",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 5.4 | Mitigating Risks</strong></p>",
+              "paragraph": "<p>Five crucial behaviors for responsible GenAI use are presented: continuous learning, evaluation, maintaining human control, transparency, and prioritizing low-risk applications. The video emphasizes the importance of risk reduction while comparing to the risk of existing processes.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "c828ef19-2d43-4533-b11e-bccc46ef51fa"
+        },
+        {
+          "id": "cmiq8238100eo3b6o6fcqsojf",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq8238100er3b6ok1ajokk1",
+              "title": "Audio description transcript - Mitigating Risks Responsibly",
+              "description": "<div data-editor-id=\"6050eb55-f01a-4987-8a2d-cf6aa4bf6109\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Mitigating Risks Responsibly.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back! Responsible use of GenAI, requires adherence to five crucial behaviors:</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Staying current on best practices by learning from others</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Critically assessing every output</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Maintaining human control…AI on Tap, not on Top</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Being transparent and always disclosing your use of GenAI</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Prioritizing lower-risk applications</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You've already started learning by taking this course!. To keep improving, focus on three things: practice, policy, and peer learning.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Use these tools regularly on real work so you build intuition for what works.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Make sure you understand your organization’s rules on data security and approved tools before using them.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">And learn from others—share effective prompts and workflows with colleagues, and adopt what works.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">When evaluating outputs, work on tasks within your area of expertise so you can assess quality and accuracy. Ask yourself: could I defend this to a colleague? Use more than one tool to compare results, and never treat GenAI as a substitute for human judgment. For example, don’t publish public-facing content or even send around a draft of a memo without carefully reviewing it first.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Be transparent. Clearly label when content has been created or assisted by AI, whether for internal or public use. Document the tools, prompts, and methods you used so others can understand and replicate your work.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In some cases, accessibility accommodations may affect disclosure requirements, for example, employees using AI-powered assistive tools. Consult your agency's legal counsel or disability services office if you have questions about whether an exemption applies to your situation.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Prioritize low-risk uses. There is less risk in using GenAI to draft internal materials that will be reviewed than in generating content residents rely on for critical decisions. Always build in human oversight.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">This is sometimes described as “AI on tap, not on top.” GenAI can support your work, but the responsibility and accountability remain with you—especially for high-stakes outcomes that affect people’s lives.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Transparency also builds trust. Residents increasingly expect to know when AI is used in government services or communications. Clear disclosure helps maintain credibility and allows errors to be identified and corrected.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Remember: there is no such thing as zero risk. The goal is to reduce risk. When evaluating GenAI, compare it to current practice—does it improve accuracy, consistency, or fairness? Human processes are not error-free either, so the question is whether these tools help us do better.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Finally, if your organization hasn't yet approved any AI tools, that's not uncommon. Consider raising the conversation with your supervisor. You can make the case by sharing what you've learned in this course about potential benefits and safeguards needed. Many organizations have started with a limited pilot on a single approved platform before expanding.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In the past few videos, we covered:</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Privacy, hallucination, and bias</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Practical ways to mitigate these risks</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Next, we’ll look at broader societal challenges.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "9edf9d62-af6a-4ce0-bcb9-898c2bfdbb6e"
+        },
+        {
+          "id": "gKNIWqshQfNdAMASGvFMucJS6fizpf4K",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "OoKBgV/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-dz1xIjdzc3SgUAKC.mp4",
+                  "type": "video",
+                  "poster": "WyhBCA/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6mvsr00763b7jjtk1s0lg",
+                      "key": "Video%2017%20-%205.5%20-.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 17 - 5.5 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 252,
+                  "inputKey": "rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/dz1xIjdzc3SgUAKC.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX/transcoded-dz1xIjdzc3SgUAKC.0000000.jpg",
+                  "captionUID": "cmpx6mvze00773b7jj8a3a00k",
+                  "originalUrl": "2408GovLabAI 2026 Video 17 - 5.5 V3.2.mp4",
+                  "transcodeId": "1780434578577-pa9din"
+                }
+              },
+              "caption": "<div data-editor-id=\"8cf748cc-0c2f-4bf9-8cf5-5c68e38c6f4a\"><p>Video 1.4: Mitigating Risks Responsibly</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": false,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "65cccfe6-bf86-45bb-aef8-e1da50740c46"
+        },
+        {
+          "id": "mnLujxZsCQmB7g6aqQhnXuAvI7aKM0PC",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "92bcd2d9-2712-49cf-b165-8e31e47a1171"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX",
+      "createdAt": "2026-02-10T21:00:41.215Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"b3bc6e9d-8922-4ac5-b8f3-8ec31c7b5fed\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "fTaioTTyQraDnGa-h3KaIKQA1-9VuqU2",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "mgNbsZae8PEjUqXbsR9d0by23vIQfFur",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 8,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 1.4",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-02-10T21:00:41.300Z",
+      "items": [
+        {
+          "id": "clx3w4pi4004h3b78z0qv43tp",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Why is it recommended to use generative AI for tasks within your area of expertise?</p>",
+          "answers": [
+            {
+              "id": "clx3w4pi4004i3b78fa08mrw3",
+              "title": "<p>To maximize the entertainment value and popularity of the AI&#39;s outputs</p>",
+              "correct": true,
+              "feedback": "<p>The primary reason for focusing on tasks within your expertise is to ensure quality and accuracy, not to maximize entertainment value.</p>"
+            },
+            {
+              "id": "clx3w4pi4004k3b78gx1vk1yh",
+              "title": "<p>To eliminate the need for any human review or oversight of the AI&#39;s outputs</p>",
+              "feedback": "<p>Using AI for tasks within your expertise still requires human review and oversight to ensure the best results.</p>"
+            },
+            {
+              "id": "clx3w4pi4004l3b78say429pu",
+              "title": "<p>To challenge yourself to work on projects outside of your comfort zone</p>",
+              "feedback": "<p>While challenging yourself can be valuable, the main purpose of this recommendation is to leverage your expertise for effective AI use.</p>"
+            },
+            {
+              "id": "clx3w4pi4004j3b78pu3avjvp",
+              "title": "<p>To ensure you have the skills and knowledge to assess the quality and accuracy of the AI&#39;s outputs</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "clx3w4pi4004j3b78pu3avjvp",
+          "corrects": [
+            "clx3w4pi4004i3b78fa08mrw3",
+            "clx3w4pi4004j3b78pu3avjvp"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "aaf1c931-b4e5-4167-a685-ca3302cc0149"
+        },
+        {
+          "id": "clx3w6ta500613b78ryfzaz31",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Why is it important to disclose the use of AI, even when it is used sparingly?</p>",
+          "answers": [
+            {
+              "id": "clx3w4pi4004i3b78fa08mrw3",
+              "title": "<p>To mislead people about the extent of AI involvement in a project</p>",
+              "correct": true,
+              "feedback": "<p>Disclosing AI use is about transparency, not misleading people about the extent of AI involvement.</p>"
+            },
+            {
+              "id": "clx3w4pi4004k3b78gx1vk1yh",
+              "title": "<p>To exaggerate the capabilities and reliability of AI tools</p>",
+              "feedback": "<p>The purpose of disclosure is to provide accurate information about AI use, not to exaggerate its capabilities.</p>"
+            },
+            {
+              "id": "clx3w4pi4004l3b78say429pu",
+              "title": "<p>To foster trust and facilitate error identification</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3w4pi4004j3b78pu3avjvp",
+              "title": "<p>To discourage people from engaging with AI-generated content</p>",
+              "correct": true,
+              "feedback": "<p>Disclosing AI use aims to promote informed engagement, not discourage people from interacting with AI-generated content.</p>"
+            }
+          ],
+          "correct": "clx3w4pi4004l3b78say429pu",
+          "corrects": [
+            "clx3w4pi4004i3b78fa08mrw3",
+            "clx3w4pi4004j3b78pu3avjvp"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "2f89ae26-a9b7-4e52-b08b-f389705619e1"
+        }
+      ]
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-02-10T20:29:39.079Z",
+  "updatedAt": "2026-06-07T19:07:16.649Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Overcoming risks: Your individual use",
+    "format": "zip",
+    "quizId": "e6-1ZFElb2noIE8pWzb5vsVX8UOhf4Wp",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "UKtZVxn33BJxMK4DUvy1jdRkKRaectaT",
+    "activeLMS": 0,
+    "hideLmsUi": false,
+    "reporting": "passed-incomplete",
+    "exportType": "lms",
+    "identifier": "bDH-bdRbU1wvLFoeGuxgVEszfWLrQghX_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": false,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "completionPercentage": 100,
+    "notifyLearnersOfUpdates": false,
+    "translationModelVersion": null,
+    "enableTelemetryCollection": false
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124c8e",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/11_creative.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-06-07T19:07:17.774Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {},
+  "description": "<div data-editor-id=\"728e8100-8bcd-49e0-ba74-3a91f5b4e635\"><p>This course will address many of the challenges inherent in AI use. We will address the risks associated with these powerful tools, such as data privacy, hallucinations, and bias. This course also explores broader societal issues surrounding GenAI, including copyright, deepfakes, astroturfing, and the implications of private ownership.</p></div>",
+  "title": "Overcoming risks: Your individual use",
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "blank"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-06-07T19:07:13.659Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-06-07T19:07:17.774Z",
+  "aiTutorImage": null,
+  "features": {
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "lmsOptions": {
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "enableTelemetryCollection": false
+  },
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "status": "published",
+    "description": "<p><span style=\"font-weight: 400;\">In partnership with the </span><a href=\"https://www.nj.gov/labor/\"><span style=\"font-weight: 400;\">New Jersey Department of Labor,</span></a><span style=\"font-weight: 400;\">&nbsp;InnovateUS created a multi-part course on human-centered design and strategies for prioritizing user needs in government work.&nbsp;</span></p>\n<p><span style=\"font-weight: 400;\">In the summer of 2021, NJ DOL staff met for seven one-hour sessions spread across a nine-week period to learn about interviewing, creating personas, service blueprinting, journey mapping and participatory design. </span></p>",
+    "type": "live-courses",
+    "workshop_date": "2021-07-15T12:00:00.000Z",
+    "title": "Human-Centered Design",
+    "agency": "New Jersey Department of Labor ",
+    "link": null,
+    "Coming_soon": null
+  },
+  {
+    "id": 2,
+    "status": "published",
+    "description": "<p><span style=\"font-weight: 400;\">In partnership with the </span><a href=\"https://www.njoag.gov/\"><span style=\"font-weight: 400;\">New Jersey Office of the Attorney General</span></a><span style=\"font-weight: 400;\"> and the </span><a href=\"https://innovation.nj.gov/\"><span style=\"font-weight: 400;\">New Jersey Office of Innovation</span></a><span style=\"font-weight: 400;\">, InnovateUS created a two-day workshop for attorney general office leadership. In May 2022, we hosted 37 participants who represented senior leadership from 17 divisions, offices, and commissions for four 60-90 minute sessions over two days. The goal of this workshop was to help the Office deepen a culture of innovation and design and launch new innovation projects.</span></p>",
+    "type": "live-courses",
+    "workshop_date": "2022-05-16T12:00:00.000Z",
+    "title": "Innovation for Public Sector Lawyers",
+    "agency": "New Jersey Office of the Attorney General ",
+    "link": null,
+    "Coming_soon": null
+  },
+  {
+    "id": 3,
+    "status": "published",
+    "description": "<p><span style=\"font-weight: 400;\">This three-part, nine-hour masterclass hosted by Chief Innovation Officer for the state of New Jersey Beth Simone Noveck, former United States Secretary of Labor Seth Harris and GovLab Fellow Dane Gambrell explored ways of using digital, data and innovation skills and applying them to the design of workforce agency innovation projects. Offered in collaboratio with the National Association of State Workforce Agencies (NASWA).&nbsp;</span></p>",
+    "type": "live-courses",
+    "workshop_date": "2022-10-15T12:00:00.000Z",
+    "title": "Innovation for the Workforce Ecosystem",
+    "agency": "National Association of State Workforce Agencies (NASWA)",
+    "link": null,
+    "Coming_soon": null
+  },
+  {
+    "id": 4,
+    "status": "archived",
+    "description": "<p>Open justice is a growing movement to use new technologies, including big data, digital platforms, blockchain and more, to improve our legal system by making the workings of our legal institutions easier to understand, scrutinize and, we hope, improve. Thanks to new tools the opportunity to make improvements has never been greater. This course is designed to help the public entrepreneur &ndash; passionate individuals like you. Whether you are a lawyer, a judge, a technologist or just a concerned citizen &ndash; the course will help you to use new technologies to take action to increase efficiency, improve equity, fight corruption and enhance legitimacy in the third branch of government.</p>",
+    "type": "at-your-own-pace-courses",
+    "workshop_date": "2021-07-01T12:00:00.000Z",
+    "title": "Open Justice",
+    "agency": "Commission of the Mexican Federal Electoral Court",
+    "link": null,
+    "Coming_soon": null
+  },
+  {
+    "id": 5,
+    "status": "archived",
+    "description": "<p>In this multi-part series, participants will learn about exciting developments in the field of artificial intelligence and how these emerging technologies will affect the public sector and how it will impact your work in government.</p>",
+    "type": "live-courses",
+    "workshop_date": "2023-10-01T12:00:00.000Z",
+    "title": "InnovateUS AI Workshop Series",
+    "agency": "InnovateUS",
+    "link": null,
+    "Coming_soon": null
+  },
+  {
+    "id": 6,
+    "status": "published",
+    "description": "<p dir=\"ltr\">Public professionals focused on delivering more effective, equitable and engaged policies and services, the Innovation Skills Accelerator online course gives an end-to-end overview of innovation concepts from defining a problem, to measuring success, helping you to take your project from idea to implementation faster and more effectively.</p>",
+    "type": "at-your-own-pace-courses",
+    "workshop_date": "2022-10-01T12:00:00.000Z",
+    "title": "Innovation Skills Accelerator",
+    "agency": "InnovateUS and The GovLab",
+    "link": "/course/innovation-skills-accelerator",
+    "Coming_soon": null
+  },
+  {
+    "id": 7,
+    "status": "published",
+    "description": "<p dir=\"ltr\"><em><strong>Launching in Summer 2024</strong></em></p>\n<p dir=\"ltr\">This course series includes an overview of Generative AI (GenAI), use cases for your day-to-day work, hands-on best practices for the responsible use of GenAI, associated risks, and more.</p>",
+    "type": "at-your-own-pace-courses",
+    "workshop_date": "2023-11-30T12:00:00.000Z",
+    "title": "Responsible AI for Public Professionals: Using Generative AI at Work ",
+    "agency": "InnovateUS",
+    "link": "/course/responsible-ai-for-public-professionals-using-generative-ai-at-work",
+    "Coming_soon": true
+  },
+  {
+    "id": 8,
+    "status": "published",
+    "description": "<p dir=\"ltr\">Public professionals looking to deliver programs, products and services that best meet the needs of the people they serve, this online course provides an overview of the Human-Centered Design framework, which engages those most affected by a program, policy or service, in the decision-making process.</p>\n<p dir=\"ltr\">&nbsp;</p>",
+    "type": "at-your-own-pace-courses",
+    "workshop_date": "2024-02-01T12:00:00.000Z",
+    "title": "Human-Centered Design",
+    "agency": "InnovateUS",
+    "link": "/course/human-centered-design",
+    "Coming_soon": false
+  },
+  {
+    "id": 9,
+    "status": "archived",
+    "description": null,
+    "type": "live-courses",
+    "workshop_date": "2023-11-03T12:00:00.000Z",
+    "title": "Responsible AI for Public Lawyers",
+    "agency": "InnovateUS",
+    "link": null,
+    "Coming_soon": null
+  },
+  {
+    "id": 10,
+    "status": "archived",
+    "description": "<p>Fast Field Scanning with AI teaches public professionals how to systematically research solutions, evaluate their viability, and identify whether they will work in their own jurisdiction using the web and Artificial Intelligence.</p>",
+    "type": "live-courses",
+    "workshop_date": "2023-12-01T12:00:00.000Z",
+    "title": "What works: fast field scanning with AI",
+    "agency": "InnovateUS",
+    "link": "/course/what-works-fast-field-scanning",
+    "Coming_soon": false
+  },
+  {
+    "id": 11,
+    "status": "archived",
+    "description": null,
+    "type": "live-courses",
+    "workshop_date": "2023-10-24T12:00:00.000Z",
+    "title": "InnovateUS Workshop Series on Responsible Data Use",
+    "agency": "InnovateUS",
+    "link": null,
+    "Coming_soon": null
+  },
+  {
+    "id": 12,
+    "status": "archived",
+    "description": "<p>In this 3-part <span class=\"il\">series</span>, participants will learn how to use design thinking for public problem-solving, accompanied by case studies from state and local government.</p>",
+    "type": "live-courses",
+    "workshop_date": "2023-11-01T12:00:00.000Z",
+    "title": "Human-Centered Design for the Public Sector",
+    "agency": "InnovateUS",
+    "link": null,
+    "Coming_soon": null
+  },
+  {
+    "id": 13,
+    "status": "published",
+    "description": "<p><em><strong>Launching June 3</strong></em></p>\n<p dir=\"ltr\">What Works: Fast Field Scanning with AI is designed to help public professionals accelerate the process of finding and implementing urgently-needed evidence-based solutions to public problems.&nbsp;The course teaches public professionals methods for researching, evaluating, and identifying what works and determining whether solutions that worked in one jurisdiction will work in their communities.</p>",
+    "type": "at-your-own-pace-courses",
+    "workshop_date": "2024-03-29T12:00:00.000Z",
+    "title": "What Works: Fast Field Scanning with AI ",
+    "agency": "InnovateUS",
+    "link": "/course/what-works-fast-field-scanning-with-ai",
+    "Coming_soon": true
+  },
+  {
+    "id": 14,
+    "status": "published",
+    "description": "<p dir=\"ltr\">This course series includes an overview of AI and Generative AI (GenAI) approaches, the role of data and AI talent, conducting risk assessments at scale, and more.</p>",
+    "type": "at-your-own-pace-courses",
+    "workshop_date": "2024-04-10T12:00:00.000Z",
+    "title": "Responsible AI for Public Professionals: Scaling AI in Your Organization",
+    "agency": "InnovateUS",
+    "link": "/course/responsible-ai-for-public-professionals-scaling-ai-in-your-organization",
+    "Coming_soon": false
+  }
+]

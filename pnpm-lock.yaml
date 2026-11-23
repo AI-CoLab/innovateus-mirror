@@ -1,0 +1,13 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@aicolab/learning-contracts':
+        specifier: link:../learning-contracts
+        version: link:../learning-contracts

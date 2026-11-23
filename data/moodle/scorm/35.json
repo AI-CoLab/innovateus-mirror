@@ -1,0 +1,4153 @@
+{
+  "id": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "t1xpPKjy0lmIu89ipX01CrGmx7wqTbav",
+  "copyOf": "qs43W67El7dQ_8TIKAUB--P5it0ySa7K",
+  "order": "1750879938151",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "lessons": [
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "8E4tqhlOFnx5j8UbypP37bYwcECUg6Xw",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "hZ8VZosaLtAZz9QyQzonHgLQg-CCQDQQ",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 0,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Welcome!",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-27T19:45:02.494Z",
+      "items": [
+        {
+          "id": "cm0zl1h8x0036356ufuy1rlup",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0zl1h8y003c356utta3q4ku",
+              "heading": "<div data-editor-id=\"74706b9b-c31d-478e-9415-42743aed6c9d\"><p><strong>Module 1: </strong><span><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\"><span>Course overview</span></span></span></span></p></div>",
+              "paragraph": "<div data-editor-id=\"f2e4fbb2-0454-43c2-98bc-26c58a8a4dc2\"><p><span><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\"><span>This module introduces the course and provides an overview of the key topics covered, including different AI approaches and selecting impactful projects. The module emphasizes the potential of AI to revolutionize public sector operations and the importance of government leaders making informed decisions about AI implementation.</span></span></span></span><br class=\"break-when-trailing\"><br class=\"break-when-trailing\">After each video ends, a continue button appears below the video player. Click it to reveal the additional navigation and the InnovateUS website link containing readings and resources. Learners with screen readers can use the down arrow key to navigate through the video player’s controls and access the continue button. <strong><em>Another</em></strong> “continue” button will appear to move on to the Self-Assessments after each video.</p><ul><li><p><strong>Reminder:</strong> Consult with your organization’s policies before using any tool or platform. &nbsp;</p></li><li><p><strong>Disclaimer</strong>: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</p></li></ul></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0zl2a7j004s356um6fykvti",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0zl2a7k004t356ulo3a1fha",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "ECWNyqJiCjKEXEE7JJDSnb9MX-lIeCpl",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "tfCm_BOaUKhcef34gHtevRQCzopeMT2h",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 1.1: Course Overview",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-06-09T17:58:50.776Z",
+      "items": [
+        {
+          "id": "clzub4rjl00283b6enxyu4uif",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzub4rjm00293b6e5sjdocuq",
+              "type": "link",
+              "label": "Start Survey!",
+              "description": "<p><strong>Pre-Course Survey</strong></p><p>Before you begin the course, we want to get to know you better. Please click the &quot;start survey&quot; button. It will take no longer than 5 minutes to complete!</p>",
+              "destination": "https://bit.ly/designing-ai-in-gov-pre-course-survey"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzub5c48002p3b6ewe92h4u1",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzub5c4b002q3b6e2ua4c917",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrhpjvp00023b7cymqi0cfc",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrhpjvq00083b7cz0zh03aj",
+              "heading": "",
+              "paragraph": "<div data-editor-id=\"39b3f26b-60a9-44d5-a47f-4571a294d173\"><p><span><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\"><span>This module introduces the course and provides an overview of the key topics covered, including different AI approaches and selecting impactful projects. The module emphasizes the potential of AI to revolutionize public sector operations and the importance of government leaders making informed decisions about AI implementation.</span></span></span></span></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzms1nk5000s3b6ecrhkp2ez",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzms1nk6000t3b6eryons40h",
+              "media": {
+                "video": {
+                  "key": "Video1.1.mp4",
+                  "url": "transcoded-6hhdF00fXFkFxKAg-Video1.1.mp4",
+                  "type": "video",
+                  "poster": "Video1.1.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8mk40200433b6l96kt153x",
+                      "key": "Video1.1_otter_ai-3.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video1.1_otter_ai-3.vtt"
+                    }
+                  ],
+                  "duration": 194,
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/6hhdF00fXFkFxKAg-Video1.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-6hhdF00fXFkFxKAg-Video1.1.0000000.jpg",
+                  "captionUID": "cmb8mk49o00443b6lhphrulsk",
+                  "originalUrl": "Video1.1.mp4",
+                  "transcodeId": "1748473087257-i91335"
+                }
+              },
+              "caption": "<p>Video 1.1: Course Overview</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu4z8vj00ft3b6e912apvar",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu4z8vk00fu3b6e75687ns1",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzjte1001y3b6eseinirrn",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzjte2001z3b6e4j06zcq0",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0v3sef10035356u4a3al9vx",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0v3sef10036356uchcztxbb",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:55:37.802Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "hZ8VZosaLtAZz9QyQzonHgLQg-CCQDQQ",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "syqnoi2S8htZ53Y9yfWRVU6i9xq2RlyH",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Module 2: Overview of AI approaches",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-27T19:45:02.494Z",
+      "items": [
+        {
+          "id": "BYih9fFPrA8S4H3D3tkKzbLhDDRXVpXs",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0zl1h8y003c356utta3q4ku",
+              "heading": "<div data-editor-id=\"98f3bb4d-1e85-46f1-90a9-254674089177\"><p><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Overview of AI approaches</span></span></p></div>",
+              "paragraph": "<div data-editor-id=\"59d79529-f3d5-4a78-8458-fb7d5c6fdc93\"><p><span><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\"><span>This module provides a comprehensive introduction to artificial intelligence (AI), machine learning, and generative AI. It explores the three main approaches to machine learning (supervised learning, unsupervised learning, and reinforcement learning) and the crucial decision of choosing the right algorithm for an AI project. The module also discusses the differences between generative AI and traditional machine learning, highlighting the accessibility and challenges of generative AI.</span></span></span></span></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "8ampB1TBWSQujBI--NVTDDyv-kuXkfXv",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0zl2a7k004t356ulo3a1fha",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "R8SJ_KzMVigdlk6yRG-84P5B2bJs1-U7",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "aCG8cj15ZKjE75e-baVDLOGcIEdWSNWJ",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 2.1: What is AI",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:00:31.034Z",
+      "items": [
+        {
+          "id": "clyriq7dd00033b7cmbrm8t2z",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyriq7de00093b7cnucg7x2x",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video provides a jargon-free introduction to artificial intelligence (AI), machine learning, and generative AI. It explains how AI works by identifying patterns in large amounts of data to solve problems and highlights the distinctions between narrow AI and general-purpose AI. Examples of AI applications in government, such as healthcare and fraud detection, are presented to illustrate the potential impact of these technologies.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyriqhnm000q3b7cykcsag95",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyriqhnm000r3b7cgvla16gh",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzof4byk000s3b6e7fjbce3b",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzof4byl000t3b6eg2dppok4",
+              "media": {
+                "video": {
+                  "key": "Video2.1.mp4",
+                  "url": "transcoded-zFsou7ZvFiqZSdWG-Video2.1.mp4",
+                  "type": "video",
+                  "poster": "Video2.1.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8jteca00d53b6lfnxbtz24",
+                      "key": "2425GovLabAIP2%202.1%20V2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 2.1 V2.1.mp4.vtt"
+                    }
+                  ],
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/zFsou7ZvFiqZSdWG-Video2.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-zFsou7ZvFiqZSdWG-Video2.1.0000000.jpg",
+                  "captionUID": "cmb8jtffb00d63b6lff4ne85v",
+                  "originalUrl": "Video2.1.mp4",
+                  "transcodeId": "1748359263228-xj4afe"
+                }
+              },
+              "caption": "<p>Video 2.1: What is AI</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu54c8e001v3b6esdloroqg",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu54c8e001w3b6eoihdsnge",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzp3zd001b3b6eq6bwj249",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzp3ze001c3b6e10pkv83y",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0o1mdxt00dc3b6j93mqo8qv",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0o1mdxt00dd3b6jd8v1nv5h",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "duplicatedFromId": "G2aoBV3gVD7YlQBaNXVno5N8epcK0HKy",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "qTb4URUeJD4A2vAlQM5XaEM6f0Fgn2_L",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "sourceLessonLocaleId": null,
+      "title": "Self Assessment 2.1",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2025-06-13T18:50:27.587Z",
+      "items": [
+        {
+          "id": "cm0oaffv1009p3b6jhrzwfht3",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Which of the following statements is true about machine learning approaches?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. There is a single, universal approach to machine learning that everyone uses.</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. The machine learning approach used depends on the type of data and the specific problem being solved.</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. All machine learning approaches are interchangeable and can be used for any task.</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. The machine learning approach used is determined solely by the size of the dataset.</p>"
+            }
+          ],
+          "correct": "cm0oaffv1009r3b6jz35z7wwr",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is B. The machine learning approach used depends on the type of data and the specific problem being solved. There is no single, universal approach that everyone uses, and different approaches are not interchangeable for any task. The approach is determined by the data and problem, not solely by the dataset size.</p>"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "WV6IvXXe5xlffPh9LfmA01MacH327cFg",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "83B2OEjCEYZDnhIv3tqccRDJQqipFkYb",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 4,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 2.2: Three types of machine learning",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:01:32.918Z",
+      "items": [
+        {
+          "id": "clyritolo001q3b7ckknq7xt6",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyritolo001w3b7cm6d6zlu6",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video explores the three main methods to machine learning: supervised learning, unsupervised learning, and reinforcement learning. Each method is explained using real-world examples, such as analyzing mammograms for cancer detection. The video emphasizes the importance of selecting the appropriate machine learning methods based on the available data and the specific problem at hand.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyritztn002d3b7cvfncjtg7",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyritztn002e3b7compf4gqy",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzof8ksf001y3b6e16iqzgob",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzof8ksg001z3b6e7t1b96i9",
+              "media": {
+                "video": {
+                  "key": "Video2.2.mp4",
+                  "url": "transcoded-hn-1A_b6J8MujC_O-Video2.2.mp4",
+                  "type": "video",
+                  "poster": "Video2.2.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8juqcc00ft3b6lm429dgmy",
+                      "key": "2425GovLabAIP2%202.2%20V2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 2.2 V2.1.mp4.vtt"
+                    }
+                  ],
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/hn-1A_b6J8MujC_O-Video2.2.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-hn-1A_b6J8MujC_O-Video2.2.0000000.jpg",
+                  "captionUID": "cmb8jur6200fu3b6ltrctb30v",
+                  "originalUrl": "Video2.2.mp4",
+                  "transcodeId": "1748360754713-pje0xx"
+                }
+              },
+              "caption": "<p>Video 2.2: Three types of machine learning</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu5545f004g3b6ejcl1icq2",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu5545f004h3b6eejje0fh2",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzs45800513b6edvwwb3jh",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzs45900523b6emdv797an",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0pifm5q005s3b6jmbe4gll6",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0pifm5r005t3b6johi0fpec",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "duplicatedFromId": "SSg1e4XnoUQFu4y4KkwZavuat4k-axdM",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "BRXBaPqYEe_BDIB-PBtfQbnC6PcOBMXn",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 5,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "sourceLessonLocaleId": null,
+      "title": "Self Assessment 2.2",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2025-06-13T18:50:43.346Z",
+      "items": [
+        {
+          "id": "gEfCZhtrPX9SqjjQwH0NArhrZwc5uGGI",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the defining characteristic of supervised learning?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. The AI model learns from data that is put into specific categories, also called \"labeled data\"</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. The AI model learns from data without any predefined categories or labels</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. The AI model is explicitly programmed with rules and logic</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. The AI model learns through trial and error and receives feedback in the form of rewards or penalties</p>"
+            }
+          ],
+          "correct": "cm0oaffv1009q3b6jpftsfwmk",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is A. Supervised learning is defined by the AI model learning from data that is labeled with specific categories. This differs from unsupervised learning (B), traditional programming (C), and reinforcement learning (D).</p>"
+        },
+        {
+          "id": "cm0obnndy000h356uppdulyfy",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the key difference between unsupervised learning and supervised learning?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. Unsupervised learning models are more accurate than supervised learning models</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. Unsupervised learning models are trained on unlabeled data, while supervised learning models are trained on labeled data</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. Unsupervised learning is used for classification tasks, while supervised learning is used for anomaly detection</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. Unsupervised learning requires more human expertise than supervised learning</p>"
+            }
+          ],
+          "correct": "cm0oaffv1009r3b6jz35z7wwr",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is B. The key difference between unsupervised and supervised learning is that unsupervised learning models are trained on unlabeled data, while supervised learning models are trained on labeled data. The relative accuracy (A), typical use cases (C), and required human expertise (D) mentioned in the other options are not the defining distinctions between the two approaches.</p>"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "O4w3APo07Ygdxo1VtAqdeOfiGgnmYmw-",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "6yqBTA5_9DOVw5A99X11xxcw9-RAQokk",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 6,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 2.3: Choosing an AI algorithm",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:01:58.183Z",
+      "items": [
+        {
+          "id": "clyriy74x004d3b7c3mwfmlww",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyriy74y004j3b7cpmgbbdee",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video delves into the crucial decision of choosing the right algorithm for an AI project, highlighting the trade-off between performance and interpretability. It explains how interpretability is essential in the public sector, where decisions directly impact residents&#39; lives. The video emphasizes the importance of collaborating with data scientists, technologists, and AI ethicists to ensure the chosen approach aligns with the project&#39;s requirements and potential risks.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrj06vh00503b7c32nmvz7v",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrj06vp00513b7c5nv5m9hv",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzofzisv00343b6e5u6wc99v",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzofzisw00353b6em0b9lqp1",
+              "media": {
+                "video": {
+                  "key": "Video2.3.mp4",
+                  "url": "transcoded-XXDVFvsYYyvdfx5Q-Video2.3.mp4",
+                  "type": "video",
+                  "poster": "Video2.3.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8jva0800ih3b6lqh3rmeu6",
+                      "key": "2425GovLabAIP2%202.3%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 2.3 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 390,
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/XXDVFvsYYyvdfx5Q-Video2.3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-XXDVFvsYYyvdfx5Q-Video2.3.0000000.jpg",
+                  "captionUID": "cmb8jvao200ii3b6lqkpch0nj",
+                  "originalUrl": "Video2.3.mp4",
+                  "transcodeId": "1748362743650-c95cge"
+                }
+              },
+              "caption": "<p>Video 2.3: Choosing an AI algorithm</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu5myab00413b6eht79grc0",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu5myac00423b6ebtiusaq6",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztztb8w007h3b6ebyny4nwb",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztztb8w007i3b6efs7xxuiy",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0pifsdj008h3b6j9s92fa4i",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0pifsdj008i3b6jsbddcsnu",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "duplicatedFromId": "6nEYS0qCZQ1IxnVxeoYS1G6M_NBxYUe0",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "O1XbuunVAPY-Pco8CloCU9RSS7W2g5DX",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 7,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "sourceLessonLocaleId": null,
+      "title": "Self Assessment 2.3",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2025-06-13T18:51:08.665Z",
+      "items": [
+        {
+          "id": "pBMC5gyG1XebS09iQGLkQamXKfpT8V-C",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is a key benefit of using a more interpretable AI model, for high-stakes decisions?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. Increased efficiency and reduced computational costs</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. Improved ability to identify and mitigate bias in the model's predictions</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. Greater protection against adversarial attacks and security breaches</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. Enhanced public trust and accountability through transparent decision-making processes</p>"
+            }
+          ],
+          "correct": "cm0oas24c00043b6e527bjnb2",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is D. A key benefit of using a more interpretable model for high-stakes decisions is enhanced public trust and accountability, as the transparent decision-making process allows for greater scrutiny and understanding of how the model arrives at its predictions. While interpretability is important, it does not necessarily improve efficiency (A), mitigate bias (B), or protect against security threats (C) in the ways suggested by the other options. These aspects of model performance and robustness are influenced more by factors such as the model's architecture, training data, and security practices.</p>"
+        },
+        {
+          "id": "cm0obvlua000t356ucl2vmlli",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>Which of the following are potential drawbacks of using deep learning models for decision-making in the public sector? Select all that apply.</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. Lack of transparency in how the model arrives at its decisions</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. Increased risk of the model learning and perpetuating biases from the training data</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. Difficulty in achieving high accuracy and performance on complex tasks</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. High computational costs and longer training times compared to simpler models</p>"
+            }
+          ],
+          "correct": "cm0oas24c00043b6e527bjnb2",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr",
+            "cm0oas24c00043b6e527bjnb2"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answers are A, B, and D. Potential drawbacks of using deep learning models for public sector decision-making include lack of transparency in the model's decision-making process (A), increased risk of the model learning and amplifying biases from the training data (B), and high computational costs and longer training times compared to simpler models (D). While deep learning models can struggle with interpretability and bias, they are often able to achieve high accuracy on complex tasks (C), making this option incorrect in the context of the question.</p>"
+        },
+        {
+          "id": "cm0oby1vz0011356unqe1m1h3",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the main reason for using deep learning models despite their potential drawbacks?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. Deep learning models are more transparent and explainable than other types of models</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. Deep learning models can achieve high performance on complex tasks that other models struggle with</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. Deep learning models are less computationally expensive and faster to train than simpler models</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. Deep learning models are more resistant to biases in the training data compared to other models</p>"
+            }
+          ],
+          "correct": "cm0oaffv1009r3b6jz35z7wwr",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is B. The main reason for using deep learning models despite their potential drawbacks is their ability to achieve high performance on complex tasks, such as image recognition, natural language processing, and predicting intricate outcomes, that other models may struggle with. The transparency (A), computational efficiency (C), and bias resistance (D) mentioned in the other options are not the primary motivations for using deep learning models and are actually potential drawbacks that need to be carefully considered and mitigated when deploying these models in practice.</p>"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "EWLw2R336_vluBdIGVKJaY3e_TI_DFgm",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "vRjdnJ2tDfPq62mHbm2sRFDHm9U_AEJs",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 8,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 2.4: Generative AI",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:11:24.548Z",
+      "items": [
+        {
+          "id": "clyrj7gd400723b7chcnfp2jo",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrj7gd400783b7cl3w0l9zb",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video focuses on the differences between generative AI and traditional machine learning. It explains how generative AI is a general-purpose AI that can perform a wide variety of tasks, while traditional machine learning is designed for specific tasks. The video also discusses the accessibility of generative AI, which allows users to interact using plain language, and the importance of fine-tuning models for specialized tasks. Additionally, it covers the challenges of generative AI, such as lack of interpretability and the potential to replicate biases found in training data.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrj7mr9007p3b7c1h3opj7j",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrj7mrg007q3b7c9epxznhq",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzog48w9004a3b6e90w36hfw",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzog48w9004b3b6eg3k33v21",
+              "media": {
+                "video": {
+                  "key": "Video2.4.mp4",
+                  "url": "transcoded-_UojNfNzU360URJN-Video2.4.mp4",
+                  "type": "video",
+                  "poster": "Video2.4.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8k7ewk00l63b6ldjqcwdxr",
+                      "key": "2425GovLabAIP2%202.4%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 2.4 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 462,
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/_UojNfNzU360URJN-Video2.4.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-_UojNfNzU360URJN-Video2.4.0000000.jpg",
+                  "captionUID": "cmb8k7fnx00l73b6l0srt9s0q",
+                  "originalUrl": "Video2.4.mp4",
+                  "transcodeId": "1748473697798-njcmfs"
+                }
+              },
+              "caption": "<p>Video 2.4: Generative AI</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu5nnwm006h3b6evfq6cnku",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu5nnwn006i3b6eycdk5l7q",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzuhyy009x3b6ejgue18ro",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzuhyy009y3b6eu0vrct0h",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0pifx3b00b63b6jy8g1z5jy",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0pifx3b00b73b6jgf0mqbi5",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "duplicatedFromId": "qwNjqdGNJAOIBrUd07VykHmPd1e9Vk-5",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "LWHojeqXNhOn5D9eiXTfXuYl45g3Icly",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 9,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "sourceLessonLocaleId": null,
+      "title": "Self Assessment 2.4",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2025-06-13T18:51:48.345Z",
+      "items": [
+        {
+          "id": "nNbfuq8ozLGdmS7Ll2vN_-1gVSLWu_j5",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What distinguishes Generative AI (GenAI) from traditional machine learning?</p>",
+          "answers": [
+            {
+              "id": "cm0oaffv1009q3b6jpftsfwmk",
+              "title": "<p>A. GenAI is considered a form of Narrow AI, while traditional machine learning is a form of General Purpose AI</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaffv1009r3b6jz35z7wwr",
+              "title": "<p>B. GenAI is trained on smaller, more focused datasets compared to traditional machine learning</p>",
+              "feedback": ""
+            },
+            {
+              "id": "cm0oaqfj100023b6ejlffy1f6",
+              "title": "<p>C. GenAI can perform a wide variety of tasks using a single model, while traditional machine learning models are designed for specific tasks</p>"
+            },
+            {
+              "id": "cm0oas24c00043b6e527bjnb2",
+              "title": "<p>D. GenAI requires more technical expertise to use than traditional machine learning models</p>"
+            }
+          ],
+          "correct": "cm0oaqfj100023b6ejlffy1f6",
+          "corrects": [
+            "cm0oaffv1009q3b6jpftsfwmk",
+            "cm0oaffv1009r3b6jz35z7wwr"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>The correct answer is C. The key distinction between Generative AI (GenAI) and traditional machine learning is that GenAI models can perform a wide variety of tasks using a single model, while traditional machine learning models are designed for specific, narrow tasks. GenAI is considered a form of General Purpose AI (A), and is trained on vast amounts of diverse data (B), making it more versatile than traditional machine learning. Additionally, GenAI models are often more accessible to non-technical users (D) due to their natural language interfaces, while traditional machine learning may require more technical expertise to use effectively.</p>"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:57:53.610Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "syqnoi2S8htZ53Y9yfWRVU6i9xq2RlyH",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "tjdybN2fO51QkjukxeCwOI3FIfLiwPpC",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Module 3: Surfacing and selecting AI projects for scale",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-27T19:45:02.494Z",
+      "items": [
+        {
+          "id": "JNZ7uMw2tUr759ZmG28Qz7uztStfFvLW",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0zl1h8y003c356utta3q4ku",
+              "heading": "<div data-editor-id=\"6bd097ca-9ac6-45fb-a7e5-f88d99f11cae\"><p><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\">Surfacing and selecting AI projects for scale</span></span></p></div>",
+              "paragraph": "<div data-editor-id=\"9ba97ad1-e2ef-4ea5-8fb0-62221c5ac03f\"><p><span><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\"><span>This module focuses on identifying and prioritizing AI projects that deliver meaningful results for the organization and the public. It presents three methods for recognizing business challenges that could benefit from AI solutions. The module also explores the criteria for evaluating and selecting AI projects and the pivotal role of pilot programs in validating AI projects before wider-scale deployments.</span></span></span></span></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "b-j55sZwp0cQRjP2FxcMZ0vJMin783Ll",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0zl2a7k004t356ulo3a1fha",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "5ndHb-1wZ9xfnSZhMZuq3WwaA5bpaQ9d",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "gauo_QA6eET73UrGh-qDMOvv82cPFtoB",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 10,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 3.1: Three methods to surface AI use cases",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:12:15.921Z",
+      "items": [
+        {
+          "id": "clyrjxe2h00033b736sy46uh5",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrjxe2i00093b73k8h0csm2",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video introduces the importance of identifying and prioritizing AI projects that deliver meaningful results for the organization and the public. It presents the first of three methods for recognizing business challenges that could benefit from AI solutions: using project typologies.&nbsp;</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrjxotu000q3b73ur0g9wz1",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrjxotu000r3b73hd24umom",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzog9oa5000s3b6ey9y31y5l",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzog9oa6000t3b6eoiawu8g3",
+              "media": {
+                "video": {
+                  "key": "Video3.1.mp4",
+                  "url": "transcoded-d8J5MfiDS-NyOS85-Video3.1.mp4",
+                  "type": "video",
+                  "poster": "Video3.1.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8k8iiy00nu3b6lnumtp4rt",
+                      "key": "2425GovLabAIP2%203.1%20V2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 3.1 V2.1.mp4.vtt"
+                    }
+                  ],
+                  "duration": 509,
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/d8J5MfiDS-NyOS85-Video3.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-d8J5MfiDS-NyOS85-Video3.1.0000000.jpg",
+                  "captionUID": "cmb8k8jbh00nv3b6lcj5pvygv",
+                  "originalUrl": "Video3.1.mp4",
+                  "transcodeId": "1748376103223-zpacwj"
+                }
+              },
+              "caption": "<p>Video 3.1: Three methods to surface AI use cases</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6d4rv001v3b6e2rrje5o1",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6d4rw001w3b6etvjb9kir",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzvwy2001b3b6eox87px4j",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzvwy4001c3b6ekkfkt3g6",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r5ahda004u3b6eoxuva9nh",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r5ahda004v3b6eg3d1bnhp",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "duplicatedFromId": "-QJAWTxi3xe7zAK38SCuufCpPvGxoH-S",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "WAG-ASf3AdKPviHE8rLmWZG4Uxhl43yN",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 11,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "sourceLessonLocaleId": null,
+      "title": "Self Assessment 3.1",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2025-06-13T18:52:23.035Z",
+      "items": [
+        {
+          "id": "clyrjxy0300193b73ep2nt51w",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the biggest key to successful AI projects in government?</p>",
+          "answers": [
+            {
+              "id": "clyrjxy03001a3b73n9q4woj6",
+              "title": "<p>Being problem-led and focusing on daily challenges and opportunities</p>",
+              "correct": true,
+              "feedback": "<p>Being problem-led and focusing on daily challenges and opportunities</p>"
+            },
+            {
+              "id": "clyrjxy03001c3b738f8889wl",
+              "title": "<p>Implementing the latest cutting-edge AI technologies</p>",
+              "feedback": "<p>While advanced AI technologies can be beneficial, the focus should be on solving real problems, not just implementing technology for technology&#39;s sake.</p>"
+            },
+            {
+              "id": "clyrjxy03001d3b73c20sjdzv",
+              "title": "<p>Having a large budget for AI initiatives</p>",
+              "feedback": "<p>A large budget alone does not guarantee success if the AI projects do not address meaningful challenges.</p>"
+            },
+            {
+              "id": "clyrjxy03001b3b73qyz1nsat",
+              "title": "<p>Hiring a large team of AI experts</p>",
+              "correct": true,
+              "feedback": "<p>Having skilled AI talent is important, but the size of the team is less crucial than ensuring the projects are problem-led.</p>"
+            }
+          ],
+          "correct": "clyrjxy03001a3b73n9q4woj6",
+          "corrects": [
+            "clyrjxy03001a3b73n9q4woj6",
+            "clyrjxy03001b3b73qyz1nsat"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clyrk1vym00273b73fwv6p53n",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Who is best positioned to identify high-impact, ready-to-implement AI projects in government?</p>",
+          "answers": [
+            {
+              "id": "clyrjxy03001a3b73n9q4woj6",
+              "title": "<p>External AI consultants</p>",
+              "correct": true,
+              "feedback": "<p>While external consultants can provide valuable expertise, they may not have the same deep understanding of an organization&#39;s daily challenges as internal staff.</p>"
+            },
+            {
+              "id": "clyrjxy03001c3b738f8889wl",
+              "title": "<p>Program and operations staff</p>",
+              "feedback": "<p>Program and operations staff are best positioned to identify high-impact, ready-to-implement AI projects because they have firsthand knowledge of the daily challenges and opportunities in their work</p>"
+            },
+            {
+              "id": "clyrjxy03001d3b73c20sjdzv",
+              "title": "<p>Senior leadership</p>",
+              "feedback": "<p>Senior leadership sets strategic priorities but may not be as familiar with the day-to-day operational challenges that AI could address.</p>"
+            },
+            {
+              "id": "clyrjxy03001b3b73qyz1nsat",
+              "title": "<p>IT department</p>",
+              "correct": true,
+              "feedback": "<p>The IT department plays a crucial role in implementing AI projects but may not have the domain expertise to identify the most impactful opportunities.</p>"
+            }
+          ],
+          "correct": "clyrjxy03001c3b738f8889wl",
+          "corrects": [
+            "clyrjxy03001a3b73n9q4woj6",
+            "clyrjxy03001b3b73qyz1nsat"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "LMcCLpgigb6qHmpurY6dOTEsxtYzel4v",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "3hnM5s4fIKsF1wfyoe0GdkMDxaa3xz1l",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 12,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 3.2: Three methods to surface AI use cases (cont.)",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:12:33.620Z",
+      "items": [
+        {
+          "id": "clyrk3t2j002a3b73e49xoilr",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrk3t2j002g3b73d3wnbi0k",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video focuses on surfacing promising AI projects through structured bottom-up experimentation using generative AI. It explains how staff can use generative AI in their day-to-day tasks and how organizations can identify innovative individual use cases that could scale to an organizational level. The video also discusses a third method called fast field scanning.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrk42ge002x3b7356wwtx59",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrk42ge002y3b73bl7fwsga",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzogmy2y001y3b6e4ronqdw5",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzogmy2y001z3b6ej71d5sdc",
+              "media": {
+                "video": {
+                  "key": "Video3.2.mp4",
+                  "url": "transcoded-0_kDI0boYxZ99HZR-Video3.2.mp4",
+                  "type": "video",
+                  "poster": "Video3.2.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8k8wdi00qi3b6lxmjxsqsz",
+                      "key": "2425GovLabAIP2%203.2%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 3.2 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 477,
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/0_kDI0boYxZ99HZR-Video3.2.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-0_kDI0boYxZ99HZR-Video3.2.0000000.jpg",
+                  "captionUID": "cmb8k8wz800qj3b6l0oimhv1x",
+                  "originalUrl": "Video3.2.mp4",
+                  "transcodeId": "1748381937663-ttm0ax"
+                }
+              },
+              "caption": "<p>Video 3.2: Three methods to surface AI use cases (cont.)</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6dwi5004c3b6evp160373",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6dwi6004d3b6egw5g7ny6",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzxeum003r3b6exj71xzdc",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzxeum003s3b6eflmeqhod",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r5hrjs005u356tap9mm7zn",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r5hrjt005v356t7jd4d793",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "duplicatedFromId": "A0bR0kFmPVOzfrj-90SwjuqPEIXMyQzG",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "_nxtzhba7vFMl7rn8Od1fgb_lH5i_pgW",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 13,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "sourceLessonLocaleId": null,
+      "title": "Self Assessment 3.2",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2025-06-13T18:52:53.163Z",
+      "items": [
+        {
+          "id": "clyrk4n6k003g3b7308dvf8g4",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Who can use generative AI to develop pilots and prototypes for AI projects?</p>",
+          "answers": [
+            {
+              "id": "clyrk4n6k003h3b73hy03bfyx",
+              "title": "<p>Only data scientists and AI experts</p>",
+              "correct": true,
+              "feedback": "<p>While data scientists and AI experts play a crucial role in AI development, generative AI tools are designed to be accessible to users without specialized technical skills.</p>"
+            },
+            {
+              "id": "clyrk4n6k003j3b73i9vrfkx7",
+              "title": "<p>Only senior leadership</p>",
+              "feedback": "<p>Senior leadership should be involved in setting AI strategy and priorities, but they do not need to be the ones directly using generative AI tools.</p>"
+            },
+            {
+              "id": "clyrk4n6k003k3b73imi2spdn",
+              "title": "<p>Any staff member, regardless of technical background</p>",
+              "feedback": "<p>One of the key benefits of generative AI is that it can be used by any staff member, regardless of their technical background. This democratization of AI enables a wider range of employees to contribute ideas, develop pilots, and create prototypes for potential AI projects</p>"
+            },
+            {
+              "id": "clyrk4n6k003i3b73o3xlrm3z",
+              "title": "<p>Only external AI consultants</p>",
+              "correct": true,
+              "feedback": "<p>External consultants can provide valuable expertise, but generative AI empowers internal staff to develop their own pilots and prototypes.</p>"
+            }
+          ],
+          "correct": "clyrk4n6k003k3b73imi2spdn",
+          "corrects": [
+            "clyrk4n6k003h3b73hy03bfyx",
+            "clyrk4n6k003i3b73o3xlrm3z"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clyrk6n0l004c3b73vfnl2r6z",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the main purpose of Fast Field Scanning in the context of AI project identification?</p>",
+          "answers": [
+            {
+              "id": "clyrk4n6k003h3b73hy03bfyx",
+              "title": "<p>To find AI solutions that can be directly copied and implemented without modification</p>",
+              "correct": true,
+              "feedback": "<p>Fast Field Scanning is about learning from others&#39; successes, not directly copying solutions. Each organization&#39;s context and needs are unique, so adaptation is usually necessary.</p>"
+            },
+            {
+              "id": "clyrk4n6k003j3b73i9vrfkx7",
+              "title": "<p>To assess which AI solutions have been successful in other jurisdictions</p>",
+              "feedback": "<p>The main purpose of Fast Field Scanning is to quickly assess which AI solutions have been successful in other jurisdictions. By learning from the experiences and outcomes of similar organizations, government agencies can identify promising AI use cases and best practices</p>"
+            },
+            {
+              "id": "clyrk4n6k003k3b73imi2spdn",
+              "title": "<p>To identify AI vendors and consultants to partner with</p>",
+              "feedback": "<p>While Fast Field Scanning can help identify potential partners, its primary purpose is to assess the solutions themselves, not the vendors or consultants behind them.</p>"
+            },
+            {
+              "id": "clyrk4n6k003i3b73o3xlrm3z",
+              "title": "<p>To determine which AI technologies are the most popular and trendy</p>",
+              "correct": true,
+              "feedback": "<p>Popularity and trendiness are not reliable indicators of an AI solution&#39;s effectiveness or appropriateness for a given organization. Fast Field Scanning focuses on proven success, not hype.</p>"
+            }
+          ],
+          "correct": "clyrk4n6k003j3b73i9vrfkx7",
+          "corrects": [
+            "clyrk4n6k003h3b73hy03bfyx",
+            "clyrk4n6k003i3b73o3xlrm3z"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "r1XErfSEjl-0t7WRO6nlyZmel5-qgpM0",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "eX_NDE-8z2srFoJQ7JGmzGH9DjImnK-i",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 14,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 3.3: Selection criteria",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:12:51.773Z",
+      "items": [
+        {
+          "id": "clyrk92jx004e3b73eebwe9xl",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrk92jy004k3b73h0ny7oax",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video explores the criteria for evaluating and selecting AI projects, including data control and quality, resource allocation, stakeholder buy-in, ethical considerations, and complexity vs. value.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrk9ci400513b73ddo6cefu",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrk9ci500523b73762tkw7n",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzogwwzi00363b6e90uagwiz",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzogwwzi00373b6ex28f5yek",
+              "media": {
+                "video": {
+                  "key": "Video3.3.mp4",
+                  "url": "transcoded-oFvppZbECnjd2DCO-Video3.3.mp4",
+                  "type": "video",
+                  "poster": "Video3.3.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8k9ai300t63b6lwtk2b8d0",
+                      "key": "2425GovLabAIP2%203.3%20V2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 3.3 V2.1.mp4.vtt"
+                    }
+                  ],
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/oFvppZbECnjd2DCO-Video3.3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-oFvppZbECnjd2DCO-Video3.3.0000000.jpg",
+                  "captionUID": "cmb8k9azf00t73b6lcrje7wlk",
+                  "originalUrl": "Video3.3.mp4",
+                  "transcodeId": "1748382695181-xtieia"
+                }
+              },
+              "caption": "<p>Video 3.3: Selection criteria</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6egue006v3b6e12b4ulsc",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6eguf006w3b6e1x2z3m1e",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzydxy00673b6e99u1c63f",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzydxz00683b6edxn4ftrl",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r5iq6e009h356t8tejndur",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r5iq6f009i356twu0r8ohw",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "duplicatedFromId": "9gWL1SKZGubiGU472E0HEdZBPpLeHG4m",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "bGlWCoskWpKXyAbcdMSCuV4BpNjTGD7d",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 15,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "sourceLessonLocaleId": null,
+      "title": "Self Assessment 3.3",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2025-06-13T18:53:14.567Z",
+      "items": [
+        {
+          "id": "clyrkyhoe005k3b73oyx4b03g",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>Which of the following statements are true about the role of AI in government projects? Select all that apply.</p>",
+          "answers": [
+            {
+              "id": "clyrkyhoe005l3b73fc402m6y",
+              "title": "<p>AI should be used in every government project, regardless of its applicability</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrkyhoe005n3b733map4hu4",
+              "title": "<p>AI is just one of many tools that can be used to improve government services</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrkyhoe005o3b733nesww42",
+              "title": "<p>The success of a government project should be measured by its impact on residents, not its use of AI</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrkyhoe005m3b73m7kfyat5",
+              "title": "<p>Government organizations should always prioritize AI-driven solutions over non-AI alternatives</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrkzw26006g3b73meny0tk0",
+              "title": "<p>Identifying useful non-AI projects through the AI project selection process is a valuable outcome</p>"
+            }
+          ],
+          "correct": "",
+          "corrects": [
+            "clyrkyhoe005n3b733map4hu4",
+            "clyrkyhoe005o3b733nesww42",
+            "clyrkzw26006g3b73meny0tk0"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackCorrect": "<p>The correct answers are B, C, and E. AI is just one of many tools that can be used to improve government services, and its use should be guided by a thoughtful consideration of each project&#39;s unique needs and goals. The success of a government project should be measured by its impact on residents, not its use of AI. If the AI project selection process identifies useful non-AI projects, that is a valuable outcome that should be celebrated and pursued. </p>",
+          "feedbackIncorrect": "<p>Statements that suggest using AI in every project, prioritizing AI-driven solutions over non-AI alternatives, or measuring success solely by the use of AI are misguided and can lead to suboptimal outcomes for government organizations and the citizens they serve.</p>"
+        },
+        {
+          "id": "clyrl03m2006t3b73ah5213w9",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the main purpose of conducting pilot projects for AI initiatives?&nbsp;</p>",
+          "answers": [
+            {
+              "id": "clyrkyhoe005l3b73fc402m6y",
+              "title": "<p>To fully deploy the AI solution across the organization&nbsp;</p>",
+              "correct": true,
+              "feedback": "<p>Pilot projects are not intended for full-scale deployment, but rather for initial testing and validation in a controlled environment. </p>"
+            },
+            {
+              "id": "clyrkyhoe005n3b733map4hu4",
+              "title": "<p>To test the feasibility, viability, and safety of the project on a small scale</p>",
+              "feedback": "<p>&nbsp;The main purpose of conducting pilot projects for AI initiatives is to test the feasibility, viability, and safety of the project on a small scale before considering wider-scale deployments.</p>"
+            },
+            {
+              "id": "clyrkyhoe005o3b733nesww42",
+              "title": "<p>To eliminate the need for further testing and refinement of the AI solution</p>",
+              "feedback": "<p>Pilot projects do not eliminate the need for further testing and refinement, but rather provide valuable insights and feedback to inform the ongoing development and improvement of the AI solution. </p>"
+            },
+            {
+              "id": "clyrkyhoe005m3b73m7kfyat5",
+              "title": "<p>To showcase the capabilities of the AI technology to stakeholders&nbsp;</p>",
+              "correct": true,
+              "feedback": "<p>While pilot projects can help demonstrate the potential of AI to stakeholders, their primary purpose is to assess the technical, operational, and safety aspects of the solution, not to serve as a showcase.</p>"
+            }
+          ],
+          "correct": "clyrkyhoe005n3b733map4hu4",
+          "corrects": [
+            "clyrkyhoe005n3b733map4hu4",
+            "clyrkyhoe005o3b733nesww42"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "tv3cQTkg0QNkZNhb7gq0O7TS_O3EbG1B",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "OHfinxHOcYczTjvCLgKuSBOb7CbqySp5",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 16,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 3.4: Pilots",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:13:36.364Z",
+      "items": [
+        {
+          "id": "clzoijm10000k3b6ekqcugxyx",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clzoijm11000l3b6e0dmooc7w",
+              "paragraph": "<p>This video emphasizes the importance of starting with small pilots or &#39;betas&#39; to test the feasibility, viability, and safety of AI projects before wider-scale deployments. The video also presents a case study of a successful AI pilot program in wildfire detection and response in California.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzoijrza00173b6ecsibj4ju",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzoijrza00183b6e6aq3fedd",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzoiev3v00043b6ezony8edg",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoiev3w00053b6e1ow7el7z",
+              "media": {
+                "video": {
+                  "key": "Video3.4.mp4",
+                  "url": "transcoded-zrtKJgSSE-6Jr_Fc-Video3.4.mp4",
+                  "type": "video",
+                  "poster": "Video3.4.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8ka8nq00vu3b6ldfaxu4ve",
+                      "key": "2425GovLabAIP2%203.4%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 3.4 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 312,
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/zrtKJgSSE-6Jr_Fc-Video3.4.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-zrtKJgSSE-6Jr_Fc-Video3.4.0000000.jpg",
+                  "captionUID": "cmb8ka9dq00vv3b6lt56lw09c",
+                  "originalUrl": "Video3.4.mp4",
+                  "transcodeId": "1748384007906-o4h0s7"
+                }
+              },
+              "caption": "<p>Video 3.4: Pilots</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6ez8500993b6eibg7tpch",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6ez86009a3b6ei4dxvkh0",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzzcii008n3b6e44f16b3e",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzzcii008o3b6edrqupsch",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r5j11h00cm356th9i1na3x",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r5j11h00cn356t2ty6t07p",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "duplicatedFromId": "Ya_YIL0RG_uxy5br6pGMV1r4we78n-mK",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "Y1l9xLgI-XmVaBbSzCCRmquDJSs_vy7n",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 17,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "sourceLessonLocaleId": null,
+      "title": "Self Assessment 3.4",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2025-06-13T18:53:49.332Z",
+      "items": [
+        {
+          "id": "clzr6zwah00063b75c9rny1zw",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>What is the main purpose of conducting pilot projects for AI initiatives?</p>",
+          "answers": [
+            {
+              "id": "clzr6zwah00073b75cfqk9ydu",
+              "title": "<p>To fully deploy the AI solution across the organization</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clzr6zwah00093b75gepv65xp",
+              "title": "<p>To test the feasibility, viability, and safety of the project on a small scale&nbsp;</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clzr6zwah000a3b750dfq1ta0",
+              "title": "<p>To eliminate the need for further testing and refinement of the AI solution</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clzr6zwah00083b75tlg36rdt",
+              "title": "<p>To showcase the capabilities of the AI technology to stakeholders</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "",
+          "corrects": [
+            "clzr6zwah00093b75gepv65xp"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackCorrect": "<p>The main purpose of conducting pilot projects for AI initiatives is to test the feasibility, viability, and safety of the project on a small scale before considering wider-scale deployments</p>",
+          "feedbackIncorrect": "<p>Pilot projects provide an opportunity to validate the AI solution in a real-world context, identify potential issues or limitations, and gather feedback from users and stakeholders. They are not meant for full-scale deployment, elimination of further testing, or primarily as a showcase for the technology. Rather, they serve as a critical step in the responsible and iterative development of AI solutions in government.</p>"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG",
+      "createdAt": "2025-05-19T15:51:39.979Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "KmIYJnPVTeb-gw-TnQl1-l_rmwyW03ek",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "LpcYYExTcmeqs-N6PG41Bcwkaqc6KPtF",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "originalId": null,
+      "piles": [],
+      "position": 44,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "sourceLessonLocaleId": null,
+      "title": "Video 4.1: Conclusion",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2025-05-28T23:28:24.963Z",
+      "items": [
+        {
+          "id": "clyssqaes00033b7c5ec5qn31",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyssqaes00093b7cxknufjqk",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>The conclusion video summarizes the key learning points from the course, including understanding different AI approaches, selecting and prioritizing impactful AI projects, ensuring data quality, developing an AI-ready workforce, and navigating ethical considerations and risk management practices. It emphasizes the importance of focusing on solving real problems, maintaining transparency, minimizing and managing AI risk, and prioritizing the public good. The video also highlights the crucial role of government leaders in shaping the future of AI in the public sector and the importance of continuous learning, collaboration, and adaptation to navigate the evolving AI landscape with confidence.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyssqzra000q3b7cjyikf9n5",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyssqzrh000r3b7c9809qwcx",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzoiky6k000s3b6eb8qjwhcy",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoiky6l000t3b6emu0i1nl5",
+              "media": {
+                "video": {
+                  "key": "AI%20Basics%20Part%203_%20Conclusion.mp4",
+                  "url": "transcoded-mN7L6xvFAiVKr0Jk-AI%2520Basics%2520Part%25203_%2520Conclusion.mp4",
+                  "type": "video",
+                  "poster": "AI%20Basics%20Part%203_%20Conclusion.jpg",
+                  "captions": [
+                    {
+                      "id": "cmb8kfp4900yi3b6lor0z7g3e",
+                      "key": "AI%20Basics%20Part%203_%20Conclusion.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "AI Basics Part 3_ Conclusion.vtt"
+                    }
+                  ],
+                  "duration": 86,
+                  "inputKey": "rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/mN7L6xvFAiVKr0Jk-AI%20Basics%20Part%203_%20Conclusion.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG/transcoded-mN7L6xvFAiVKr0Jk-AI%2520Basics%2520Part%25203_%2520Conclusion.0000000.jpg",
+                  "captionUID": "cmb8kfpdc00yj3b6lifdpxtqs",
+                  "originalUrl": "AI Basics Part 3_ Conclusion.mp4",
+                  "transcodeId": "1748387067959-0ub79p"
+                }
+              },
+              "caption": "<div data-editor-id=\"bac6f30b-3fac-467d-9368-4fa0dc971648\"><p>Video 4.1: Conclusion</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6vflx001v3b6e0c3vrnbl",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6vfly001w3b6epi31bdjn",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0v9yedm005s3b6el2ck4pee",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0v9yedn005t3b6e0c07re1b",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cmb8krtax005a3b6lb7vj9r3u",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmb8krtay005b3b6lwh47wcfn",
+              "type": "link",
+              "label": "Start survey",
+              "description": "<div data-editor-id=\"7a5efec6-de9d-4ec5-8adf-973511d3c1b5\"><p><span style=\"font-size: 1.5rem\"><strong>Post-Course Survey</strong></span></p><p><span style=\"font-size: 1.4rem\">Before you complete the course, we want to your thoughts on this experience. Please click the \"start survey\" button. It will take no longer than 5 minutes to complete!</span></p></div>",
+              "destination": "https://bit.ly/designing-ai-in-gov-post-course-survey"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cmb8ksrwk005u3b6lypz3yqb4",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmb8ksrwk005v3b6lc4b6xmyz",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cmb74s94e008q3b6lzefplwmg",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmb74s94f008r3b6li9vw3k3c",
+              "type": "exit-course",
+              "label": "Exit Course",
+              "description": "<div data-editor-id=\"4c7edd94-77e7-499d-be71-2633d29ef0f9\"><p><strong>Course Complete!</strong></p><p>Congratulations on completing the course. Click \"Exit Course\" to return to course dashboard.</p></div>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2025-05-19T15:51:35.455Z",
+  "updatedAt": "2025-06-25T19:32:18.151Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Responsible AI for Public Organizations: Designing AI Projects in Government",
+    "format": "zip",
+    "quizId": "bGlWCoskWpKXyAbcdMSCuV4BpNjTGD7d",
+    "target": "scorm12",
+    "shareId": "ZyM7fO4uueGwinwfKUfLPYN6FN55NMIP",
+    "activeLMS": 0,
+    "reporting": "passed-incomplete",
+    "exportType": "lms",
+    "identifier": "FVs0Tx7U1GkCaHM7WrQXZvQ2i9fgspGG_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "disableCoverPage": true,
+    "enableExitCourse": true,
+    "resetLearnerData": false,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "completionPercentage": 100,
+    "translationModelVersion": null
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "-MPEM2R_v3eTh0hQInNv-2WAwVwql-Pw",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "LEFT",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/11_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "locale": null,
+  "sourceCourseLocaleId": null,
+  "experiments": null,
+  "settings": {},
+  "description": "<div data-editor-id=\"16d7e60f-4092-459c-96b6-6c83bb074bd6\"><p><span><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\"><span>This course will show you how to expand and deepen AI work in your organization. We will learn about different types of AI and how it can support high-priority goals and projects. The lessons from this course will allow you to use these exciting new tools as a powerful companion to assist you in your work. By the end of this course, you will understand the different types of AI and their applications in government, and know-how to identify and prioritize high-impact AI projects. Whether you're exploring AI for the first time or looking to deepen your knowledge, this course will provide you with a solid foundation to confidently lead your organization into the age of AI.</span></span></span></span></p></div>",
+  "title": "Responsible AI for Public Organizations: Designing AI Projects in Government",
+  "defaultLocaleId": null,
+  "features": {
+    "rise-timed-quizzes": true,
+    "rise-scenario-a-11-y": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "mondrian": {},
+  "bodyTypeface": "DM Sans",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato",
+  "lmsOptions": {
+    "enableExitCourse": true,
+    "disableCoverPage": true
+  }
+}

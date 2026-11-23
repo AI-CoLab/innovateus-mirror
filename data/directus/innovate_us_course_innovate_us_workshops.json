@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "innovate_us_course_id": 4,
+    "innovate_us_workshops_id": 74
+  },
+  {
+    "id": 2,
+    "innovate_us_course_id": 4,
+    "innovate_us_workshops_id": 83
+  },
+  {
+    "id": 3,
+    "innovate_us_course_id": 4,
+    "innovate_us_workshops_id": 84
+  },
+  {
+    "id": 4,
+    "innovate_us_course_id": 4,
+    "innovate_us_workshops_id": 82
+  },
+  {
+    "id": 5,
+    "innovate_us_course_id": 5,
+    "innovate_us_workshops_id": 84
+  },
+  {
+    "id": 6,
+    "innovate_us_course_id": 5,
+    "innovate_us_workshops_id": 82
+  },
+  {
+    "id": 7,
+    "innovate_us_course_id": 5,
+    "innovate_us_workshops_id": 114
+  }
+]

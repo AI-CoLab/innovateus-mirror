@@ -1,0 +1,122 @@
+[
+  {
+    "listings": [
+      {
+        "title": "Massachusetts",
+        "link": "https://www.mass.gov/federal-workers",
+        "level_of_gov": [
+          "state"
+        ]
+      },
+      {
+        "title": "Virginia",
+        "link": "https://www.governor.virginia.gov/constituent-services/federal-employee-resources/",
+        "level_of_gov": [
+          "state"
+        ]
+      },
+      {
+        "title": "Maryland",
+        "link": "https://www.dllr.state.md.us/federalworkers/",
+        "level_of_gov": [
+          "state"
+        ]
+      },
+      {
+        "title": "Montgomery County, Maryland",
+        "link": "https://www.montgomerycountymd.gov/COUNCIL/resources/United-In-Service-Series.html",
+        "level_of_gov": [
+          "local"
+        ]
+      },
+      {
+        "title": "Frederick County, Maryland",
+        "link": "https://frederickcountymd.gov/7815/Assistance-for-Federal-Employees",
+        "level_of_gov": [
+          "local"
+        ]
+      },
+      {
+        "title": "Charles County, Maryland",
+        "link": "https://www.meetcharlescounty.com/government-transition-resources",
+        "level_of_gov": [
+          "local"
+        ]
+      },
+      {
+        "title": "Arlington County, Virginia",
+        "link": "https://www.arlingtonva.us/Government/Topics/Federal-Employee-Assistance",
+        "level_of_gov": [
+          "local"
+        ]
+      },
+      {
+        "title": "Fairfax County, Virginia",
+        "link": "https://workinffxnova.com/get-hired/",
+        "level_of_gov": [
+          "local"
+        ]
+      },
+      {
+        "title": "Prince William County, Virginia",
+        "link": "https://www.pwcva.gov/department/office-communications/resources-for-residents-impacted-by-federal-workforce-actions",
+        "level_of_gov": [
+          "local"
+        ]
+      },
+      {
+        "title": "New York",
+        "link": "https://www.ny.gov/programs/federal-workers-we-want-you",
+        "level_of_gov": [
+          "state"
+        ]
+      },
+      {
+        "title": "Washington, D.C.",
+        "link": "https://does.dc.gov/page/resources-impacted-federal-workers",
+        "level_of_gov": []
+      },
+      {
+        "title": "Minnesota",
+        "link": "https://mn.gov/mmb/careers/search-for-jobs/federal-workers/",
+        "level_of_gov": [
+          "state"
+        ]
+      },
+      {
+        "title": "Michigan",
+        "link": "https://www.michigan.gov/leo/bureaus-agencies/uia/tools/fed-employee-guidance",
+        "level_of_gov": [
+          "state"
+        ]
+      },
+      {
+        "title": "Colorado",
+        "link": "https://cdle.colorado.gov/unemployment/resources-for-federal-workers",
+        "level_of_gov": [
+          "state"
+        ]
+      }
+    ],
+    "title": "Free Upskilling for Federal Workers Impacted by Layoffs",
+    "introduction": "<p>Come learn with us! We believe in building a government that works - one that's more effective, more efficient, and delivers better services for the American people. Join our community of dedicated public service professionals who want to learn together how to create better government. InnovateUS offers free, high-quality courses and workshops to help you harness artificial intelligence, data analytics, and digital tools to transform public service at every level of government. Together, we can build systems that truly serve Americans where it matters most.</p>",
+    "other_resources": "<ul>\n<li><a href=\"https://www.fedsforward.org\" target=\"_blank\" rel=\"noopener\">Feds Forward</a></li>\n<li><a href=\"https://formergov.com/about-us\" target=\"_blank\" rel=\"noopener\">Former Gov</a></li>\n<li><a href=\"https://www.workforamerica.org/civicmatch\" target=\"_blank\" rel=\"noopener\">Civic Match by Work for America</a></li>\n<li><a href=\"https://ourpublicservice.org/event/find-your-next-calling-state-and-local-opportunities-for-former-feds-2/\" target=\"_blank\" rel=\"noopener\">Partnership for Public Service: State and local opportunities for former federal workers</a></li>\n<li><a href=\"https://airtable.com/appULTCrH8LFwAPQu/pagO9F0vXquI5F35C/form\" target=\"_blank\" rel=\"noopener\">Tech to Gov National Hiring Forum</a></li>\n</ul>",
+    "subtitle": "Upskill for free. Build what's next.",
+    "course_description": "<p>Our at-your-own-paced courses are deep dives into topics such as AI and Human-Centered Design. Courses contain videos, worksheets, and quizzes. Those who complete a course receive a certificate of completion.&nbsp;</p>",
+    "additional_resources": "<h4 dir=\"ltr\">Power at Work&nbsp;</h4>\n<p>The <a href=\"https://poweratwork.us/\" target=\"_blank\" rel=\"noopener\">Power At Work Blog</a> serves to advance actions that build power to confront power &mdash; contributing to a discourse in the United States that puts workers at the center of the conversation.</p>\n<h4>Reboot Democracy</h4>\n<p>The <a href=\"https://rebootdemocracy.ai/blog\" target=\"_blank\" rel=\"noopener\">Reboot Democracy Blog</a> explores the complex relationship among AI, democracy and governance, featuring contributions from leading thinkers in democracy, governance and technology.</p>",
+    "build_together": "Let’s build what’s next—together.",
+    "we_see_you_text": "<p>If you have been impacted by the recent federal layoffs, we&rsquo;re here to help. Losing a job involuntarily is shocking and disturbing. In these challenging times, <a href=\"https://innovate-us.org/\" target=\"_blank\" rel=\"noopener\">InnovateUS</a> and <a href=\"https://poweratwork.us/\" target=\"_blank\" rel=\"noopener\">Power At Work</a> can help you build new skills and knowledge to prepare for re-entering the job market.</p>\n<div class=\"introduction-text\"><span style=\"text-decoration: underline;\"><strong>Come learn with us!</strong></span>\n<div>We believe in building a government that works - one that's more effective, more efficient, and delivers better services for the American people.</div>\n<div>Join our community of dedicated public service professionals who want to learn together how to create better government.</div>\n<div>InnovateUS offers free, high-quality:</div>\n<ul>\n<li><a href=\"https://innovate-us.org/course\" target=\"_blank\" rel=\"noopener\">Courses</a></li>\n<li><a href=\"https://innovate-us.org/workshops\" target=\"_blank\" rel=\"noopener\">Workshops</a></li>\n</ul>\n<br>\n<div>To help you harness artificial intelligence, data analytics, and digital tools to transform public service at every level of government. Together, we can build systems that truly serve Americans where it matters most.</div>\n</div>\n<div>InnovateUS is created by and for public service professionals. We believe those in the public sector are always doing more with less - not just in government but in our own careers and communities. Making government more efficient isn't just about cutting costs&mdash;it's about making it work better for the American people.</div>",
+    "partner_images": "d7014167-8043-4bef-82d6-da8a20d15156",
+    "eyebrow": "Investing in You",
+    "id": 1,
+    "workshop_description": "<p>Free, online workshops help you gain practical skills. For a complete list of workshops, see our workshops.</p>\n<p>Upcoming workshops include:</p>",
+    "certificates": "<p dir=\"ltr\">With support from Google.org Google.org, InnovateUS aims to expand the uptake of digital skills in the public sector by providing full scholarships to public sector professionals to enroll for free in a Google Career Certificate program. These include certificates in:</p>\n<ul>\n<li dir=\"ltr\" aria-level=\"1\">IT Support</li>\n<li dir=\"ltr\" aria-level=\"1\">Project Management</li>\n<li dir=\"ltr\" aria-level=\"1\">Data Analytics</li>\n<li dir=\"ltr\" aria-level=\"1\">Cybersecurity</li>\n<li dir=\"ltr\" aria-level=\"1\">UX Design</li>\n<li dir=\"ltr\" aria-level=\"1\">Digital Marketing and E-Commerce</li>\n</ul>",
+    "workshops": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+]

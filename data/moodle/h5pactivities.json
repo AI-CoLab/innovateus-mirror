@@ -1,0 +1,3258 @@
+[
+  {
+    "id": 67,
+    "course": 31,
+    "name": "Innovation Pathways",
+    "timecreated": 1674257051,
+    "timemodified": 1728574586,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/questionnaire/view.php?id=281\" style=\"text-align: center;\">Previous: About You</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Innovation Pathway</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=283\" style=\"text-align: center;\">Next: Video 1.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\">&nbsp;In this short video, we introduce you to new tools, methods, and ways of thinking that can help you to address today’s problems in ways that are more agile, effective, and equitable. We’ll walk you through the steps required to take a solution from idea to implementation. We want to spark new thinking about ways that we as public servants can better deliver services, design policies and serve the public.</span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 282,
+    "context": 3142,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-59.h5p",
+        "filepath": "/",
+        "filesize": 29323957,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3142/mod_h5pactivity/package/0/interactive-video-59.h5p",
+        "timemodified": 1728574586,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-325-325.h5p",
+      "filepath": "/",
+      "filesize": 29589959,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-325-325.h5p",
+      "timemodified": 1794749868,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 68,
+    "course": 31,
+    "name": "Overview of public problem solving skills",
+    "timecreated": 1677218576,
+    "timemodified": 1704973715,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=282\" style=\"text-align: center;\">Previous: Video 1.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Public Problem Solving Skills</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=284\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\">&nbsp;In this short video, we introduce you to new tools, methods, and ways of thinking that can help you to address today’s problems in ways that are more agile, effective, and equitable. In this video, we’ll discuss how to design your innovation pathway: the steps that will help you accelerate and improve how you put solutions into practice and ensure that they effectively respond to problems.</span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 283,
+    "context": 3143,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-132.h5p",
+        "filepath": "/",
+        "filesize": 14523996,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3143/mod_h5pactivity/package/0/interactive-video-132.h5p",
+        "timemodified": 1704973715,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-326-326.h5p",
+      "filepath": "/",
+      "filesize": 14789988,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-326-326.h5p",
+      "timemodified": 1794749876,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 69,
+    "course": 31,
+    "name": "Video 2.1: Why Problem Definition Matters",
+    "timecreated": 1673458886,
+    "timemodified": 1704973917,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=285\" style=\"text-align: center;\">Previous: Survey</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 2.1: Intro to Problem Definition</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=287\" style=\"text-align: center;\">Next: Video 2.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<p>Albert Einstein famously said, “If I had only one hour to save the world, I would spend fifty-five minutes defining the problem, and only five minutes finding the solution.” If we are honest, most of us aren’t very rigorous in defining the problem we are trying to solve. This is especially true in the public sector, where we are under significant pressure to come up with solutions, rather than more problems. In this video, we will work together to learn the art and science of problem definition - the first and most essential skill of an effective public problem solver. &nbsp;</p>\r\n<p><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 286,
+    "context": 3159,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-8.h5p",
+        "filepath": "/",
+        "filesize": 62925214,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3159/mod_h5pactivity/package/0/interactive-video-8.h5p",
+        "timemodified": 1704973917,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-327-327.h5p",
+      "filepath": "/",
+      "filesize": 63161996,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-327-327.h5p",
+      "timemodified": 1794854730,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 70,
+    "course": 31,
+    "name": "Video 2.2: How to engage in effective problem solving",
+    "timecreated": 1673994422,
+    "timemodified": 1705063019,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=286\" style=\"text-align: center;\">Previous: Video 2.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 2.2: How to engage in effective problem solving</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=288\" style=\"text-align: center;\">Next: Video 2.3</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<p dir=\"ltr\">We have been discussing why problem solving is important. Now we will discuss how to do it and to do so collaboratively. Problem definition is the process of articulating a specific and actionable problem and identifying the root causes of that problem by using data, research, and collaboration. A sound problem definition – one that provides clear direction for a project - is a multi-step process.\r\n</p>\r\n<ul>\r\n    <li>First, we try to narrow the scope from a large issue to a specific problem.&nbsp;</li>\r\n    <li>Second, we articulate the root causes of the problem. &nbsp;</li>\r\n    <li>Third, we identify who is most affected by the problem.</li>\r\n    <li>Finally, we try to reframe the problem to get at the most urgent and important root cause</li>\r\n</ul><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 287,
+    "context": 3160,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-23.h5p",
+        "filepath": "/",
+        "filesize": 97370201,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3160/mod_h5pactivity/package/0/interactive-video-23.h5p",
+        "timemodified": 1705063019,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-328-328.h5p",
+      "filepath": "/",
+      "filesize": 97636186,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-328-328.h5p",
+      "timemodified": 1794855069,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 71,
+    "course": 31,
+    "name": "Video 2.3: What is Problem Definition",
+    "timecreated": 1673994823,
+    "timemodified": 1704973971,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=287\" style=\"text-align: center;\">Previous: Video 2.2</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 2.3: What is Problem Definition</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=289\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<p dir=\"ltr\"><span id=\"docs-internal-guid-b2e9818e-7fff-d802-6ac2-7d2777f99931\"><span id=\"docs-internal-guid-d93cb3c5-7fff-8f47-55e9-ee48482e4675\"></span></span></p>\r\n\r\nProblem definition is a multi-step process of unpeeling the layers of onion. Done right - you will end up with a concise and clear statement of its essence, identifying the people who are affected by the problem, and an understanding of the root causes.The steps to defining a problem seem simple, but there are some common challenges:\r\n<br><br>\r\n<ul>\r\n    <li>The constant temptation to articulate a solution rather than a problem.</li>\r\n    <li><span style=\"font-size: 0.9375rem;\">A problem definition that is too broad to be actionable and fails to pinpoint a specific community and geography to focus on in the short term will not work.</span><br></li>\r\n    <li><span style=\"font-size: 0.9375rem;\">The failure to articulate assumptions and root causes will also undermine your problem definition. While problems have many root causes, not all root causes are ones you can act on with the resources you have at your disposal.</span></li>\r\n</ul>\r\n\r\nLet’s wrap up by repeating some of the highlights of our discussion about problem definition. <strong>Don't forget to answer the self assessment questions at the end of the video!</strong>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 288,
+    "context": 3161,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-25.h5p",
+        "filepath": "/",
+        "filesize": 54633132,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3161/mod_h5pactivity/package/0/interactive-video-25.h5p",
+        "timemodified": 1704973971,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-329-329.h5p",
+      "filepath": "/",
+      "filesize": 54899124,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-329-329.h5p",
+      "timemodified": 1794855077,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 72,
+    "course": 31,
+    "name": "Video 3.1: Why is Human Centered Design Important?",
+    "timecreated": 1673974722,
+    "timemodified": 1705064966,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=348\" style=\"text-align: center;\">Previous: Topic 2.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 3.1: Why is Human Centered Design Important</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=291\" style=\"text-align: center;\">Next: Video 3.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div>In this video, we’ll continue our discussion about problem definition with strategies for deepening your understanding of the problem by asking the people who are most affected. These strategies are known as human-centered design or design thinking. Human-centered design (HCD) is a structured set of methods and tools for consulting with residents, who are the target audience for your policy or service. The goal is to understand how the residents perceive the problem to be solved.</div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div><span id=\"docs-internal-guid-81c4b478-7fff-9897-8161-43941b683723\"><span id=\"docs-internal-guid-738e18cd-7fff-e52d-95ab-3235cac129e6\"></span></span><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 290,
+    "context": 3163,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-16.h5p",
+        "filepath": "/",
+        "filesize": 67620467,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3163/mod_h5pactivity/package/0/interactive-video-16.h5p",
+        "timemodified": 1705064966,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-330-330.h5p",
+      "filepath": "/",
+      "filesize": 67886814,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-330-330.h5p",
+      "timemodified": 1794855084,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 73,
+    "course": 31,
+    "name": "Video 3.2: How to use Human Centered Design to Define a Problem",
+    "timecreated": 1673977774,
+    "timemodified": 1705064105,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=290\" style=\"text-align: center;\">Previous: Video 3.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 3.2: How to Use Human Centered Design</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=292\" style=\"text-align: center;\">Next: Video 3.3</a>\r\n</div>\r\n<p><span><br></span></p>\r\n<p><span id=\"docs-internal-guid-7154a547-7fff-7e4c-7e44-d9e20d529af9\"><span id=\"docs-internal-guid-71ff1a7c-7fff-baa3-416e-140f659de558\">In this video, we will get to work using human centered design to define a problem. The qualitative research we’ll do has roots in anthropology, ethnography, and other disciplines. We will walk you through some of these approaches. There are dozens of techniques for structuring a conversation to elicit people’s lived experience, and using the input to define a problem. Here, we’ll discuss two related methods for engaging with people to define a problem: interviewing and service blueprinting.</span></span></p>\r\n<p><span><span><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></span></span></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 291,
+    "context": 3164,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-18.h5p",
+        "filepath": "/",
+        "filesize": 70765464,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3164/mod_h5pactivity/package/0/interactive-video-18.h5p",
+        "timemodified": 1705064105,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-331-331.h5p",
+      "filepath": "/",
+      "filesize": 71031813,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-331-331.h5p",
+      "timemodified": 1794855092,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 74,
+    "course": 31,
+    "name": "Video 3.3: Risks and Limitations of Human Centered Design",
+    "timecreated": 1673984308,
+    "timemodified": 1705064124,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=291\" style=\"text-align: center;\">Previous: Video 3.2</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 3.3: Limitations of Human Centered Design</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=293\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<br>\r\n<p><span id=\"docs-internal-guid-1038e86c-7fff-fc41-fb34-212dbb60c34c\"><span id=\"docs-internal-guid-640bcd65-7fff-aa91-e030-76bf30f2c15c\">As you prepare to apply human-centered design approaches, it’s important to consider their limitations. In this video, we’ll also talk through some of the common pitfalls you might encounter.&nbsp;<strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong></span></span></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 292,
+    "context": 3165,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-20.h5p",
+        "filepath": "/",
+        "filesize": 96001954,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3165/mod_h5pactivity/package/0/interactive-video-20.h5p",
+        "timemodified": 1705064124,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-332-332.h5p",
+      "filepath": "/",
+      "filesize": 96267935,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-332-332.h5p",
+      "timemodified": 1794855101,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 75,
+    "course": 31,
+    "name": "Video 4.1: Using data to define public problems",
+    "timecreated": 1674051857,
+    "timemodified": 1715691127,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=349\" style=\"text-align: center;\">Previous: Topic 3.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 4.1: Using data to define public problems</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=295\" style=\"text-align: center;\">Next: Video 4.2</a>\r\n</div>\r\n<br>\r\n<p><span id=\"docs-internal-guid-38768f7a-7fff-e3fe-1675-a1c2b5525e3e\">In this video, we look at the use of data as an essential and complementary set of methods to understand a problem better. It can feel like data is everywhere. And the public sector has increasingly put a premium on using data and evidence to improve policies and programs. The costs of gathering data is far outweighed by the opportunity costs of not using it, which is why in this module we will discuss the use of data and evidence to define problems.</span></p>\r\n<p><span><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></span></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 294,
+    "context": 3167,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-27.h5p",
+        "filepath": "/",
+        "filesize": 59528468,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3167/mod_h5pactivity/package/0/interactive-video-27.h5p",
+        "timemodified": 1715691127,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-333-333.h5p",
+      "filepath": "/",
+      "filesize": 59794823,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-333-333.h5p",
+      "timemodified": 1794855109,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 76,
+    "course": 31,
+    "name": "Video 4.2: Using Open Data",
+    "timecreated": 1674052480,
+    "timemodified": 1705064220,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=294\" style=\"text-align: center;\">Previous: Video 4.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 4.2: Using Open Data</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=296\" style=\"text-align: center;\">Next: Video 4.3</a>\r\n</div>\r\n<p><br></p>\r\n<p><span id=\"docs-internal-guid-6634860f-7fff-bc40-6cbd-1b15047ac57b\">In this video, we’re going to spend more time on open data. What distinguishes open data from “administrative data” is that open data is publicly available, can be freely accessed and used, and is capable of being processed by a machine. Unlike administrative data, open data is generally population level, such as census records, environmental safety records, or workforce data, as opposed to individual-level data. Increasingly, governments at every level are publishing more data as open data.</span></p>\r\n<p><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 295,
+    "context": 3168,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-29.h5p",
+        "filepath": "/",
+        "filesize": 67796006,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3168/mod_h5pactivity/package/0/interactive-video-29.h5p",
+        "timemodified": 1705064220,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-334-334.h5p",
+      "filepath": "/",
+      "filesize": 68062377,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-334-334.h5p",
+      "timemodified": 1794855123,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 77,
+    "course": 31,
+    "name": "Video 4.3: Other Types of Data",
+    "timecreated": 1674071839,
+    "timemodified": 1705064230,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=295\" style=\"text-align: center;\">Previous: Video 4.2</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 4.3: Other Types of Data</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=297\" style=\"text-align: center;\">Next: Video 4.4</a>\r\n</div>\r\n<p><br></p>\r\n<p>Remember to answer the self assessment questions at the end of the video! </p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 296,
+    "context": 3169,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-32.h5p",
+        "filepath": "/",
+        "filesize": 60916987,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3169/mod_h5pactivity/package/0/interactive-video-32.h5p",
+        "timemodified": 1705064230,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-335-335.h5p",
+      "filepath": "/",
+      "filesize": 61183353,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-335-335.h5p",
+      "timemodified": 1794855133,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 78,
+    "course": 31,
+    "name": "Video 4.4: Risks while using data",
+    "timecreated": 1674072371,
+    "timemodified": 1705064251,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=296\" style=\"text-align: center;\">Previous: Video 4.3</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 4.4: Risks while using data</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=298\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n\r\n<p><br></p>\r\n<p><span id=\"docs-internal-guid-984340f4-7fff-cfec-33c3-d42cdd7e4380\">We’ve Introduced the steps involved in using data to define and assess a problem. But because data use is still new to many departments, it is critical to address a few commonly held misperceptions. With the ubiquity of data, more and more government departments are receiving mandates to perform sophisticated analysis. However, there can be pressure to move quickly when using data. Don’t let such pressure be an impediment to undertaking data analysis. Go at your own pace. What’s key is to start somewhere.</span></p>\r\n<p><span><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></span></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 297,
+    "context": 3170,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-34.h5p",
+        "filepath": "/",
+        "filesize": 41231241,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3170/mod_h5pactivity/package/0/interactive-video-34.h5p",
+        "timemodified": 1705064251,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-336-336.h5p",
+      "filepath": "/",
+      "filesize": 41497606,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-336-336.h5p",
+      "timemodified": 1794855141,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 81,
+    "course": 31,
+    "name": "Video 5.1 Traditional Tools for Public Problem Solving",
+    "timecreated": 1678299498,
+    "timemodified": 1705064346,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/questionnaire/view.php?id=305\" style=\"text-align: center;\">Previous: Survey</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 5.1 Traditional Tools for Public Problem Solving</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=307\" style=\"text-align: center;\">Next: Video 5.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div>There are no magic bullets or single “solutions” to wicked, messy, complex problems. As we move from defining problems to solving them, in this video we discuss the traditional<span style=\"font-size: 0.9375rem;\">&nbsp;actions that governments often take to address public problems as a way to suggest possible solutions to your problem.</span><br></div>\r\n    <div><br></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 306,
+    "context": 3179,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-136.h5p",
+        "filepath": "/",
+        "filesize": 53151222,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3179/mod_h5pactivity/package/0/interactive-video-136.h5p",
+        "timemodified": 1705064346,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-337-337.h5p",
+      "filepath": "/",
+      "filesize": 53417197,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-337-337.h5p",
+      "timemodified": 1794855150,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 82,
+    "course": 31,
+    "name": "Video 5.2 Expanding Your Solutions Toolkit",
+    "timecreated": 1678310336,
+    "timemodified": 1704974859,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=306\" style=\"text-align: center;\">Previous: Video 5.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">5.2 Expanding Your Solutions Toolkit</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=308\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div><span style=\"font-size: 0.9375rem;\">&nbsp;In this video we discuss:</span><br></div>\r\n    <ul>\r\n        <li>Expanding your repertoire of solutions by introducing new types to consider.\r\n            Introducing an approach for identifying, evaluating, and refining your solutions.</li>\r\n        <li>Our goal is to help you improve your readiness to solve problems by thinking about various types of solutions that public institutions can implement.</li>\r\n\r\n    </ul>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 307,
+    "context": 3180,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-138.h5p",
+        "filepath": "/",
+        "filesize": 91831014,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3180/mod_h5pactivity/package/0/interactive-video-138.h5p",
+        "timemodified": 1704974859,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-338-338.h5p",
+      "filepath": "/",
+      "filesize": 92096990,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-338-338.h5p",
+      "timemodified": 1794855162,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 83,
+    "course": 31,
+    "name": "Video 6.1: Introduction to Collective Intelligence",
+    "timecreated": 1678314936,
+    "timemodified": 1705065285,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=351\" style=\"text-align: center;\">Previous: Topic 5.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 6.1 Introduction to Collective Intelligence\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=310\" style=\"text-align: center;\">Next: Video 6.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div>In our discussion on human-centered design, we already introduced some concepts, methods and tools for engaging with the public to identify problems. Now in this module, we discuss how to engage communities in identifying solutions.<br></div>\r\n    <div><br></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 309,
+    "context": 3182,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-140.h5p",
+        "filepath": "/",
+        "filesize": 75976357,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3182/mod_h5pactivity/package/0/interactive-video-140.h5p",
+        "timemodified": 1705065285,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-339-339.h5p",
+      "filepath": "/",
+      "filesize": 76242331,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-339-339.h5p",
+      "timemodified": 1794855173,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 84,
+    "course": 31,
+    "name": "Video 6.2: Collective Intelligence in Practice",
+    "timecreated": 1678316115,
+    "timemodified": 1704974950,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=309\" style=\"text-align: center;\">Previous: Video 6.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 6.2 Collective Intelligence in Practice</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=311\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<div>\r\n    <div><br></div>\r\n    <div><span id=\"docs-internal-guid-a41d2ce9-7fff-4373-00e5-e8bbb5e5e759\">Now let’s discuss some examples of free, open source tools available to put collective intelligence into practice. These tools usually come in the form of online platforms that allow users to more easily learn from large numbers of participants.</span><span style=\"font-size: 0.9375rem;\"></span><br></div>\r\n    <div><br></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 310,
+    "context": 3183,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-142.h5p",
+        "filepath": "/",
+        "filesize": 76527220,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3183/mod_h5pactivity/package/0/interactive-video-142.h5p",
+        "timemodified": 1704974950,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-340-340.h5p",
+      "filepath": "/",
+      "filesize": 76793195,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-340-340.h5p",
+      "timemodified": 1794855181,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 85,
+    "course": 31,
+    "name": "Video 7.1: A Checklist for Equitable Engagement  [Part 1]",
+    "timecreated": 1678365334,
+    "timemodified": 1705065338,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=352\" style=\"text-align: center;\">Previous: Topic 6.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 7.1 A Checklist for Equitable Engagement [Part 1]\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=313\" style=\"text-align: center;\">Next: Video 7.2</a>\r\n</div>\r\n\r\n<div>\r\n    <div><br></div>\r\n    <div>We will focus, in particular, on equitable engagement and how to reach underrepresented voices and communities.&nbsp;By the end of this lesson, you will:&nbsp;<ul>\r\n            <li>Understand the value of solving problems with communities</li>\r\n            <li>Learn a nine-step checklist for determining whether to engage the public</li>\r\n            <li>Learn how to reach and engage with those who are traditionally underrepresented in governance processes.</li>\r\n        </ul>\r\n    </div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 312,
+    "context": 3185,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-144.h5p",
+        "filepath": "/",
+        "filesize": 100029654,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3185/mod_h5pactivity/package/0/interactive-video-144.h5p",
+        "timemodified": 1705065338,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-341-341.h5p",
+      "filepath": "/",
+      "filesize": 100295624,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-341-341.h5p",
+      "timemodified": 1794855194,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 86,
+    "course": 31,
+    "name": "Video 7.2: A Checklist for Equitable Engagement [Part 2]",
+    "timecreated": 1678365991,
+    "timemodified": 1705061521,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=312\" style=\"text-align: center;\">Previous: Video 7.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 7.2 A Checklist for Equitable Engagement [Part 2]\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=314\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n\r\n<div>\r\n    <div><br></div>\r\n    <div>In this video, we talk about when to use public engagement, and why it’s important to put equity at the heart of your public engagement. To run a successful public engagement, it’s important to have a plan from the outset that identifies what you want to learn, whom you will engage, how you will engage them, and how you will use what they learn.\r\n    </div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 313,
+    "context": 3186,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-146.h5p",
+        "filepath": "/",
+        "filesize": 68021775,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3186/mod_h5pactivity/package/0/interactive-video-146.h5p",
+        "timemodified": 1705061521,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-342-342.h5p",
+      "filepath": "/",
+      "filesize": 68287753,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-342-342.h5p",
+      "timemodified": 1794855201,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 87,
+    "course": 31,
+    "name": "Video 8.1: Introduction to Fast Field Scanning",
+    "timecreated": 1678367559,
+    "timemodified": 1705065380,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=353\" style=\"text-align: center;\">Previous: Topic 7.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 8.1 Introduction to Fast Field Scanning\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=316\" style=\"text-align: center;\">Next: Video 8.2</a>\r\n</div>\r\n\r\n<div>\r\n    <div><br></div>\r\n    <div>Using the power of the crowd is only one way to find solutions. Let’s talk about fast field scanning and scavenging for solutions quickly. Today we’ll talk about:\r\n        <ul>\r\n            <li>How to find solutions that have already been implemented elsewhere.</li>\r\n            <li>How to evaluate whether those existing solutions worked.</li>\r\n            <li>How to determine whether what worked \"there\" will also work \"here,\" in your context and community.</li>\r\n        </ul>\r\n    </div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 315,
+    "context": 3188,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-148.h5p",
+        "filepath": "/",
+        "filesize": 85944009,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3188/mod_h5pactivity/package/0/interactive-video-148.h5p",
+        "timemodified": 1705065380,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-343-343.h5p",
+      "filepath": "/",
+      "filesize": 86209990,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-343-343.h5p",
+      "timemodified": 1794855212,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 88,
+    "course": 31,
+    "name": "Video 8.2: Fast Field Scanning Part 2",
+    "timecreated": 1678367860,
+    "timemodified": 1715690860,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=315\" style=\"text-align: center;\">Previous: Video 8.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 8.2 fast field scanning part 2&nbsp;</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=317\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n\r\n<div>\r\n    <div><br></div>\r\n    <div>In this video, we continue to discuss fast field scanning, a set of methods for rapidly identifying solutions, determining whether those solutions worked and assessing collaborative whether what worked elsewhere might solve the problem in your community. We’ve cover strategies that involve using documentary sources and talking to people in your search for information. We also discuss how systematic reviews and collective intelligence can be used to evaluate evidence.\r\n    </div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 316,
+    "context": 3189,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-150.h5p",
+        "filepath": "/",
+        "filesize": 54054976,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3189/mod_h5pactivity/package/0/interactive-video-150.h5p",
+        "timemodified": 1715690860,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-344-344.h5p",
+      "filepath": "/",
+      "filesize": 54320960,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-344-344.h5p",
+      "timemodified": 1794855220,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 89,
+    "course": 31,
+    "name": "Video 9.1: Introduction to Behavioral Insights",
+    "timecreated": 1678368921,
+    "timemodified": 1705065652,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=354\" style=\"text-align: center;\">Previous: Topic 8.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 9.1 Introduction to Behavioral Insights\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=319\" style=\"text-align: center;\">Next: Video 9.2</a>\r\n</div>\r\n\r\n<div>\r\n    <div><br></div>\r\n    <div>In this video, we’ll focus on one particular type of solution: - behavioral insights - to illustrate how findings from social and behavioral sciences, such as psychology and economics, can improve the design of public policies, programs, and services.\r\n    </div>\r\n    <div><br></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 318,
+    "context": 3191,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-152.h5p",
+        "filepath": "/",
+        "filesize": 16376761,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3191/mod_h5pactivity/package/0/interactive-video-152.h5p",
+        "timemodified": 1705065652,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-345-345.h5p",
+      "filepath": "/",
+      "filesize": 16642741,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-345-345.h5p",
+      "timemodified": 1794855226,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 90,
+    "course": 31,
+    "name": "Video 9.2: Designing Your Own Behavioral Insights Program",
+    "timecreated": 1678369742,
+    "timemodified": 1705061691,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=318\" style=\"text-align: center;\">Previous: Video 9.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 9.2 Designing Your Own Behavioral Insights Program\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=320\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n\r\n<div>\r\n    <div><br></div>\r\n    <div>In this video, we’ll focus on one particular type of solution: - behavioral insights - to illustrate how findings from social and behavioral sciences, such as psychology and economics, can improve the design of public policies, programs, and services. After completing this session, we hope you will understand <span id=\"docs-internal-guid-61b2aaf1-7fff-0a20-f316-ac814957c6ec\">how public servants can apply behavioral insights to our work.</span></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 319,
+    "context": 3192,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-154.h5p",
+        "filepath": "/",
+        "filesize": 79519542,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3192/mod_h5pactivity/package/0/interactive-video-154.h5p",
+        "timemodified": 1705061691,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-346-346.h5p",
+      "filepath": "/",
+      "filesize": 79785506,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-346-346.h5p",
+      "timemodified": 1794855245,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 91,
+    "course": 31,
+    "name": "Video 10.1: Big Data and Artificial Intelligence",
+    "timecreated": 1678371717,
+    "timemodified": 1715691153,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=355\" style=\"text-align: center;\">Previous: Topic 9.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 10.1 Big Data and Artificial Intelligence\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=322\" style=\"text-align: center;\">Next: Video 10.2</a>\r\n</div>\r\n\r\n<div>\r\n    <div><br></div>\r\n    <div>In this video, we’ll introduce a few of the latest technologies that are of greatest relevance to public service delivery. After completing this lesson, you will be able to:\r\n        <ul>\r\n            <li>Describe what these key technologies are</li>\r\n            <li>Understand how these technologies can be used to deliver better solutions to public problems.</li>\r\n        </ul>\r\n    </div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 321,
+    "context": 3194,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-156.h5p",
+        "filepath": "/",
+        "filesize": 35938581,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3194/mod_h5pactivity/package/0/interactive-video-156.h5p",
+        "timemodified": 1715691153,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-347-347.h5p",
+      "filepath": "/",
+      "filesize": 36204558,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-347-347.h5p",
+      "timemodified": 1794855255,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 92,
+    "course": 31,
+    "name": "Video 10.2: Artificial Intelligence, Chatbots and Blockchain",
+    "timecreated": 1678372209,
+    "timemodified": 1715691175,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=321\" style=\"text-align: center;\">Previous: Video 10.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 10.2 Artificial Intelligence, Chatbots and Blockchain\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=323\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n\r\n<div>\r\n    <div><br></div>\r\n    <div>In this video, we highlight how chatbots and blockchain can improve how we deliver public services. We hope this brief primer will help you in understanding some of the discussions about digital platforms that will crop up in subsequent modules.\r\n    </div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 322,
+    "context": 3195,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-158.h5p",
+        "filepath": "/",
+        "filesize": 30913875,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3195/mod_h5pactivity/package/0/interactive-video-158.h5p",
+        "timemodified": 1715691175,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-348-348.h5p",
+      "filepath": "/",
+      "filesize": 31179856,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-348-348.h5p",
+      "timemodified": 1794855263,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 93,
+    "course": 31,
+    "name": "Video 11.1 Reasons to Partner",
+    "timecreated": 1682473161,
+    "timemodified": 1705067315,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/questionnaire/view.php?id=362\" style=\"text-align: center;\">Previous: Survey</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">11.1 Reasons to Partner</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=326\" style=\"text-align: center;\">Next: Video 11.2</a>\r\n</div>\r\n\r\n\r\n<div>\r\n    <div><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-b07f44de-7fff-76e7-ce29-4c38e29cead6\"></span></span></div><span id=\"docs-internal-guid-370ff30f-7fff-bfc7-240f-624177303918\">Let's face it, most of us–especially in the public sector–rarely have all the resources we need: we sometimes lack money (or the ability to spend it easily), we lack talent such as programmers, data scientists, and marketers, and, above all, we lack time! All these requirements are good reasons for finding partners. But it can be hard to know how to partner efficiently and in a way that safeguards the public interest. That’s why in&nbsp; this module, you will learn:</span>\r\n</div>\r\n<div><span><br></span></div>\r\n<div>\r\n    <ul>\r\n        <li dir=\"ltr\" aria-level=\"2\">\r\n            <p dir=\"ltr\" role=\"presentation\">The advantages of partnering to overcome implementation challenges.</p>\r\n        </li>\r\n        <li dir=\"ltr\" aria-level=\"2\">\r\n            <p dir=\"ltr\" role=\"presentation\">The how-to’s of partnership and collaboration. We’ll provide you with practical worksheets and guidance.</p>\r\n        </li>\r\n        <li dir=\"ltr\" aria-level=\"2\">\r\n            <p dir=\"ltr\" role=\"presentation\">The risks of partnering and how to mitigate them.</p>\r\n        </li>\r\n    </ul>\r\n\r\n\r\n\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 325,
+    "context": 3198,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-216.h5p",
+        "filepath": "/",
+        "filesize": 60757844,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3198/mod_h5pactivity/package/0/interactive-video-216.h5p",
+        "timemodified": 1705067315,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-349-349.h5p",
+      "filepath": "/",
+      "filesize": 61066263,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-349-349.h5p",
+      "timemodified": 1794855273,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 94,
+    "course": 31,
+    "name": "Video 11.2 Creating Effective Partnerships",
+    "timecreated": 1682473298,
+    "timemodified": 1705062366,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=325\" style=\"text-align: center;\">Previous: Video 11.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">11.2 Creating Effective Partnerships</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=327\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<div>\r\n    <div><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-b07f44de-7fff-76e7-ce29-4c38e29cead6\">We’ll review six basic steps in creating effective partnerships.</span></span><br></div>\r\n    <ul>\r\n        <ul>\r\n            <li><span id=\"docs-internal-guid-9cb28df2-7fff-a448-f96a-f918d102bb49\">Assess whether partners are needed</span></li>\r\n            <li><span id=\"docs-internal-guid-6dbf0fe3-7fff-e854-e3d8-7b9c7b0b2576\">Create clear plan and implementation checklist</span></li>\r\n            <li><span><span id=\"docs-internal-guid-18050d0a-7fff-003d-473e-c7177848b9a1\">Identify partners</span></span></li>\r\n            <li><span><span><span id=\"docs-internal-guid-d88dd5a3-7fff-1218-26e0-3a33d1fd50e8\">Reach out to partners</span></span></span></li>\r\n            <li><span><span><span><span id=\"docs-internal-guid-b08d8b37-7fff-25eb-31cd-1d8d8a5406da\">Define common goals and vision of success</span></span></span></span></li>\r\n            <li><span><span style=\"font-weight: bold;\"><span style=\"font-weight: bold;\"><span style=\"font-weight: bold;\"><span id=\"docs-internal-guid-54615585-7fff-3680-f163-38679d269db2\" style=\"font-weight: normal;\">Create an accountability mechanism</span></span></span></span></span></li>\r\n        </ul>\r\n\r\n\r\n    </ul>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 326,
+    "context": 3199,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-191.h5p",
+        "filepath": "/",
+        "filesize": 59807118,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3199/mod_h5pactivity/package/0/interactive-video-191.h5p",
+        "timemodified": 1705062366,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-350-350.h5p",
+      "filepath": "/",
+      "filesize": 60115550,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-350-350.h5p",
+      "timemodified": 1794855282,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 95,
+    "course": 31,
+    "name": "Video 12.1: Designing an implementation plan",
+    "timecreated": 1682475147,
+    "timemodified": 1707297933,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=327\" style=\"text-align: center;\">Previous: Topic 11.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 12.1 Designing an Implementation Plan\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=329\" style=\"text-align: center;\">Next: Video 12.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div><span id=\"docs-internal-guid-c84a56e6-7fff-0b29-1e15-e96e44ccd182\">As you move forward from idea to implementation, we take some time to examine:</span></div>\r\n    <div><span><br></span></div>\r\n    <div>\r\n        <ul>\r\n            <ul>\r\n                <li><span>Whether the solution you have identified will have the intended impact on your problem. This is known as your theory of change or your logic model.</span></li>\r\n                <li><span>What steps you need to take to implement your solution, including how to break down your solution into milestones and deliverables.</span></li>\r\n            </ul>\r\n        </ul>\r\n    </div>\r\n    <div><br></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 328,
+    "context": 3201,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-194.h5p",
+        "filepath": "/",
+        "filesize": 66859512,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3201/mod_h5pactivity/package/0/interactive-video-194.h5p",
+        "timemodified": 1707297933,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-351-351.h5p",
+      "filepath": "/",
+      "filesize": 67167952,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-351-351.h5p",
+      "timemodified": 1794855293,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 96,
+    "course": 31,
+    "name": "Video 12.2 Theory of Change and Logic Models",
+    "timecreated": 1682475228,
+    "timemodified": 1705062443,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=328\" style=\"text-align: center;\">Previous: Video 12.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 12.2 Theory of Change and Logic Models\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=330\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div><span id=\"docs-internal-guid-c84a56e6-7fff-0b29-1e15-e96e44ccd182\"><span id=\"docs-internal-guid-3e7e48fd-7fff-34ba-4181-1d4f8642c2b3\">Funders often will ask you to present a theory of change, so it is a good discipline to develop. The theory of change, or logic model, is another way of asking you to define your problem and to explain how and why&nbsp; your solution actually solves that problem. This may sound easy in theory, but it is actually quite challenging.</span></span></div>\r\n    <div><br></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 329,
+    "context": 3202,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-219.h5p",
+        "filepath": "/",
+        "filesize": 34694968,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3202/mod_h5pactivity/package/0/interactive-video-219.h5p",
+        "timemodified": 1705062443,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-352-352.h5p",
+      "filepath": "/",
+      "filesize": 35003393,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-352-352.h5p",
+      "timemodified": 1794855348,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 97,
+    "course": 31,
+    "name": "Video 13.1: Why Memo Writing is So Important",
+    "timecreated": 1682527264,
+    "timemodified": 1705068765,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=358\" style=\"text-align: center;\">Previous: Topic 12.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 13.1: Why Memo Writing is So Important\r\n    </p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=344\" style=\"text-align: center;\">Next: Video 13.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div><span id=\"docs-internal-guid-bcdbe9cf-7fff-4d80-e903-2e7835ab897f\"><span style=\"font-size: 0.9375rem;\">Writing a memo in a disciplined way can also guide you to express your idea clearly and communicate it effectively to multiple audiences. By the end of this module, you will</span></span></div>\r\n    <div><span><br>\r\n            <ul>\r\n                <ul>\r\n                    <li dir=\"ltr\" aria-level=\"2\">\r\n                        <p dir=\"ltr\" role=\"presentation\">Understand the importance of good memo writing</p>\r\n                    </li>\r\n                    <li dir=\"ltr\" aria-level=\"2\">\r\n                        <p dir=\"ltr\" role=\"presentation\">Learn tricks and strategies of how to write a persuasive memo</p>\r\n                    </li>\r\n                    <li dir=\"ltr\" aria-level=\"2\">\r\n                        <p dir=\"ltr\" role=\"presentation\">Know some resources for sample memos, worksheets, and materials to further help you learn to write a good memo</p>\r\n                    </li>\r\n                </ul>\r\n            </ul>\r\n        </span></div>\r\n    <div><br></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 331,
+    "context": 3204,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-198.h5p",
+        "filepath": "/",
+        "filesize": 35605082,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3204/mod_h5pactivity/package/0/interactive-video-198.h5p",
+        "timemodified": 1705068765,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-353-353.h5p",
+      "filepath": "/",
+      "filesize": 35913493,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-353-353.h5p",
+      "timemodified": 1794855355,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 105,
+    "course": 31,
+    "name": "Video 13.2: Going Through the Sections of Your Memo",
+    "timecreated": 1682527342,
+    "timemodified": 1705062515,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=331\" style=\"text-align: center;\">Previous: Video 13.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 13.2: Going Through the Sections of Your Memo</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=332\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<div>\r\n    <div><br></div>\r\n    <div><span id=\"docs-internal-guid-a41d2ce9-7fff-4373-00e5-e8bbb5e5e759\"><span id=\"docs-internal-guid-d5caa52e-7fff-08e3-9f1b-ff273bd1951d\">Getting your project implemented always necessitates a memo, whether for busy decision-makers or busy members of the public. Always make sure to put the bottom line up front and include an implementation strategy and answers to potential objections. Write clearly and concisely and copy the people who can help endorse your proposal. </span></span><span style=\"font-size: 0.9375rem;\"></span><br></div>\r\n    <div><br></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 344,
+    "context": 3217,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-225.h5p",
+        "filepath": "/",
+        "filesize": 63907190,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3217/mod_h5pactivity/package/0/interactive-video-225.h5p",
+        "timemodified": 1705062515,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-354-354.h5p",
+      "filepath": "/",
+      "filesize": 64215615,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-354-354.h5p",
+      "timemodified": 1794855363,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 98,
+    "course": 31,
+    "name": "Video 14.1: Introduction to Pilots",
+    "timecreated": 1682534326,
+    "timemodified": 1705062595,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/questionnaire/view.php?id=333\" style=\"text-align: center;\">Previous: Survey</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 14.1: Introduction to Pilots</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=335\" style=\"text-align: center;\">Next: Video 14.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div><span id=\"docs-internal-guid-3d60a791-7fff-3cf7-817e-0d9082b4710c\"><span style=\"font-size: 0.9375rem;\">Even if your chosen solution has been tried elsewhere before, you may be trying this solution for the first time. You'll want to gather data to show whether your efforts are working in your own unique context. That’s why we provide you with an introduction to&nbsp;</span></span></div>\r\n    <div><span>\r\n            <ul>\r\n                <ul>\r\n                    <li><span style=\"font-size: 0.9375rem;\">why pilots are beneficial</span></li>\r\n                    <li><span style=\"font-size: 0.9375rem;\">how to design a pilot&nbsp;</span></li>\r\n                    <li><span style=\"font-size: 0.9375rem;\">and the pitfalls of piloting and how to overcome them</span></li>\r\n                </ul>\r\n            </ul>\r\n        </span></div>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 334,
+    "context": 3207,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-201.h5p",
+        "filepath": "/",
+        "filesize": 45335621,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3207/mod_h5pactivity/package/0/interactive-video-201.h5p",
+        "timemodified": 1705062595,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-355-355.h5p",
+      "filepath": "/",
+      "filesize": 45644045,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-355-355.h5p",
+      "timemodified": 1794855373,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 99,
+    "course": 31,
+    "name": "Video 14.2 Why Pilots?",
+    "timecreated": 1682534396,
+    "timemodified": 1705062623,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=334\" style=\"text-align: center;\">Previous: Video 14.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">14.2 Why Pilots?</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=336\" style=\"text-align: center;\">Next: Video 14.3</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div><span style=\"font-size: 0.9375rem;\">&nbsp;In this video we discuss:</span><br></div>\r\n    <ul>\r\n        <li>Expanding your repertoire of solutions by introducing new types to consider.\r\n            Introducing an approach for identifying, evaluating, and refining your solutions.</li>\r\n        <li>Our goal is to help you improve your readiness to solve problems by thinking about various types of solutions that public institutions can implement.</li>\r\n\r\n    </ul>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 335,
+    "context": 3208,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-228.h5p",
+        "filepath": "/",
+        "filesize": 57971135,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3208/mod_h5pactivity/package/0/interactive-video-228.h5p",
+        "timemodified": 1705062623,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-356-356.h5p",
+      "filepath": "/",
+      "filesize": 58279565,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-356-356.h5p",
+      "timemodified": 1794855340,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 100,
+    "course": 31,
+    "name": "Video 14.3: Creating a Pilot",
+    "timecreated": 1682534460,
+    "timemodified": 1705062654,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=335\" style=\"text-align: center;\">Previous: Video 14.2</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">14.3 Creating a Pilot</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=337\" style=\"text-align: center;\">Next: Video 14.4</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div><span style=\"font-size: 0.9375rem;\">&nbsp;In this video we discuss:</span><br></div>\r\n    <ul>\r\n        <li>Expanding your repertoire of solutions by introducing new types to consider.\r\n            Introducing an approach for identifying, evaluating, and refining your solutions.</li>\r\n        <li>Our goal is to help you improve your readiness to solve problems by thinking about various types of solutions that public institutions can implement.</li>\r\n\r\n    </ul>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 336,
+    "context": 3209,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-229.h5p",
+        "filepath": "/",
+        "filesize": 59381217,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3209/mod_h5pactivity/package/0/interactive-video-229.h5p",
+        "timemodified": 1705062654,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-357-357.h5p",
+      "filepath": "/",
+      "filesize": 59689644,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-357-357.h5p",
+      "timemodified": 1794855330,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 101,
+    "course": 31,
+    "name": "Video 14.4: Risks",
+    "timecreated": 1682534529,
+    "timemodified": 1705062684,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=336\" style=\"text-align: center;\">Previous: Video 14.3</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">14.4 Risks</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=338\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div><span style=\"font-size: 0.9375rem;\">&nbsp;In this video we discuss:</span><br></div>\r\n    <ul>\r\n        <li>Expanding your repertoire of solutions by introducing new types to consider.\r\n            Introducing an approach for identifying, evaluating, and refining your solutions.</li>\r\n        <li>Our goal is to help you improve your readiness to solve problems by thinking about various types of solutions that public institutions can implement.</li>\r\n\r\n    </ul>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 337,
+    "context": 3210,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-230.h5p",
+        "filepath": "/",
+        "filesize": 74887133,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3210/mod_h5pactivity/package/0/interactive-video-230.h5p",
+        "timemodified": 1705062684,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-358-358.h5p",
+      "filepath": "/",
+      "filesize": 75195569,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-358-358.h5p",
+      "timemodified": 1794855322,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 102,
+    "course": 31,
+    "name": "Video 15.1: Introduction to Experiments",
+    "timecreated": 1682551129,
+    "timemodified": 1705068922,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=360\" style=\"text-align: center;\">Previous: Topic 14.0</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">Video 15.1: Introduction to Experiments</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=340\" style=\"text-align: center;\">Next: Video 15.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div><span id=\"docs-internal-guid-3d60a791-7fff-3cf7-817e-0d9082b4710c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-39da7cd6-7fff-cf22-63b8-ce82aef161df\">What can you do when you want to measure if your pilot--and later your initiative-- is working? This module will help you:</span>&nbsp;</span></span></div><span id=\"docs-internal-guid-d5d834d6-7fff-f365-b563-b6c2a548620d\">\r\n        <ul>\r\n            <ul>\r\n                <li><span style=\"font-size: 0.9375rem;\">Explore various methods for testing and evaluating an intervention, especially more participatory and democratic methods of evaluation;&nbsp;</span></li>\r\n                <li><span style=\"font-size: 0.9375rem;\">Understand the limits and challenges of different evaluation methods; and</span></li>\r\n                <li><span style=\"font-size: 0.9375rem;\">Understand which method is most suitable for your needs.</span></li>\r\n            </ul>\r\n        </ul>\r\n        <p dir=\"ltr\" role=\"presentation\" style=\"font-size: 0.9375rem; font-weight: bold;\"><strong style=\"font-size: 0.9375rem;\">Remember to answer the self assessment questions at the end of the video!&nbsp;</strong></p>\r\n    </span>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 339,
+    "context": 3212,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-239.h5p",
+        "filepath": "/",
+        "filesize": 54831330,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3212/mod_h5pactivity/package/0/interactive-video-239.h5p",
+        "timemodified": 1705068922,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-359-359.h5p",
+      "filepath": "/",
+      "filesize": 55139759,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-359-359.h5p",
+      "timemodified": 1794855312,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 103,
+    "course": 31,
+    "name": "Video 15.2: Agile Approaches to Evaluation",
+    "timecreated": 1682551205,
+    "timemodified": 1705062760,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=339\" style=\"text-align: center;\">Previous: Video 15.1</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">15.2 Agile Approaches to Evaluation</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=341\" style=\"text-align: center;\">Next: Video 15.3</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div><span style=\"font-size: 0.9375rem;\">&nbsp;In this video we discuss:</span><br></div>\r\n    <ul>\r\n        <li>Expanding your repertoire of solutions by introducing new types to consider.\r\n            Introducing an approach for identifying, evaluating, and refining your solutions.</li>\r\n        <li>Our goal is to help you improve your readiness to solve problems by thinking about various types of solutions that public institutions can implement.</li>\r\n\r\n    </ul>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 340,
+    "context": 3213,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-240.h5p",
+        "filepath": "/",
+        "filesize": 68382650,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3213/mod_h5pactivity/package/0/interactive-video-240.h5p",
+        "timemodified": 1705062760,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-360-360.h5p",
+      "filepath": "/",
+      "filesize": 68691079,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-360-360.h5p",
+      "timemodified": 1794855301,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 104,
+    "course": 31,
+    "name": "Video 15.3: Measuring What Works",
+    "timecreated": 1682551298,
+    "timemodified": 1705062791,
+    "intro": "<div class=\"custom-navigation-buttons\">\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=340\" style=\"text-align: center;\">Previous: Video 15.2</a>\r\n    <p class=\"custom-current\" style=\"text-align: center;\">15.3 Measuring What Works</p>\r\n    <a class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=342\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n\r\n<p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-bf9ab4de-7fff-76ab-d842-06975889d777\"><span><span></span></span></span></p>\r\n<div>\r\n    <div><span style=\"font-size: 0.9375rem;\"></span></div><span id=\"docs-internal-guid-556d4f8a-7fff-f11a-5bd6-f3155dbcc25f\">If you put effort into making an appealing survey or experiment in content and design, you increase the likelihood that people will respond and particpate. Instead of replicating a long paper-based questionnaire on the screen, take advantage of the internet and mobile phones to change the way you ask questions. Collaborating with professional social scientists and survey methods experts can help you formulate questionnaires that are suited to these kinds of survey options.</span>\r\n</div>\r\n<div><br>\r\n    <div><strong>Remember to answer the self assessment questions at the end of the video!&nbsp;</strong><br></div>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 341,
+    "context": 3214,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-241.h5p",
+        "filepath": "/",
+        "filesize": 75474847,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3214/mod_h5pactivity/package/0/interactive-video-241.h5p",
+        "timemodified": 1705062791,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-361-361.h5p",
+      "filepath": "/",
+      "filesize": 75783269,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-361-361.h5p",
+      "timemodified": 1794855237,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 106,
+    "course": 32,
+    "name": "Video 1.1:  Introduction to the Course",
+    "timecreated": 1705662261,
+    "timemodified": 1706531765,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"\" style=\"text-align: center;\">Previous: Welcome!</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Introduction to the Course</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=369\" style=\"text-align: center;\">Next: Video 1.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-0f9f2550-7fff-8550-4e94-56d4c5c9baf6\">Examples are provided to show that Human centered design, as explained, is a method that prioritizes starting with people to better understand their needs and motivations, ultimately leading to innovation when combined with considerations of viability and feasibility.</span></span></span></div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 368,
+    "context": 3275,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-362.h5p",
+        "filepath": "/",
+        "filesize": 147218855,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3275/mod_h5pactivity/package/0/interactive-video-362.h5p",
+        "timemodified": 1706531765,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-423-423.h5p",
+      "filepath": "/",
+      "filesize": 147429362,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-423-423.h5p",
+      "timemodified": 1794596487,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 107,
+    "course": 32,
+    "name": "Video 1.2: Introduction to HCD",
+    "timecreated": 1705662910,
+    "timemodified": 1706526128,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=368\" style=\"text-align: center;\">Previous: Video 1.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Introduction to HCD</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=370\" style=\"text-align: center;\">Next: Video 1.3</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-c88477eb-7fff-07d6-8f68-9cc1cc4dfb16\">Human Centered Design (HCD) is presented as both a mindset and a method, emphasizing the importance of having both a philosophical approach and specific process skills. The five phases of HCD—empathy, define, ideate, prototype, and test—are briefly outlined, highlighting the iterative and messy nature of the process. The Double Diamond model is introduced as a conceptualization of the HCD process, distinguishing between divergent and convergent thinking, and the importance of involving users throughout the entire design process is emphasized for effective implementation of design thinking.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 369,
+    "context": 3276,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-364.h5p",
+        "filepath": "/",
+        "filesize": 141296458,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3276/mod_h5pactivity/package/0/interactive-video-364.h5p",
+        "timemodified": 1706526128,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-424-424.h5p",
+      "filepath": "/",
+      "filesize": 141506966,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-424-424.h5p",
+      "timemodified": 1794596512,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 108,
+    "course": 32,
+    "name": "Video 1.3: HCD Process Overview",
+    "timecreated": 1705662975,
+    "timemodified": 1706776826,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=369\" style=\"text-align: center;\">Previous: Video 1.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">HCD Process Overview</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=373\" style=\"text-align: center;\">Next: 2.0 Empathise</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-4c5491bd-7fff-533a-287c-fb673cd3efee\">This module focuses on developing empathy with customers in the context of human centered design (HCD). It emphasizes the importance of understanding customers' needs and challenges by stepping into their shoes, free from assumptions and biases. The course encourages participants to define a problem for HCD, map stakeholders, create empathy interview questions, and generate a journey map, with a specific focus on increasing engagement and belonging in the workplace.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 370,
+    "context": 3277,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-365.h5p",
+        "filepath": "/",
+        "filesize": 177208724,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3277/mod_h5pactivity/package/0/interactive-video-365.h5p",
+        "timemodified": 1706776826,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-462-462.h5p",
+      "filepath": "/",
+      "filesize": 177419204,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-462-462.h5p",
+      "timemodified": 1794597463,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 109,
+    "course": 32,
+    "name": "Video 2.1: Empathize",
+    "timecreated": 1705666281,
+    "timemodified": 1706533039,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=371\" style=\"text-align: center;\">Previous: Topic 1 Readings</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">EmpathiZe</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=375\" style=\"text-align: center;\">Next: Video 2.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-6a7b7490-7fff-6485-2f0e-0cc247a959ba\">This module focuses on developing empathy with customers in the context of human centered design (HCD). It emphasizes the importance of understanding customers' needs and challenges by stepping into their shoes, free from assumptions and biases. The course encourages participants to define a problem for HCD, map stakeholders, create empathy interview questions, and generate a journey map, with a specific focus on increasing engagement and belonging in the workplace.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 373,
+    "context": 3280,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-368.h5p",
+        "filepath": "/",
+        "filesize": 80028699,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3280/mod_h5pactivity/package/0/interactive-video-368.h5p",
+        "timemodified": 1706533039,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-427-427.h5p",
+      "filepath": "/",
+      "filesize": 80239211,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-427-427.h5p",
+      "timemodified": 1794598094,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 111,
+    "course": 32,
+    "name": "Video 2.2: Problem Framing",
+    "timecreated": 1705666388,
+    "timemodified": 1706531234,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=373\" style=\"text-align: center;\">Previous: Video 2.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Problem Framing</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=376\" style=\"text-align: center;\">Next: Video 2.3</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-ba1d5a6a-7fff-9bae-7586-0b0fc12571bb\">This module emphasizes the importance of problem framing in human centered design, challenging the conventional approach of immediately jumping to solutions. It suggests that problem framing is at the heart of innovation and encourages considering diverse perspectives to define problems accurately. The module concludes by emphasizing that human centered design is suitable for addressing issues related to human behavior that require continuous learning and testing, in contrast to technical challenges with straightforward solutions.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 375,
+    "context": 3282,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-369.h5p",
+        "filepath": "/",
+        "filesize": 117661983,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3282/mod_h5pactivity/package/0/interactive-video-369.h5p",
+        "timemodified": 1705663529,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-469-469.h5p",
+      "filepath": "/",
+      "filesize": 117872479,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-469-469.h5p",
+      "timemodified": 1794598587,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 112,
+    "course": 32,
+    "name": "Video 2.3: Tools for Problem Framing",
+    "timecreated": 1705666467,
+    "timemodified": 1706526280,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=375\" style=\"text-align: center;\">Previous: Video 2.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Tools for Problem Framing</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=377\" style=\"text-align: center;\">Next: Video 2.4</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-edbfc50d-7fff-23bd-aabf-0c34cee759e1\">In this segment, two tools, the 5 Whys and a Checklist, are introduced for crafting an initial problem statement in human centered design. The 5 Whys tool is explained as a method to identify the root cause of a problem by iteratively asking \"why\" five times, leading to a refined problem statement. A checklist is provided to ensure that the problem statement meets criteria such as being a human, subjective challenge focused on discovery and learning, solvable with a product or service, devoid of embedded solutions, and not assuming the customer's needs.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 376,
+    "context": 3283,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-370.h5p",
+        "filepath": "/",
+        "filesize": 138110098,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3283/mod_h5pactivity/package/0/interactive-video-370.h5p",
+        "timemodified": 1705663643,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-468-468.h5p",
+      "filepath": "/",
+      "filesize": 138320582,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-468-468.h5p",
+      "timemodified": 1794598861,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 113,
+    "course": 32,
+    "name": "Video 2.4: Stakeholder Mapping",
+    "timecreated": 1705666530,
+    "timemodified": 1706526352,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=376\" style=\"text-align: center;\">Previous: Video 2.3</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Stakeholder Mapping</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=378\" style=\"text-align: center;\">Next: Video 2.5</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-e28baa72-7fff-7775-9866-6b7b6e0db158\">Human centered design is highlighted as a problem-solving approach that involves designing solutions in collaboration with those directly affected by the problem and relevant stakeholders, including customer-facing staff in government. The importance of keeping customers and stakeholders engaged throughout the process is emphasized to ensure the resulting solutions genuinely meet their needs. The video introduces stakeholder mapping as a key activity to identify and understand the individuals and organizations that should be involved in the project, helping to inform plans for research and engagement throughout the human centered design process.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 377,
+    "context": 3284,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-371.h5p",
+        "filepath": "/",
+        "filesize": 171945014,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3284/mod_h5pactivity/package/0/interactive-video-371.h5p",
+        "timemodified": 1705663785,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-477-477.h5p",
+      "filepath": "/",
+      "filesize": 171913041,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-477-477.h5p",
+      "timemodified": 1794599263,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 114,
+    "course": 32,
+    "name": "Video 2.5:  Empathy Interviews",
+    "timecreated": 1705666607,
+    "timemodified": 1706526320,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=377\" style=\"text-align: center;\">Previous: Video 2.4</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Empathy Interviews</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=379\" style=\"text-align: center;\">Next: Video 2.6</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-27b03a5c-7fff-fe15-1503-a95572c9a8e4\">This video focuses on the importance and best practices of conducting empathy interviews in human centered design. Empathy interviews, rooted in ethnographic practices, are described as 1:1 discussions with a conversational tone aimed at understanding customers' beliefs, motivations, and behaviors. The facilitators are encouraged to define interview goals, clarify roles, establish rapport, focus on gathering stories, ask open-ended questions, and maintain a curious mindset to better understand customers' unbiased needs. The recap underscores the significance of empathy interviews as a primary tool for customer research, emphasizing the need for open-ended questions, active listening, and curiosity.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 378,
+    "context": 3285,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-372.h5p",
+        "filepath": "/",
+        "filesize": 165901306,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3285/mod_h5pactivity/package/0/interactive-video-372.h5p",
+        "timemodified": 1705663909,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-476-476.h5p",
+      "filepath": "/",
+      "filesize": 165869322,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-476-476.h5p",
+      "timemodified": 1794606396,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 115,
+    "course": 32,
+    "name": "Video 2.6: Empathy Mapping",
+    "timecreated": 1705666693,
+    "timemodified": 1706526384,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=378\" style=\"text-align: center;\">Previous: Video 2.5</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Empathy Mapping</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=380\" style=\"text-align: center;\">Next: Video 2.7</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-f84d20fc-7fff-c728-5e55-46fa36213953\">This video introduces the Empathy Map as a visualization tool for documenting the customer experience during empathy interviews in human centered design. The map focuses on capturing what the interviewees are doing, feeling, saying, and thinking, providing a structured way to understand their experiences. The video emphasizes that Empathy Maps help identify inconsistencies or themes in the data, allowing designers to generate insights, understand motivations, pain points, and needs of the customers.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 379,
+    "context": 3286,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-373.h5p",
+        "filepath": "/",
+        "filesize": 133521485,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3286/mod_h5pactivity/package/0/interactive-video-373.h5p",
+        "timemodified": 1705664220,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-457-457.h5p",
+      "filepath": "/",
+      "filesize": 133731980,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-457-457.h5p",
+      "timemodified": 1794606796,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 116,
+    "course": 32,
+    "name": "Video 2.7: Journey Mapping",
+    "timecreated": 1705666797,
+    "timemodified": 1707384189,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=379\" style=\"text-align: center;\">Previous: Video 2.6</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Journey Mapping</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=381\" style=\"text-align: center;\">Next:Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-f5f4b6a8-7fff-ba87-3918-f0ad6a63718c\">This video introduces journey mapping as a tool in human centered design, illustrating how it helps understand and improve customer experiences with products or services. Examples demonstrate how journey maps can identify gaps, pain points, and improvement opportunities in various customer interactions. The video emphasizes that journey maps can be created using different methods, with a focus on the specific problem being addressed, and provides guidance on selecting a customer or persona, outlining the journey, and choosing relevant data for mapping.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 380,
+    "context": 3287,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-374.h5p",
+        "filepath": "/",
+        "filesize": 229137899,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3287/mod_h5pactivity/package/0/interactive-video-374.h5p",
+        "timemodified": 1707384189,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-458-458.h5p",
+      "filepath": "/",
+      "filesize": 229348389,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-458-458.h5p",
+      "timemodified": 1794608947,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 117,
+    "course": 32,
+    "name": "Video 3.1: Define",
+    "timecreated": 1705667292,
+    "timemodified": 1706531264,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=382\" style=\"text-align: center;\">Previous: Topic 2 Worksheets</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Define</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=384\" style=\"text-align: center;\">Next: Video 3.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-baf13cff-7fff-adb1-e0f4-a11078b9d25a\">In this module, the focus is on refining a problem statement using information gathered from customer research. The importance of avoiding biased assumptions and seeing the customer's perspective is highlighted through an anecdote about a non-profit realizing their preconceived solutions skewed their understanding of customer needs.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 383,
+    "context": 3290,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-375.h5p",
+        "filepath": "/",
+        "filesize": 64222914,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3290/mod_h5pactivity/package/0/interactive-video-375.h5p",
+        "timemodified": 1706531264,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-448-448.h5p",
+      "filepath": "/",
+      "filesize": 64433431,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-448-448.h5p",
+      "timemodified": 1794613397,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 118,
+    "course": 32,
+    "name": "Video 3.2: Data Synthesis",
+    "timecreated": 1705667472,
+    "timemodified": 1706526526,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=383\" style=\"text-align: center;\">Previous: Video 3.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Data Synthesis</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=385\" style=\"text-align: center;\">Next: Video 3.3</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-f559e5f6-7fff-e60e-eb6f-f8ec7b1f1e8e\">In this video, the focus is on turning collected data, including journey maps and empathy interviews, into actionable insights for problem-solving. The discussion emphasizes that human centered design deals with unstructured, messy data such as behaviors, preferences, and emotions. The process involves organizing data into themes using Affinity Maps, which helps identify common patterns and surprises, leading to insights that are crucial for generating \"How Might We\" questions and potential solutions.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 384,
+    "context": 3291,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-376.h5p",
+        "filepath": "/",
+        "filesize": 157206976,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3291/mod_h5pactivity/package/0/interactive-video-376.h5p",
+        "timemodified": 1705665076,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-460-460.h5p",
+      "filepath": "/",
+      "filesize": 157417469,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-460-460.h5p",
+      "timemodified": 1794613614,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 119,
+    "course": 32,
+    "name": "Video 3.3: How Might We Questions",
+    "timecreated": 1705667527,
+    "timemodified": 1706526553,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=384\" style=\"text-align: center;\">Previous: Video 3.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">How Might We Questions</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=386\" style=\"text-align: center;\">Next: Video 3.4</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-34c2c089-7fff-5f66-569a-c89aaacc7d62\">In this video, the focus is on the significance and crafting of \"How Might We\" (HMW) questions in the human centered design process. These questions are open-ended, generative queries that aid in reframing problems and generating a diverse range of ideas. The video provides guidelines for crafting effective HMW questions, such as avoiding embedded solutions, centering on research findings, emphasizing desired outcomes, using the Goldilocks test for balance, and framing questions positively. Additionally, it introduces various frameworks, including creating analogies, focusing on emotions, amping up the good, exploring the opposite, and questioning assumptions, with examples related to workplace issues. The overall goal is to foster creativity, challenge assumptions, and open up new possibilities in problem-solving.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 385,
+    "context": 3292,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-377.h5p",
+        "filepath": "/",
+        "filesize": 164481219,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3292/mod_h5pactivity/package/0/interactive-video-377.h5p",
+        "timemodified": 1705665238,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-461-461.h5p",
+      "filepath": "/",
+      "filesize": 164691704,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-461-461.h5p",
+      "timemodified": 1794614153,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 120,
+    "course": 32,
+    "name": "Video 3.4: Personas",
+    "timecreated": 1705667730,
+    "timemodified": 1707384241,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=385\" style=\"text-align: center;\">Previous: Video 3.3</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Personas</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=387\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-5ae1882b-7fff-e6ae-617e-dc6c00e61839\">In this video, the focus is on personas, which are fictional characters derived from customer research, capturing key characteristics, motivations, and goals. Personas are used to maintain focus on solving customer needs, particularly when dealing with complex issues such as policy challenges. The video concludes by cautioning against using personas as a substitute for direct customer research and emphasizes the need to periodically update personas to reflect changes in customers' worlds.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 386,
+    "context": 3293,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-378.h5p",
+        "filepath": "/",
+        "filesize": 222838665,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3293/mod_h5pactivity/package/0/interactive-video-378.h5p",
+        "timemodified": 1707384241,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-463-463.h5p",
+      "filepath": "/",
+      "filesize": 223049162,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-463-463.h5p",
+      "timemodified": 1794614574,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 121,
+    "course": 32,
+    "name": "Video 4.1: Ideate",
+    "timecreated": 1705667946,
+    "timemodified": 1706531289,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=388\" style=\"text-align: center;\">Previous: Topic 3 Worksheets</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\"> Ideate</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=390\" style=\"text-align: center;\">Next: Video 4.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-b2897634-7fff-6ada-38db-dc5c1ab9510f\">This introductory video highlights the importance of ideation in generating and prioritizing solutions to problems. The module aims to guide participants through generating diverse ideas, assessing them with human centered design criteria, and developing a solution concept.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 389,
+    "context": 3296,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-379.h5p",
+        "filepath": "/",
+        "filesize": 89254446,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3296/mod_h5pactivity/package/0/interactive-video-379.h5p",
+        "timemodified": 1706531289,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-449-449.h5p",
+      "filepath": "/",
+      "filesize": 89464964,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-449-449.h5p",
+      "timemodified": 1794615260,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 122,
+    "course": 32,
+    "name": "Video 4.2: Brainstorming Overview",
+    "timecreated": 1705668004,
+    "timemodified": 1706526657,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=389\" style=\"text-align: center;\">Previous: Video 4.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Brainstorming Overview</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=391\" style=\"text-align: center;\">Next: Video 4.3</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-bcec6573-7fff-fdc0-f19f-9ac0ac89e073\">This video on ideation discusses the concept of 'how might we' questions as a valuable tool for generating innovative ideas. Emphasizing the importance of balancing questions, the video encourages avoiding those that are too narrow or too broad. The video also introduces structured methods for brainstorming, highlighting rules for effective brainstorming, and recommends warming up with creative exercises to encourage lateral thinking.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 390,
+    "context": 3297,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-380.h5p",
+        "filepath": "/",
+        "filesize": 96472682,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3297/mod_h5pactivity/package/0/interactive-video-380.h5p",
+        "timemodified": 1705665600,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-471-471.h5p",
+      "filepath": "/",
+      "filesize": 96683172,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-471-471.h5p",
+      "timemodified": 1794615552,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 123,
+    "course": 32,
+    "name": "Video 4.3: Brainstorming Methods",
+    "timecreated": 1705668091,
+    "timemodified": 1706526686,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=390\" style=\"text-align: center;\">Previous: Video 4.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Brainstorming Methods</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=392\" style=\"text-align: center;\">Next: Video 4.4</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-be22207e-7fff-5cf2-8359-9e22e4060a96\">This video explores two methods for brainstorming ideas: Crazy Eights and the Creative Matrix. Crazy Eights involves sketching eight different ideas on a sheet of paper to encourage thinking beyond initial concepts. The Creative Matrix is a tool where 'how might we' questions are listed at the top, and participants brainstorm solutions within relevant categories, fostering rapid idea generation.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 391,
+    "context": 3298,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-381.h5p",
+        "filepath": "/",
+        "filesize": 140743954,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3298/mod_h5pactivity/package/0/interactive-video-381.h5p",
+        "timemodified": 1705665748,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-465-465.h5p",
+      "filepath": "/",
+      "filesize": 140954441,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-465-465.h5p",
+      "timemodified": 1794615790,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 124,
+    "course": 32,
+    "name": "Video 4.4: Prioritizing Solutions",
+    "timecreated": 1705668157,
+    "timemodified": 1707384288,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=391\" style=\"text-align: center;\">Previous: Video 4.3</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Prioritizing Solutions</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=393\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-c5047a6c-7fff-ffcb-8c67-01e9bb4d6587\">In this video, the focus is on selecting the best idea for a project after the ideation phase. Prioritization methods include assessing the scale of the problem, using voting dots, and evaluating impact versus effort. The video introduces a concept template for developing chosen ideas and emphasizes the importance of refining ideas and identifying key questions for prototyping and testing.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 392,
+    "context": 3299,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-382.h5p",
+        "filepath": "/",
+        "filesize": 112860848,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3299/mod_h5pactivity/package/0/interactive-video-382.h5p",
+        "timemodified": 1707384288,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-466-466.h5p",
+      "filepath": "/",
+      "filesize": 113071340,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-466-466.h5p",
+      "timemodified": 1794616149,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 125,
+    "course": 32,
+    "name": "Video 5.1: Prototyping",
+    "timecreated": 1705668590,
+    "timemodified": 1706531315,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"\" style=\"text-align: center;\">Previous: Topic 4 Worksheets</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\"> Prototyping</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=396\" style=\"text-align: center;\">Next: Video 5.2</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-a44da88f-7fff-6607-2c11-e19b997b1904\">This video emphasizes the importance of prototyping and testing in the design thinking process. Prototyping is a crucial step before implementing ideas in the real world, allowing for effective communication, feedback, and improvement. The video stresses the significance of presenting rough and scrappy prototypes to encourage unbiased feedback and showcases various examples, including product development and policy prototypes, to illustrate the value of this iterative process in government and other contexts.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 395,
+    "context": 3302,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-383.h5p",
+        "filepath": "/",
+        "filesize": 210795965,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3302/mod_h5pactivity/package/0/interactive-video-383.h5p",
+        "timemodified": 1706531315,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-450-450.h5p",
+      "filepath": "/",
+      "filesize": 211006470,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-450-450.h5p",
+      "timemodified": 1794616609,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 126,
+    "course": 32,
+    "name": "Video 5.2: Testing",
+    "timecreated": 1705668691,
+    "timemodified": 1707384326,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/h5pactivity/view.php?id=395\" style=\"text-align: center;\">Previous: Video 5.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Testing</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=397\" style=\"text-align: center;\">Next: Readings</a>\r\n</div>\r\n<p style=\"text-align: center;\"><br></p>\r\n<div>\r\n    <div style=\"text-align: left;\"></div><span id=\"docs-internal-guid-98463c2d-7fff-9e20-4a7e-89f067cac00c\"><span style=\"font-size: 0.9375rem;\"><span id=\"docs-internal-guid-ff7ead39-7fff-0127-8509-86c9ce53ba90\">The video introduces a template to help plan testing for prototypes, emphasizing the importance of careful consideration regarding the prototype's purpose, target audience, test duration, and success criteria. Examples illustrate the concept of minimally viable products and the efficient gathering of feedback. The video concludes by highlighting the iterative nature of prototyping, emphasizing the PACE acronym for deciding how to iterate based on feedback and the use of learning cards to analyze observations and plan the next steps in the design process.</span></span></span>\r\n</div><br>\r\n<p></p>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 396,
+    "context": 3303,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-384.h5p",
+        "filepath": "/",
+        "filesize": 202518700,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3303/mod_h5pactivity/package/0/interactive-video-384.h5p",
+        "timemodified": 1707384326,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-472-472.h5p",
+      "filepath": "/",
+      "filesize": 202729174,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-472-472.h5p",
+      "timemodified": 1794617031,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 129,
+    "course": 33,
+    "name": "Video 1.1",
+    "timecreated": 1716999665,
+    "timemodified": 1717003816,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/questionnaire/view.php?id=471\" style=\"text-align: center;\">Previous: About You</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 1.1</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=407\" style=\"text-align: center;\">Next: Self Assessment: Video 1.1</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this first video, we will define Fast Field Scanning, discuss the three key stages of finding what works, and look at a quick example of Maria, an education official, searching for solutions to the crisis of literacy.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 448,
+    "context": 4004,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-481.h5p",
+        "filepath": "/",
+        "filesize": 4202761,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4004/mod_h5pactivity/package/0/interactive-video-481.h5p",
+        "timemodified": 1716992149,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-533-533.h5p",
+      "filepath": "/",
+      "filesize": 4170827,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-533-533.h5p",
+      "timemodified": 1794609732,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 128,
+    "course": 33,
+    "name": "Video 1.2",
+    "timecreated": 1716999015,
+    "timemodified": 1717406641,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=407\" style=\"text-align: center;\">Previous: Self Assessment: Video 1.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 1.2</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=408\" style=\"text-align: center;\">Next: Self Assessment: Video 1.2</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will help learners understand the \"support factors\" to determine whether a solution that worked in another jurisdiction will work in their own community. We will explain an example of how an initiative in California failed to replicate a project in Tennessee failed by ignoring a key step in the Fast Field Scanning process.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 447,
+    "context": 4003,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-480.h5p",
+        "filepath": "/",
+        "filesize": 4202762,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4003/mod_h5pactivity/package/0/interactive-video-480.h5p",
+        "timemodified": 1716992086,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-544-544.h5p",
+      "filepath": "/",
+      "filesize": 4170828,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-544-544.h5p",
+      "timemodified": 1794891780,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 130,
+    "course": 33,
+    "name": "Video 2.1",
+    "timecreated": 1716999706,
+    "timemodified": 1717003977,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=408\" style=\"text-align: center;\">Previous: Module 1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 2.1</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=409\" style=\"text-align: center;\">Next: Self Assessment: Video 2.1</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will recap the fundamentals of problem definition, show learners how to craft a query that can return a manageable list of results, and reveal how learners can make more of Generative AI tools like ChatGPT.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 449,
+    "context": 4005,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-482.h5p",
+        "filepath": "/",
+        "filesize": 4202762,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4005/mod_h5pactivity/package/0/interactive-video-482.h5p",
+        "timemodified": 1716992297,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-546-546.h5p",
+      "filepath": "/",
+      "filesize": 4170828,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-546-546.h5p",
+      "timemodified": 1794892666,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 131,
+    "course": 33,
+    "name": "Video 2.2",
+    "timecreated": 1716999736,
+    "timemodified": 1717146914,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=409\" style=\"text-align: center;\">Previous: Self Assessment: Video 2.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 2.2</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=410\" style=\"text-align: center;\">Next: Self Assessment: Video 2.2</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will recap the fundamentals of problem definition, show learners how to craft a query that can return a manageable list of results, and reveal how learners can make more of Generative AI tools like ChatGPT.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 450,
+    "context": 4006,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-483.h5p",
+        "filepath": "/",
+        "filesize": 4202763,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4006/mod_h5pactivity/package/0/interactive-video-483.h5p",
+        "timemodified": 1716992331,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-547-547.h5p",
+      "filepath": "/",
+      "filesize": 4170829,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-547-547.h5p",
+      "timemodified": 1794892892,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 132,
+    "course": 33,
+    "name": "Video 2.3",
+    "timecreated": 1716999764,
+    "timemodified": 1717004144,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=410\" style=\"text-align: center;\">Previous: Self Assessment: Video 2.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 2.3</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=411\" style=\"text-align: center;\">Next: Self Assessment: Video 2.3</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will turn the problem into a question to use in finding solutions.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 451,
+    "context": 4007,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-484.h5p",
+        "filepath": "/",
+        "filesize": 4202763,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4007/mod_h5pactivity/package/0/interactive-video-484.h5p",
+        "timemodified": 1716992366,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-548-548.h5p",
+      "filepath": "/",
+      "filesize": 4170829,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-548-548.h5p",
+      "timemodified": 1794893128,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 133,
+    "course": 33,
+    "name": "Video 2.4",
+    "timecreated": 1716999792,
+    "timemodified": 1717004233,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=411\" style=\"text-align: center;\">Previous: Self Assessment: Video 2.3</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 2.4</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=412\" style=\"text-align: center;\">Next: Self Assessment: Video 2.4</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this final video, we will see how Generative AI can help accelerate and improve your process of finding solutions.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 452,
+    "context": 4008,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-485.h5p",
+        "filepath": "/",
+        "filesize": 4202758,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4008/mod_h5pactivity/package/0/interactive-video-485.h5p",
+        "timemodified": 1716992407,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-540-540.h5p",
+      "filepath": "/",
+      "filesize": 4170824,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-540-540.h5p",
+      "timemodified": 1794893317,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 134,
+    "course": 33,
+    "name": "Video 3.1",
+    "timecreated": 1716999835,
+    "timemodified": 1717004344,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=434\" style=\"text-align: center;\">Previous: Module 2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 3.1</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=413\" style=\"text-align: center;\">Next: Self Assessment: Video 3.1</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we’ll introduce you to ways of accelerating your learning about solutions by examining documents and data.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 453,
+    "context": 4009,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-486.h5p",
+        "filepath": "/",
+        "filesize": 4202764,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4009/mod_h5pactivity/package/0/interactive-video-486.h5p",
+        "timemodified": 1716992438,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-541-541.h5p",
+      "filepath": "/",
+      "filesize": 4170830,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-541-541.h5p",
+      "timemodified": 1794893409,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 135,
+    "course": 33,
+    "name": "Video 3.2",
+    "timecreated": 1716999864,
+    "timemodified": 1717004419,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=413\" style=\"text-align: center;\">Previous: Self Assessment: Video 3.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 3.2</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=414\" style=\"text-align: center;\">Next: Self Assessment: Video 3.2</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p> In this video, we will look at strategies for searching academic journal articles.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 454,
+    "context": 4010,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-487.h5p",
+        "filepath": "/",
+        "filesize": 4202764,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4010/mod_h5pactivity/package/0/interactive-video-487.h5p",
+        "timemodified": 1716992467,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-542-542.h5p",
+      "filepath": "/",
+      "filesize": 4170830,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-542-542.h5p",
+      "timemodified": 1794893571,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 136,
+    "course": 33,
+    "name": "Video 3.3",
+    "timecreated": 1716999898,
+    "timemodified": 1717004484,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=414\" style=\"text-align: center;\">Previous: Self Assessment: Video 3.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 3.3</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=415\" style=\"text-align: center;\">Next: Self Assessment: Video 3.3</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p> In our final video, in this module on Finding Solutions from Documents and Data, let’s talk about how generative AI can help.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 455,
+    "context": 4011,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-488.h5p",
+        "filepath": "/",
+        "filesize": 4202762,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4011/mod_h5pactivity/package/0/interactive-video-488.h5p",
+        "timemodified": 1716992489,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-543-543.h5p",
+      "filepath": "/",
+      "filesize": 4170828,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-543-543.h5p",
+      "timemodified": 1794894002,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 137,
+    "course": 33,
+    "name": "Video 4.1",
+    "timecreated": 1716999953,
+    "timemodified": 1717004917,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=435\" style=\"text-align: center;\">Previous: Module 3</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 4.1</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=416\" style=\"text-align: center;\">Next: Self Assessment: Video 4.1</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we’ll discuss how you can find solutions by learning from knowledgeable individuals and organizations. </p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 456,
+    "context": 4012,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-489.h5p",
+        "filepath": "/",
+        "filesize": 4202765,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4012/mod_h5pactivity/package/0/interactive-video-489.h5p",
+        "timemodified": 1716992513,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-537-537.h5p",
+      "filepath": "/",
+      "filesize": 4170831,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-537-537.h5p",
+      "timemodified": 1794894918,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 138,
+    "course": 33,
+    "name": "Video 4.2",
+    "timecreated": 1716999977,
+    "timemodified": 1717004996,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=416\" style=\"text-align: center;\">Previous: Self Assessment: Video 4.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 4.2</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=417\" style=\"text-align: center;\">Next: Self Assessment: Video 4.2</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will dive back into specific strategies for getting smart from people!</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 457,
+    "context": 4013,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-490.h5p",
+        "filepath": "/",
+        "filesize": 4202765,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4013/mod_h5pactivity/package/0/interactive-video-490.h5p",
+        "timemodified": 1716992538,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-549-549.h5p",
+      "filepath": "/",
+      "filesize": 4170831,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-549-549.h5p",
+      "timemodified": 1794895164,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 139,
+    "course": 33,
+    "name": "Video 4.3",
+    "timecreated": 1717000000,
+    "timemodified": 1717005285,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=417\" style=\"text-align: center;\">Previous: Self Assessment: Video 4.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 4.3</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=418\" style=\"text-align: center;\">Next: Self Assessment: Video 4.3</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we’ll talk about how to use social media to find those knowledgeable about solutions.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 458,
+    "context": 4014,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-491.h5p",
+        "filepath": "/",
+        "filesize": 4202764,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4014/mod_h5pactivity/package/0/interactive-video-491.h5p",
+        "timemodified": 1716992564,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-545-545.h5p",
+      "filepath": "/",
+      "filesize": 4170830,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-545-545.h5p",
+      "timemodified": 1794895855,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 140,
+    "course": 33,
+    "name": "Video 4.4",
+    "timecreated": 1717000023,
+    "timemodified": 1717005467,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=418\" style=\"text-align: center;\">Previous: Self Assessment: Video 4.3</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 4.4</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=419\" style=\"text-align: center;\">Next: Self Assessment: Video 4.4</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will look at how AI can help you: find government practitioners working in the same areas, use web-based sources to find experts, and find knowledgeable people via social media.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 459,
+    "context": 4015,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-492.h5p",
+        "filepath": "/",
+        "filesize": 4202765,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4015/mod_h5pactivity/package/0/interactive-video-492.h5p",
+        "timemodified": 1716992592,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-553-553.h5p",
+      "filepath": "/",
+      "filesize": 4170831,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-553-553.h5p",
+      "timemodified": 1794904111,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 141,
+    "course": 33,
+    "name": "Video 5.1",
+    "timecreated": 1717000081,
+    "timemodified": 1717406825,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=436\" style=\"text-align: center;\">Previous: Module 4</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 5.1</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=420\" style=\"text-align: center;\">Next: Self Assessment: Video 5.1</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will help you determine if a solution has actually worked. We'll introduce you to the concept of the evidence hierarchy and different forms of evidence, including social impact evidence.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 460,
+    "context": 4016,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-493.h5p",
+        "filepath": "/",
+        "filesize": 4202767,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4016/mod_h5pactivity/package/0/interactive-video-493.h5p",
+        "timemodified": 1716992622,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-550-550.h5p",
+      "filepath": "/",
+      "filesize": 4170833,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-550-550.h5p",
+      "timemodified": 1794904488,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 142,
+    "course": 33,
+    "name": "Video 5.2",
+    "timecreated": 1717000141,
+    "timemodified": 1717141750,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=420\" style=\"text-align: center;\">Previous: Self Assessment: Video 5.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 5.2</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=421\" style=\"text-align: center;\">Next: Self Assessment: Video 5.2</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will discuss how to go about the solution evaluation process. We will also explain how to use academic sources of evidence for evaluating what works.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 461,
+    "context": 4017,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-494.h5p",
+        "filepath": "/",
+        "filesize": 4202761,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4017/mod_h5pactivity/package/0/interactive-video-494.h5p",
+        "timemodified": 1716992647,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-551-551.h5p",
+      "filepath": "/",
+      "filesize": 4170827,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-551-551.h5p",
+      "timemodified": 1794908869,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 143,
+    "course": 33,
+    "name": "Video 5.3",
+    "timecreated": 1717000171,
+    "timemodified": 1717141879,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=421\" style=\"text-align: center;\">Previous: Self Assessment: Video 5.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 5.3</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=422\" style=\"text-align: center;\">Next: Self Assessment: Video 5.3</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will outline many promising entrepreneurial and innovative solutions that are not studied in randomized control trials or even by quasi-experimental design studies that are also intended to evaluate impact. </p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 462,
+    "context": 4018,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-495.h5p",
+        "filepath": "/",
+        "filesize": 4202764,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4018/mod_h5pactivity/package/0/interactive-video-495.h5p",
+        "timemodified": 1716992675,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-552-552.h5p",
+      "filepath": "/",
+      "filesize": 4170830,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-552-552.h5p",
+      "timemodified": 1794909473,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 144,
+    "course": 33,
+    "name": "Video 5.4",
+    "timecreated": 1717000196,
+    "timemodified": 1717141914,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=422\" style=\"text-align: center;\">Previous: Self Assessment: Video 5.3</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 5.4</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=423\" style=\"text-align: center;\">Next: Self Assessment: Video 5.4</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In our last video of this module, we will focus on finding out whether the solutions you have identified actually worked as others may have claimed they did.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 463,
+    "context": 4019,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-496.h5p",
+        "filepath": "/",
+        "filesize": 4202763,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4019/mod_h5pactivity/package/0/interactive-video-496.h5p",
+        "timemodified": 1716992698,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-534-534.h5p",
+      "filepath": "/",
+      "filesize": 4170829,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-534-534.h5p",
+      "timemodified": 1794909592,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 145,
+    "course": 33,
+    "name": "Video 6.1",
+    "timecreated": 1717000240,
+    "timemodified": 1717142023,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=437\" style=\"text-align: center;\">Previous: Module 5</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 6.1</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=424\" style=\"text-align: center;\">Next: Self Assessment: Video 6.1</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we’ll outline some key ways you can involve people most affected by a problem in the process of evaluating solutions and point you to a range of other resources we have that can assist you.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 464,
+    "context": 4020,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-497.h5p",
+        "filepath": "/",
+        "filesize": 4202767,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4020/mod_h5pactivity/package/0/interactive-video-497.h5p",
+        "timemodified": 1716992726,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-530-530.h5p",
+      "filepath": "/",
+      "filesize": 4170833,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-530-530.h5p",
+      "timemodified": 1794909659,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 146,
+    "course": 33,
+    "name": "Video 6.2",
+    "timecreated": 1717000264,
+    "timemodified": 1717142058,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=424\" style=\"text-align: center;\">Previous:Self Assessment: Video 6.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 6.2</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=425\" style=\"text-align: center;\">Next: Self Assessment: Video 6.2</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we’ve focused on ways you can engage others - especially those most affected by a problem - in the process of evaluating potential solutions. We introduced you to the key methods of interviewing, surveying, and service blueprinting.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 465,
+    "context": 4021,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-498.h5p",
+        "filepath": "/",
+        "filesize": 4202763,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4021/mod_h5pactivity/package/0/interactive-video-498.h5p",
+        "timemodified": 1716992758,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-535-535.h5p",
+      "filepath": "/",
+      "filesize": 4170829,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-535-535.h5p",
+      "timemodified": 1794910199,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 147,
+    "course": 33,
+    "name": "Video 7.1",
+    "timecreated": 1717000299,
+    "timemodified": 1717142140,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=442\" style=\"text-align: center;\">Previous: Module 6</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 7.1</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=438\" style=\"text-align: center;\">Next: Self Assessment: Video 7.1</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we’ll illustrate how you can identify support factors and make judgments about them with your community. To do that we’ll walk you through an end-to-end process of fast field scanning using an AI toolkit called Policy Synth.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 466,
+    "context": 4022,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-499.h5p",
+        "filepath": "/",
+        "filesize": 4202764,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4022/mod_h5pactivity/package/0/interactive-video-499.h5p",
+        "timemodified": 1716992783,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-531-531.h5p",
+      "filepath": "/",
+      "filesize": 4170830,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-531-531.h5p",
+      "timemodified": 1794910427,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 148,
+    "course": 33,
+    "name": "Video 7.2",
+    "timecreated": 1717000325,
+    "timemodified": 1717142180,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=438\" style=\"text-align: center;\">Previous: Self Assessment: Video 7.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 7.2</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=439\" style=\"text-align: center;\">Next: Self Assessment: Video 7.2</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we’ve emphasized the importance of identifying the support factors that enable solutions to work and assessing whether those support factors are locally present.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 467,
+    "context": 4023,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-500.h5p",
+        "filepath": "/",
+        "filesize": 4202765,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4023/mod_h5pactivity/package/0/interactive-video-500.h5p",
+        "timemodified": 1716992806,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-532-532.h5p",
+      "filepath": "/",
+      "filesize": 4170831,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-532-532.h5p",
+      "timemodified": 1794910492,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 149,
+    "course": 33,
+    "name": "Video 8.1",
+    "timecreated": 1717000360,
+    "timemodified": 1717142395,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=443\" style=\"text-align: center;\">Previous: Module 7</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 8.1</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=440\" style=\"text-align: center;\">Next: Self Assessment: Video 8.1</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will show you how to prepare your solution recommendation so you can make a compelling case that your solution responds to your problem. </p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 468,
+    "context": 4024,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-501.h5p",
+        "filepath": "/",
+        "filesize": 4202764,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4024/mod_h5pactivity/package/0/interactive-video-501.h5p",
+        "timemodified": 1716992843,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-536-536.h5p",
+      "filepath": "/",
+      "filesize": 4170830,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-536-536.h5p",
+      "timemodified": 1794911326,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 150,
+    "course": 33,
+    "name": "Video 8.2",
+    "timecreated": 1717000384,
+    "timemodified": 1717142459,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=440\" style=\"text-align: center;\">Previous: Self Assessment: Video 8.1</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 8.2</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=441\" style=\"text-align: center;\">Next: Self Assessment: Video 8.2</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this video, we will emphasize the importance of taking the time to plan how you will conduct your fast field scan. </p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 469,
+    "context": 4025,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-502.h5p",
+        "filepath": "/",
+        "filesize": 4202763,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4025/mod_h5pactivity/package/0/interactive-video-502.h5p",
+        "timemodified": 1716992870,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-538-538.h5p",
+      "filepath": "/",
+      "filesize": 4170829,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-538-538.h5p",
+      "timemodified": 1794911515,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 151,
+    "course": 33,
+    "name": "Video 8.3",
+    "timecreated": 1717000409,
+    "timemodified": 1718873803,
+    "intro": "<div aria-hidden=\"true\" class=\"custom-navigation-buttons\">\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/quiz/view.php?id=441\" style=\"text-align: center;\">Previous: Self Assessment: Video 8.2</a>\r\n    <p aria-hidden=\"true\" class=\"custom-current\" style=\"text-align: center;\">Video 8.3</p>\r\n    <a aria-hidden=\"true\" class=\"btn-custom\" href=\"https://course.innovate-us.org/mod/page/view.php?id=445\" style=\"text-align: center;\">Next: Post-Course Survey</a>\r\n</div>\r\n<p></p>\r\n<div style=\"text-align: center;\">\r\n    <p>In this final video, we will discuss the importance of a logic model for making your solution recommendation compelling and suggest resources that can help you with this. We will also summarize the key components of a plan that will enable you to conduct a fast field scan efficiently and effectively and show you just some of the resources we have that can assist you in adopting a systematic approach to searching for solutions.</p>\r\n</div>",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 470,
+    "context": 4026,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "interactive-video-503.h5p",
+        "filepath": "/",
+        "filesize": 4202761,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4026/mod_h5pactivity/package/0/interactive-video-503.h5p",
+        "timemodified": 1716992896,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "interactive-video-539-539.h5p",
+      "filepath": "/",
+      "filesize": 4170827,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/interactive-video-539-539.h5p",
+      "timemodified": 1794979686,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 157,
+    "course": 49,
+    "name": "Module 1 Quiz",
+    "timecreated": 1794421141,
+    "timemodified": 1794537149,
+    "intro": "",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 748,
+    "context": 76165,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "module-1-knowledge-check-v1.2.1.h5p",
+        "filepath": "/",
+        "filesize": 66467,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/76165/mod_h5pactivity/package/0/module-1-knowledge-check-v1.2.1.h5p",
+        "timemodified": 1794537149,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "innovateus-knowledge-check-656-656.h5p",
+      "filepath": "/",
+      "filesize": 66463,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/innovateus-knowledge-check-656-656.h5p",
+      "timemodified": 1794582441,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 160,
+    "course": 49,
+    "name": "Module 2 Quiz",
+    "timecreated": 1794440163,
+    "timemodified": 1794537175,
+    "intro": "",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 751,
+    "context": 76179,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "module-2-knowledge-check-v1.2.1.h5p",
+        "filepath": "/",
+        "filesize": 67024,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/76179/mod_h5pactivity/package/0/module-2-knowledge-check-v1.2.1.h5p",
+        "timemodified": 1794537175,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "innovateus-knowledge-check-658-658.h5p",
+      "filepath": "/",
+      "filesize": 67020,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/innovateus-knowledge-check-658-658.h5p",
+      "timemodified": 1794582531,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 161,
+    "course": 49,
+    "name": "Module 3 Quiz",
+    "timecreated": 1794440163,
+    "timemodified": 1794537192,
+    "intro": "",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 752,
+    "context": 76326,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "module-3-knowledge-check-v1.2.1.h5p",
+        "filepath": "/",
+        "filesize": 66828,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/76326/mod_h5pactivity/package/0/module-3-knowledge-check-v1.2.1.h5p",
+        "timemodified": 1794537192,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "innovateus-knowledge-check-659-659.h5p",
+      "filepath": "/",
+      "filesize": 66823,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/innovateus-knowledge-check-659-659.h5p",
+      "timemodified": 1794590902,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 162,
+    "course": 49,
+    "name": "Module 4 Quiz",
+    "timecreated": 1794524201,
+    "timemodified": 1794537305,
+    "intro": "",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 753,
+    "context": 76329,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "module-4-knowledge-check-v1.2.1.h5p",
+        "filepath": "/",
+        "filesize": 66798,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/76329/mod_h5pactivity/package/0/module-4-knowledge-check-v1.2.1.h5p",
+        "timemodified": 1794537305,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "innovateus-knowledge-check-661-661.h5p",
+      "filepath": "/",
+      "filesize": 66793,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/innovateus-knowledge-check-661-661.h5p",
+      "timemodified": 1794590907,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 159,
+    "course": 49,
+    "name": "Module 5 Quiz",
+    "timecreated": 1794435875,
+    "timemodified": 1794537340,
+    "intro": "",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 750,
+    "context": 76177,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "module-5-knowledge-check-v1.2.1.h5p",
+        "filepath": "/",
+        "filesize": 67235,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/76177/mod_h5pactivity/package/0/module-5-knowledge-check-v1.2.1.h5p",
+        "timemodified": 1794537340,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "innovateus-knowledge-check-660-660.h5p",
+      "filepath": "/",
+      "filesize": 67230,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/innovateus-knowledge-check-660-660.h5p",
+      "timemodified": 1794591029,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 163,
+    "course": 49,
+    "name": "Module 6 Quiz",
+    "timecreated": 1794524253,
+    "timemodified": 1794537428,
+    "intro": "",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 754,
+    "context": 76330,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "module-6-knowledge-check-v1.2.1.h5p",
+        "filepath": "/",
+        "filesize": 67226,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/76330/mod_h5pactivity/package/0/module-6-knowledge-check-v1.2.1.h5p",
+        "timemodified": 1794537428,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "innovateus-knowledge-check-662-662.h5p",
+      "filepath": "/",
+      "filesize": 67220,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/innovateus-knowledge-check-662-662.h5p",
+      "timemodified": 1794596295,
+      "mimetype": "application/zip.h5p"
+    }
+  },
+  {
+    "id": 164,
+    "course": 49,
+    "name": "Module 7 Quiz",
+    "timecreated": 1794524289,
+    "timemodified": 1794537463,
+    "intro": "",
+    "introformat": 1,
+    "grade": 100,
+    "displayoptions": 15,
+    "enabletracking": 1,
+    "grademethod": 1,
+    "coursemodule": 755,
+    "context": 76331,
+    "introfiles": [],
+    "package": [
+      {
+        "filename": "module-7-knowledge-check-v1.2.1.h5p",
+        "filepath": "/",
+        "filesize": 66911,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/76331/mod_h5pactivity/package/0/module-7-knowledge-check-v1.2.1.h5p",
+        "timemodified": 1794537463,
+        "mimetype": "application/zip.h5p",
+        "isexternalfile": true,
+        "repositorytype": "contentbank",
+        "icon": "f/h5p"
+      }
+    ],
+    "deployedfile": {
+      "filename": "innovateus-knowledge-check-657-657.h5p",
+      "filepath": "/",
+      "filesize": 66906,
+      "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/1/core_h5p/export/innovateus-knowledge-check-657-657.h5p",
+      "timemodified": 1794582674,
+      "mimetype": "application/zip.h5p"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "directus_files_id": "08a30300-5530-49ef-bb55-08d5b1dd6a23",
+    "innovate_us_course_id": 43
+  },
+  {
+    "id": 2,
+    "directus_files_id": "8ae3f2fa-345b-4d38-a0ab-0aa3934d085b",
+    "innovate_us_course_id": null
+  },
+  {
+    "id": 3,
+    "directus_files_id": "3a0ee47d-8e1e-47bc-9342-d7bccafc4c09",
+    "innovate_us_course_id": 3
+  },
+  {
+    "id": 4,
+    "directus_files_id": "960f3ef6-da2f-4546-91ef-d2be446ed850",
+    "innovate_us_course_id": 3
+  },
+  {
+    "id": 5,
+    "directus_files_id": "c4bc0b83-cde7-4849-9582-14de4fd70906",
+    "innovate_us_course_id": 10
+  },
+  {
+    "id": 6,
+    "directus_files_id": "80d39a27-3814-4f72-81a9-01079e2149e1",
+    "innovate_us_course_id": 10
+  }
+]

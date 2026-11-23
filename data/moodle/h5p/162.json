@@ -1,0 +1,83 @@
+{
+  "title": "Module 4 Quiz",
+  "mainLibrary": "InnovateUS.KnowledgeCheck",
+  "language": "und",
+  "content": {
+    "behaviour": {
+      "passPercentage": 100,
+      "autoAdvance": false,
+      "delayCorrect": 3,
+      "delayWrong": 5,
+      "shuffleAnswers": true,
+      "showNextModule": true
+    },
+    "l10n": {
+      "progress": "Question :num of :total",
+      "correct": "Correct!",
+      "incorrect": "Not quite. The right answer is highlighted.",
+      "incorrectMulti": "Not quite. Select every right answer and no wrong ones.",
+      "nextQuestion": "Next question",
+      "seeResult": "See your result",
+      "resultPassed": "Well done!",
+      "resultFailed": "Almost there",
+      "scoreText": "You got :score of :total right.",
+      "passedText": "Continue to the next module when you are ready.",
+      "failedText": "You need to answer every question correctly to continue. Have a look at the answers below, then try again.",
+      "yourAnswer": "Your answer",
+      "yourAnswers": "You chose",
+      "rightAnswer": "Right answer",
+      "rightAnswers": "Right answers",
+      "retry": "Try again",
+      "nextModule": "Next module",
+      "backToCourse": "Back to course",
+      "checkAnswer": "Check answer",
+      "selectAll": "Select all that apply."
+    },
+    "questions": [
+      {
+        "text": "A small city&#039;s procurement team is considering using AI to help draft solicitations, but their director is worried that the tool will produce documents that don&#039;t reflect local policy and context. What is the most important safeguard to put in place?",
+        "answers": [
+          {
+            "text": "Use only AI tools that have been specifically designed for government procurement",
+            "correct": false
+          },
+          {
+            "text": "Have a procurement professional review and refine every AI-generated draft before it is published",
+            "correct": true
+          },
+          {
+            "text": "Limit AI use to jurisdictions with more than 100,000 residents where there is sufficient staff capacity",
+            "correct": false
+          },
+          {
+            "text": "Require vendors to acknowledge that solicitations were drafted with AI assistance",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "A city has deployed a custom AI assistant for procurement staff, grounded in the city&#039;s own policies and procedures. Staff find it useful but have started treating its outputs as final answers without reviewing them. What is the most important issue this creates, and how should leadership respond?",
+        "answers": [
+          {
+            "text": "The tool is too easy to use and should be made more technically complex to encourage careful engagement",
+            "correct": false
+          },
+          {
+            "text": "Staff are not the right users for this tool — it should be restricted to senior procurement officers only",
+            "correct": false
+          },
+          {
+            "text": "Outputs are being used without human review, undermining accountability; leadership should establish clear review requirements and reinforce that AI outputs are starting points, not decisions",
+            "correct": true
+          },
+          {
+            "text": "The tool needs to be retrained on more current policy documents to produce more reliable outputs",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      }
+    ]
+  }
+}

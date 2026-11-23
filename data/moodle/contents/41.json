@@ -1,0 +1,90 @@
+[
+  {
+    "id": 306,
+    "name": "General",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 0,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "component": null,
+    "itemid": null,
+    "modules": []
+  },
+  {
+    "id": 307,
+    "name": "Begin Course",
+    "visible": 1,
+    "summary": "<p>Start learning how GenAI can enhance your daily work through hands-on activities, practical use cases, and best practices to improve public service and make smarter decisions in your role!</p>",
+    "summaryformat": 1,
+    "section": 1,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "component": null,
+    "itemid": null,
+    "modules": [
+      {
+        "id": 520,
+        "url": "https://course.innovate-us.org/mod/scorm/view.php?id=520",
+        "name": "Designing AI Projects in Government",
+        "instance": 35,
+        "contextid": 8853,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://course.innovate-us.org/theme/image.php/norse/scorm/1795104600/monologo?filtericon=1",
+        "modname": "scorm",
+        "purpose": "interactivecontent",
+        "branded": false,
+        "modplural": "Lecture videos",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"customcompletionrules\":{\"completionstatusrequired\":\"2\",\"completionscorerequired\":null,\"completionstatusallscos\":\"0\"}}",
+        "noviewlink": false,
+        "completion": 2,
+        "downloadcontent": 1,
+        "groupmode": 0
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Claim your certificate!",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 2,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "component": null,
+    "itemid": null,
+    "modules": [
+      {
+        "id": 521,
+        "url": "https://course.innovate-us.org/mod/coursecertificate/view.php?id=521",
+        "name": "Designing AI Projects in Government Certificate",
+        "instance": 16,
+        "contextid": 8854,
+        "visible": 1,
+        "uservisible": false,
+        "availabilityinfo": "Not available unless: The activity <strong><a data-cm-name-for=\"520\" href=\"https://course.innovate-us.org/mod/scorm/view.php?id=520\">Designing AI Projects in Government</a></strong> is marked complete",
+        "visibleoncoursepage": 1,
+        "modicon": "https://course.innovate-us.org/theme/image.php/norse/coursecertificate/1795104600/monologo?filtericon=1",
+        "modname": "coursecertificate",
+        "purpose": "assessment",
+        "branded": false,
+        "modplural": "Course certificates",
+        "indent": 0,
+        "onclick": "window.open('https://course.innovate-us.org/mod/coursecertificate/view.php?id=521&amp;download=1'); return false;",
+        "afterlink": null,
+        "customdata": "\"\"",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "groupmode": 0
+      }
+    ]
+  }
+]

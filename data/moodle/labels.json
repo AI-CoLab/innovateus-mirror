@@ -1,0 +1,32 @@
+[
+  {
+    "id": 20,
+    "coursemodule": 366,
+    "course": 31,
+    "name": "Welcome to the Innovation Skills Accelerator Cours...",
+    "intro": "<div style=\"background-color: #fafafa; padding: 2rem;\">\r\n<h3><strong>Welcome to the Innovation Skills Accelerator Course!</strong></h3>\r\n<p dir=\"ltr\" style=\"text-align: left;\">Based on research with thousands of public servants across three continents, our problem-solving curriculum gives you the digital, data and innovation skills to deliver more effective, equitable and engaged policies and services. </p>\r\n<br>\r\n<p dir=\"ltr\" style=\"text-align: left;\">This course is presented by Professor Beth Simone Noveck.</p>\r\n<br>\r\n<p dir=\"ltr\" style=\"text-align: left;\">Beth Simone Noveck is a professor at <a href=\"https://www.northeastern.edu/\">Northeastern University</a>, where she directs <a href=\"https://burnes.northeastern.edu/\">the Burnes Center for Social Change</a> and its partner project, <a href=\"https://thegovlab.org/\">The GovLab</a>. In 2019, Beth was appointed the State of New Jersey’s first Chief Innovation Officer by Governor Phil Murphy, where her team are using new technology to improve equitable government delivery of services. Previously, Beth served in the White House as the first United States Deputy Chief Technology Officer under President Obama</p>\r\n</div>",
+    "introformat": 1,
+    "introfiles": [],
+    "section": 0,
+    "visible": true,
+    "groupmode": 0,
+    "groupingid": 0,
+    "lang": "",
+    "timemodified": 1774892392
+  },
+  {
+    "id": 21,
+    "coursemodule": 367,
+    "course": 32,
+    "name": "Welcome to the Human Centered Design Course! Human...",
+    "intro": "<div style=\"background-color: #fafafa; padding: 2rem\">\r\n    <h3><strong>Welcome to the Human Centered Design Course!</strong></h3>\r\n    <p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-2ade4cea-7fff-aee2-5a4b-d266d270bff3\">Human-Centered Design is a problem-solving framework that centers the people who are impacted in the decision-making process. The Human-Centered Design online course is designed to give an overview and practical skills of this framework to enable public sector workers to deliver programs, products and services that best meet the needs of the people they serve.</span><strong> </strong>&nbsp;</p><br>\r\n    <p dir=\"ltr\" style=\"text-align: left;\">This course is presented by Virginia Hamilton.</p><br>\r\n    <p dir=\"ltr\" style=\"text-align: left;\"><span id=\"docs-internal-guid-8883409e-7fff-79c1-598d-9fe4325ae759\"><a href=\"https://www.makefaststudio.com/about\">Virginia Hamilton</a> is a faculty member for InnovateUS, a Strategic Advisor with the Partnership for Public Service, where she leads the Gov21program, an innovation training program for leaders in federal government, and leads a small consulting company focused on helping public servants become change agents. Virginia previously served as the Regional Administrator for the Department of Labor, where she oversaw workforce and unemployment insurance programs across eight states and four territories. She spearheaded the Customer Centered Design Initiative, which trained over 2,000 workforce development professionals in Human Centered Design. She worked for many years for the State of California and was the founder and Executive Director of a non-profit working with local government.</span>\r\n</p>\r\n</div>",
+    "introformat": 1,
+    "introfiles": [],
+    "section": 0,
+    "visible": true,
+    "groupmode": 0,
+    "groupingid": 0,
+    "lang": "",
+    "timemodified": 1706526884
+  }
+]

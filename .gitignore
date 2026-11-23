@@ -1,0 +1,4 @@
+# Media and documents pulled from the sources. Listed in data/**/files.json; re-created by the pull scripts.
+files/
+node_modules/
+.DS_Store

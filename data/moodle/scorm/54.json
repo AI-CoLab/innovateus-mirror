@@ -1,0 +1,1398 @@
+{
+  "id": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124c8e",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "cIJlZMzUhSl60kpcW94wW3xrDbS8z8DK",
+  "copyOf": "",
+  "order": "1780853761041",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "lessons": [
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+      "createdAt": "2026-02-10T17:21:21.942Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "KOrWiswRZgx2NTRmeTfMbHPLgIS9ToXb",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "3OuN_ENX2cSPc_ckq4Rg0JqiH4VOyUYn",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 0,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 3.1 | Drafting, Brainstorming and Editing",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-03T19:50:46.335Z",
+      "items": [
+        {
+          "id": "clx8tfk4l000s3b6ccps30ll3",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 3.1 | &nbsp;Content Creation</strong></p>",
+              "paragraph": "<div data-editor-id=\"0171e934-7c16-4ead-9595-6865fe0bff27\"><p>This video explores three of the ten key areas where GenAI can assist: drafting content, brainstorming ideas, proofreading and editing. Hands-on demos and exercises allow participants to practice these applications.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "c24d4449-b0c7-4bfa-bffd-b22146ef1188"
+        },
+        {
+          "id": "cmi95f9ex00mc3b6oqx184d24",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmi95f9ey00mf3b6otdb1gybx",
+              "title": "Audio description transcript – Content Creation",
+              "description": "<div data-editor-id=\"5d7dada3-d5ca-415a-aaa3-633b238d40bc\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Using GenAI in Government.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Drafting, Brainstorming, and Editing.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In this video, we will look at how you can streamline how you work.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">By the end of this video, you'll have:</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Video Goals.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">A solid understanding of ten key ways you can use GenAI</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Tried using GenAI to do those tasks</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">A framework for integrating GenAI into your work</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">We encourage you to pause the video and experiment alongside us with approved tools.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Again, we are not endorsing any one tool, just encouraging you to try for yourself to understand what they can and cannot do.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: Always review and fact-check GenAI-generated content.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Remember: human oversight is always crucial. Always review and fact-check GenAI-generated content. Research has shown that people all too often follow GenAI’s suggestions without critical scrutiny, even when it's wrong.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Let's explore ten common tasks we can now do more easily when we know how to use AI well.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 1: Drafting.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Facing a daunting blank page? Let GenAI kick-start your writing.&nbsp;</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Whether it's a press release, policy memo, job description, website content, or phone tree responses, GenAI can produce a preliminary draft when given a bit of direction.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI tool is being asked to generate a formal email draft to invite members of the public to a government hearing.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">GenAI can also create a first draft of an image — for example, an urban planning illustration for your event blog post or presentation.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The AI generates an image showing a group of people meeting while standing over a map model with information on the government hearing.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 2: Brainstorming.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Stuck on a project or a section of a policy memo? GenAI can play the role of brainstormer. Unlike a simple web search, you can have a real conversation with GenAI — generate ideas, refine them, and keep pushing until you find something useful. Remember: if you don't like the first response, keep prompting. You can have a dialogue — push back, ask for more, ask it to narrow down.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The AI generates responses to the asked questions and keeps up the conversation to help the user.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 2: Editing &amp; Proofreading.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">GenAI can catch errors and help you improve the clarity of your writing and the strength of your argument. It can help you correct your grammar, propose structural changes, or rewrite text, for example, for web pages or press releases.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI tool is being tasked to rewrite a paragraph of a memo to heighten the clarity and to make the text accessible for a 9th-grade reading level.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Remember if practicing with free tools, only use publicly available content.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Warning. Do not include any personally identifiable information (PII) or sensitive information in your request.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In our next video, we'll keep going with our list of ten tasks.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "03a2e421-d7ae-4248-8790-a66bda36f9f8"
+        },
+        {
+          "id": "clwyxyw9900033b6c28ei3uhk",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-pQxPe8L7NhpM7lSB.mp4",
+                  "type": "video",
+                  "poster": "2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx65mxh00383b7jiode0lge",
+                      "key": "Video%206%20-%203.1%20-%20.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 6 - 3.1 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 169,
+                  "inputKey": "rise/courses/4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV/pQxPe8L7NhpM7lSB.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV/transcoded-pQxPe8L7NhpM7lSB.0000000.jpg",
+                  "captionUID": "cmpx65n4p00393b7j04agody3",
+                  "originalUrl": "2408GovLabAI 2026 Video 05 - 3.1 v3.mp4",
+                  "transcodeId": "1780426308196-ew8xr5"
+                }
+              },
+              "caption": "<div data-editor-id=\"0773710a-f697-467c-8a18-37e6fb47883d\"><p>Video 3.1: Drafting, Brainstorming and Editing</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "7dd815d4-66bf-4451-b749-f3b59bf6e548"
+        },
+        {
+          "id": "clwyy6nzy000j3b6c4tcdhfg2",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "8918f30a-e297-4f81-bc01-39d7e2904484"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+      "createdAt": "2026-02-10T17:21:25.363Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"3331ae8d-2b11-4364-a0b0-99f2aa56a66d\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "p395f6dDAnF6xgBwrssDuNEkMgc7AlnW",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "Id3j8zsuIyrVm5XBlLo-BQ9Rk2545f6p",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "80",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 3.1",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-02-10T17:21:25.428Z",
+      "items": [
+        {
+          "id": "clx3ttdz300063b75to5ykpjf",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the benefit of experimenting with multiple generative AI platforms?</p>",
+          "answers": [
+            {
+              "id": "clx3ttdz300073b75st534n6i",
+              "title": "<p>To ensure you are using the most expensive platform</p>",
+              "correct": true,
+              "feedback": "<p>Spending more on a platform does not necessarily mean better results.</p>"
+            },
+            {
+              "id": "clx3ttdz300093b75rvxutwnj",
+              "title": "<p>To discover which platform generates the most content</p>",
+              "feedback": "<p>The quantity of content generated is less important than the platform&#39;s suitability for your needs.</p>"
+            },
+            {
+              "id": "clx3ttdz3000a3b7581fozq21",
+              "title": "<p>To find the platform that best aligns with your needs</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3ttdz300083b75oit5u243",
+              "title": "<p>To determine which platform has the most users</p>",
+              "correct": true,
+              "feedback": "<p>The number of users does not necessarily indicate the best fit for your specific use case.</p>"
+            }
+          ],
+          "correct": "clx3ttdz3000a3b7581fozq21",
+          "corrects": [
+            "clx3ttdz300073b75st534n6i",
+            "clx3ttdz300083b75oit5u243"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "507bbaa5-5407-494e-b808-3b41334eb237"
+        },
+        {
+          "id": "clx3u8ty9001l3b75wtn5uxiy",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>When using generative AI to draft or modify content, what are the key responsibilities of the human user? (Select all that apply)</p>",
+          "answers": [
+            {
+              "id": "clx3ttdz300073b75st534n6i",
+              "title": "<p>A. Reviewing the AI-generated content for accuracy</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clx3ttdz300093b75rvxutwnj",
+              "title": "<p>B. Fact-checking the information provided by the AI</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3ttdz3000a3b7581fozq21",
+              "title": "<p>C. Disclosing the use of AI in their work</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3ttdz300083b75oit5u243",
+              "title": "<p>D. Accepting the AI-generated content without modification</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "clx3ttdz3000a3b7581fozq21",
+          "corrects": [
+            "clx3ttdz300073b75st534n6i",
+            "clx3ttdz300093b75rvxutwnj",
+            "clx3ttdz3000a3b7581fozq21"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "globalBlockId": "66b8df20-2b3d-4329-9a5b-c8d2cda183eb",
+          "feedbackIncorrect": "<p>The correct answers are A, B, and C. When using generative AI to draft or modify content, the key responsibilities of the human user include reviewing the AI-generated content for accuracy, fact-checking the information provided by the AI, and disclosing the use of AI in their work. Users should not accept the AI-generated content without review and potential modification.</p>"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+      "createdAt": "2026-02-10T17:21:28.480Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "Uy5mdEz5S9VlPHdWXYKEHCnOxi7shjFU",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "mzvYoOFuMKj-MkYwK4Nm_FIxrc_IIU2f",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 3.2 | Summarising and Synthesising",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-05T20:34:19.196Z",
+      "items": [
+        {
+          "id": "wQWEUtQBPqjN3uqes4RaTUg9XkMItzP9",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 3.2 | &nbsp;Content Analysis</strong></p>",
+              "paragraph": "<div data-editor-id=\"eb969639-396e-46c9-b9ed-5edd12644425\"><p><span><span style=\"color: rgb(34, 34, 34); text-decoration: inherit\"><span style=\"background-color: rgb(255, 255, 255)\"><span>This video explores three of the ten key areas where GenAI can assist: summarizing, labeling, and researching. Hands-on demos and exercises allow participants to practice these applications.</span></span></span></span></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "55384a06-d26c-46e1-9c9e-f1477eb0fb88"
+        },
+        {
+          "id": "cmi96jer301283b6oah9d51cv",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmi96jer3012b3b6ouyjqketi",
+              "title": "Audio description transcript - Summarising and Synthesising",
+              "description": "<div data-editor-id=\"07a8b0c1-d71e-4479-8be9-754a80d2f370\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Using GenAI in Government.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Summarising and Synthesising.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back! We're discussing ten ways to use GenAI in government work. While our first three tasks were about creating content, let's look at content analysis.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 4: Summarizing.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In government, we often deal with large amounts of information: lengthy PDFs, voluminous regulations, &nbsp;notes from countless meetings. GenAI excels at distilling it.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI tool is tasked with summarising a multi-page PDF document into 200 words.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You can also generate summaries from audio files. Platforms like Zoom, Teams, Wudpecker, and <a rel=\"noopener noreferrer nofollow\" target=\"_blank\" href=\"http://Otter.ai\">Otter.ai</a> all offer AI-powered transcription and summarization features.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The Otter AI interface is shown as it transcribes a public meeting from an audio file.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 5: Categorizing &amp; Labeling.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Sometimes we don't need to summarize but to sort — like when you have a large number of resident comments from a public consultation. GenAI is very good at classifying. You can provide a set of text, give it guidance on the label types you want, and ask it to sort them.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI tool labels a set of public comments by their sentiment.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 6: Synthesizing Information Across Sources.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Often, you have information from multiple sources and need to extract insights. Try uploading multiple documents and ask for a comparison.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI tool is asked to compare 7 documents and to summarise their overlap.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">See you in the next video, where we'll wrap up our ten examples.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "417e9b7c-13a6-4c01-8927-fb080c581b49"
+        },
+        {
+          "id": "ezoQjizVLU-ygI4JjapgnncJ8srKIKlx",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "o_k0g3/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-iMhvG7K4nV4qcL9m.mp4",
+                  "type": "video",
+                  "poster": "1kcnky/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx675vj00403b7j5mlsbkox",
+                      "key": "Video%207%20-%203.2%20-%20.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 7 - 3.2 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 86,
+                  "inputKey": "rise/courses/4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV/iMhvG7K4nV4qcL9m.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV/transcoded-iMhvG7K4nV4qcL9m.0000000.jpg",
+                  "captionUID": "cmpx6763e00413b7jrx1rzru4",
+                  "originalUrl": "2408GovLabAI 2026 Video 07 - 3.2 v3.1.mp4",
+                  "transcodeId": "1780432569085-y5932y"
+                }
+              },
+              "caption": "<div data-editor-id=\"0405ef86-1cd4-4bc6-9f08-a866fc501eaf\"><p>Video 3.2: Summarising and Synthesising</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "571bd45f-6036-4331-829e-06490ffad5db"
+        },
+        {
+          "id": "5j7dr3gAWPJ353v2S2JicFwKRlWgNLIm",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "bc42b01d-6ca7-4956-9327-237798f797e4"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+      "createdAt": "2026-02-10T17:21:31.981Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"f7e40386-0174-4836-a040-87fcc2be48b2\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "5uOeWPku3ss0-slIre5AsKKYk8dyISv6",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "_fSilcpejBqlLf3eZZqerxd6Ej_H0kCW",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "80",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 3.2",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-02-10T17:21:32.020Z",
+      "items": [
+        {
+          "id": "clx3udq4f00273b75zfnrd3e4",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is an important consideration when using generative AI tools for summarization?</p>",
+          "answers": [
+            {
+              "id": "clx3udq4f00283b756jzcb1ym",
+              "title": "<p>All GenAI tools have the same text limit for summarization</p>",
+              "correct": true,
+              "feedback": "<p>Different GenAI tools have varying text limits for summarization.</p>"
+            },
+            {
+              "id": "clx3udq4f002a3b751wxd57h7",
+              "title": "<p>GenAI tools have no limit on the amount of text they can summarize</p>",
+              "feedback": "<p>GenAI tools do have limits on the amount of text they can summarize at once.</p>"
+            },
+            {
+              "id": "clx3udq4f002b3b75342z1hfv",
+              "title": "<p>Each GenAI tool has different limits on the amount of text it can summarize at once</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3udq4f00293b75ytzn9r8i",
+              "title": "<p>GenAI tools cannot summarize text at all</p>",
+              "correct": true,
+              "feedback": "<p>&nbsp;GenAI tools are capable of summarizing text, but with different limits.</p>"
+            }
+          ],
+          "correct": "clx3udq4f002b3b75342z1hfv",
+          "corrects": [
+            "clx3udq4f00283b756jzcb1ym",
+            "clx3udq4f00293b75ytzn9r8i"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "5122ef82-7abc-4feb-9b95-ca74f6e3e317"
+        },
+        {
+          "id": "clx3ufu5a003l3b752wx9ns75",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is a good practice when using generative AI for summarization?</p>",
+          "answers": [
+            {
+              "id": "clx3udq4f00283b756jzcb1ym",
+              "title": "<p>Always use the same GenAI tool for consistency</p>",
+              "correct": true,
+              "feedback": "<p>Using multiple GenAI tools and comparing results is a good practice, rather than always using the same tool.</p>"
+            },
+            {
+              "id": "clx3udq4f002a3b751wxd57h7",
+              "title": "<p>Ignore the text limits of each GenAI tool</p>",
+              "feedback": "<p>Users should be aware of and work within the text limits of each GenAI tool, not ignore them.</p>"
+            },
+            {
+              "id": "clx3udq4f002b3b75342z1hfv",
+              "title": "<p>Use multiple GenAI tools and compare the results</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3udq4f00293b75ytzn9r8i",
+              "title": "<p>Avoid summarization tasks when using GenAI</p>",
+              "correct": true,
+              "feedback": "<p>Summarization is a valid use case for GenAI, but users should be aware of each tool&#39;s limits.</p>"
+            }
+          ],
+          "correct": "clx3udq4f002b3b75342z1hfv",
+          "corrects": [
+            "clx3udq4f00283b756jzcb1ym",
+            "clx3udq4f00293b75ytzn9r8i"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "f4515420-5c40-44b2-aebe-a807f06da81c"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+      "createdAt": "2026-02-10T17:21:35.118Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "ryXyyL11AqpwffqrLhHtqZVrLUI-oks1",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "pJ9WNXxtS5hAJqqhIKsk0z384st-SwNW",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 4,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 3.3 | Conversational, Coding, and Data Analysis Uses",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-03T19:53:06.706Z",
+      "items": [
+        {
+          "id": "4o6914XR-smzAv3PmUNdDkEjbLRQyXw3",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 3.3 | &nbsp;Conversational, Coding, and Data Analysis Uses</strong></p>",
+              "paragraph": "<p>The remaining four key areas are covered: engaging in role-play for preparation, accelerating learning, coding, and formatting information. The video emphasizes the importance of understanding the underlying processes and reviewing outputs for accuracy.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "14a8742a-30b9-4fb3-b7ac-386c8fd551ee"
+        },
+        {
+          "id": "cmi96vuig015o3b6oldotetle",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmi96vuig015r3b6onj6ljr3r",
+              "title": "Audio description transcript - Conversational, Coding, and Data Analysis Uses",
+              "description": "<div data-editor-id=\"d35ab5a4-9d19-413b-a2e9-dd8190d45ecc\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Using GenAI in Government.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Conversational, Coding, and Data Analysis Uses.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back! In our discussion of ten ways you can use GenAI, we've covered content creation and content analysis.&nbsp;</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Content Creation is shown as a woman sitting behind a computer streaming out a torrent of music notes, scripts, and videos. Content Analysis is shown as a torrent of creative information being funneled into a lightbulb held by a woman.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">But these tools are also great at teaching, especially when we use them to ask us questions.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: An image of an AI tutor breaking down a math problem to teach a user.</em></span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 7: Role Playing.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">GenAI can assist by adopting a role.&nbsp;</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Sample Prompt.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The following prompt is presented to an AI: \"I have a public event coming up where I will need to answer questions from the audience about my organization's recent policy change to rezone the 300 block of downtown.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Attached is a 2-page document with further information about the project. Pretend you are a resident of the downtown area who is angry about the proposal. Please ask a question and engage with me in a back-and-forth dialogue. Afterwards, please provide constructive feedback on how I answered.\"</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You can steer it to act as, for example, an audience member at a town hall, a skeptical reporter, or a tough interviewer. With a clearly defined role and context, it can engage in dialogue, ask probing questions, and offer structured feedback on your responses. Some platforms also support voice interaction, allowing you to speak with it and receive in-character replies.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The AI responds to the prompt and then uses the voice interaction feature to speak with the AI.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">A note of caution: steering shapes tone, perspective, and style, but it does not ensure factual accuracy. Asking it to sound like a professor does not make its answers more reliable. Use steering to guide how the output is framed, and verify important claims independently.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Sound like a professor does not equal think like a professor.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">To be clear: GenAI is never a replacement for actual engagement with residents. It can't tell you what people actually think. But it can help you be a better conversation starter.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 8: Tutor.&nbsp;</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Often, we don't need GenAI to give us answers — we need it to generate questions: for witnesses, for the public, to prepare for a meeting, or to test our understanding of a topic.&nbsp;</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI is asked to write a ten-question test to test a user's understanding of Gen-AI.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">With the right instructions, GenAI can produce questions and act as a coach or tutor that can help you simplify complicated topics, prepare a study guide and quiz you, and suggest what to study next.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The user asks the AI to give the questions one by one and to give feedback it complies and begins the test.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 9: Coding.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">As with text, you can use Generative AI to write and analyze computer code. &nbsp;These tools can significantly increase the speed at which programmers work.&nbsp;</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">More importantly, they are lowering the barrier to entry, making it easier for non-experts to start building simple applications.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You may hear this described as “vibe coding,” using natural language to generate working code without deep programming expertise.&nbsp;</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI is asked to analyse a piece of code, explain what it does, and to identify bugs, security vulnerabilities, performance issues, and areas where the code can be simplified.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">While you might not build a fully functional government system, you can use GenAI to prototype new services and tools.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In this demo, we write a prompt, asking an AI assistant to build a web application for an online renewable energy grant application. The prompt requests a form to collect user information, logic to check eligibility, and storage of submitted applications.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The AI responds to the prompt in a set of blocks of code separated by both their programming language and utility.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The AI produces a structured block of code – not a finished product, but a solid start that a developer could immediately build on.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">GenAI can also review existing code to flag potential security issues, generate documentation, and create test cases. As with any coding task, you still need enough understanding to evaluate and validate the output.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: 10: Data Analysis.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You can use GenAI to analyze and manipulate data — both text and numbers — making it useful even for those of us who aren't data scientists.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>A complex spreadsheet titled Raw Fictional U.S. Public Service Requests - Deliberately Messy Data is shown and uploaded to an AI.&nbsp;</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">We upload a ridership spreadsheet and generate a visualization of year-over-year bus trends. Next, we can ask for the right Excel formula to extract phone numbers. Then, we can clean and properly format a list of names into a structured table, catching and fixing missed details like a middle initial.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The AI analyses the spreadsheet and gives advice regarding the data.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You need to review for errors. But the time saved from using these tools will more than make up for the time spent reviewing and verifying.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>A list titled Ten common tasks is shown, which lists: Drafting, Brainstorming, Editing and Proofreading, Summarizing, Categorizing and Labeling, Synthesizing Information Across Sources, Role-Playing, Coaching and Question Generation, Coding, and Data Analysis.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">For every task in this list, GenAI gets you most of the way there, fast. Your expertise gets you the rest of the way. This combination is more powerful than either approach independently.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: You plus GenAI is greater than You OR GenAI.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Now that we've covered the ten ways you can use GenAI in your day-to-day work, let’s talk about getting the most from these tools.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "8b1c0498-a5d2-4159-983b-b8fffc056045"
+        },
+        {
+          "id": "35ywRVdHDuyEhFgRNz1PNzPwRyQzs4c7",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "wg33Z5/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-JH8WU0EeO5JsB7BV.mp4",
+                  "type": "video",
+                  "poster": "jDNMNM/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx69f6b00663b7jwy522ss3",
+                      "key": "Video%208%20-%203.3%20-%20.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 8 - 3.3 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 283,
+                  "inputKey": "rise/courses/4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV/JH8WU0EeO5JsB7BV.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV/transcoded-JH8WU0EeO5JsB7BV.0000000.jpg",
+                  "captionUID": "cmpx69fdc00673b7js5povoau",
+                  "originalUrl": "2408GovLabAI 2026 Video 08 - 3.3 v3.1.mp4",
+                  "transcodeId": "1780432688367-0fca85"
+                }
+              },
+              "caption": "<p>Video 3.3: Conversational, Coding, and Data Analysis Uses</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "f5fa274d-73ef-4610-8cde-bc8e4e5e4b44"
+        },
+        {
+          "id": "mrZLoEcolQu4bNIra6m3j5v8y3tvlrxF",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "f356c294-b535-4084-926c-efc9fe750e51"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+      "createdAt": "2026-02-10T17:21:37.843Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"0c5c0568-d816-4440-8f3c-53909d38209a\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "dFlQP6KMDdlNgOF_7PYZZiP843Y-dG_f",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "f5s1dxkqJA9UuPv7AOD-PLQgRSGpuu6n",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 5,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "80",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 3.3",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-02-10T17:21:37.911Z",
+      "items": [
+        {
+          "id": "clx3uhpgk003q3b75k5eggh7z",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is an important consideration when using generative AI for learning and preparation?</p>",
+          "answers": [
+            {
+              "id": "clx3uhpgk003r3b75ei641der",
+              "title": "<p>Generative AI can completely replace actual engagement with others</p>",
+              "correct": true,
+              "feedback": "<p>Generative AI is not a complete replacement for actual engagement with others.</p>"
+            },
+            {
+              "id": "clx3uhpgk003t3b758tbvdhr4",
+              "title": "<p>Generative AI will always provide accurate information about others&#39; thoughts and feelings</p>",
+              "feedback": "<p>Generative AI cannot provide accurate information about others&#39; thoughts and feelings without their input.</p>"
+            },
+            {
+              "id": "clx3uhpgk003u3b75zgzl98lt",
+              "title": "<p>Generative AI is a supplement to, not a replacement for, actual engagement and conversation</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3uhpgk003s3b75qi0qie6n",
+              "title": "<p>Generative AI eliminates the need for human interaction in learning and preparation</p>",
+              "correct": true,
+              "feedback": "<p>Generative AI supports human interaction in learning and preparation but does not eliminate the need for it.</p>"
+            }
+          ],
+          "correct": "clx3uhpgk003u3b75zgzl98lt",
+          "corrects": [
+            "clx3uhpgk003r3b75ei641der",
+            "clx3uhpgk003s3b75qi0qie6n"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "cb0c7ac6-37bd-4286-bad5-9b5c2a1032f2"
+        },
+        {
+          "id": "clx3umpko004u3b75797zz728",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is an important consideration when using generative AI for coding or data analysis tasks?</p>",
+          "answers": [
+            {
+              "id": "clx3uhpgk003r3b75ei641der",
+              "title": "<p>Users do not need any coding or data analysis knowledge to use GenAI for these tasks</p>",
+              "correct": true,
+              "feedback": "<p>While GenAI can assist with coding and data analysis, users still need some coding and data analysis knowledge to properly use and verify the generated code.</p>"
+            },
+            {
+              "id": "clx3uhpgk003t3b758tbvdhr4",
+              "title": "<p>Users should have enough coding and data analysis knowledge to check the GenAI-generated code and verify it is making the correct assumptions and steps</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3uhpgk003u3b75zgzl98lt",
+              "title": "<p>GenAI always generates perfect code that does not require checking</p>",
+              "feedback": "<p>GenAI-generated code &nbsp;and data analysis is not always perfect and requires checking by the user.</p>"
+            },
+            {
+              "id": "clx3uhpgk003s3b75qi0qie6n",
+              "title": "<p>Coding and data analysis tasks should be avoided when using GenAI</p>",
+              "correct": true,
+              "feedback": "<p>Coding and data analysis tasks are a valid use case for GenAI, but users should have enough knowledge to verify the output.</p>"
+            }
+          ],
+          "correct": "clx3uhpgk003t3b758tbvdhr4",
+          "corrects": [
+            "clx3uhpgk003r3b75ei641der",
+            "clx3uhpgk003s3b75qi0qie6n"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "72f96c8e-8d9e-411a-bc38-ab6a5cadf9f4"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+      "createdAt": "2026-02-10T17:21:40.987Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "mZU61d2Fo8NoA8_JteRY7K3zCEWkRhmN",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "dabIFwlkjmYbN8s1DuuoRrJSkfarSXzc",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 6,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 3.4 | Tips For Using GenAI",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-03T19:53:56.505Z",
+      "items": [
+        {
+          "id": "nusYyoYFAycTdLGwd1-19gTylmpZl6xh",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 3.4 | &nbsp;Tips For Using GenAI</strong></p>",
+              "paragraph": "<p>This video reviews four helpful tips for engaging with generative AI tools.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "ad7ac6f8-b3dc-453f-8730-a8028a5cff01"
+        },
+        {
+          "id": "clx92058x008x3b6h0jxg2rw5",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clx92058x008y3b6hqzei6fz7",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course at innovate-us.org/ai-resources</p>",
+              "destination": "https://innovate-us.org/ai-resources"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "5d20196b-c3b2-4fd4-b451-9fc8c52a722f"
+        },
+        {
+          "id": "cmi97685p01943b6o4ach0c4g",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmi97685q01973b6o0yj59nbo",
+              "title": "Audio description transcript – Tips For Using GenAI",
+              "description": "<div data-editor-id=\"c9882974-967f-49d5-84b5-ce940443d034\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Using GenAI in Government.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Tips For Using GenAI.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back. We’ve covered ten common tasks you can do with Generative AI. Now let’s turn to four practical tips for getting started and integrating these tools into your work.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Tip 1: Starts with internal tasks.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">When you're getting started with GenAI, begin with low-risk internal uses. Help yourself prepare for a meeting, write a first draft of an email to a colleague, or summarize a document for your own use.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI is asked to help prepare a user for a meeting by creating a short briefing with the key issue, questions they should ask, points to discuss, and three possible next steps.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">This gives you time to learn how to guide these tools effectively before you put them to work on something the public will see.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Tip 2: Break down big jobs.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">GenAI works best on specific, well-defined tasks — not sprawling projects. If you need to develop a new policy, break it into parts: research, drafting, stakeholder outreach, data analysis. Then use GenAI to help with each step along the way.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]:</em> The mentioned parts are arranged in a mind map around the goal of developing a new policy.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Tip 3: set realistic expectations.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">When applying GenAI to a task, think of it like a brand-new hire. You wouldn't immediately assign a complex project to someone just starting out. You'd start with a task that can be explained quickly and clearly — like proofreading a draft. The more experienced you get at using these tools, the more complex the tasks you can assign.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Tip 4: Experiment, then evaluate.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The more you try these tools, the better you'll get at using them. The best results come from practice and experimentation. Stay in the driver's seat: GenAI is a great helper, so long as you actively evaluate what it produces.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Learning Outcomes.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Hopefully we have</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Expanded your understanding of GenAI's capabilities</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Illustrated ten uses: from writer to role-player, tutor to coder</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">and Outlined four tips for getting the most from these tools</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Next up: a deep dive into writing prompts.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "31f91e8c-f3bf-4ff3-8e01-e77aa3be22d4"
+        },
+        {
+          "id": "Yw1N3F7zbu0wXiqYzvVJQsIiM0fMd3N1",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "bV6g1g/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-omnXQHkowOjRYDRK.mp4",
+                  "type": "video",
+                  "poster": "BTF-DF/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6ale700753b7jn440vect",
+                      "key": "Video%209%20-%203.4%20-%20.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 9 - 3.4 - V3 QCd.vtt"
+                    }
+                  ],
+                  "duration": 122,
+                  "inputKey": "rise/courses/4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV/omnXQHkowOjRYDRK.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV/transcoded-omnXQHkowOjRYDRK.0000000.jpg",
+                  "captionUID": "cmpx6alkt00763b7jrw5h5t8s",
+                  "originalUrl": "2408GovLabAI 2026 Video 09 - 3.4 v3.1.mp4",
+                  "transcodeId": "1780432811679-4xbaw3"
+                }
+              },
+              "caption": "<p>Video 3.4: Tips For Using GenAI</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "92e7ae4a-eb39-428e-b4bc-49ea2945c202"
+        },
+        {
+          "id": "vR0RzHz9JPS3xOt3C2haylsZKGRvqdMs",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "5c1bfdf4-b713-4c92-a060-9e5c45399ba1"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV",
+      "createdAt": "2026-02-10T17:21:44.695Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"8314d1ed-976e-41ea-93f9-74e894631b6d\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "tJnq9eXOFP7IL-PkfKqOG-PChDhLxOmA",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "rgpaEFLYOBiPaDSdpKJB2xQl2DCScXf0",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 7,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "80",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 3.4",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-02-10T17:21:44.729Z",
+      "items": [
+        {
+          "id": "clx3ur912004z3b75z53q4028",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Why is it recommended to start with internal tasks when using generative AI?</p>",
+          "answers": [
+            {
+              "id": "clx3ur91200503b75ilx4604l",
+              "title": "<p>Internal tasks are more complex and require more AI assistance</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clx3ur91200523b75s8nkc3wi",
+              "title": "<p>Internal tasks are less important and can afford more errors</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3ur91200533b7560jfra1r",
+              "title": "<p>Internal tasks are lower-risk and allow users to learn how to guide AI effectively</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3ur91200513b75wptpjpy8",
+              "title": "<p>Internal tasks should be avoided when using generative AI</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "clx3ur91200533b7560jfra1r",
+          "corrects": [
+            "clx3ur91200503b75ilx4604l",
+            "clx3ur91200513b75wptpjpy8"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "globalBlockId": "63c0a7c4-0665-421c-84c7-57efe4f5f9d7",
+          "feedbackIncorrect": "<p>The correct answer is C. Internal tasks are lower-risk and allow users to learn how to guide AI effectively. </p>"
+        },
+        {
+          "id": "clx3uu9x9006e3b75xo2y5wlt",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>When using generative AI for a large project, what is the recommended approach?</p>",
+          "answers": [
+            {
+              "id": "clx3ur91200503b75ilx4604l",
+              "title": "<p>Use AI to complete the entire project at once</p>",
+              "correct": true,
+              "feedback": "<p>Attempting to use AI to complete an entire large project at once is not the most effective approach.</p>"
+            },
+            {
+              "id": "clx3ur91200523b75s8nkc3wi",
+              "title": "<p>Break the project down into smaller, specific tasks</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3ur91200533b7560jfra1r",
+              "title": "<p>Avoid using AI for large projects altogether</p>",
+              "feedback": "<p>AI can be useful for large projects when the work is broken down into smaller tasks.</p>"
+            },
+            {
+              "id": "clx3ur91200513b75wptpjpy8",
+              "title": "<p>Expect AI to replace all human involvement in the project</p>",
+              "correct": true,
+              "feedback": "<p>AI is a tool to assist with tasks, not a complete replacement for human involvement in a project.</p>"
+            }
+          ],
+          "correct": "clx3ur91200523b75s8nkc3wi",
+          "corrects": [
+            "clx3ur91200503b75ilx4604l",
+            "clx3ur91200513b75wptpjpy8"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "76ead9f1-e70d-4099-ae53-2f738f660663"
+        },
+        {
+          "id": "clx3ux61w00733b75o8qimulr",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>When setting expectations for using generative AI, what is a good analogy for how to think about its capabilities?</p>",
+          "answers": [
+            {
+              "id": "clx3ur91200503b75ilx4604l",
+              "title": "<p>A perfect, all-knowing expert</p>",
+              "correct": true,
+              "feedback": "<p>AI is not perfect or all-knowing and requires guidance and review.</p>"
+            },
+            {
+              "id": "clx3ur91200523b75s8nkc3wi",
+              "title": "<p>A brand new trainee</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3ur91200533b7560jfra1r",
+              "title": "<p>A complete replacement for human workers</p>",
+              "feedback": "<p>AI is a tool to assist human workers, not a complete replacement for them.</p>"
+            },
+            {
+              "id": "clx3ur91200513b75wptpjpy8",
+              "title": "<p>A tool that can handle any task without guidance</p>",
+              "correct": true,
+              "feedback": "<p>AI requires clear instructions and guidance to effectively complete tasks.</p>"
+            }
+          ],
+          "correct": "clx3ur91200523b75s8nkc3wi",
+          "corrects": [
+            "clx3ur91200503b75ilx4604l",
+            "clx3ur91200513b75wptpjpy8"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "885b5a11-6199-4881-834e-f3c2b2f76e07"
+        }
+      ]
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-02-10T17:16:15.775Z",
+  "updatedAt": "2026-06-07T17:36:01.041Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 3",
+    "format": "zip",
+    "quizId": "f5s1dxkqJA9UuPv7AOD-PLQgRSGpuu6n",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "cIJlZMzUhSl60kpcW94wW3xrDbS8z8DK",
+    "activeLMS": 0,
+    "hideLmsUi": false,
+    "reporting": "passed-incomplete",
+    "exportType": "lms",
+    "identifier": "4ny0u-rMRFvgnwh45oL7ZYZunIaK4azV_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": false,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "completionPercentage": 100,
+    "notifyLearnersOfUpdates": false,
+    "translationModelVersion": null,
+    "enableTelemetryCollection": false
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124c8e",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/5_wfh.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-06-07T17:36:03.099Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      },
+      "PDF": {
+        "published_at": "2026-05-01T16:55:12.506Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {},
+  "description": "",
+  "title": "Module 3",
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "blank"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-06-05T20:34:19.196Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-06-07T17:36:03.099Z",
+  "aiTutorImage": null,
+  "features": {
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "lmsOptions": {
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "enableTelemetryCollection": false
+  },
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

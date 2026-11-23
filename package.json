@@ -1,0 +1,24 @@
+{
+  "name": "innovateus-mirror",
+  "private": true,
+  "type": "module",
+  "description": "A mirror of InnovateUS (innovate-us.org) material, CC BY-SA 4.0, pulled from its sources as records and files.",
+  "license": "CC-BY-SA-4.0",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "pull:directus": "node scripts/pull-directus.mjs",
+    "pull:site": "node scripts/pull-site-text.mjs",
+    "pull:moodle": "node scripts/pull-moodle.mjs",
+    "pull:quizzes": "node scripts/pull-moodle-quizzes.mjs",
+    "build:videos": "node scripts/build-video-index.mjs",
+    "build:content": "node scripts/build-content.mjs",
+    "check:content": "node ../learning-contracts/scripts/check-content.ts content",
+    "test:branches": "node scripts/test-branch-merge.mjs",
+    "pull": "npm run pull:directus && npm run pull:site && npm run pull:moodle && npm run pull:quizzes && npm run build:videos"
+  },
+  "dependencies": {
+    "@aicolab/learning-contracts": "link:../learning-contracts"
+  }
+}

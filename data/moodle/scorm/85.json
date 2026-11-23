@@ -1,0 +1,584 @@
+{
+  "description": "<div data-editor-id=\"1d590d17-7fa2-41a6-94d7-091c201179b0\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video covers how to combine online and in-person outreach methods to reach the people your engagement is designed to involve. It explains how AI tools can translate materials, generate tailored communications, and identify who is missing from the conversation.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "jaJWStQQlcYnE5P7yvK1iDsDlFmmcn4i",
+      "items": [
+        {
+          "id": "2g2e0tQsS_NaYyCf55sSQflELU8yWuFA",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"8de6694a-cc67-4b6b-892f-830b4ac74f6c\"><p>This video covers how to combine online and in-person outreach methods to reach the people your engagement is designed to involve. It explains how you can use AI tools to translate materials, generate tailored communications, and identify who is missing from the conversation.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "eedc2314-7fa4-4a10-ab83-2ad61b90ad14"
+        },
+        {
+          "id": "FOwwXSS0Jw82xYuMp1iYI5MlI6zwLhXB",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 6",
+              "description": "<div data-editor-id=\"37f2a466-53c2-41f7-8ab1-fca804997f4b\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Outreach Strategies.</p><p style=\"line-height: 1.5\">Welcome back.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Beth Simone Noveck, Professor, Northeastern University.</p><p style=\"line-height: 1.5\">Identifying whom to ask is half the battle. Now let's discuss how to design strategies for reaching those participants.</p><p style=\"line-height: 1.5\">[Visual description]: A drone video pans over a Brazilian river.</p><p style=\"line-height: 1.5\">In 2011, the state of Rio Grande do Sul, Brazil, launched Governor Asks, inviting residents to share ideas online for improving public health care.</p><p style=\"line-height: 1.5\">[Visual description]: The GovLab project page for “Governador Pergunta (Governor Asks)” appears.</p><p style=\"line-height: 1.5\">[Visual description]: Images of people working on laptops in buses are shown.</p><p style=\"line-height: 1.5\">To engage rural residents and others with limited internet access, the team deployed a fleet of internet-equipped buses. More than 60,000 people participated. The following year, participation grew to over 100,000. Both engagements yielded tangible policy changes. Outreach isn't an afterthought. It's a design decision that determines whose voices shape the outcome.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">In this video, you'll learn how to design outreach strategies that extend beyond the usual suspects and lower barriers to participation. How to compare and combine online and in-person methods based on context, audience, and goals. Describe how AI tools can accelerate, personalize, and scale outreach while maintaining accessibility and trust. Let's get started.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Outreach Strategies.</p><p style=\"line-height: 1.5\">Some communities can be reached online through email, social media, websites or messaging platforms. Online outreach is often quicker, more cost-efficient and easier to scale, but it can also exclude those with limited internet access, lower digital literacy or lower levels of trust. For communities you can't reach online, you'll need to go where they are. In-person outreach through community events, public meetings, door-to-door canvassing. This reaches people who are often left out of digital processes. Think about how to tailor your methods to the tools and channels people already use to communicate.</p><p style=\"line-height: 1.5\">[Visual description]: Open plains in Malawi are shown.</p><p style=\"line-height: 1.5\">In 2015, when floods displaced 200,000 people across Malawi, the World Bank used mobile phone surveys to collect information about the disaster's impact from thousands of households.</p><p style=\"line-height: 1.5\">[Visual description]: An animated cellphone tower sends a signal activating people’s phones.</p><p style=\"line-height: 1.5\">By reaching people through a device they already had in their pockets, authorities could assess which communities were hardest hit and prioritize emergency response faster than traditional surveys would have allowed.</p><p style=\"line-height: 1.5\">[Visual description]: The EURHOPE initiative Final Report with its individual sections appears.</p><p style=\"line-height: 1.5\">Reach people in their language. The EurHope initiative, which engaged 1.5 million people across the EU to create a youth-focused political agenda, made its entire platform including proposals, votes and results available in 22 languages.</p><p style=\"line-height: 1.5\">Build outreach partnerships with organizations. Working through trusted institutions, community groups, libraries, faith organizations, schools, and local nonprofits. This can amplify your message, build trust in the process, and lower the barriers that keep people from participating.</p><p style=\"line-height: 1.5\">Finally, remember that communication is a continuous process. Outreach doesn't end when participation begins. Following up to show how participant input was used is what transforms a one-time interaction into a culture of civic engagement. The principle is the same whether you're working at the national or the neighborhood level. Don't wait for people to come to you. Instead, think about how you can go to them.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Using AI to Improve Outreach.</p><p style=\"line-height: 1.5\">There are several ways AI can accelerate and expand outreach. You can use AI-powered chatbots to guide people through the process.</p><p style=\"line-height: 1.5\">[Visual description]: An Indonesian town appears.</p><p style=\"line-height: 1.5\">In Indonesia, the PetaBencana platform uses a Telegram chatbot to make it easier to report flooding.</p><p style=\"line-height: 1.5\">[Visual description]: The GovLab project page for “PetaBencana (Risk Map)” appears.</p><p style=\"line-height: 1.5\">[Visual description]: A person is making a report with rescue personnel by taking a picture.</p><p style=\"line-height: 1.5\">When someone mentions the word “banjir” or “flood” and tags the account, the chatbot prompts them to submit a report. You can also use AI to identify who is missing from the conversation. By analyzing social media activity, you can map which groups are most visible in public discourse and which are absent, helping you target outreach more deliberately. You can use AI to produce multiple versions of outreach materials tailored to different audiences, translate content into multiple languages and simplify jargon into plain language, making it easy to create a communications toolkit that partner organizations can share across their own networks.</p><p style=\"line-height: 1.5\">[Visual description]: A project webpage appears titled: How New Jersey Asked Workers about the Future of Work: The Importance of Partnership.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Risks to Watch For.</p><p style=\"line-height: 1.5\">Let's talk about a few risks that deserve attention as you design your outreach. First, style matters. Messaging that feels bureaucratic, impersonal, or culturally unfamiliar can dissuade people from engaging. Second, AI makes mistakes. Be sure to carefully check any text, data, or images created with AI for accuracy and thoroughly test any chatbots used. Finally, when using AI for translation, be aware of its limits. Outputs can lack cultural nuance and perform unevenly across languages, especially in languages with limited training data. Some governments are addressing this problem by building better language infrastructure.</p><p style=\"line-height: 1.5\">[Visual description]: A seaside town in Brazil’s State of Piauí appears.</p><p style=\"line-height: 1.5\">One state in Brazil developed an AI model trained on Portuguese language data, now used in public services to make participation more accessible.</p><p style=\"line-height: 1.5\">[Visual description]: A Gitex Latam news article appears titled: Brazil Launches its first public AI model, Soberania.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: A globe appears on screen with the title: Project Spotlight. The camera zooms in on Bogotá in Colombia.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Chatico - Bogotá’s AI-Powered WhatsApp Chatbot.</p><p style=\"line-height: 1.5\">The city of Bogotá used AI to expand participation. The city deployed Chatico, an AI chatbot that works via WhatsApp,</p><p style=\"line-height: 1.5\">[Visual description]: A Bogotá Gov article appears titled: Conoce más de Chatico: asistente virtual para acceder a servicios distritales.</p><p style=\"line-height: 1.5\">the most commonly used social media platform, to guide residents through the engagement process. During the 2024 participatory budgeting campaign, the city collected over 2,700 resident proposals that 50,000 residents cast 130,000 up or down votes on in just 13 days. Notably, 57% of participants were women, with strong representation from migrants and people with disabilities - groups often excluded from civic processes. By combining a familiar channel with simple guided interaction, Bogotá was able to reduce barriers to participation and expand who took part.</p><p style=\"line-height: 1.5\">[Visual description]: A Bogotá Gov article appears titled: Conoce más de Chatico: asistente virtual para acceder a servicios distritales.</p><p style=\"line-height: 1.5\">Even the best process fails if people can't find it. Meet people where they are and use multiple channels to reach them. Next, we'll discuss how to design incentives for participation.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Next Up: Designing Incentives.</p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "d13d751c-4fdb-4281-9f8d-999a44e07709"
+        },
+        {
+          "id": "DWMXPcumFcHkVjs2SKmPFp50lrsHzGwv",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2006%20v5.mp4",
+                  "url": "transcoded--VIPO3u6DZi0xDCu.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2006%20v5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsar6h2i00383d79pslya2pu",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2006%20v5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 06 v5.vtt"
+                    }
+                  ],
+                  "duration": 373,
+                  "inputKey": "rise/courses/EHl2rBnv9dgWJzeh7imFi1_Naa0eTlSD/-VIPO3u6DZi0xDCu.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/EHl2rBnv9dgWJzeh7imFi1_Naa0eTlSD/transcoded--VIPO3u6DZi0xDCu.0000000.jpg",
+                  "captionUID": "cmsar6hbn00393d79q7ilnqyj",
+                  "originalUrl": "2625GovLab Public Engagement Video 06 v5.mp4",
+                  "transcodeId": "1785611743012-w6bsw8"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "b0b6d160-870b-4b62-8cac-1994048f6e19"
+        },
+        {
+          "id": "FildSW9RyL562qtMzZJASlN-ugup-q1H",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "889c06bb-bf38-4de0-8a3e-032c579c92a4"
+        }
+      ],
+      "settings": {},
+      "title": "Video 6: Designing Outreach Strategies",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "EHl2rBnv9dgWJzeh7imFi1_Naa0eTlSD",
+      "createdAt": "2026-07-26T19:00:04.512Z",
+      "deleted": false,
+      "duplicatedFromId": "uNGCgFwMJrTlNO43IT1LPpxZUt659gza",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T19:17:18.574Z"
+    },
+    {
+      "description": "",
+      "id": "j_LkMfkxGWVuV_TWuVKhQ2ruAMKGroLo",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "64ac95c2-2e5e-4ef7-9152-c2ce1b58dd1d"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"6b1431ed-2650-490f-947d-ff04f5708ed1\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>Which of the following is a risk of using AI for translation in outreach?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"dc213b5e-105b-4e62-8d71-b96b38d1f044\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>AI translations are always more accurate than human translators</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"8c9c59dc-4236-4d7b-a32d-111299e44dd7\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>AI outputs can lack cultural nuance and perform unevenly across languages, especially those with limited training data</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"e290a2a9-5234-4c98-bff6-201261de597e\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>AI translation is too expensive for most public engagement projects</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"d69cef9b-c0e8-4f5f-b4e5-6e69258c51a8\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>&nbsp;AI can only translate between two languages at a time</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "88f6a54a-f233-4e9b-8c9b-9ef36d8ba5cc"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "9950e3ad-aa3f-4327-bec1-512e9fc292d1"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"ab66af6b-6dca-429e-a17c-17033ed2b9cd\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>In Bogotá, what made the Chatico chatbot effective at expanding participation?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"26ba948e-7684-49df-ab9b-a48d8438b0c4\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It required participants to download a new app</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"196ff016-8d90-4f11-8514-358608b1dc50\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It used WhatsApp, a platform people already use, with simple and guided interaction</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"737db937-dda8-4d77-a9e7-b53c2113fbb8\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It offered large cash prizes for participation</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"82ebdc08-b3b1-42a3-9399-5f8ee94628c5\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It was available in Spanish</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "6da377ce-79c1-415e-b4c4-e957587a5bbb"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "1ed235f3-3302-48f0-8401-0aeb8b18b1ea"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "EHl2rBnv9dgWJzeh7imFi1_Naa0eTlSD",
+      "createdAt": "2026-08-01T02:47:44.865Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-02T20:54:48.718Z"
+    },
+    {
+      "description": "",
+      "id": "djq6JmuP-EeO0BB9s9cPl3RGR_gJNBvW",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"3c4c438b-f863-4891-8950-2998067f2c8b\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 6 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to <em>Video 7. Designing Incentives for Participation.</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "fd98c15e-f40b-462f-971a-7e12e6d8e2b8"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "EHl2rBnv9dgWJzeh7imFi1_Naa0eTlSD",
+      "createdAt": "2026-08-01T02:48:29.756Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:50:06.837Z"
+    }
+  ],
+  "title": "Video 6: Designing Outreach Strategies",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "EHl2rBnv9dgWJzeh7imFi1_Naa0eTlSD_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 6: Designing Outreach Strategies",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "EHl2rBnv9dgWJzeh7imFi1_Naa0eTlSD",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "FBQTqYgQqZ76NH33JxOApjRZ96RuNtsD",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773403087",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:41:12.790Z",
+  "updatedAt": "2026-08-03T16:10:03.087Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:10:03.472Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-02T20:54:48.718Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:10:03.472Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

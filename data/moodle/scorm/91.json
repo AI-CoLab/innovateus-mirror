@@ -1,0 +1,349 @@
+{
+  "description": "<div data-editor-id=\"97c491cc-095a-4d68-8e44-756d34f8f204\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This final video reviews the key lessons from the course and reinforces that effective engagement depends on clear goals, thoughtful design, human judgment, and a commitment to act on what communities contribute. It introduces additional resources, including an AI-powered coaching tool, to help learners design their own engagement projects.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "crRRihz2DslcHDsxThwpKP8or0dFhxFf",
+      "items": [
+        {
+          "id": "NDbzC4TUHSAqTwjqpY9NiC3ur8LjjRA7",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"51b67ce6-f745-492d-a942-6794a2ae7527\"><p>This final video reviews the key lessons from the course and reinforces that effective engagement depends on clear goals, thoughtful design, human judgment, and a commitment to act on what communities contribute. It introduces additional resources, including an AI-powered coaching tool, to help learners design their own engagement projects.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "5b3c164e-29a1-40d9-8cad-5daf6342c581"
+        },
+        {
+          "id": "ebzuxFXZkf66AkrFVxJiQwHrSHKohlLA",
+          "settings": {
+            "v": 2,
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 12",
+              "description": "<div data-editor-id=\"481e2e99-a404-4fda-8f5d-c8e63071e227\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS Logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Conclusion.</p><p style=\"line-height: 1.5\">This course began with a simple observation.&nbsp;</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Beth Simone Noveck, Professor, Northeastern University.</p><p style=\"line-height: 1.5\">As public professionals, we want to engage our communities, but would benefit from more guidance about how to do so effectively. The course you've completed is designed to close that gap.</p><p style=\"line-height: 1.5\">Together, we've walked through nine steps for designing effective engagement with communities.&nbsp;</p><p style=\"line-height: 1.5\">[Visual description]: Bullet points appear: Defining goals for engagement and action. Ensuring ownership, accountability and action. Identifying participants. Designing outreach strategies. Designing incentives for participation. Designing the tasks: what you ask participants to do. Reviewing inputs. Using what the group creates.&nbsp;</p><p style=\"line-height: 1.5\">We've also seen how governments and organizations around the world are putting these ideas into practice.&nbsp;</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Danielle Allen, Professor, Harvard University.</p><p style=\"line-height: 1.5\">Along the way, we explored how you can use AI to support each step, helping you work more efficiently and effectively. But the foundation remains the same: clear goals, thoughtful design, human judgment, and a commitment to act on what communities contribute.</p><p style=\"line-height: 1.5\">The next step is to put these ideas into practice. This course is a starting point. If you want to go deeper, we offer additional workshops and resources, including an AI-powered coaching tool to help you design your own engagement project step by step.</p><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS website is shown on the Coach page. An AI tool asking the following question: What public engagement challenge are you working on today? There is a text submission box to answer and ask questions.</p><p style=\"line-height: 1.5\">Public engagement is not easy. It requires time, effort, and a willingness to listen. But when done well, it leads to better decisions, stronger trust, and communities who know that their voices matter.</p><p style=\"line-height: 1.5\">Thank you for taking part.</p><p style=\"line-height: 1.5\"><br class=\"break-when-trailing\"></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "60997c88-6654-4a5e-b1ad-c66e2d920117"
+        },
+        {
+          "id": "m6vLwxL9Z16MmchT4uyen8oEnqcp4DNl",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2012%20V5.mp4",
+                  "url": "transcoded-n5E8hHOMKVzW8eB9.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2012%20V5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmrzrhg0v00693d7f68jq6x3g",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2012%20V5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 12 V5.vtt"
+                    }
+                  ],
+                  "duration": 86,
+                  "inputKey": "rise/courses/eF_TaCFdEsLMMpH37nNQyMvBzjodjUSd/n5E8hHOMKVzW8eB9.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eF_TaCFdEsLMMpH37nNQyMvBzjodjUSd/transcoded-n5E8hHOMKVzW8eB9.0000000.jpg",
+                  "captionUID": "cmrzrhgdr006a3d7fijm21oei",
+                  "originalUrl": "2625GovLab Public Engagement Video 12 V5.mp4",
+                  "transcodeId": "1784947176563-6ohnva"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "0eebc001-93cd-4a54-8164-675218d91dc4"
+        },
+        {
+          "id": "cms9oi7uo008l3d79zklhpg3v",
+          "settings": {
+            "v": 2,
+            "textWidth": 52,
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9oi7up008m3d79lufm83r3",
+              "paragraph": "<div data-editor-id=\"fca2497c-8d8a-4d32-b5bc-00e732b8d5e3\"><p style=\"text-align: center\"><strong>Congratulations! You've watched all 12 videos and completed this course. Click the button below to claim your certificate!</strong></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-08-01T01:14:31.938Z",
+          "updatedAt": "2026-08-01T01:14:31.938Z",
+          "globalBlockId": "2b32189b-a944-44af-8997-297045b8671a"
+        },
+        {
+          "id": "cms26sfhp00373d7ba7mfyl4d",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "buttonWidth": 44,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "buttonAlignment": "center",
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "buttonShowDescription": false
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cms26sfhr00383d7baq2mha0n",
+              "type": "link",
+              "label": "Claim Your Certificate!",
+              "description": "<div data-editor-id=\"86b4327a-0c81-4e43-94a2-e79c7f4c6fa1\"></div>",
+              "destination": "https://course.innovate-us.org/mod/coursecertificate/view.php?id=652"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "createdAt": "2026-07-26T19:24:12.119Z",
+          "updatedAt": "2026-07-26T19:24:12.119Z",
+          "globalBlockId": "0173aa93-703a-47dd-b8e2-a9e6c15892e4"
+        }
+      ],
+      "settings": {},
+      "title": "Video 12: Conclusion",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "eF_TaCFdEsLMMpH37nNQyMvBzjodjUSd",
+      "createdAt": "2026-07-26T19:00:54.082Z",
+      "deleted": false,
+      "duplicatedFromId": "-nBrKOVNT_wIEL_nzU8yh6TZL_ymwQhe",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T19:40:15.841Z"
+    }
+  ],
+  "title": "Video 12: Conclusion",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "eF_TaCFdEsLMMpH37nNQyMvBzjodjUSd_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 100,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 12: Conclusion",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "eF_TaCFdEsLMMpH37nNQyMvBzjodjUSd",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "cUO3Y-BhQWUtnjKIUVfEHQtY7ZngjNHZ",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773729863",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:40:37.320Z",
+  "updatedAt": "2026-08-03T16:15:29.863Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:15:30.323Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-01T20:57:09.999Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:15:30.323Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "status": "published",
+    "date_created": "2026-01-21T18:57:19.500Z",
+    "date_updated": "2026-10-27T14:02:06.540Z",
+    "kicker": "<p>INNOVATE<strong>US </strong>RESEARCH</p>",
+    "date_label": "2026-01-26T12:00:00",
+    "subhead": "<p>Building the Evidence Base for Public Sector AI &amp; Innovation Skills</p>",
+    "subbody": "<p>InnovateUS partners with more than 40 states and cities across the United States to deliver AI and innovation skills training to public servants.</p>\n<p><br>Through our asynchronous courses and workshops, we have gathered data from more than 125,000 government workers in 2025.</p>",
+    "sections": [
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+]

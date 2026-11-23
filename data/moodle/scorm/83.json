@@ -1,0 +1,584 @@
+{
+  "description": "<div data-editor-id=\"84f0878c-7447-4f25-92ff-89e415571260\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video examines who should be accountable for designing, running, and acting on engagement processes. It introduces three criteria for picking the right owner — trust, reach, and authority to act — and explains how AI can expand who is able to lead engagement.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "ULEdY6rbm83dE-dEnWdKXn2g0rqikl2b",
+      "items": [
+        {
+          "id": "nIitQ5RbkULwfYbCstA46SpjgBXr8Pdf",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"66cc6a41-70fe-4b57-b5fe-81e90a1db27c\"><p style=\"line-height: 1.5\">This video examines who should be accountable for designing, running, and acting on engagement processes. It introduces three criteria for picking the right owner — trust, reach, and authority to act — and explains how you can use AI to expand who is able to lead engagement.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "581c9a4c-e60d-4219-b07e-9062dfb0dfcd"
+        },
+        {
+          "id": "7I6DUA7Rr6cpX3uRU7bNsj6LUfvtTZOi",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 4",
+              "description": "<div data-editor-id=\"0ad1e582-fc9f-4e14-998b-49aa12a2ddf5\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Ensuring Ownership, Accountability, and Action.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: A skyline image of the Mexican city San Pedro Garza García appears.</p><p style=\"line-height: 1.5\">In San Pedro Garza García, Mexico, residents were frustrated by worsening traffic conditions.</p><p style=\"line-height: 1.5\">[Visual description]: A conference room filled with people discussing appears. Followed by a collage of profile pictures.</p><p style=\"line-height: 1.5\">The city launched an open innovation challenge, inviting residents to propose solutions to challenges of mobility, pollution, government efficiency, and public space. The government committed to implement the 10 best ideas. Winning teams received coaching to refine and pilot their proposals with city agencies. One project redesigned school transportation, leading to a reduction in solo car trips from 85% to less than 5% in a target neighborhood.</p><p style=\"line-height: 1.5\">What made this initiative work was consequential ownership.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Beth Simone Noveck, Professor, Northeastern University.</p><p style=\"line-height: 1.5\">City leaders championed the effort and followed through on their commitment to implement results. As a result, multiple projects were adopted and the city continued to practice open innovation. Engagement succeeds when someone with authority is accountable for turning input into action.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">In this video, you'll learn why ownership and accountability are essential. The importance of ownership in AI-enabled engagement. How to define roles so that community input leads to real decisions. Let's dive in.</p><p style=\"line-height: 1.5\">Every project needs clear ownership, someone to design the process and ensure results lead to action. These may be the same or different entities. Without it, even well-intentioned efforts drift, stall, or fade. Ownership can sit inside or outside government or be shared among multiple partners. What matters is that everyone involved understands who is responsible for doing what.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: How to Pick The Right Owner.</p><p style=\"line-height: 1.5\">When deciding who should own an engagement, consider three criteria. First, whom do people trust? Participation depends on credibility. If the community doesn't trust the institution running the process, they won't engage. Second, who has the ability to get the word out? Reaching people requires networks, relationships, and communications capacity. The owner needs to either have that reach or partner with organizations that do. Third, who can coordinate? Someone needs to manage relationships among partners, align responsibilities, and ensure accountability doesn't fall through the gaps. And finally, who can act on the input? This might be an institution with the power to implement. Or, it could be an organization that uses public input to advocate for change, putting pressure on decisionmakers to act. What matters is that someone is committed to doing something meaningful with the results.</p><p style=\"line-height: 1.5\">[Visual description]: Taiwan’s skyline is shown.</p><p style=\"line-height: 1.5\">Taiwan's JOIN platform, launched in 2015 and still in use today, shows how this can work at scale.</p><p style=\"line-height: 1.5\">[Visual description]: The JOIN platform’s website is shown.</p><p style=\"line-height: 1.5\">Run by the National Development Council, it enables citizens to propose ideas and shape policy. When a petition reaches 5,000 signatures, the responsible agency must respond, helping drive participation by millions. The initiative works because the owners are trusted, can reach participants, and can act on the results.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Ownership in AI-Enabled Engagement.</p><p style=\"line-height: 1.5\">When AI tools are part of the engagement, ownership takes on additional dimensions. When we can use AI to reduce the time and cost of engagement, it creates opportunities for otherwise under-resourced organizations to take ownership and run the engagement. At the same time, ownership includes responsibility for selecting the right platform and accountability for how AI-generated outputs will be reviewed.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Risks To Watch For.</p><p style=\"line-height: 1.5\">Questions of ownership raise two risks. First, diffuse ownership creates accountability gaps: when no one is responsible for turning input into decisions, engagement stalls between collection and action, rendering participation toothless for institutions and for the public. Second, misaligned ownership undermines impact: even with a designated owner, if they lack authority or a credible plan to use the results, participation becomes performative.</p><p style=\"line-height: 1.5\">[Visual description]: A globe appears on screen with the title: Project Spotlight. The camera zooms in on California, United States.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Engaged California - Wildfire Recovery Action Planning.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Jeffery Marino, Director, California Office of Data and Innovation.</p><p style=\"line-height: 1.5\">After the 2025 Los Angeles wildfires, the Office of Data and Innovation worked with affected communities to co-design a recovery plan.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: The Engaged California website is shown.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">Through the Engaged California program, we gathered more than 1,300 comments from Angelenos about how the fires impacted them and what they needed to rebuild.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of a Reboot Democracy article, Title: Research Radar: How Research Drove a Community-Led Action Plan for LA Wildfire Recovery.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">AI tools helped us to synthesize that input into 19 policy options, which participants then deliberated over and prioritized. Community members from the different fire zones participated together in the platform, and the results showed remarkable consistency in their top priorities, demonstrating community-wide agreement despite geographic separation.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: The Engaged California Action plan is shown.</p><p style=\"line-height: 1.5\">They aligned on an action plan spanning five policy priorities, ranging from undergrounding power lines to streamlining the permitting process.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Jeffery Marino, Director, California Office of Data and Innovation.</p><p style=\"line-height: 1.5\">State agencies worked in partnership with local governments and community organizations to act on these priorities, with direct support from the Newsom administration. That combination gave us both the authority and the responsibility to turn public input into action.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Clear ownership is what turns engagement into results.</p><p style=\"line-height: 1.5\">Clear ownership is what turns engagement into results.</p><p style=\"line-height: 1.5\">[Visual description]: Beth appears.</p><p style=\"line-height: 1.5\">Next up, we turn to designing incentives that motivate people to participate and stay engaged.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Next Up: Designing Incentives.</p><p style=\"line-height: 1.5\"></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "8f1942ca-e955-41cf-8ee3-d23206319ed7"
+        },
+        {
+          "id": "kg9TaemGjNpsXPrDY_MXTSU64yzeu1ql",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2004%20V5.mp4",
+                  "url": "transcoded-orkd04_8e8OsEReg.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2004%20V5.jpg",
+                  "captions": [
+                    {
+                      "id": "cms6gv29600383d78xd5yjxz1",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2004%20V5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 04 V5.vtt"
+                    }
+                  ],
+                  "duration": 317,
+                  "inputKey": "rise/courses/2y5wBAaAb1DhsEFpuQgppeso3tEXC9Ik/orkd04_8e8OsEReg.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/2y5wBAaAb1DhsEFpuQgppeso3tEXC9Ik/transcoded-orkd04_8e8OsEReg.0000000.jpg",
+                  "captionUID": "cms6gv2le00393d78bqdo2537",
+                  "originalUrl": "2625GovLab Public Engagement Video 04 V5.mp4",
+                  "transcodeId": "1785352254740-ev918h"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "1ca809e0-8e05-4562-b47e-fcdaa5fb1239"
+        },
+        {
+          "id": "62pYVMOsGqWl4M2PTaJPePlIfpKCi0xZ",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "0bc04935-8d86-426d-92b1-5b9d85289c9f"
+        }
+      ],
+      "settings": {},
+      "title": "Video 4: Ensuring Ownership, Accountability and Action ",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "2y5wBAaAb1DhsEFpuQgppeso3tEXC9Ik",
+      "createdAt": "2026-07-26T18:59:46.581Z",
+      "deleted": false,
+      "duplicatedFromId": "F9jR4IKRXsVK1QWmdU_HL2h90IMBmdQm",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T17:15:21.822Z"
+    },
+    {
+      "description": "",
+      "id": "9ax2fwUQg9xseqOS4LCd7R66J1ePTkoT",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "5bbfa282-f5f3-4359-8e35-2720e9f0992f"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"b42918de-490e-43d3-a4a8-27b6c6e03fba\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>In the San Pedro Garza García example, what made the open innovation challenge successful?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"50785c73-9689-4939-bc24-fb82a9023a5f\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>The city used the most advanced AI tools available</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"833c4327-e6c2-4404-8324-dd2d01bdbe04\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>City leaders championed the effort and followed through on their commitment to implement results</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"30f1998a-cdaf-4ac3-b492-b3c933a6a30e\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>The challenge was limited to participants with technical expertise</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"31217ba1-ac91-4b06-a568-bfd1f7e37342\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>The city outsourced the entire process to a university</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "26996d1b-a024-49d7-9502-264996243b0e"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "927733c5-81dd-4f08-af97-f218f5e6d890"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"ff5461ee-7880-4eb3-8d31-b5768d4bf1d5\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>How can AI affect ownership of engagement processes?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"d9b5ff56-779e-43ac-9eb0-8e44a453df76\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>AI replaces the need for a human owner</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"f425c8ea-bab3-408f-8d91-356317938731\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>AI makes it unnecessary to define roles and responsibilities</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"e86431d9-a966-4c17-9524-215519c3a27e\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>By reducing time and cost, AI can enable otherwise under-resourced organizations to take ownership</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"858c45ff-3842-4149-99c2-aa3bc789a39c\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>AI should always be the primary decision-maker in engagement</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "7993bc23-927f-47cd-8540-8ccce6d861c9"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "861f9ed6-e8b6-4a21-a3fd-4e23865c5667"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "2y5wBAaAb1DhsEFpuQgppeso3tEXC9Ik",
+      "createdAt": "2026-08-01T02:47:54.278Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T16:46:45.205Z"
+    },
+    {
+      "description": "",
+      "id": "mozW-S96SesqZhunFnpJ6ZweNntJ0_iQ",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"e0fd998c-a773-420d-aaaa-bd3ba133f115\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 4 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to <em>Video 5. Identifying Participants</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "98fcf7ad-5f17-4ff2-a5ec-81d7831c483c"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "2y5wBAaAb1DhsEFpuQgppeso3tEXC9Ik",
+      "createdAt": "2026-08-01T02:48:23.102Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:49:03.616Z"
+    }
+  ],
+  "title": "Video 4: Ensuring Ownership, Accountability and Action ",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "2y5wBAaAb1DhsEFpuQgppeso3tEXC9Ik_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 4: Ensuring Ownership, Accountability and Action ",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "2y5wBAaAb1DhsEFpuQgppeso3tEXC9Ik",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "-vhN4HtCXqqFGrlvoDYTbs7i9U42FhNv",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773352257",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:41:27.093Z",
+  "updatedAt": "2026-08-03T16:09:12.257Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:09:13.060Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-01T20:49:03.616Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:09:13.060Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

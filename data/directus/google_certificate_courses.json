@@ -1,0 +1,50 @@
+[
+  {
+    "course_image": "1a951c33-8d78-4b02-8fb5-9480e4523759",
+    "course_lede": "Whether you’re just getting started or want to take the next step in the high-growth field of IT, professional certificates from Google can help you gain in-demand skills. You’ll learn about troubleshooting, customer support, system administration, Python and more.",
+    "course_title": "IT Support",
+    "course_link": "https://grow.google/certificates/it-support/",
+    "id": 1,
+    "course_image_description": "A diverse group of four office workers with headsets are engaged in various tasks, with one individual gesturing while another focuses on a laptop."
+  },
+  {
+    "course_image": "6b6e04cb-5b44-437a-a2b3-62d82d24677c",
+    "course_lede": "Get started in the high-growth field of project management with a professional certificate developed by Google. Discover how to manage projects efficiently and effectively, using traditional and agile methods.",
+    "course_title": "Project Management",
+    "course_link": "https://grow.google/certificates/project-management/",
+    "id": 2,
+    "course_image_description": "\nA top view of a business meeting with individuals around a table with laptops, tablets, smartphones, and notes, collaborating on a project.\n\n\n\n\n"
+  },
+  {
+    "course_image": "2fbfc2dd-f9c2-4a42-bbe9-2f7af3fdfdfd",
+    "course_lede": "Whether you’re just getting started or want to take the next step in the high-growth field of data analytics, professional certificates from Google can help you gain in-demand skills. You’ll learn about R programming, SQL, Python, Tableau and more.",
+    "course_title": "Data Analytics",
+    "course_link": "https://grow.google/certificates/data-analytics/",
+    "id": 3,
+    "course_image_description": "A man in a white shirt attentively uses a laptop at a desk with financial data analysis charts displayed on a large screen behind him.\n\n\n\n\n"
+  },
+  {
+    "course_image": "77e78e73-4f81-4421-9cfe-c21490e4e971",
+    "course_lede": "This fully online program provides the skills you need for an entry-level job in cybersecurity, even if you don't have prior experience. You'll use industry standard tools like Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS).",
+    "course_title": "Cybersecurity",
+    "course_link": "https://grow.google/certificates/cybersecurity/",
+    "id": 4,
+    "course_image_description": "An abstract image of 3D geometric shapes in various colors forming patterns on a dotted grid, reminiscent of digital or cybersecurity concepts."
+  },
+  {
+    "course_image": "5dca1e5b-e9c8-48f6-abd9-dd1c2f72c6ea",
+    "course_lede": "Get started in the fast-growing field of user experience (UX) design with a professional certificate developed by Google. Learn the foundations of UX design, including empathizing with users, building wireframes and prototypes, and conducting research to test your designs.",
+    "course_title": "UX Design",
+    "course_link": "https://grow.google/certificates/ux-design/",
+    "id": 5,
+    "course_image_description": "A close-up of a workspace featuring a smartphone, UX design sketches, pencils, and a laptop, indicating a creative design process."
+  },
+  {
+    "course_image": "480691ed-6ca6-4093-ab1a-aceffac485be",
+    "course_lede": "Get started in the high-growth fields of digital marketing and e-commerce with a professional certificate from Google. Learn to manage digital marketing campaigns, attract and engage customers, and sell products online.",
+    "course_title": "Digital Marketing & E-commerce",
+    "course_link": "https://grow.google/certificates/digital-marketing-ecommerce/",
+    "id": 6,
+    "course_image_description": "Two professionals engage in a brainstorming session using sticky notes on a whiteboard labeled \"MARKETING\"."
+  }
+]

@@ -1,0 +1,1084 @@
+{
+  "description": "",
+  "lessons": [
+    {
+      "description": "",
+      "id": "HS0uYI7sN6inGfK15lz_UXn1iuEQQ4Qf",
+      "items": [
+        {
+          "id": "clx8tfk4l000s3b6ccps30ll3",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "text",
+          "data": {},
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 4.1 | Prompting overview</strong></p>",
+              "paragraph": "<p>This video introduces you to the role of prompting in generative AI.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "background": {},
+          "globalBlockId": "efcaf090-a4be-41a1-8e36-8a617e04260e"
+        },
+        {
+          "id": "cmi97g44401ck3b6ortcoc2li",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmi97g44501cn3b6ohqllfvbk",
+              "title": "Audio description transcript – Prompting Overview",
+              "description": "<div data-editor-id=\"be833c65-5a04-40d1-9b85-faf144d0bb3b\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Using GenAI in Government.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Prompting Overview.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Having explored ways to use Generative AI, let’s turn to how to give it effective instructions. Generative AI works through plain-language directions—known as prompts. Crafting those instructions effectively is often called prompt engineering.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>A theatre with a computer monitor quoting Shakespeare while it asks its director its next line. She responds: “So you want a prompt?”&nbsp;</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">GenAI’s effectiveness depends on how you use it. It often feels impressive on unfamiliar topics, but less so where you have expertise and can spot the gaps. Better prompting can help you to fill many of those gaps.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Module Goals.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">By the end of this module, you will:</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Gain hands-on experience with leading GenAI platforms</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Master a prompting framework to enhance your GenAI interactions</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Apply this framework to your own work</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Now let's dive in.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "background": {},
+          "globalBlockId": "554a64f2-3185-4bbc-baa8-befaae5ddccd"
+        },
+        {
+          "id": "clwyxyw9900033b6c28ei3uhk",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "customPaddingTop": 3,
+            "entranceAnimation": true,
+            "customPaddingBottom": 3,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "multimedia",
+          "data": {},
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "2408GovLabAI%202026%20Video%2010.mp4",
+                  "url": "transcoded-4VerHMdRxC8vXpXw.mp4",
+                  "type": "video",
+                  "poster": "2408GovLabAI%202026%20Video%2010.jpg",
+                  "captions": [
+                    {
+                      "id": "cmr2yoq1c00383b7jp176pc1z",
+                      "key": "2408GovLabAI%202026%20Video%2010.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2408GovLabAI 2026 Video 10.vtt"
+                    }
+                  ],
+                  "duration": 58,
+                  "inputKey": "rise/courses/3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t/4VerHMdRxC8vXpXw.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t/transcoded-4VerHMdRxC8vXpXw.0000000.jpg",
+                  "captionUID": "cmr2yoqbd00393b7jqzrdx2uw",
+                  "originalUrl": "2408GovLabAI 2026 Video 10 - 4.1 v3.1.mp4",
+                  "transcodeId": "1780432962457-mhdfxz"
+                }
+              },
+              "caption": "<p>Video 4.1: Prompting overview</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "background": {},
+          "globalBlockId": "1ab789a4-438d-4f3d-89ed-7cbe6e9719d4"
+        },
+        {
+          "id": "clwyy6nzy000j3b6c4tcdhfg2",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "data": {},
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "2d9e1c01-f441-4847-8ab7-30be9900e4cf"
+        }
+      ],
+      "settings": {},
+      "title": "Video 4.1 | Prompting overview",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t",
+      "createdAt": "2026-07-24T21:20:40.663Z",
+      "deleted": false,
+      "duplicatedFromId": "2gIaV4YeHVdneAKZ6hYsM487UKRZe0-7",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 0,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:20:40.663Z"
+    },
+    {
+      "description": "<div data-editor-id=\"4a636126-6b7f-4fcf-aff8-5b2da4f5d4e1\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "id": "kW9E983Nodu6eaUXx4zbogk9ug7XJS-z",
+      "items": [
+        {
+          "answers": [
+            {
+              "id": "clx3v2vg700073b78ogciv6pu",
+              "title": "<p>Carefully crafting questions for AI systems</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clx3v2vg700093b78jt2b82qq",
+              "title": "<p>Designing commands to guide AI output</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3v2vg7000a3b786n46v4ch",
+              "title": "<p>Ensuring AI systems generate outputs without human input</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3v2vg700083b78922xad1m",
+              "title": "<p>Making AI systems more complex to use</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "",
+          "corrects": [
+            "clx3v2vg700073b78ogciv6pu",
+            "clx3v2vg700093b78jt2b82qq"
+          ],
+          "id": "clx3v2vg700063b78hc9n8fhk",
+          "title": "<p>Which of the following are key aspects of prompt engineering? (Select all that apply)</p>",
+          "type": "MULTIPLE_RESPONSE",
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "globalBlockId": "45484e41-b4fc-4dbc-ad15-ea70b2b9f872",
+          "feedbackIncorrect": "<p>The correct answers are A and B. The key aspects of prompt engineering include carefully crafting questions for AI systems and designing commands to guide AI output. </p>"
+        }
+      ],
+      "settings": {
+        "passingScore": 80,
+        "retryCount": -1,
+        "continueType": "continue",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 4.1",
+      "type": "quiz",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t",
+      "createdAt": "2026-07-24T21:20:40.663Z",
+      "deleted": false,
+      "duplicatedFromId": "47BLY1TSJxGEfYI2T_CGhWLB6NhFi9Zy",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:20:40.663Z"
+    },
+    {
+      "description": "",
+      "id": "YMG7XCoD07grCWUOCXXIuH8WVsWiHZXc",
+      "items": [
+        {
+          "id": "RLZepFp88djVqFmrT99YWbqq3a1TwY0l",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "text",
+          "data": {},
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 4.2 | Five components of a prompt</strong></p>",
+              "paragraph": "<p>This video introduces a prompting framework with five components: Instruction, Role, Context, Format, and Example. Iterative prompt refinement is demonstrated through examples.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "background": {},
+          "globalBlockId": "836a2d97-0af8-4716-a879-0e5b8614af98"
+        },
+        {
+          "id": "cmi97ndfz01j43b6o9jsyawdl",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmi97ndg001j73b6og223ei57",
+              "title": "Audio description transcript – Five Parts of a Good Prompt",
+              "description": "<div data-editor-id=\"9a74d87b-6157-482c-90d5-001f146f5f33\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Understanding Risks.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">A good prompt has five parts: Instruction, Role, Context, Format, and Example.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: The five parts in action.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Instruction is the basic command you give to GenAI — like \"write a report\" or \"summarize this.\"&nbsp;</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Instruction: Write a memo on this house hearing on the benefits of plain language in paperwork for businesses.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Just like an intern needs more direction, GenAI performs better with more specific guidance.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI writes the requested memo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Disclaimer: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Role defines the persona you want GenAI to adopt — \"friendly coworker,\" \"tough mentor,\" \"professional writer.\" This sets the tone and style of the output.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Role: You are a concise and diligent professional writer.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI rewrites the memo now using language and style indicative of the role.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The more relevant details you provide, the better the output. So if you're asking GenAI to write a memo, give it context: tell it who the audience is, what their reading level is, or what themes will resonate with them.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>A user adds information such as who it is written for, what that person is looking for, how in-depth the explanation should go, and what data should be included in the response.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Format specifies how you want the information presented. A bulleted list? A table? A narrative report? &nbsp;Tell GenAI how to structure its response.&nbsp;</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Format: The report should include the following sections: Introduction, List of speakers, Core points and recommendations, areas of agreement, Areas of differences, and Conclusion. It should be no more than 200 words. Use bullet points where appropriate.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>An AI rewrites a response after being given a format for the requested report.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">You can even upload a sample of an old memo you liked and ask it to match the format and tone.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Example: Use the below prior report as a guide for structure and detail level.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Let’s take an example: we'll start with a naked instruction first and iteratively add role, context, and format as we draft a memo on the benefits of plain language paperwork for small businesses. &nbsp;By the end, you'll see a significant improvement.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">A few principles for effective prompting:</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Start simple: a few clear bullet points are often enough—you don’t need mini-essays</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Clarity over formality: prompts don’t need to be polished, just understandable</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Use components flexibly by combining instruction, role, context, and format as needed</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Results improve as you clarify and build on previous prompts within a conversation</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Then adjust based on results, and share useful prompts with colleagues</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Now try it for yourself on an approved platform. For example, you might try drafting a job listing and iteratively improving your prompt to see how the output changes.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "background": {},
+          "globalBlockId": "64dde075-bed9-4cd4-b192-9153c4c26b86"
+        },
+        {
+          "id": "clLO7E2QAiDZaAjt0q_j6msSv1bdkCTs",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "multimedia",
+          "data": {},
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "2408GovLabAI%202026%20Video%2011.mp4",
+                  "url": "transcoded-hlRjxuXynxvnO3kN.mp4",
+                  "type": "video",
+                  "poster": "2408GovLabAI%202026%20Video%2011.jpg",
+                  "captions": [
+                    {
+                      "id": "cmr2ypb4c00413b7jtjh99wbx",
+                      "key": "2408GovLabAI%202026%20Video%2011.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2408GovLabAI 2026 Video 11.vtt"
+                    }
+                  ],
+                  "duration": 143,
+                  "inputKey": "rise/courses/3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t/hlRjxuXynxvnO3kN.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t/transcoded-hlRjxuXynxvnO3kN.0000000.jpg",
+                  "captionUID": "cmr2ypbfg00423b7jajdbbcxl",
+                  "originalUrl": "2408GovLabAI 2026 Video 11 - 4.2 v3.1.mp4",
+                  "transcodeId": "1780433125438-175wmn"
+                }
+              },
+              "caption": "<div data-editor-id=\"86362d30-2c6e-49e5-aa80-85d3385c7353\"><p>Video 4.2: Five Parts of a Good Prompt</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "background": {},
+          "globalBlockId": "9c4bd4f5-692c-4652-9b6c-646969f06a0d"
+        },
+        {
+          "id": "fHj6YHnderIFBx29LuVoILIBfQVByb3B",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "data": {},
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "e6739551-cf4a-42bf-84d2-76e37a416f60"
+        }
+      ],
+      "settings": {},
+      "title": "Video 4.2 | Five Parts of a Good Prompt",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t",
+      "createdAt": "2026-07-24T21:20:40.663Z",
+      "deleted": false,
+      "duplicatedFromId": "_Ke_oPBbvvWBC-JIszYL6J0Od9ep1NVc",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:20:40.663Z"
+    },
+    {
+      "description": "<div data-editor-id=\"7a18ebd8-586c-4103-9d94-d05e869670a3\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "id": "Nl5w4ai_agZpTOorkmAS5xNp5Ji17x_L",
+      "items": [
+        {
+          "answers": [
+            {
+              "id": "clx3v7d8q002h3b78llxdh5yq",
+              "title": "<p>&nbsp;It can help the AI generate more relevant and well-formatted output</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clx3v7d8q002j3b78vmz6ngi2",
+              "title": "<p>It can confuse the AI and lead to less accurate results</p>",
+              "feedback": "<p>Examples are used to clarify expectations and improve output quality, not confuse the AI.</p>"
+            },
+            {
+              "id": "clx3v7d8q002k3b78xxhra27g",
+              "title": "<p>It has no effect on the quality of the AI&#39;s output</p>",
+              "feedback": "<p>Providing an example can have a significant impact on the quality of the AI&#39;s output.</p>"
+            },
+            {
+              "id": "clx3v7d8q002i3b78x5a3kgd1",
+              "title": "<p>It always makes the AI&#39;s output more complex and difficult to understand</p>",
+              "correct": true,
+              "feedback": "<p>Examples help to improve clarity and relevance, not make the output more complex and difficult to understand.</p>"
+            }
+          ],
+          "correct": "clx3v7d8q002h3b78llxdh5yq",
+          "corrects": [
+            "clx3v7d8q002h3b78llxdh5yq",
+            "clx3v7d8q002i3b78x5a3kgd1"
+          ],
+          "id": "clx3v7d8q002g3b78yb70k8ab",
+          "title": "<p>How can providing an example impact the quality of the AI&#39;s output?</p>",
+          "type": "MULTIPLE_CHOICE",
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "f0feadc9-c14a-42ea-b355-ab5f78bfa1c1"
+        },
+        {
+          "answers": [
+            {
+              "id": "clx3v7d8q002h3b78llxdh5yq",
+              "title": "<p>Clarity</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clx3v7d8q002j3b78vmz6ngi2",
+              "title": "<p>Formality</p>",
+              "feedback": "<p>While formality can be important, clarity is emphasized as being more crucial.</p>"
+            },
+            {
+              "id": "clx3v7d8q002k3b78xxhra27g",
+              "title": "<p>Both are equally important</p>",
+              "feedback": "<p>The topic stresses that clarity is more important than formality.</p>"
+            },
+            {
+              "id": "clx3v7d8q002i3b78x5a3kgd1",
+              "title": "<p>Neither clarity nor formality matters</p>",
+              "correct": true,
+              "feedback": "<p>The topic emphasizes the importance of clarity, not that neither clarity nor formality matters.</p>"
+            }
+          ],
+          "correct": "clx3v7d8q002h3b78llxdh5yq",
+          "corrects": [
+            "clx3v7d8q002h3b78llxdh5yq",
+            "clx3v7d8q002i3b78x5a3kgd1"
+          ],
+          "id": "clx3va7lh003p3b787yhhhl6h",
+          "title": "<p>What is more important in prompt engineering: clarity or formality?</p>",
+          "type": "MULTIPLE_CHOICE",
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "a3205871-f3a2-40c8-967e-2f0e2eefd26d"
+        }
+      ],
+      "settings": {
+        "passingScore": 80,
+        "retryCount": -1,
+        "continueType": "continue",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 4.2",
+      "type": "quiz",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t",
+      "createdAt": "2026-07-24T21:20:40.663Z",
+      "deleted": false,
+      "duplicatedFromId": "UvBbYd1wHcYDxfOEtE2RKOfh_XR3myd9",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 5,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:20:40.663Z"
+    },
+    {
+      "description": "",
+      "id": "k7GzFI-tO3ySLWZZ4oDbhBnOjBHKcsjX",
+      "items": [
+        {
+          "id": "jj5tffya3c5xHilqfGxx7C6LCFQPw7mT",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "text",
+          "data": {},
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 4.3 | Five techniques for interacting with GenAI</strong></p>",
+              "paragraph": "<p>Five techniques to enhance GenAI interactions are explored: going step by step, dialogue with the AI, splitting up large tasks, context limit awareness, and directly asking what information the GenAI assistant needs. Hands-on exercises allow participants to practice these techniques in low-risk scenarios.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "background": {},
+          "globalBlockId": "ede42995-63cd-4925-9d82-dd41a9a78c00"
+        },
+        {
+          "id": "clx922rn4008r3b6cawmxgfws",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "data": {},
+          "items": [
+            {
+              "id": "clx922rn4008s3b6cjpy8my3p",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course at innovate-us.org/ai-resources</p><p><br></p>",
+              "destination": "https://innovate-us.org/ai-resources"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "background": {},
+          "globalBlockId": "ff05fbe8-4fff-4678-a2d9-0ee303bf8257"
+        },
+        {
+          "id": "cmi97s56201po3b6oefau0o8q",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmi97s56201pr3b6oqlf5sh81",
+              "title": "Audio description transcript – Improving Your Prompts",
+              "description": "<div data-editor-id=\"1f99ac4a-0e61-454a-9ee0-854d3a9a403f\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Using GenAI in Government.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Improving Your Prompts.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back. In the last video, we covered the core components of effective prompting. Now let’s look at five techniques to improve your results.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Remember: The more clearly you guide &nbsp;Generative AI, the better the outcome.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">First, instead of asking for a complete report, outline the steps you want the model to follow. Structured prompts lead to clearer, more logical outputs. If there are rules the GenAI shouldn't break, or should always do, those can be specified.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Second, if you’re unsure how to frame a request, ask the tool what additional information it needs. This can help clarify the task and improve the result.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Third, work iteratively. If the first response isn’t right, ask for changes—more concise, more formal, more detailed. You don’t need to start over.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Fourth, for more involved tasks, break the process into stages—brainstorm, outline, draft, revise. Use each output as input for the next step.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Finally, Generative AI tools can only process a limited amount of text at once, known as the context window. If your input is too long, earlier content may be truncated, and even within the limit, models can struggle to use all information effectively. They tend to perform best on material at the beginning and end of a prompt, and may underuse information in the middle. When in doubt, simplify your input or start a new conversation.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Now try it yourself. Choose a work-related task on an approved platform and apply each of these techniques. Notice how the output improves as you refine your approach. Use only public or non-sensitive information.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Be direct. You can say, “That’s not quite right—here’s what I need.” The tool won’t take offense—it will adjust.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">At the same time, remember that these tools are designed to be people-pleasing and may reinforce your assumptions.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the Science article titled: Sycophantic AI decreases prosocial intentions and promotes dependence.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">One research study tested leading models and found every one to be agreeable to a fault.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">So don’t take the first answer at face value. Ask follow-ups, challenge the response, and request counterarguments. Treat the interaction as a dialogue, not a confirmation.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Analytical tasks—like summarizing or comparing documents—require clear instructions and sufficient context. Creative tasks—like drafting speeches—benefit from specifying tone and role. Remember to treat outputs as a starting point that requires careful review, not a final product.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Prompting is a skill that improves with practice. Keep a personal library of prompts that work well. Many teams build shared prompt libraries and InnovateUS offers a weekly prompting lab so you can learn from others</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">At its core, effective prompting is about forming a productive dialogue with the tool—guiding it toward results that meet your needs.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Next, we’ll turn to the risks of Generative AI—and how to manage them.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "background": {},
+          "globalBlockId": "426128dc-4af9-4cff-bfd5-7eaf0033997a"
+        },
+        {
+          "id": "6p8Q-gm9OjxCPS6DmvBofTxnczbLPTM8",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "multimedia",
+          "data": {},
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "2408GovLabAI%202026%20Video%2012.mp4",
+                  "url": "transcoded-OU3VvUu7rbLsAMfm.mp4",
+                  "type": "video",
+                  "poster": "2408GovLabAI%202026%20Video%2012.jpg",
+                  "captions": [
+                    {
+                      "id": "cmr2ypzzh00503b7j1sm948s1",
+                      "key": "2408GovLabAI%202026%20Video%2012.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2408GovLabAI 2026 Video 12.vtt"
+                    }
+                  ],
+                  "duration": 223,
+                  "inputKey": "rise/courses/3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t/OU3VvUu7rbLsAMfm.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t/transcoded-OU3VvUu7rbLsAMfm.0000000.jpg",
+                  "captionUID": "cmr2yq08l00513b7ji3asfsis",
+                  "originalUrl": "2408GovLabAI 2026 Video 12 - 4.3 v3.1.mp4",
+                  "transcodeId": "1780433237681-cey29k"
+                }
+              },
+              "caption": "<div data-editor-id=\"6894219c-e1c1-41b6-9514-c994a39454a8\"><p>Video 4.3: Improving Your Prompts</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "background": {},
+          "globalBlockId": "4789e2c6-9574-4b06-a8c5-253d1d2801d1"
+        },
+        {
+          "id": "a16uwU1KvSErzpQeRWhVIvj2bGToSX70",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "data": {},
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "b8d23143-2bb2-4b7e-9f18-12dd97251767"
+        }
+      ],
+      "settings": {},
+      "title": "Video 4.3 | Improving Your Prompts",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t",
+      "createdAt": "2026-07-24T21:20:40.663Z",
+      "deleted": false,
+      "duplicatedFromId": "sURZouI7tvUV3S_1JUiEkEKYyNxQBsn3",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:20:40.663Z"
+    },
+    {
+      "description": "<div data-editor-id=\"c1d8cb76-88f2-428c-b81f-100fbc12c540\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "id": "r2xWsgHTQ1maCVXeSUYRz6p9K_npxhNd",
+      "items": [
+        {
+          "answers": [
+            {
+              "id": "clx3vc3y0004p3b788dqjnl01",
+              "title": "<p>Provide the AI with less information and context</p>",
+              "correct": true,
+              "feedback": "<p>Providing less information and context can make the task more difficult for the AI, not easier.</p>"
+            },
+            {
+              "id": "clx3vc3y0004r3b78o1ltonq6",
+              "title": "<p>Divide the task into smaller, more manageable stages</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vc3y0004s3b78yhbhy33i",
+              "title": "<p>Give the AI more complex and detailed instructions</p>",
+              "feedback": "<p>Giving more complex instructions can further complicate the task for the AI, not simplify it.</p>"
+            },
+            {
+              "id": "clx3vc3y0004q3b78mfvf1m26",
+              "title": "<p>Avoid using the AI for complex tasks altogether</p>",
+              "correct": true,
+              "feedback": "<p>Breaking the task into stages allows the AI to assist with complex tasks, not avoid them altogether.</p>"
+            }
+          ],
+          "correct": "clx3vc3y0004r3b78o1ltonq6",
+          "corrects": [
+            "clx3vc3y0004p3b788dqjnl01",
+            "clx3vc3y0004q3b78mfvf1m26"
+          ],
+          "id": "clx3vc3y0004o3b78seck3yck",
+          "title": "<p>What should you do if a task is too complex for the AI to handle effectively?</p>",
+          "type": "MULTIPLE_CHOICE",
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "45a48dce-0e4c-40a6-8aea-820e35d9a926"
+        },
+        {
+          "answers": [
+            {
+              "id": "clx3vc3y0004p3b788dqjnl01",
+              "title": "<p>All generative AI platforms provide a warning message</p>",
+              "correct": true,
+              "feedback": "<p>Many AI tools do not provide a warning message when the input threshold is exceeded.</p>"
+            },
+            {
+              "id": "clx3vc3y0004r3b78o1ltonq6",
+              "title": "<p>The generative AI platform refuses to generate any output</p>",
+              "feedback": "<p>Some &nbsp;generative AI tools do not refuse to generate output, but rather processes a smaller portion of the prompt.</p>"
+            },
+            {
+              "id": "clx3vc3y0004s3b78yhbhy33i",
+              "title": "<p>In many platforms no warning is given, and the AI generates output based on a smaller portion of the prompt</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3vc3y0004q3b78mfvf1m26",
+              "title": "<p>All generative AI platforms automatically divides the prompt into smaller, manageable parts</p>",
+              "correct": true,
+              "feedback": "<p>The AI does not automatically divide the prompt; it simply processes a smaller portion of it.</p>"
+            }
+          ],
+          "correct": "clx3vc3y0004s3b78yhbhy33i",
+          "corrects": [
+            "clx3vc3y0004p3b788dqjnl01",
+            "clx3vc3y0004q3b78mfvf1m26"
+          ],
+          "id": "clx3vdkuj00603b788topemzh",
+          "title": "<p>What happens when you exceed the input word (&lsquo;token&rsquo;) limit &nbsp;in many generative AI platforms?</p>",
+          "type": "MULTIPLE_CHOICE",
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "f9751af4-7e9d-4979-8a46-226c173bb785"
+        }
+      ],
+      "settings": {
+        "passingScore": 80,
+        "retryCount": -1,
+        "continueType": "continue",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 4.3",
+      "type": "quiz",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t",
+      "createdAt": "2026-07-24T21:20:40.663Z",
+      "deleted": false,
+      "duplicatedFromId": "AbXx-_7SqPxNzN_NUXSGFPyOMaP7AjE8",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 4,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:20:40.663Z"
+    },
+    {
+      "description": "",
+      "id": "ITXmiR16R7l4iy-6OnjVluFgWjEPHYyA",
+      "items": [
+        {
+          "id": "cmrtjycck004o3d7bgpu8s21w",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmrtjycck004p3d7bwfnks94f",
+              "type": "exit-course",
+              "label": "Exit",
+              "description": "<div data-editor-id=\"8e32ecc7-2a88-4a92-aafc-43ce50d32713\"><p><strong>You completed Module 4 of this course.<br class=\"break-when-trailing\">Click \"Exit\" to go back to the course navigation and proceed to Module 5!</strong></p></div>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "globalBlockId": "00ab1d88-1ce8-498e-aac0-94e0e2fe2bb9"
+        }
+      ],
+      "settings": {},
+      "title": "Module Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t",
+      "createdAt": "2026-07-24T21:20:40.663Z",
+      "deleted": false,
+      "duplicatedFromId": "XUx8-0vX2Ns0QszV7dCxpWG_vjjr7wsX",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 7,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:30:16.683Z"
+    }
+  ],
+  "title": "Module 4: Generative AI Best Practices",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t_rise",
+    "resetLearnerData": true,
+    "quizId": "kW9E983Nodu6eaUXx4zbogk9ug7XJS-z",
+    "storylineId": null,
+    "completionPercentage": 100,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Module 4: Generative AI Best Practices",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "PGK-PtYJ-LaAX3qM1QpPEQOqER36Cm9G",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "translationModelVersion": null,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "3zHLW5lsyfA-HtH2AfEKEUEoU4j8oH1t",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124c8e",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "TxRzJPDiEqA5mC6CRGJCMIczmnItUidM",
+  "copyOf": "fDJYZpUPOpboDXO0rB29L9qiEcCz7NWx",
+  "order": "1787861074670",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-24T21:20:38.593Z",
+  "updatedAt": "2026-08-27T20:04:34.670Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124c8e",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/9_hospitality.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-27T20:04:36.339Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {},
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-07-24T21:30:16.683Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-27T20:04:36.339Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

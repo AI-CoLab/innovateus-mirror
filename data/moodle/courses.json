@@ -1,0 +1,947 @@
+[
+  {
+    "id": 31,
+    "fullname": "Innovation Skills Accelerator",
+    "displayname": "Innovation Skills Accelerator",
+    "shortname": "Innovation Skills",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/3137/course/overviewfiles/insa-course-image.png",
+    "categoryid": 5,
+    "categoryname": "InnovateUS",
+    "sortorder": 10006,
+    "summary": "<p dir=\"ltr\" style=\"text-align:left;\"></p><ul><li id=\"module-366\"><div><div><div><div><div><div><div><h3><strong>Welcome to the Innovation Skills Accelerator Course!</strong></h3><p dir=\"ltr\">Based on research with thousands of public servants across three continents, our problem-solving curriculum gives you the digital, data and innovation skills to deliver more effective, equitable and engaged policies and services. </p><br /><p dir=\"ltr\">This course is presented by Professor Beth Simone Noveck.</p><br /><p dir=\"ltr\">Beth Simone Noveck is a professor at <a href=\"https://www.northeastern.edu/\">Northeastern University</a>, where she directs <a href=\"https://burnes.northeastern.edu/\">the Burnes Center for Social Change</a> and its partner project, <a href=\"https://thegovlab.org/\">The GovLab</a>. In 2019, Beth was appointed the State of New Jersey’s first Chief Innovation Officer by Governor Phil Murphy, where her team are using new technology to improve equitable government delivery of services. Previously, Beth served in the White House as the first United States Deputy Chief Technology Officer under President Obama.</p></div></div></div></div></div></div></div></li></ul><br /><p></p>",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "insa-course-image.png",
+        "filepath": "/",
+        "filesize": 422268,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3137/course/overviewfiles/insa-course-image.png",
+        "timemodified": 1705489204,
+        "mimetype": "image/png"
+      }
+    ],
+    "showactivitydates": true,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "tiles",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1673240400,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 1,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "fullname": "Human Centered Design",
+    "displayname": "Human Centered Design",
+    "shortname": "Human Centered Design 2024",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/3255/course/overviewfiles/DALL%C2%B7E%202024-07-03%2016.38.40%20-%20A%20simple%20abstract%20art%20piece%20with%20a%20color%20theme%20focusing%20on%20shades%20of%20yellow%20and%20white.%20The%20composition%20should%20feature%20a%20blend%20of%20these%20colors%20in%20a%20min%20copy.jpg",
+    "categoryid": 5,
+    "categoryname": "InnovateUS",
+    "sortorder": 10005,
+    "summary": "",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "DALL·E 2024-07-03 16.38.40 - A simple abstract art piece with a color theme focusing on shades of yellow and white. The composition should feature a blend of these colors in a min copy.jpg",
+        "filepath": "/",
+        "filesize": 269895,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3255/course/overviewfiles/DALL%C2%B7E%202024-07-03%2016.38.40%20-%20A%20simple%20abstract%20art%20piece%20with%20a%20color%20theme%20focusing%20on%20shades%20of%20yellow%20and%20white.%20The%20composition%20should%20feature%20a%20blend%20of%20these%20colors%20in%20a%20min%20copy.jpg",
+        "timemodified": 1720039156,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": true,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "tiles",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1705554000,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "fullname": "What Works: Fast Field Scanning with AI",
+    "displayname": "What Works: Fast Field Scanning with AI",
+    "shortname": "Fast Field Scanning with AI",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/3949/course/overviewfiles/DALL%C2%B7E%202024-05-22%2014.43.47%20-%20A%20simple%20abstract%20art%20piece%20with%20a%20color%20theme%20focusing%20on%20varying%20shades%20of%20blue%2C%20white%2C%20and%20incorporating%20a%20touch%20of%20teal.%20The%20composition%20should%20fe.jpeg",
+    "categoryid": 5,
+    "categoryname": "InnovateUS",
+    "sortorder": 10004,
+    "summary": "<p dir=\"ltr\" style=\"text-align:left;\"></p><p dir=\"ltr\">According to <a href=\"https://www.nationsreportcard.gov/reading/nation/achievement/?grade=4\" target=\"_blank\" rel=\"noreferrer noopener\">The Nation’s Report Card</a>, only 33% of fourth graders were proficient readers in 2022. How can we improve that statistic? The number of people who die giving birth in America each year has <a href=\"https://everymothercounts.org/giving-birth-in-america/#:~:text=The%20number%20of%20women%20who,white%20women%20in%20the%20U.S.\" target=\"_blank\" rel=\"noreferrer noopener\">nearly doubled</a> in the last two decades. How do we reduce that number? The year 2023 was the <a href=\"https://www.climate.gov/news-features/featured-images/2023-was-warmest-year-modern-temperature-record#:~:text=Details,decade%20(2014%E2%80%932023).\" target=\"_blank\" rel=\"noreferrer noopener\">warmest year on record</a>. How can we reverse that trend?</p><p><strong style=\"font-size:0.9375rem;\">What Works: Fast Field Scanning with AI</strong><span style=\"font-size:0.9375rem;\"> is designed to help public professionals accelerate the process of finding and implementing urgently-needed evidence-based solutions to public problems.</span><strong style=\"font-size:0.9375rem;\"> </strong></p><p dir=\"ltr\">The course teaches public professionals methods for researching, evaluating, and identifying what works and determining whether solutions that worked in one jurisdiction will work in their communities.</p><p dir=\"ltr\">Comprising eight modules, the course equips learners with skills for getting smarter, faster from data from documents and people, while also providing hands-on advice for using Generative AI (GenAI) to improve the learning process.</p><p dir=\"ltr\">Designed for busy professionals, the course will help you scan for the most effective policies, innovations, and interventions and build them with the communities you serve.  </p><p><strong id=\"docs-internal-guid-3d812ef8-7fff-cdc5-619d-2a7451401cc6\">This course is brought to you in partnership with <a href=\"https://results4america.org/\">Results for America</a> and <a href=\"https://www.solutionsjournalism.org/\">Solutions Journalism Network</a>.</strong></p><br /><p></p>",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "DALL·E 2024-05-22 14.43.47 - A simple abstract art piece with a color theme focusing on varying shades of blue, white, and incorporating a touch of teal. The composition should fe.jpeg",
+        "filepath": "/",
+        "filesize": 167025,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/3949/course/overviewfiles/DALL%C2%B7E%202024-05-22%2014.43.47%20-%20A%20simple%20abstract%20art%20piece%20with%20a%20color%20theme%20focusing%20on%20varying%20shades%20of%20blue%2C%20white%2C%20and%20incorporating%20a%20touch%20of%20teal.%20The%20composition%20should%20fe.jpeg",
+        "timemodified": 1716369365,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": true,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "tiles",
+    "showgrades": 1,
+    "newsitems": 0,
+    "startdate": 1717128000,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 1,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "fullname": "Using Generative AI at Work",
+    "displayname": "Using Generative AI at Work",
+    "shortname": "Using GenAI at Work",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/4217/course/overviewfiles/DALL%C2%B7E%202024-07-03%2016.32.28%20-%20A%20simple%20abstract%20art%20piece%20with%20a%20color%20theme%20focusing%20on%20shades%20of%20green%2C%20white%2C%20and%20incorporating%20a%20touch%20of%20light%20green.%20The%20composition%20should%20fe%20copy.jpg",
+    "categoryid": 8,
+    "categoryname": "Responsible AI for Public Sector Professionals",
+    "sortorder": 20004,
+    "summary": "<p dir=\"ltr\" style=\"text-align:left;\"><span id=\"docs-internal-guid-559b1f45-7fff-ea9f-62b4-c7ebff193bf9\">This course provides public sector professionals with a comprehensive understanding of Generative AI (GenAI) and its potential to revolutionize work in government. Through hands-on activities and best practices, participants learn to use GenAI as a powerful companion to assist in their daily tasks while maintaining public trust and safety. The course covers the fundamentals of GenAI, its practical applications, prompt engineering techniques, risk mitigation strategies, and broader societal challenges. By the end of the course, participants will be equipped to harness the power of GenAI responsibly and effectively in their public sector roles.</span></p>",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "DALL·E 2024-07-03 16.32.28 - A simple abstract art piece with a color theme focusing on shades of green, white, and incorporating a touch of light green. The composition should fe copy.jpg",
+        "filepath": "/",
+        "filesize": 393489,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/4217/course/overviewfiles/DALL%C2%B7E%202024-07-03%2016.32.28%20-%20A%20simple%20abstract%20art%20piece%20with%20a%20color%20theme%20focusing%20on%20shades%20of%20green%2C%20white%2C%20and%20incorporating%20a%20touch%20of%20light%20green.%20The%20composition%20should%20fe%20copy.jpg",
+        "timemodified": 1720038791,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": true,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self",
+      "autoenrol"
+    ],
+    "format": "tiles",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1719547200,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "fullname": "Building AI That Works: Implementation Strategies for Public Service",
+    "displayname": "Building AI That Works: Implementation Strategies for Public Service",
+    "shortname": "Building AI That Works",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/5151/course/overviewfiles/ai-part2.jpg",
+    "categoryid": 8,
+    "categoryname": "Responsible AI for Public Sector Professionals",
+    "sortorder": 20003,
+    "summary": "<p>The course \"Building AI That Works: Implementation Strategies for Public Service\" is designed to equip government leaders and decision-makers with the knowledge and strategies needed to make informed decisions about AI implementation in their organizations. Through a combination of clear explanations, real-world examples, and practical guidance, the course covers key topics such as different AI approaches, selecting and scaling impactful AI projects, ensuring data quality, developing AI talent, and navigating ethical considerations and risk management practices. By the end of the course, participants will have a solid foundation for confidently leading their organizations into the age of AI, harnessing its power to improve public services and decision-making while maintaining public trust and promoting responsible AI use.</p><p>This course was formerly titled \"Scaling AI in your Organization\"</p>",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "ai-part2.jpg",
+        "filepath": "/",
+        "filesize": 383901,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/5151/course/overviewfiles/ai-part2.jpg",
+        "timemodified": 1723134936,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": true,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self",
+      "autoenrol"
+    ],
+    "format": "tiles",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1723089600,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "fullname": "Using GenAI in Government",
+    "displayname": "Using GenAI in Government",
+    "shortname": "Using GenerativeAI in Government",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/8846/course/overviewfiles/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+    "categoryid": 8,
+    "categoryname": "Responsible AI for Public Sector Professionals",
+    "sortorder": 20002,
+    "summary": "<div style=\"background-color:#fafafa;padding:2rem;\">\r\n<h3><strong>Welcome to the Using GenAI in Government Course!</strong></h3>\r\n<p dir=\"ltr\" style=\"text-align:left;\">Through hands-on activities, this course showcases the practical ways you can use Generative Artificial Intelligence (GenAI) in your work as a public professional.</p>\r\n<p>You can navigate between the modules in the course by clicking the \"next activity\" or \"previous activity\" buttons which you will see at the top of each module.</p>\r\n<p>PLEASE NOTE: This is Part 1 of a 2-part Course. Once you complete these modules, please scroll down to find the link to Part 2 (Understanding Risks and Building Resilience) below.</p>\r\n<p>Have Questions? Contact us at hello@innovate-us.org!</p>\r\n</div>",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+        "filepath": "/",
+        "filesize": 130931,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/8846/course/overviewfiles/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+        "timemodified": 1750818254,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": false,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self",
+      "autoenrol"
+    ],
+    "format": "softcourse",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1750824000,
+    "enddate": 1782360000,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 1,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 1,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "fullname": "Understanding Risks and Building Resilience [Responsible AI for Public Professionals]",
+    "displayname": "Understanding Risks and Building Resilience [Responsible AI for Public Professionals]",
+    "shortname": "Understanding Risks and Building Resilience",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/8849/course/overviewfiles/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_0-2.jpg",
+    "categoryid": 8,
+    "categoryname": "Responsible AI for Public Sector Professionals",
+    "sortorder": 20001,
+    "summary": "",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_0-2.jpg",
+        "filepath": "/",
+        "filesize": 107802,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/8849/course/overviewfiles/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_0-2.jpg",
+        "timemodified": 1750820466,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": false,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self",
+      "autoenrol",
+      "autoenrol"
+    ],
+    "format": "softcourse",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1750824000,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "fullname": "Designing AI Projects in Government",
+    "displayname": "Designing AI Projects in Government",
+    "shortname": "Designing AI Projects in Government",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/8852/course/overviewfiles/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+    "categoryid": 8,
+    "categoryname": "Responsible AI for Public Sector Professionals",
+    "sortorder": 20005,
+    "summary": "",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+        "filepath": "/",
+        "filesize": 130931,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/8852/course/overviewfiles/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+        "timemodified": 1750822158,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": false,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "softcourse",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1750824000,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "fullname": "Implementing AI Projects in Government",
+    "displayname": "Implementing AI Projects in Government",
+    "shortname": "Implementing AI Projects in Government",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/8874/course/overviewfiles/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+    "categoryid": 8,
+    "categoryname": "Responsible AI for Public Sector Professionals",
+    "sortorder": 20006,
+    "summary": "",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+        "filepath": "/",
+        "filesize": 130931,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/8874/course/overviewfiles/claudio0060_A_sophisticated_and_abstract_graphic_design._A_gr_727180be-ef2a-446e-9a82-2e9ca2694110_3-2.jpg",
+        "timemodified": 1750883045,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": false,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "softcourse",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1750910400,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "fullname": "Everyday Tools and Best Practices: Responsible AI for Public Sector Legal Professionals",
+    "displayname": "Everyday Tools and Best Practices: Responsible AI for Public Sector Legal Professionals",
+    "shortname": "Everyday Tools and Best Practices",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/9070/course/overviewfiles/claudio0060_A_top-down_minimalist_collage_of_a_desk._On_one_s_257d2c7f-f920-443c-8425-008390494348_1-2-3.jpg",
+    "categoryid": 9,
+    "categoryname": "Public Sector Legal Professionals",
+    "sortorder": 30002,
+    "summary": "<div style=\"background-color:#fafafa;padding:2rem;\">\r\n    <h3>Welcome!</h3>\r\n    <p dir=\"ltr\" style=\"text-align:left;\"><span id=\"docs-internal-guid-667a4e1a-7fff-da59-4555-daa924e559da\">This course focuses on everyday tools and best practices. We'll explain AI fundamentals, explore potential risks and how to overcome them, and demonstrate practical applications for your daily work. You'll learn how to write effective prompts and how to incorporate GenAI tools into your everyday work. We focus on how you can get the most out of these tools while also discussing the risks of using GenAI in public sector legal practice and how to mitigate them.</span><br /></p>\r\n    <p>Once you have completed all the modules, come back to this page to claim your certificate!</p>\r\n    <p dir=\"ltr\" style=\"text-align:left;\"><span>Have any questions or need assistance? Write to us at hello@innovate-us.org!</span></p>\r\n</div>",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "claudio0060_A_top-down_minimalist_collage_of_a_desk._On_one_s_257d2c7f-f920-443c-8425-008390494348_1-2-3.jpg",
+        "filepath": "/",
+        "filesize": 65079,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/9070/course/overviewfiles/claudio0060_A_top-down_minimalist_collage_of_a_desk._On_one_s_257d2c7f-f920-443c-8425-008390494348_1-2-3.jpg",
+        "timemodified": 1752107560,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": false,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "softcourse",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1751601600,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "fullname": "Designing AI Policy, Projects and Societal Impact: Responsible AI for Public Sector Legal Professionals",
+    "displayname": "Designing AI Policy, Projects and Societal Impact: Responsible AI for Public Sector Legal Professionals",
+    "shortname": "Designing AI Policy, Projects and Societal Impact",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/9166/course/overviewfiles/claudio0060_A_top-down_minimalist_collage_of_a_desk._On_one_s_257d2c7f-f920-443c-8425-008390494348_0-2.jpg",
+    "categoryid": 9,
+    "categoryname": "Public Sector Legal Professionals",
+    "sortorder": 30001,
+    "summary": "<div style=\"background-color:#fafafa;padding:2rem;\">\r\n    <h3>Welcome!</h3>\r\n    <p dir=\"ltr\" style=\"text-align:left;\"><span id=\"docs-internal-guid-667a4e1a-7fff-da59-4555-daa924e559da\">This course delves into policy, projects, and societal impact. We'll cover data governance issues, how to design your own AI projects, and broader societal challenges like copyright implications and potential misuses. For those interested, we'll also provide guidance on developing AI governance policies.</span><br /></p>\r\n    <p>Once you have completed all the modules, come back to this page to claim your certificate!</p>\r\n    <p dir=\"ltr\" style=\"text-align:left;\"><span>Have any questions or need assistance? Write to us at hello@innovate-us.org!</span></p>\r\n</div>",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "claudio0060_A_top-down_minimalist_collage_of_a_desk._On_one_s_257d2c7f-f920-443c-8425-008390494348_0-2.jpg",
+        "filepath": "/",
+        "filesize": 43600,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/9166/course/overviewfiles/claudio0060_A_top-down_minimalist_collage_of_a_desk._On_one_s_257d2c7f-f920-443c-8425-008390494348_0-2.jpg",
+        "timemodified": 1752177106,
+        "mimetype": "image/jpeg"
+      }
+    ],
+    "showactivitydates": false,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "softcourse",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1752206400,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "fullname": "Designing Democratic Engagement with AI: Practical Strategies for Public Participation",
+    "displayname": "Designing Democratic Engagement with AI: Practical Strategies for Public Participation",
+    "shortname": "Designing Democratic Engagement with AI",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/61901/course/overviewfiles/democratic-engagement-course.png",
+    "categoryid": 5,
+    "categoryname": "InnovateUS",
+    "sortorder": 10008,
+    "summary": "<div style=\"background-color:#fafafa;padding:2rem;\">\r\n<h3>Welcome!</h3>\r\n<p dir=\"ltr\" style=\"text-align:left;\"><span id=\"docs-internal-guid-667a4e1a-7fff-da59-4555-daa924e559da\">This course provides public sector professionals with a practical understanding of community engagement and its role in improving public service delivery. Through hands-on activities and best practices, participants learn to design and run engagement as a powerful tool for connecting with the communities they serve. The course covers the fundamentals of engagement, practical approaches across contexts, methods for consultation, deliberation, and co-creation, and strategies for genuinely listening to communities. By the end of the course, participants will be equipped to plan and deliver engagement effectively and confidently in their public sector roles.</span></p>\r\n<p dir=\"ltr\" style=\"text-align:left;\">Have any questions or need assistance? Write to us at hello@innovate-us.org!</p>\r\n</div>",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [
+      {
+        "filename": "democratic-engagement-course.png",
+        "filepath": "/",
+        "filesize": 1991349,
+        "fileurl": "https://course.innovate-us.org/webservice/pluginfile.php/61901/course/overviewfiles/democratic-engagement-course.png",
+        "timemodified": 1785095291,
+        "mimetype": "image/png"
+      }
+    ],
+    "showactivitydates": false,
+    "showcompletionconditions": false,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "softcourse",
+    "showgrades": 0,
+    "newsitems": 0,
+    "startdate": 1785124800,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "fullname": "AI For Public Sector Procurement",
+    "displayname": "AI For Public Sector Procurement",
+    "shortname": "AI For Public Sector Procurement",
+    "courseimage": "https://course.innovate-us.org/pluginfile.php/75961/course/generated/course.svg",
+    "categoryid": 5,
+    "categoryname": "InnovateUS",
+    "sortorder": 10001,
+    "summary": "",
+    "summaryformat": 1,
+    "summaryfiles": [],
+    "overviewfiles": [],
+    "showactivitydates": true,
+    "showcompletionconditions": true,
+    "contacts": [],
+    "enrollmentmethods": [
+      "manual",
+      "self"
+    ],
+    "format": "softcourse",
+    "showgrades": 1,
+    "newsitems": 0,
+    "startdate": 1794286800,
+    "enddate": 0,
+    "maxbytes": 0,
+    "showreports": 0,
+    "visible": 1,
+    "groupmode": 0,
+    "groupmodeforce": 0,
+    "defaultgroupingid": 0,
+    "enablecompletion": 1,
+    "completionnotify": 0,
+    "lang": "",
+    "theme": "",
+    "marker": 0,
+    "filters": [
+      {
+        "filter": "displayh5p",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mathjaxloader",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "glossary",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "filtercodes",
+        "localstate": 0,
+        "inheritedstate": 1
+      },
+      {
+        "filter": "mediaplugin",
+        "localstate": 0,
+        "inheritedstate": -1
+      }
+    ]
+  }
+]

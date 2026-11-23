@@ -1,0 +1,2232 @@
+{
+  "id": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "title": "Module 6: Ethical Risk Frameworks and Toolkits",
+  "sharePassword": "",
+  "description": "<p>This module introduces the critical importance of robust AI risk management and the role of the National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI RMF) in ensuring responsible and safe AI deployment. It explores the seven key characteristics of trustworthy AI and the four functions outlined in the AI RMF that can help reduce risk and maximize benefits. The module also discusses the unique risks posed by Generative AI (GenAI) and provides practical next steps for implementing AI risk management in an organization.</p>",
+  "shareId": "D1cVkTDRjfqxAo6C6VakF2DORAYptOrT",
+  "copyOf": "",
+  "order": "1727121074332",
+  "fonts": null,
+  "media": {},
+  "coverImage": {
+    "media": {
+      "image": {
+        "key": "rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/6tu4EwHkPRgFUPFs-DALL%25C2%25B7E%25202024-08-10%252015.36.16%2520-%2520A%2520simple%2520abstract%2520art%2520piece%2520with%2520a%2520color%2520theme%2520focusing%2520on%2520dark%2520blue%2520and%2520white%252C%2520with%2520more%2520curved%2520and%2520flowing%2520lines.%2520The%2520composition%2520should%2520feature%2520a%2520b%2520copy.jpg",
+        "crushedKey": "4ztN-Z6yLR9bKnjR.jpg",
+        "originalUrl": "DALL·E 2024-08-10 15.36.16 - A simple abstract art piece with a color theme focusing on dark blue and white, with more curved and flowing lines. The composition should feature a b copy.jpg",
+        "sourcedFrom": "USER",
+        "useCrushedKey": true,
+        "src": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/19_abstract.jpg"
+      }
+    }
+  },
+  "lessons": [
+    {
+      "id": "U7ETx-EvHBybH8UOnFUNcWdHgpe5nKHt",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Welcome Back!",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0r7o89v002q356u7pqgahkl",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0r7o89x002w356u0xry5yhs",
+              "heading": "<p><strong>Module 6: Ethical Risk Frameworks and Toolkits</strong></p>",
+              "paragraph": "<p>This module introduces the critical importance of robust AI risk management and the role of the National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI RMF) in ensuring responsible and safe AI deployment. It explores the seven key characteristics of trustworthy AI and the four functions outlined in the AI RMF that can help reduce risk and maximize benefits. The module also discusses the unique risks posed by Generative AI (GenAI) and provides practical next steps for implementing AI risk management in an organization.</p><p><br class=\"break-when-trailing\">After each video ends, a continue button appears below the video player. Click it to reveal the additional navigation and the InnovateUS website link containing readings and resources. Learners with screen readers can use the down arrow key to navigate through the video player’s controls and access the continue button. <strong><em>Another</em></strong> “continue” button will appear to move on to the Self-Assessments after each video. </p><ul><li><p><strong>Reminder:</strong> Consult with your organization’s policies before using any tool or platform. &nbsp;</p></li><li><p><strong>Disclaimer</strong>: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</p></li></ul>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r7pq2m000i356uoodgdifc",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r7pq2n000j356u8tshdyt5",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "Ia5efIwd2TtFNK9sf3BI-6cTqI8BB1aL",
+      "deleted": false,
+      "createdAt": "2024-09-06T21:10:24.533Z",
+      "updatedAt": "2024-09-06T21:12:35.056Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "Ia5efIwd2TtFNK9sf3BI-6cTqI8BB1aL",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Video 6.1: Risk in the AI RMF",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrwdqu000033b7cxh7f7pkm",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrwdqu000093b7cj49dn9mb",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video introduces the critical importance of robust AI risk management and the role of the National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI RMF) in ensuring responsible and safe AI deployment. It explains how the AI RMF is a flexible guide to help organizations identify, assess, and manage AI risks in a manner appropriate to their specific contexts and risk tolerances.&nbsp;</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrwes16000q3b7cy2iuhgzp",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrwes1f000r3b7cs1lg5ujp",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzohqopd000s3b6erdr7w1nl",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzohqope000t3b6ezg5xgidt",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%206.1%20V3.mp4",
+                  "url": "transcoded-kUl2bGRaZVmxZrDA-2425GovLabAIP2%25206.1%2520V3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%206.1%20V3.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj7mpn00153b6ejok8a19w",
+                      "key": "2425GovLabAIP2%206.1%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 6.1 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 325,
+                  "inputKey": "rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/kUl2bGRaZVmxZrDA-2425GovLabAIP2%206.1%20V3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/transcoded-kUl2bGRaZVmxZrDA-2425GovLabAIP2%25206.1%2520V3.0000000.jpg",
+                  "captionUID": "clzoj7my100163b6e9raoll3x",
+                  "originalUrl": "2425GovLabAIP2 6.1 V3.mp4",
+                  "transcodeId": "1723315856579-7k7e6r"
+                }
+              },
+              "caption": "<p>Video 6.1: Risk in the AI RMF</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6rwow001v3b6ebr2iloth",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6rwox001w3b6eplrtbudo",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0lx8z001b3b6ey7u1ff5w",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0lx90001c3b6ef0xd5pe3",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6ie1a002p356uzo0innhn",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6ie1b002q356uln2b6zma",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:23:18.452Z",
+      "updatedAt": "2024-09-06T20:38:53.246Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 0,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "8pFHtPAdwXrKy5dJ8_6Dv_gbLTqXNscE",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Self Assessment 6.1",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrwf3wo00193b7cxr96nh4n",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>The NIST AI Risk Management Framework (AI RMF) is best described as:</p>",
+          "answers": [
+            {
+              "id": "clyrwf3wp001a3b7c3xuepumk",
+              "title": "<p>A rigid rulebook that must be followed strictly</p>",
+              "correct": true,
+              "feedback": "<p>The AI RMF is not a rigid rulebook but a flexible guide</p>"
+            },
+            {
+              "id": "clyrwf3wp001c3b7ceaumzm14",
+              "title": "<p>A flexible guide to help organizations identify, assess, and manage AI risks</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrwf3wp001d3b7cl1tkkcvq",
+              "title": "<p>A set of mandatory regulations for AI use in government</p>",
+              "feedback": "<p>The AI RMF is not a set of mandatory regulations</p>"
+            },
+            {
+              "id": "clyrwf3wp001b3b7cggwcuo03",
+              "title": "<p>A comprehensive list of all possible AI risks</p>",
+              "correct": true,
+              "feedback": "<p>The AI RMF does not provide an exhaustive list of all possible AI risks</p>"
+            }
+          ],
+          "correct": "clyrwf3wp001c3b7ceaumzm14",
+          "corrects": [
+            "clyrwf3wp001a3b7c3xuepumk",
+            "clyrwf3wp001b3b7cggwcuo03"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "feedbackIncorrect": "<p>The NIST AI Risk Management Framework is a flexible guide to help organizations identify, assess, and manage AI risks appropriate to their specific contexts and risk tolerances, not a rigid rulebook, set of mandatory regulations, or comprehensive list of all possible AI risks</p>"
+        },
+        {
+          "id": "clyrwh5rn00223b7c18nmztxq",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Who is primarily responsible for reducing AI risks according to the NIST AI Risk Management Framework?</p>",
+          "answers": [
+            {
+              "id": "clyrwf3wp001a3b7c3xuepumk",
+              "title": "<p>Data scientists who develop AI models</p>",
+              "correct": true,
+              "feedback": "<p>Data scientists are not solely responsible for reducing AI risks</p>"
+            },
+            {
+              "id": "clyrwf3wp001c3b7ceaumzm14",
+              "title": "<p>Domain experts and policy professionals during planning and design</p>",
+              "feedback": "<p>Domain experts and policy professionals are not solely responsible for reducing AI risks</p>"
+            },
+            {
+              "id": "clyrwf3wp001d3b7cl1tkkcvq",
+              "title": "<p>IT staff, executives, managers, and end-users during deployment and usage</p>",
+              "feedback": "<p>IT staff, executives, managers, and end-users are not solely responsible for reducing AI risks</p>"
+            },
+            {
+              "id": "clyrwf3wp001b3b7cggwcuo03",
+              "title": "<p>All of the above</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "clyrwf3wp001b3b7cggwcuo03",
+          "corrects": [
+            "clyrwf3wp001a3b7c3xuepumk",
+            "clyrwf3wp001b3b7cggwcuo03"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:24:41.944Z",
+      "updatedAt": "2024-08-29T02:35:47.656Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "ksPUegbFQreKf8ryVys-KnzzgWejbW7h",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Video 6.2: 7 characteristics of trustworthy AI",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrwj1lc00243b7cxzaqi330",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrwj1lc002a3b7cx9o8obch",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video explores the seven key characteristics of trustworthy AI identified in the AI Risk Management Framework (AI RMF). It provides examples of associated risks for each characteristic and emphasizes the importance of assessing all seven characteristics to ensure a thorough AI risk assessment and make informed decisions about an AI system&#39;s deployment.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrwj63z002r3b7cbnvvcxud",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrwj63z002s3b7c4bvmeih2",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzohu207001y3b6eeb45a502",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzohu208001z3b6eibfufvsx",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%206.2%20V3.mp4",
+                  "url": "transcoded-ltOYSJIGWihn_vZx-2425GovLabAIP2%25206.2%2520V3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%206.2%20V3.jpg",
+                  "captions": [
+                    {
+                      "id": "cm0fdb99u002q3b6e3oe5xg4s",
+                      "key": "2425GovLabAIP2%206.2%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 6.2 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 384,
+                  "inputKey": "rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/ltOYSJIGWihn_vZx-2425GovLabAIP2%206.2%20V3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/transcoded-ltOYSJIGWihn_vZx-2425GovLabAIP2%25206.2%2520V3.0000000.jpg",
+                  "captionUID": "cm0fdb9k8002r3b6e35zdlfev",
+                  "originalUrl": "2425GovLabAIP2 6.2 V3.mp4",
+                  "transcodeId": "1723315996476-98pjud"
+                }
+              },
+              "caption": "<p>Video 6.2: 7 characteristics of trustworthy AI</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6saq100493b6e2hf84r0h",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6saq2004a3b6ejymgjkrr",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0nd1g003r3b6ez466iml1",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0nd1h003s3b6esbpda6jp",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6img2005u356u4z1charg",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6img2005v356uljqreu4r",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:27:32.840Z",
+      "updatedAt": "2024-09-06T20:39:04.132Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 2,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "X2heVOecAzPeJiQVCTKrZN_hfmj-COAm",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Self Assessment 6.2",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrwjmxu003a3b7cu38s43lr",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Focusing too narrowly on one or two well-known risk areas in AI systems may lead to:</p>",
+          "answers": [
+            {
+              "id": "clyrwjmxu003b3b7c2y0hfemj",
+              "title": "<p>Overlooking critical problems in other aspects of the AI system</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrwjmxu003d3b7cbik7hv5m",
+              "title": "<p>Increased efficiency in AI risk management</p>",
+              "feedback": "<p>Focusing too narrowly on a few risk areas may decrease efficiency in AI risk management by ignoring other important aspects</p>"
+            },
+            {
+              "id": "clyrwjmxu003e3b7c1kxurbsk",
+              "title": "<p>Improved fairness and transparency of AI systems</p>",
+              "feedback": "<p>Focusing too narrowly on a few risk areas may not improve fairness and transparency if other relevant characteristics are ignored</p>"
+            },
+            {
+              "id": "clyrwjmxu003c3b7cex9pkpim",
+              "title": "<p>Enhanced explainability of AI decision-making processes</p>",
+              "correct": true,
+              "feedback": "<p>Focusing too narrowly on a few risk areas may not enhance explainability if other relevant characteristics are ignored</p>"
+            }
+          ],
+          "correct": "clyrwjmxu003b3b7c2y0hfemj",
+          "corrects": [
+            "clyrwjmxu003b3b7c2y0hfemj",
+            "clyrwjmxu003c3b7cex9pkpim"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clyrwl08l00403b7cv75sqf9n",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>According to the NIST AI Risk Management Framework, which of the following are characteristics of accountable and transparent AI? (Select all that apply)</p>",
+          "answers": [
+            {
+              "id": "clyrwjmxu003b3b7c2y0hfemj",
+              "title": "<p>How an AI decision system is used should be made transparent to users</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrwjmxu003d3b7cbik7hv5m",
+              "title": "<p>It should be clear who is responsible for the outcomes of using the AI system</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrwjmxu003e3b7c1kxurbsk",
+              "title": "<p>The AI system should be able to explain its decision-making process in detail</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrwjmxu003c3b7cex9pkpim",
+              "title": "<p>The AI system should be able to make decisions without human oversight</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "clyrwjmxu003b3b7c2y0hfemj",
+          "corrects": [
+            "clyrwjmxu003b3b7c2y0hfemj",
+            "clyrwjmxu003d3b7cbik7hv5m"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>According to the NIST AI Risk Management Framework, the characteristics of accountable and transparent AI are that how an AI decision system is used should be made transparent to users, and it should be clear who is responsible for the outcomes of using the system. Explainability is a separate characteristic, and accountability and transparency do not imply that AI systems should make decisions without human oversight.</p>"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:28:12.572Z",
+      "updatedAt": "2024-08-29T02:35:57.217Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 3,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "WTbrD0TBL8b6iQPQiVHXMtR3QcNtV9Tp",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Video 6.3: 4 functions",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrwnje8004c3b7cjrwf6k8f",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrwnje9004i3b7cr6oh0m32",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video discusses the four functions (Govern, Map, Measure, and Manage) outlined in the AI Risk Management Framework (AI RMF) that can help reduce risk and maximize benefits in each of the seven characteristics of trustworthy AI. It explains how the Govern function focuses on establishing the ecosystem for the other three functions to succeed, while Map, Measure, and Manage are iterative steps for managing risk throughout the AI lifecycle. The video also emphasizes the importance of tailoring the AI RMF activities to an organization&#39;s specific context and treating the framework as a tool for thinking and judicious action rather than a checklist.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrwnnqq004z3b7call3l1ay",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrwnnqq00503b7cqjsi54oy",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzohy4xs001v3b6eguf45w0u",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzohy4xt001w3b6ehsjk4syy",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%206.3%20V3.mp4",
+                  "url": "transcoded-ammoaM3sx8h5gcZA-2425GovLabAIP2%25206.3%2520V3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%206.3%20V3.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj8l8q003r3b6ev10n39td",
+                      "key": "2425GovLabAIP2%206.3%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 6.3 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 303,
+                  "inputKey": "rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/ammoaM3sx8h5gcZA-2425GovLabAIP2%206.3%20V3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/transcoded-ammoaM3sx8h5gcZA-2425GovLabAIP2%25206.3%2520V3.0000000.jpg",
+                  "captionUID": "clzoj8lhg003s3b6ehujngj8a",
+                  "originalUrl": "2425GovLabAIP2 6.3 V3.mp4",
+                  "transcodeId": "1723316210013-9xvegp"
+                }
+              },
+              "caption": "<p>Video 6.3: 4 functions</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6t14e006p3b6e2hsszqsq",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6t14e006q3b6elzsh17s2",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0oc3r00673b6eod1mkyah",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0oc3s00683b6e305ultg2",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6iv8i008z356urvva6fl9",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6iv8i0090356uiri02dkm",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:30:58.920Z",
+      "updatedAt": "2024-09-06T20:39:15.533Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 4,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "DnMoArM0F7pmazjp_xD8Av15HCnma7d9",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Self Assessment 6.3",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrwnxsr005i3b7cmfe6t197",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>An AI system that is transparent about how it is used and who is responsible for its outcomes is also guaranteed to be explainable and interpretable.</p>",
+          "answers": [
+            {
+              "id": "clyrwnxsr005j3b7cuhdj2xh4",
+              "title": "<p>True</p>",
+              "correct": true,
+              "feedback": "<p>Transparency and accountability do not guarantee explainability and interpretability, as these are separate characteristics in the AI RMF</p>"
+            },
+            {
+              "id": "clyrwnxsr005l3b7cxibxgq93",
+              "title": "<p>False</p>",
+              "feedback": ""
+            }
+          ],
+          "correct": "clyrwnxsr005l3b7cxibxgq93",
+          "corrects": [
+            "clyrwnxsr005j3b7cuhdj2xh4"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clyrwpf2y006g3b7crpb0wwtc",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>In the NIST AI Risk Management Framework, which function focuses on establishing the ecosystem for the other functions to succeed?</p>",
+          "answers": [
+            {
+              "id": "clyrwnxsr005j3b7cuhdj2xh4",
+              "title": "<p>Govern</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrwnxsr005l3b7cxibxgq93",
+              "title": "<p>Map</p>",
+              "feedback": "<p>Map involves activities to identify specific risks for a particular AI project, not establishing the ecosystem for other functions</p>"
+            },
+            {
+              "id": "clyrwqfwf006h3b7ca6ja4vuu",
+              "title": "<p>Measure</p>",
+              "feedback": "<p>Measure involves activities to measure the level of identified risks, not establishing the ecosystem for other functions</p>"
+            },
+            {
+              "id": "clyrwqkzq006i3b7cgm3gyqk2",
+              "title": "<p>Manage</p>",
+              "feedback": "<p>Manage involves activities to develop and implement strategies to mitigate measured risks, not establishing the ecosystem for other functions</p>"
+            }
+          ],
+          "correct": "clyrwnxsr005j3b7cuhdj2xh4",
+          "corrects": [
+            "clyrwnxsr005j3b7cuhdj2xh4"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:31:34.289Z",
+      "updatedAt": "2024-08-29T02:36:05.338Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 5,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "2dRDQPOqDnIxuVV0iZg9iQa1Jox9HO_A",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Video 6.4: Generative AI",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyssey5r006k3b7ct2okznj2",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyssey5s006q3b7cxy4d6fn3",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video discusses the unique risks posed by Generative AI (GenAI) and the additional guidance provided by NIST to address these challenges. It emphasizes the importance of structured public feedback mechanisms, such as field testing, AI red-teaming, and participatory engagement methods, in GenAI risk management. The video also stresses the importance of demographically and interdisciplinarily diverse participants in these feedback methods to identify flaws in the varying contexts where GenAI will be used.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyssf33v00773b7c92x9core",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyssf33v00783b7c3v9gal9e",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzoi13u500313b6e297p0gtp",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoi13u600323b6e3punmsgr",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%206.4%20v3.mp4",
+                  "url": "transcoded-uIZAYodxaLfM5BV8-2425GovLabAIP2%25206.4%2520v3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%206.4%20v3.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj914r00523b6er3k8kcqm",
+                      "key": "2425GovLabAIP2%206.4%20v3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 6.4 v3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 277,
+                  "inputKey": "rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/uIZAYodxaLfM5BV8-2425GovLabAIP2%206.4%20v3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/transcoded-uIZAYodxaLfM5BV8-2425GovLabAIP2%25206.4%2520v3.0000000.jpg",
+                  "captionUID": "clzoj91en00533b6eebxz3cjv",
+                  "originalUrl": "2425GovLabAIP2 6.4 v3.mp4",
+                  "transcodeId": "1723316320815-wnqa6i"
+                }
+              },
+              "caption": "<p>Video 6.4: Generative AI</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6tfo700953b6eb4h6c2hs",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6tfo700963b6es3ua4smb",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0pb5b008n3b6eq6t0bsd0",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0pb5c008o3b6ea1f19lx0",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6j61300c4356u1z6w5g9o",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6j61300c5356u6bzo8ari",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-19T14:20:12.934Z",
+      "updatedAt": "2024-09-06T20:39:29.528Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 6,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "I6mRIBF9h_Da-7632L5CWkKnvfvRMbBc",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Self Assessment 6.4",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyssfkef007q3b7clcwrr2wq",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>AI red-teaming is a structured testing exercise used to:</p>",
+          "answers": [
+            {
+              "id": "clyssfkef007r3b7c0wuoqnv7",
+              "title": "<p>Develop new AI systems</p>",
+              "correct": true,
+              "feedback": "<p>AI red-teaming is not used to develop new AI systems, but to test existing ones for flaws and vulnerabilities</p>"
+            },
+            {
+              "id": "clyssfkef007t3b7cf0af3hwx",
+              "title": "<p>Train AI models on diverse datasets</p>",
+              "feedback": "<p>AI red-teaming is not used to train AI models on diverse datasets, but to test existing systems for flaws and vulnerabilities</p>"
+            },
+            {
+              "id": "clyssfkef007u3b7cs5eu4600",
+              "title": "<p>Probe an AI system for flaws and vulnerabilities</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyssfkef007s3b7c76vpt68f",
+              "title": "<p>Promote public awareness of AI technologies</p>",
+              "correct": true,
+              "feedback": "<p>AI red-teaming is not primarily used to promote public awareness of AI technologies, but to identify potential risks and issues in AI systems</p>"
+            }
+          ],
+          "correct": "clyssfkef007u3b7cs5eu4600",
+          "corrects": [
+            "clyssfkef007r3b7c0wuoqnv7",
+            "clyssfkef007s3b7c76vpt68f"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clyssig7v008n3b7c53g9v7q4",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>The draft NIST guidance on Generative AI stresses the importance of having ________ participants in structured public feedback methods.</p>",
+          "answers": [
+            {
+              "id": "clyssfkef007r3b7c0wuoqnv7",
+              "title": "<p>Demographically and interdisciplinarily diverse</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyssfkef007t3b7cf0af3hwx",
+              "title": "<p>Highly specialized and technical</p>",
+              "feedback": "<p>The guidance stresses the importance of diverse participants, not just highly specialized and technical ones</p>"
+            },
+            {
+              "id": "clyssfkef007u3b7cs5eu4600",
+              "title": "<p>Only from within the organization</p>",
+              "feedback": "<p>The guidance emphasizes the importance of including participants from outside the organization, not just from within</p>"
+            },
+            {
+              "id": "clyssfkef007s3b7c76vpt68f",
+              "title": "<p>Randomly selected</p>",
+              "correct": true,
+              "feedback": "<p>The guidance stresses the importance of purposefully selecting diverse participants, not randomly selecting them</p>"
+            }
+          ],
+          "correct": "clyssfkef007r3b7c0wuoqnv7",
+          "corrects": [
+            "clyssfkef007r3b7c0wuoqnv7",
+            "clyssfkef007s3b7c76vpt68f"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-19T14:20:51.527Z",
+      "updatedAt": "2024-08-29T02:36:13.355Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 7,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "hW4PCIyfFBQWc5nJlNdbsoJahGlbMMg8",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Video 6.5: Practical next steps",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clysskxg7008p3b7c4aiib9uz",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clysskxg8008v3b7cxjkquzat",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video focuses on practical next steps for implementing AI risk management in an organization. It emphasizes the importance of embedding AI risk management into an organization&#39;s culture, processes, and people, and outlines concrete steps to achieve this. The video also highlights the ongoing nature of AI risk management and the need for sustained commitment and attention to harness the power of AI responsibly and effectively.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyssl291009c3b7c60xwng2n",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyssl291009d3b7ct57gd86m",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzoi3ou300473b6eff4uyvls",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoi3ou300483b6e1y2wlcs8",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%206.5%20v3.mp4",
+                  "url": "transcoded-p7cFjK1V5CYLPFVG-2425GovLabAIP2%25206.5%2520v3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%206.5%20v3.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj9hmc006d3b6ewbwdvftb",
+                      "key": "2425GovLabAIP2%206.5%20v3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 6.5 v3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 391,
+                  "inputKey": "rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/p7cFjK1V5CYLPFVG-2425GovLabAIP2%206.5%20v3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu/transcoded-p7cFjK1V5CYLPFVG-2425GovLabAIP2%25206.5%2520v3.0000000.jpg",
+                  "captionUID": "clzoj9hvk006e3b6eqr3v936t",
+                  "originalUrl": "2425GovLabAIP2 6.5 v3.mp4",
+                  "transcodeId": "1723316445502-26wwt5"
+                }
+              },
+              "caption": "<p>Video 6.5: Practical next steps</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6ts4700bl3b6ey7jeq6p5",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6ts4800bm3b6embgoun4m",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0q9ew00b33b6exohu5sgy",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0q9ex00b43b6eem48a1h9",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6jh8n00f9356u0uyi94wa",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6jh8n00fa356uj05um7x3",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-19T14:24:51.170Z",
+      "updatedAt": "2024-09-06T20:39:44.058Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 8,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "BRD7I-KBoB5_00m3ukwz-5wfKOnsw76z",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Self Assessment 6.5",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clysslisy009s3b7cr8870ckc",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>True or False: AI technologies and their associated risks are uniquely complex and require a specialized skill set different from traditional &#39;risk&#39; roles.</p>",
+          "answers": [
+            {
+              "id": "clysslit4009t3b7c1xgkrzth",
+              "title": "<p>True</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clysslit4009u3b7chucfeyco",
+              "title": "<p>False</p>",
+              "feedback": "<p>AI technologies and their associated risks are indeed uniquely complex and require a specialized skill set different from traditional &#39;risk&#39; roles, as stated in the module</p>"
+            }
+          ],
+          "correct": "clysslit4009t3b7c1xgkrzth",
+          "corrects": [
+            "clysslit4009t3b7c1xgkrzth"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clysslit4009v3b7c5qlsbegh",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>According to the recommendations in the module, which of the following are practical steps to embed AI risk management in an organization? (Select all that apply)</p>",
+          "answers": [
+            {
+              "id": "clysslit4009w3b7chjc2mtlb",
+              "title": "<p>Designate an AI risk champion</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clysslit4009y3b7ct540w6m9",
+              "title": "<p>Commit to regularly evaluating AI systems for common patterns of bias</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clysslit4009z3b7cpp09zkxx",
+              "title": "<p>Identify practical toolkits and guides that operationalize the concepts in the AI RMF</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clysslit4009x3b7c55gpkcj9",
+              "title": "<p>Invest in deeper AI risk management education</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyssnsj900av3b7cy92yc5fj",
+              "title": "<p>Assign AI risk mitigation exclusively to lawyers or privacy officers</p>"
+            }
+          ],
+          "correct": "",
+          "corrects": [
+            "clysslit4009w3b7chjc2mtlb",
+            "clysslit4009x3b7c55gpkcj9",
+            "clysslit4009y3b7ct540w6m9",
+            "clysslit4009z3b7cpp09zkxx"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackIncorrect": "<p>According to the recommendations in the module, practical steps to embed AI risk management in an organization include designating an AI risk champion, committing to regularly evaluating AI systems for common patterns of bias, identifying practical toolkits and guides that operationalize the concepts in the AI RMF, and investing in deeper AI risk management education. The module does not recommend assigning AI risk mitigation exclusively to lawyers or privacy officers who may lack the requisite training in these new tools.</p>"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-19T14:25:28.983Z",
+      "updatedAt": "2024-08-29T02:36:21.038Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 9,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "-RgAgBHCi-RmZzPrAgg_ax_UGDt0A7OT",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu",
+      "title": "Next Up: Module 7: Course Conclusion ",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0r7rl0u001x356uv0lxb5q3",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cm0r7rl0v001y356ug34hzeww",
+              "type": "exit-course",
+              "label": "Exit Module",
+              "description": "<p><span style=\"font-size: 1.7rem\"><strong>Next Up! Module 7: Course Conclusion</strong></span></p><p>In the conclusion module we focus on the key learning points from the course and the importance of focusing on solving real problems, maintaining transparency, minimizing and managing AI risk, and prioritizing the public good<span style=\"font-size: 1.6rem\">. </span>Click \"Exit module\" to proceed.</p>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "U7ETx-EvHBybH8UOnFUNcWdHgpe5nKHt",
+      "deleted": false,
+      "createdAt": "2024-09-06T21:12:54.410Z",
+      "updatedAt": "2024-09-12T17:43:36.073Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2024-07-18T23:22:38.444Z",
+  "updatedAt": "2024-09-23T19:51:14.332Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 6: Ethical Risk Frameworks and Toolkits",
+    "format": "zip",
+    "quizId": "8pFHtPAdwXrKy5dJ8_6Dv_gbLTqXNscE",
+    "target": "scorm12",
+    "shareId": "D1cVkTDRjfqxAo6C6VakF2DORAYptOrT",
+    "activeLMS": 0,
+    "reporting": "completed-incomplete",
+    "exportType": "lms",
+    "identifier": "m1J88EkdZuHuGcvnWIkSJQuy2E9MiGgu_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "quizComplete": false,
+    "activeEdition": 0,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": true,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "completionPercentage": 100
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "-MPEM2R_v3eTh0hQInNv-2WAwVwql-Pw",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": {},
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "SPLIT_LEFT_IMAGE",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/19_abstract.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "locale": null,
+  "sourceCourseLocaleId": null,
+  "experiments": null,
+  "settings": {},
+  "features": {
+    "rise-a-11-y-img-gallery-carousel": true,
+    "rise-course-navigation": true,
+    "rise-img-dimensions": true,
+    "rise-img-zoom": true,
+    "rise-timed-quizzes": true
+  },
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "bodyTypeface": "DM Sans",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato",
+  "lmsOptions": {
+    "enableExitCourse": false,
+    "disableCoverPage": true
+  },
+  "mondrian": {}
+}

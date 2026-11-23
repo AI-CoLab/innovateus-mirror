@@ -1,0 +1,584 @@
+{
+  "description": "<div data-editor-id=\"02f07354-8b37-46c3-a07b-1e1f046637ad\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video explores the tradeoffs between self-selection and targeted selection, and between representative and non-representative approaches. It explains how different goals call for different participants and shows how AI can help identify gaps in representation.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "DeuoZN9YtNzAwF8BcoYpTRIpuJBJWVDK",
+      "items": [
+        {
+          "id": "DEY7M7aD3RQM_75c7cMk-WYFihDUl1DE",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"eb5f18b6-f186-452a-8c1f-d64f9e8a9244\"><p>This video explores the tradeoffs between self-selection and targeted selection, and between representative and non-representative approaches. It explains how different goals call for different participants and shows how you can use AI to help identify gaps in representation.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "81aa8cc9-890f-4019-a426-369210f70d95"
+        },
+        {
+          "id": "mvRbKzuz05iLCkMztBSMBygnhsrMN3Kg",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 5",
+              "description": "<div data-editor-id=\"e5f675e6-cd9f-4516-84a5-21b2cde01f0a\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS Logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Identifying Participants.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Berlin’s skyline is shown.</p><p style=\"line-height: 1.5\">In Germany, the Bertelsmann Foundation launched the Forum against Fakes to address a wave of disinformation eroding public trust.</p><p style=\"line-height: 1.5\">[Visual description]: The Forum against Fakes Citizens’ report is shown.</p><p style=\"line-height: 1.5\">They convened two groups: a 120-member citizens' assembly for in-depth deliberation, and open online consultations that drew more than 400,000 participants. Together, they produced 28 policy proposals, most of which the federal government is now implementing.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Danielle Allen, Professor, Harvard University.</p><p style=\"line-height: 1.5\">Combining representative selection with an open call produced results that had both depth and legitimacy.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">By the end of this video, you will: Understand the benefits and limitations of self-selected versus selected participation. Get advice about when you need representative selection of different kinds. Understand how AI can help identify diverse participants with relevant experience and expertise.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Matching Participants to Purpose.</p><p style=\"line-height: 1.5\">Identifying participants is about recognizing those with important lived experience, knowledge, or skills. Different goals call for different participants. One key choice is between self-selection and targeted selection. Self-selection means opening participation to anyone who wants to take part.</p><p style=\"line-height: 1.5\">[Visual description]: The Finland Citizens' Initiative website appears alongside the GovLab project page for it.</p><p style=\"line-height: 1.5\">Finland's Citizens' Initiative is a strong example: any adult citizen can propose legislation, and Parliament must consider proposals that reach 50,000 signatures. This approach channels public energy into real policy change. Targeted selection involves deliberately recruiting participants. It may call for lived experience, specific interests, or a representative sample.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Lived Experience.</p><p style=\"line-height: 1.5\">[Visual description]: Boston’s skyline is shown.</p><p style=\"line-height: 1.5\">Boston's Open Feedback Project asks restaurant owners how to improve the city's permitting process.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of the City of Boston’s permitting website.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Specific Interests.</p><p style=\"line-height: 1.5\">[Visual description]: A temple in Bhutan is shown.</p><p style=\"line-height: 1.5\">In Bhutan, students collect data about their schools that is used to improve their facilities.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of a Reboot Democracy article, Title: Global AI Watch: Mapping the School, Seeing the System: How Spatial Context Reshaped Public Decision-Making in Uzbekistan and Bhutan.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Representative Sample.</p><p style=\"line-height: 1.5\">[Visual description]: A town in Deschutes County, Oregon is shown.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of a DemocracyNext article, Title: A year of action in Deschutes County.</p><p style=\"line-height: 1.5\">In Central Oregon, a civic assembly on youth homelessness selected participants to mirror the county's demographics, an approach known as sortition, helping ensure its recommendations reflected the full community rather than just those who would have volunteered.</p><p style=\"line-height: 1.5\">As we saw in Germany, the most effective engagement processes often combine methods to capture the benefits of each.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Steps for “Increasing level of public impact” are shown: Inform, Consult, Involve, Collaborate, and Empower.</p><p style=\"line-height: 1.5\">Finally, consider diversity of viewpoints, not just demographics. Bringing together people who think differently and prioritize different values leads to stronger deliberation, more collective intelligence, and better outcomes. Be intentional about your choices and transparent about how and why participants were selected.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Using AI to Improve Participant Identification.</p><p style=\"line-height: 1.5\">You can use AI as a brainstorming partner to help identify which communities and perspectives should be represented, and where you may have gaps. Or use it to review participant lists or survey responses from past engagements to spot people or viewpoints that have been included or left out in the past.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Risks in Participant Identification.</p><p style=\"line-height: 1.5\">Several risks deserve particular attention. Self-selection bias. When participation is open to anyone, the people who show up tend to be those who are already engaged, more educated, politically active, and connected. Without deliberate efforts to broaden who participates, self-selected engagement can reinforce existing inequalities. Representative selection may exclude relevant expertise. Representative selection is often resource-intensive and logistically complex, which can put it out of reach for institutions with limited budgets or capacity. Costs may limit the scale and scope of who participates, missing out on the opportunity to be more inclusive. Sortition may also include those with limited knowledge of or interest in the topic.</p><p style=\"line-height: 1.5\">Some are experimenting with AI to simulate public opinion by predicting how different groups might respond. While you can test your messaging with an AI tool, these \"silicon samples\" are not a substitute for real participation.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of an arXiv paper, Title: Large Language Models Do Not Simulate Human Psychology.</p><p style=\"line-height: 1.5\">Also, be careful not to \"stack the room\" only with those who agree with you, lest your engagement lose credibility and value.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of a Science article, Title: AI-generated ‘participants’ can lead social science experiments astray, study finds.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of an SSRN paper, Title: AI Simulations of Audience Attitudes and Policy Preferences: “Silicon Sampling” Guidance for Communications Practitioners.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: A globe appears on screen with the title: Project Spotlight. The camera zooms in on California.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Co-Designing an AI Tool with Communities.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears along with the new speaker: Joanna French, Vice President, Research and Policy Strategies, Innovate Public Schools.</p><p style=\"line-height: 1.5\">The AI for Impact AI-EP project shows how participant selection shapes outcomes.</p><p style=\"line-height: 1.5\">[Visual description]: The AIEP Project website is shown.</p><p style=\"line-height: 1.5\">We are co-designing an AI tool to help families in California understand and engage with their children's individualized education programs, or IEPs, which are often long, technical, and difficult to access, especially for non-English-speaking parents and families. The platform uses AI to simplify, translate, and summarize these documents. From the start, parents and caregivers were not just users, but co-designers involved through leadership roles, focus groups, and testing.</p><p style=\"line-height: 1.5\">[Visual description]: The website's text explains that AIEP helps parents understand their child's education and rights by summarizing, translating, and advocating. Parents upload documents, which the site summarizes and translates, helping them understand the content and advocate for their child's education.</p><p style=\"line-height: 1.5\">More than 200 families participated in the first pilot in San Francisco, reporting greater confidence and a stronger ability to advocate for their children. By clearly identifying and empowering the right participants, the project ensured the tool reflects the needs of the communities it is designed to serve.</p><p style=\"line-height: 1.5\">[Visual description]: Danielle appears.</p><p style=\"line-height: 1.5\">In our next module, we'll look at how to reach the participants you've identified.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Next Up: Reaching Participants.</p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "8493dc4c-cc84-4adb-b6d9-5280ce2529d9"
+        },
+        {
+          "id": "fu6CmayeTai35GMT4i1QlOTO6rPJbDYE",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2005%20v5.mp4",
+                  "url": "transcoded-FeYDVP_phi8vPSjN.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2005%20v5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsar06a500383d7dbtdyouk2",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2005%20v5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 05 v5.vtt"
+                    }
+                  ],
+                  "duration": 328,
+                  "inputKey": "rise/courses/3zSS39otaOV8gVepR_5xu6aQFfcTztJZ/FeYDVP_phi8vPSjN.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/3zSS39otaOV8gVepR_5xu6aQFfcTztJZ/transcoded-FeYDVP_phi8vPSjN.0000000.jpg",
+                  "captionUID": "cmsar06kq00393d7dmrny1mf2",
+                  "originalUrl": "2625GovLab Public Engagement Video 05 v5.mp4",
+                  "transcodeId": "1785611391883-gfs5hu"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "7ad194e7-adfc-4311-a380-969a11769723"
+        },
+        {
+          "id": "x-KHAnHXrr0GLADT0lZd3ZUe0OBgSH7s",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "28418df5-85df-4115-9146-be65ad77cb84"
+        }
+      ],
+      "settings": {},
+      "title": "Video 5: Identifying Participants",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zSS39otaOV8gVepR_5xu6aQFfcTztJZ",
+      "createdAt": "2026-07-26T18:59:56.212Z",
+      "deleted": false,
+      "duplicatedFromId": "oynaK8RcqKdIeLx7Ew2YzXl1AcEkRF_4",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T19:12:15.979Z"
+    },
+    {
+      "description": "",
+      "id": "Y3qSGl4PioRq0dyK8IP-_1BqJhTHKHS4",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "54c9d510-5b78-4ff1-bd5d-0f9744faf910"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"8bc049ee-f1cc-42d6-8ff5-130d2736f1aa\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>What is the difference between self-selection and targeted selection?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"e5303a5b-1d2f-49a4-b5a9-b5828e30c0cd\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Self-selection is always better for legitimacy; targeted selection is always better for expertise</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"6ec4f6d5-5594-4a03-9c15-46c1ef34e058\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Self-selection opens participation to anyone; targeted selection deliberately recruits specific participants</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"bfc3fbfe-8e8e-4a96-8c21-a4205abd7545\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Self-selection uses AI to choose participants; targeted selection relies on manual outreach</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"670685f0-f37c-42d4-b640-64d3503f422f\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>There is no meaningful difference between the two approaches</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "5f50106a-aac2-44d0-877b-2a60ebd9a8c3"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "6166b1e2-d4ae-4d8f-b911-adf2df5c61cc"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"8288c46d-2ec0-450f-a4df-dc6d1568967b\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>What does the video say about using AI to simulate public opinion (\"silicon samples\")?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"2255fadf-193a-42e6-8c32-7592bb1e9641\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>They are a reliable substitute for real participation</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"4a172877-ded0-469e-bbb3-e3e512285710\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>They should be used as the primary source of public input</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"fd009b36-c75d-4107-a2ad-55780e818a8a\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>They can be used to test messaging but are not a substitute for real participation</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"b7b2fe94-b04e-41d2-b4f5-b2ad13f2a5d6\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>They are more accurate than surveys or focus groups</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "152d927c-c996-4663-a93f-ba83c9cccefb"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "7e0b1650-6dba-4674-a0e0-5ca99fedcfc0"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zSS39otaOV8gVepR_5xu6aQFfcTztJZ",
+      "createdAt": "2026-08-01T02:47:50.472Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T16:51:13.748Z"
+    },
+    {
+      "description": "",
+      "id": "n25DJggI8bGr7Gt4SZQs5Qauy1NGRW7x",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"98915adf-49b8-46f9-a5f3-5ec4c5ee69af\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 5 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to <em>Video 6. Designing Outreach Strategies</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "9b21509d-7856-41ff-a521-d800814c33c1"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "3zSS39otaOV8gVepR_5xu6aQFfcTztJZ",
+      "createdAt": "2026-08-01T02:48:25.739Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:49:38.600Z"
+    }
+  ],
+  "title": "Video 5: Identifying Participants",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "3zSS39otaOV8gVepR_5xu6aQFfcTztJZ_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 5: Identifying Participants",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "3zSS39otaOV8gVepR_5xu6aQFfcTztJZ",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "vr9oMtGNSB2VSGel9fQzVeZBpAyyzNwS",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773378155",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:41:19.722Z",
+  "updatedAt": "2026-08-03T16:09:38.155Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:09:38.511Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-01T20:49:38.600Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:09:38.511Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

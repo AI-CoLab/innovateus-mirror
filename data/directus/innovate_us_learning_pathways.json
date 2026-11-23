@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Building Better Public Contact Centers",
+    "id": 10,
+    "date_created": "2026-06-11T15:02:27.447Z",
+    "pathway_label": "run a better contact center",
+    "user_updated": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_series_desc": "<p>Build on this pathway with new perspectives, practical examples, and opportunities to learn with experts and other public professionals.</p>",
+    "sort": 5,
+    "accordion_workshop_desc": "<p>See how public sector professionals are applying these ideas in practice, and learn from approaches, frameworks, and real-world examples you can adapt to your own work.</p>",
+    "user_created": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_courses_description": "<p>Build a shared understanding of the key ideas, principles, and context you&rsquo;ll need before going deeper.</p>",
+    "status": "published",
+    "date_updated": "2026-08-25T21:08:50.475Z",
+    "slug": "run-a-better-contact-center",
+    "description": "<p>Learn how to strengthen contact center operations, support staff, and use data, AI, and technology to better understand residents' needs and deliver more responsive and effective service.</p>\n<h3 class=\"learning-pathways-howto__title\">How to use this</h3>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">We&rsquo;ve curated this pathway as a suggested progression to help you build your knowledge and skills step by step. We recommend following the pathway in order, at your own pace, but you can also start with the topics that are most relevant to your work.</p>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">Along the way, you&rsquo;ll find learning you can access at your own pace, including courses and workshops, as well as upcoming live learning opportunities where you can learn with experts and other public professionals.</p>",
+    "learning_pathways_courses": [
+      51
+    ],
+    "learning_pathways_upcoming_series": [
+      11
+    ],
+    "learning_pathways_workshops": [
+      135,
+      136,
+      137
+    ]
+  },
+  {
+    "title": "Communicating with the Public",
+    "id": 11,
+    "date_created": "2026-06-11T17:59:24.501Z",
+    "pathway_label": "communicate more effectively with the public ",
+    "user_updated": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_series_desc": "<p>Build on this pathway with new perspectives, practical examples, and opportunities to learn with experts and other public professionals.</p>",
+    "sort": 3,
+    "accordion_workshop_desc": "<p>See how public sector professionals are applying these ideas in practice, and learn from approaches, frameworks, and real-world examples you can adapt to your own work.</p>",
+    "user_created": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_courses_description": "<p>Build a shared understanding of the key ideas, principles, and context you&rsquo;ll need before going deeper.</p>",
+    "status": "published",
+    "date_updated": "2026-08-25T21:08:06.556Z",
+    "slug": "communicate-more-effectively",
+    "description": "<p>Learn how to develop clear, effective two-way communication that serves the public interest and helps people understand information, engage with public services, and take meaningful action.</p>\n<h3 class=\"learning-pathways-howto__title\">How to use this</h3>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">We&rsquo;ve curated this pathway as a suggested progression to help you build your knowledge and skills step by step. We recommend following the pathway in order, at your own pace, but you can also start with the topics that are most relevant to your work.</p>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">Along the way, you&rsquo;ll find learning you can access at your own pace, including courses and workshops, as well as upcoming live learning opportunities where you can learn with experts and other public professionals.</p>",
+    "learning_pathways_courses": [
+      48
+    ],
+    "learning_pathways_upcoming_series": [
+      9
+    ],
+    "learning_pathways_workshops": [
+      131,
+      132,
+      133
+    ]
+  },
+  {
+    "title": "Leading Teams in the Age of AI",
+    "id": 12,
+    "date_created": "2026-06-11T18:02:19.570Z",
+    "pathway_label": "prepare my team to work with AI",
+    "user_updated": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_series_desc": "<p>Build on this pathway with new perspectives, practical examples, and opportunities to learn with experts and other public professionals.</p>",
+    "sort": 2,
+    "accordion_workshop_desc": "<p>See how public sector professionals are applying these ideas in practice, and learn from approaches, frameworks, and real-world examples you can adapt to your own work.</p>",
+    "user_created": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_courses_description": "<p>Build a shared understanding of the key ideas, principles, and context you&rsquo;ll need before going deeper.</p>",
+    "status": "published",
+    "date_updated": "2026-08-25T21:07:15.800Z",
+    "slug": "prepare-my-team-for-AI",
+    "description": "<p>Learn how to expand and deepen AI work in your organization, build products with your team and create the conditions for people to experiment, learn, and work effectively with AI in ways that deliver public value.</p>\n<h3 class=\"learning-pathways-howto__title\">How to use this</h3>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">We&rsquo;ve curated this pathway as a suggested progression to help you build your knowledge and skills step by step. We recommend following the pathway in order, at your own pace, but you can also start with the topics that are most relevant to your work.</p>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">Along the way, you&rsquo;ll find learning you can access at your own pace, including courses and workshops, as well as upcoming live learning opportunities where you can learn with experts and other public professionals.</p>",
+    "learning_pathways_courses": [
+      47
+    ],
+    "learning_pathways_upcoming_series": [
+      7
+    ],
+    "learning_pathways_workshops": [
+      128,
+      129,
+      130
+    ]
+  },
+  {
+    "title": "Building Better Government Products",
+    "id": 14,
+    "date_created": "2026-06-11T18:41:26.846Z",
+    "pathway_label": "build better products",
+    "user_updated": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_series_desc": "<p>Build on this pathway with new perspectives, practical examples, and opportunities to learn with experts and other public professionals.</p>",
+    "sort": 7,
+    "accordion_workshop_desc": "<p>See how public sector professionals are applying these ideas in practice, and learn from approaches, frameworks, and real-world examples you can adapt to your own work.</p>",
+    "user_created": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_courses_description": "<p>Build a shared understanding of the key ideas, principles, and context you&rsquo;ll need before going deeper.</p>",
+    "status": "published",
+    "date_updated": "2026-08-25T21:09:17.635Z",
+    "slug": "build-better-products",
+    "description": "<p>Learn how to build and continuously improve digital products and services in government. Explore when to buy and when to build, adopt a product mindset, organize effective teams, and use AI and emerging technologies to strengthen government's capacity to deliver.</p>\n<h3 class=\"learning-pathways-howto__title\">How to use this</h3>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">We&rsquo;ve curated this pathway as a suggested progression to help you build your knowledge and skills step by step. We recommend following the pathway in order, at your own pace, but you can also start with the topics that are most relevant to your work.</p>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">Along the way, you&rsquo;ll find learning you can access at your own pace, including courses and workshops, as well as upcoming live learning opportunities where you can learn with experts and other public professionals.</p>",
+    "learning_pathways_courses": [
+      53
+    ],
+    "learning_pathways_upcoming_series": [
+      13
+    ],
+    "learning_pathways_workshops": [
+      141,
+      142
+    ]
+  },
+  {
+    "title": "Listening to Residents",
+    "id": 15,
+    "date_created": "2026-06-11T18:44:34.943Z",
+    "pathway_label": "listen to residents",
+    "user_updated": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_series_desc": "<p>Build on this pathway with new perspectives, practical examples, and opportunities to learn with experts and other public professionals.</p>",
+    "sort": 4,
+    "accordion_workshop_desc": "<p>See how public sector professionals are applying these ideas in practice, and learn from approaches, frameworks, and real-world examples you can adapt to your own work.</p>",
+    "user_created": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_courses_description": "<p>Build a shared understanding of the key ideas, principles, and context you&rsquo;ll need before going deeper.</p>",
+    "status": "published",
+    "date_updated": "2026-08-25T21:08:29.980Z",
+    "slug": "listen-to-residents",
+    "description": "<p>Learn how to design, run and scale public engagement processes, and bring diverse voices and perspectives into public decision-making.</p>\n<h3 class=\"learning-pathways-howto__title\">How to use this</h3>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">We&rsquo;ve curated this pathway as a suggested progression to help you build your knowledge and skills step by step. We recommend following the pathway in order, at your own pace, but you can also start with the topics that are most relevant to your work.</p>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">Along the way, you&rsquo;ll find learning you can access at your own pace, including courses and workshops, as well as upcoming live learning opportunities where you can learn with experts and other public professionals.</p>",
+    "learning_pathways_courses": [
+      49,
+      50
+    ],
+    "learning_pathways_upcoming_series": [
+      10
+    ],
+    "learning_pathways_workshops": [
+      134
+    ]
+  },
+  {
+    "title": "Using AI for Effective Public Service",
+    "id": 16,
+    "date_created": "2026-06-11T19:46:02.672Z",
+    "pathway_label": "use AI safely and responsibly",
+    "user_updated": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_series_desc": "<p>Build on this pathway with new perspectives, practical examples, and opportunities to learn with experts and other public professionals.</p>",
+    "sort": 1,
+    "accordion_workshop_desc": "<p>See how public sector professionals are applying these ideas in practice, and learn from approaches, frameworks, and real-world examples you can adapt to your own work.</p>",
+    "user_created": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_courses_description": "<p>Build a shared understanding of the key ideas, principles, and context you&rsquo;ll need before going deeper.</p>",
+    "status": "published",
+    "date_updated": "2026-08-25T21:07:40.851Z",
+    "slug": "use-ai-safely-and-responsibly",
+    "description": "<p>Learn to use AI in your day-to-day work to create public value while reducing risks such as hallucination and bias</p>\n<h3 class=\"learning-pathways-howto__title\">How to use this</h3>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">We&rsquo;ve curated this pathway as a suggested progression to help you build your knowledge and skills step by step. We recommend following the pathway in order, at your own pace, but you can also start with the topics that are most relevant to your work.</p>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">Along the way, you&rsquo;ll find learning you can access at your own pace, including courses and workshops, as well as upcoming live learning opportunities where you can learn with experts and other public professionals.</p>",
+    "learning_pathways_courses": [
+      13,
+      46
+    ],
+    "learning_pathways_upcoming_series": [
+      8
+    ],
+    "learning_pathways_workshops": [
+      125,
+      126,
+      127
+    ]
+  },
+  {
+    "title": "Improving Public Service Delivery",
+    "id": 17,
+    "date_created": "2026-06-11T19:46:39.337Z",
+    "pathway_label": "deliver better services",
+    "user_updated": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_series_desc": "<p>Build on this pathway with new perspectives, practical examples, and opportunities to learn with experts and other public professionals.</p>",
+    "sort": 6,
+    "accordion_workshop_desc": "<p>See how public sector professionals are applying these ideas in practice, and learn from approaches, frameworks, and real-world examples you can adapt to your own work.</p>",
+    "user_created": "4e02e274-6dd8-48c8-9513-e6e275fbeff8",
+    "accordion_courses_description": "<p>Build a shared understanding of the key ideas, principles, and context you&rsquo;ll need before going deeper.</p>",
+    "status": "published",
+    "date_updated": "2026-08-25T21:05:40.351Z",
+    "slug": "deliver-better-services",
+    "description": "<p>Learn how to identify opportunities to improve service delivery, redesign processes, and use data and technology to make public services more accessible, responsive, efficient, and effective.</p>\n<h3 class=\"learning-pathways-howto__title\">How to use this</h3>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">We&rsquo;ve curated this pathway as a suggested progression to help you build your knowledge and skills step by step. We recommend following the pathway in order, at your own pace, but you can also start with the topics that are most relevant to your work.</p>\n<p class=\"learning-pathways-howto__text\" data-v-6c378e3b=\"\">Along the way, you&rsquo;ll find learning you can access at your own pace, including courses and workshops, as well as upcoming live learning opportunities where you can learn with experts and other public professionals.</p>",
+    "learning_pathways_courses": [
+      52
+    ],
+    "learning_pathways_upcoming_series": [
+      12
+    ],
+    "learning_pathways_workshops": [
+      138,
+      139,
+      140
+    ]
+  }
+]

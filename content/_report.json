@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 31,
+      "slug": "innovation-skills-accelerator",
+      "title": "Innovation Skills Accelerator",
+      "lessons": 66
+    },
+    {
+      "id": 32,
+      "slug": "human-centered-design",
+      "title": "Human Centered Design",
+      "lessons": 30
+    },
+    {
+      "id": 33,
+      "slug": "what-works-fast-field-scanning-with-ai",
+      "title": "What Works: Fast Field Scanning with AI",
+      "lessons": 65
+    },
+    {
+      "id": 34,
+      "slug": "using-generative-ai-at-work",
+      "title": "Using Generative AI at Work",
+      "lessons": 43
+    },
+    {
+      "id": 35,
+      "slug": "building-ai-that-works-implementation-strategies-for-public",
+      "title": "Building AI That Works: Implementation Strategies for Public Service",
+      "lessons": 58
+    },
+    {
+      "id": 39,
+      "slug": "using-genai-in-government",
+      "title": "Using GenAI in Government",
+      "lessons": 29
+    },
+    {
+      "id": 40,
+      "slug": "understanding-risks-and-building-resilience-responsible-ai-f",
+      "title": "Understanding Risks and Building Resilience [Responsible AI for Public Professionals]",
+      "lessons": 16
+    },
+    {
+      "id": 41,
+      "slug": "designing-ai-projects-in-government",
+      "title": "Designing AI Projects in Government",
+      "lessons": 21
+    },
+    {
+      "id": 42,
+      "slug": "implementing-ai-projects-in-government",
+      "title": "Implementing AI Projects in Government",
+      "lessons": 31
+    },
+    {
+      "id": 44,
+      "slug": "everyday-tools-and-best-practices-responsible-ai-for-public",
+      "title": "Everyday Tools and Best Practices: Responsible AI for Public Sector Legal Professionals",
+      "lessons": 45
+    },
+    {
+      "id": 45,
+      "slug": "designing-ai-policy-projects-and-societal-impact-responsible",
+      "title": "Designing AI Policy, Projects and Societal Impact: Responsible AI for Public Sector Legal Professionals",
+      "lessons": 32
+    },
+    {
+      "id": 46,
+      "slug": "designing-democratic-engagement-with-ai-practical-strategies",
+      "title": "Designing Democratic Engagement with AI: Practical Strategies for Public Participation",
+      "lessons": 38
+    },
+    {
+      "id": 49,
+      "slug": "ai-for-public-sector-procurement",
+      "title": "AI For Public Sector Procurement",
+      "lessons": 30
+    }
+  ],
+  "lessons": 504,
+  "words": 116375,
+  "byKind": {
+    "label": 2,
+    "page": 61,
+    "h5pactivity": 88,
+    "quiz": 23,
+    "lecture package": 306,
+    "url": 3,
+    "videotime": 21
+  },
+  "leftOut": {
+    "questionnaire": 10,
+    "coursecertificate": 9
+  },
+  "locked": [
+    {
+      "course": 31,
+      "activity": "Certificate",
+      "kind": "url"
+    }
+  ]
+}

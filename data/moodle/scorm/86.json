@@ -1,0 +1,584 @@
+{
+  "description": "<div data-editor-id=\"7a24c249-bdca-40ad-b027-c613b1978c0b\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video distinguishes between intrinsic motivators — such as civic purpose and visible impact — and extrinsic rewards, and explains why the strongest incentive is showing people how their input will be used. It also covers how to reduce barriers through practical support and how AI can reinforce incentives by making contributions visible in real time.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "icKSyTXWNjc14dqCGfrqSHiK789PGn3J",
+      "items": [
+        {
+          "id": "2Sk4OWwl6JA0jnWc-F5Jimb4yaJZbq25",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"3dc06f4f-c47a-4cc1-b26b-91ddacef4dbb\"><p style=\"line-height: 1.5\">This video distinguishes between intrinsic motivators — such as civic purpose and visible impact — and extrinsic rewards, and explains why the strongest incentive is showing people how their input will be used. It also covers how to reduce barriers through practical support and how you can use AI to reinforce incentives by making contributions visible in real time</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "aa29d432-2637-4821-99ba-3ce3d817c38e"
+        },
+        {
+          "id": "m-WA3mejOjw7Lvyjh4yUeeqWocKK0CSJ",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 7",
+              "description": "<div data-editor-id=\"e94b022c-ebf8-4fd3-8bab-8cab5273a83d\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS Logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Incentives for Participation.</p><p style=\"line-height: 1.5\">[Visual description]: A Google Maps image of Lakewood, Colorado is shown.</p><p style=\"line-height: 1.5\">In 2012, Lakewood, Colorado, launched the Sustainable Neighborhoods Program to support residents who wanted to propose and lead their own environmental initiatives.</p><p style=\"line-height: 1.5\">[Visual description]: The Lakewood, Colorado Sustainable Neighborhoods Program project website is shown.</p><p style=\"line-height: 1.5\">Because there wasn't funding to pay participants, the city designed an incentive system based on recognition. Neighborhoods earned credits for completing projects, and those that reached 60 credits received Sustainable Neighborhood certification and public recognition from city leaders.</p><p style=\"line-height: 1.5\">[Visual description]: Various people are shown hauling trash, fixing infrastructure, and working with plants. A bar graph titled “Points Towards Certifications” keeps rising with every project completed while a counter rises with it. This is followed by a town hall meeting and a group receiving recognition for achieving Sustainable Neighborhood status.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Danielle Allen, Professor, Harvard University.</p><p style=\"line-height: 1.5\">Nearly 21,000 residents participated in more than 500 projects, from planting trees to conserving water and improving energy efficiency.</p><p style=\"line-height: 1.5\">[Visual description]: Images are shown of various neighborhoods that have achieved recognition.</p><p style=\"line-height: 1.5\">Good incentive design motivated sustained participation without the need for financial rewards.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">Last time, we talked about how to reach participants. Now you'll learn how to attract them to participate. We will talk about: How to design incentives, distinguishing between intrinsic and extrinsic motivators. Reduce barriers to participation. Use AI tools in designing incentives.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Understanding Incentives.</p><p style=\"line-height: 1.5\">Incentives can be extrinsic or intrinsic. Intrinsic motivators appeal to people's sense of purpose.</p><p style=\"line-height: 1.5\">[Visual description]: The Rio skyline is shown.</p><p style=\"line-height: 1.5\">Brazil's Chamber of Deputies uses the e-Democracia platform to invite residents to debate and comment on draft legislation.</p><p style=\"line-height: 1.5\">[Visual description]: The e-Democracia platform website is shown.</p><p style=\"line-height: 1.5\">Legislators publicly acknowledge when input shapes bills, reinforcing intrinsic motivations such as civic duty. Incentives can also be extrinsic. For example, the U.S. federal government's Challenge.gov rewards people with cash prizes.</p><p style=\"line-height: 1.5\">[Visual description]: The Challenge.gov website is shown.</p><p style=\"line-height: 1.5\">While financial incentives may boost participation in the short term, intrinsic motivations are more effective for sustaining engagement. Effective designs often combine both, using external rewards to attract participants while building longer-term motivation through ownership and visible impact.</p><p style=\"line-height: 1.5\">The strongest incentive, however, is showing people how their input will be used. College Station, Texas, is one of hundreds of cities where the SeeClickFix app lets residents report local issues and tracks their resolution, with nearly 20,000 fixes completed.</p><p style=\"line-height: 1.5\">[Visual description]: The College Station website is shown. It moves to the City of College Station Blog article titled: The free and easy SeeClickFix app has resolved nearly 20,000 citizen-reported issues.</p><p style=\"line-height: 1.5\">That visible connection between input and action encourages people to participate again and to encourage others to do the same. The most powerful motivator is the experience of having made a real difference.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Reducing Barriers and Enabling Change.</p><p style=\"line-height: 1.5\">Designing incentives is also about removing barriers. Practical support like childcare, transportation, or compensation can make participation possible, especially for those who cannot afford to volunteer their time. Reducing barriers also means helping people contribute. Residents may have strong ideas but lack experience presenting them. Providing training, coaching, and feedback ensures the quality of input reflects the strength of those ideas.</p><p style=\"line-height: 1.5\">[Visual description]: The City of Lakewood, Colorado is shown.</p><p style=\"line-height: 1.5\">In Lakewood, the city paired incentives with technical advice, and help securing funding so residents could turn ideas into action.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Risks to Watch For.</p><p style=\"line-height: 1.5\">Two risks deserve attention. First, incentives can attract bad actors. When money or influence is at stake, coordinated campaigns may submit duplicate or fabricated input, often called astroturfing. Clear rules, deduplication, and human review can help mitigate this risk. Second, and most important, is follow-through. If you offer compensation, provide it. If you promise recognition, make it meaningful. And above all, use the input you collect. When participants feel their time was not valued, they do not return, and trust erodes quickly.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: How AI Can Be Used to Help.</p><p style=\"line-height: 1.5\">AI tools can reinforce incentives in several ways. You can use AI to make contributions visible in real time.</p><p style=\"line-height: 1.5\">[Visual description]: A shopping street and a residential street in Derry/Londonderry, Northern Ireland are shown.</p><p style=\"line-height: 1.5\">In Northern Ireland, the Voice Matters initiative used AI to transcribe face-to-face deliberations and generate real-time visualizations of participants' ideas, giving people immediate, visible evidence that their contributions were shaping the discussion. When using AI to support incentives, the goal is to amplify participation, not replace it. AI should make human contributions more visible and meaningful, enhancing legitimacy and building trust.</p><p style=\"line-height: 1.5\">[Visual description]: A globe appears on screen with the title: Project Spotlight. The camera zooms in on Uzbekistan.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Community Mapathons in Uzbekistan.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the new speaker: Aziza Umarova, Head of Delivery Unit, Agency for Strategic Development and Reforms, Uzbekistan.</p><p style=\"line-height: 1.5\">In Uzbekistan, we invited students to take part in nationwide mapathons to collect data about our schools, healthcare facilities, water, and local infrastructure.</p><p style=\"line-height: 1.5\">[Visual description]: A group of young people wearing Mapathon 2025 hoodies are shown standing around a laptop.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of a Reboot Democracy article, Title: Global AI Watch: Mapping the School, Seeing the System: How Spatial Context Reshaped Public Decision-Making in Uzbekistan and Bhutan. A second slide appears, describing the amount and type of facilities the state is funding, and a bar graph describing the types of internet available in each region of Uzbekistan.</p><p style=\"line-height: 1.5\">Working in teams, they used their mobile phones to gather photos and field data, which was then integrated into a national planning geoportal. We used AI tools to detect patterns, flag infrastructure risks, and prioritize facilities needing follow-up. These are insights that shape the country's national investment planning framework. We combined multiple incentives. Participants developed practical skills, contributed to real public infrastructure, and helped to solve problems in their communities. The result was strong participation and high-quality data sets. What motivated people was not just recognition, but the opportunity to have an impact.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Conclusion. Incentives attract participation.</p><p style=\"line-height: 1.5\">Incentives attract participation</p><p style=\"line-height: 1.5\">[Visual description]: Danielle appears.</p><p style=\"line-height: 1.5\">and signal that people's time, expertise, and contributions matter.</p><p style=\"line-height: 1.5\">Next, we turn to designing tasks that turn engagement goals into usable input.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Next Up: Designing the Tasks.</p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "2b518457-f774-4ad4-9a11-07f3a3cc86b1"
+        },
+        {
+          "id": "f3XdRp3VtvT-0dmtg_VsXgbDlpLQwRnI",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2007%20V5.mp4",
+                  "url": "transcoded-oPBrleKjIzAuqobe.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2007%20V5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsardaz700383d795qy046op",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2007%20V5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 07 V5.vtt"
+                    }
+                  ],
+                  "duration": 356,
+                  "inputKey": "rise/courses/Hl_Qw4udd8pzRa-5tCaTHff61Af28If8/oPBrleKjIzAuqobe.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/Hl_Qw4udd8pzRa-5tCaTHff61Af28If8/transcoded-oPBrleKjIzAuqobe.0000000.jpg",
+                  "captionUID": "cmsardb7500393d79ej7snns3",
+                  "originalUrl": "2625GovLab Public Engagement Video 07 V5.mp4",
+                  "transcodeId": "1785612015859-jvdmbn"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "74661d7d-28cc-42d9-965f-4a79f2f824ed"
+        },
+        {
+          "id": "nwQVHcpGMZ1UK7btv8VVbaI4e0UQwHEm",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "b64703b3-1d6e-4b45-90ec-f87be3437b0a"
+        }
+      ],
+      "settings": {},
+      "title": "Video 7: Designing Incentives for Participation",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "Hl_Qw4udd8pzRa-5tCaTHff61Af28If8",
+      "createdAt": "2026-07-26T19:00:11.684Z",
+      "deleted": false,
+      "duplicatedFromId": "HzkoGKQijiY6FbvdFjipwlOAW0ioM8NG",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T19:22:37.444Z"
+    },
+    {
+      "description": "",
+      "id": "S0JgYWKbPcMcUeQYg_XtE3nzof6oR8_w",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "353348f2-4f62-467f-ba06-46ded47edb46"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"9d8d68a4-02cf-40cd-9a20-75160f9c065d\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>According to the video, what is the strongest incentive for participation?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"6892da64-393c-4cfb-8a63-b631fba72c79\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Cash prizes</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"3313710e-6b3a-4670-806c-cf145ce0fb1d\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>The chance to meet elected officials</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"5220e4e8-405d-4f18-8bdc-a6418993dfb5\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Showing contributors how their input will be used</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"0a30dae1-8b37-4f8b-a046-86afb7522523\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Providing free meals at engagement events</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "f37c63a1-e363-42a1-b91f-b707c929ce97"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "b796e80e-e54f-451b-940d-e4a7d7b91584"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"78557425-e618-4a7c-8f3b-5a991eea6efe\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>What is \"astroturfing\" as described in this video?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"ce12198a-6daf-4307-9789-779f086aa8fc\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Using AI to translate outreach materials into multiple languages</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"a441bd14-3739-49d2-8f44-4d2e49e43295\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Coordinated campaigns that submit duplicate or fabricated input to influence outcomes</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"7cbe0b57-7311-4663-80c8-127f6bf585dd\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>A method for recruiting diverse participants through social media</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"ab883618-a457-4bb7-9970-d0f5ae1d4c14\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>An AI-powered technique for analyzing public comments</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "8b955b6c-b497-4731-a821-dadcbebdbe05"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "7ae3331a-456b-4ace-bb24-82fabcf9782b"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "Hl_Qw4udd8pzRa-5tCaTHff61Af28If8",
+      "createdAt": "2026-08-01T02:47:40.912Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-02T20:55:28.768Z"
+    },
+    {
+      "description": "",
+      "id": "iXkQ8LHKdcytN2_V0XmNTikdws6ACaCr",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"3b13555e-d512-43ac-bb27-12fdf1303586\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 7 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to <em>Video 8. Designing the Tasks: What You Ask Participants to Do.</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "28eaeb24-5afa-4a47-865c-1d875a36713f"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "Hl_Qw4udd8pzRa-5tCaTHff61Af28If8",
+      "createdAt": "2026-08-01T02:48:33.559Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:54:20.149Z"
+    }
+  ],
+  "title": "Video 7: Designing Incentives for Participation ",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "Hl_Qw4udd8pzRa-5tCaTHff61Af28If8_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 7: Designing Incentives for Participation ",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "Hl_Qw4udd8pzRa-5tCaTHff61Af28If8",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "XL_GjSBkBTsDBdMgQqn4Xl96p9_4WtAV",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773429167",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:40:55.056Z",
+  "updatedAt": "2026-08-03T16:10:29.167Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:10:29.855Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-02T20:55:28.768Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:10:29.855Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

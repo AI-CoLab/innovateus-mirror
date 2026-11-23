@@ -1,0 +1,54 @@
+[
+  {
+    "our_logos_and_icons": "<p dir=\"ltr\"><a href=\"https://drive.google.com/drive/folders/1JWFkyLBTydD4J7paRbJq-Ds8V_g7n4ta?usp=sharing\"><span data-rich-links=\"{&quot;fple-t&quot;:&quot;InnovateUS Logos for Organizations&quot;,&quot;fple-u&quot;:&quot;https://drive.google.com/drive/folders/1JWFkyLBTydD4J7paRbJq-Ds8V_g7n4ta?usp=sharing&quot;,&quot;fple-mt&quot;:&quot;application/vnd.google-apps.folder&quot;,&quot;type&quot;:&quot;first-party-link&quot;}\">InnovateUS Logos for Organizations</span></a></p>\n<p dir=\"ltr\">We use additional icons for our website and flyers from <a href=\"https://fontawesome.com/icons\">Font Awesome</a>.</p>\n<p><strong id=\"docs-internal-guid-667ec86a-7fff-3856-8b96-d1d5440629d5\">For InnovateUS team and faculty headshots, please contact <a href=\"mailto:hello@innovate-us.org\">hello@innovate-us.org</a>.</strong></p>",
+    "logo_package": "e7d66b6a-45de-44e2-a16d-8ed96683581c",
+    "lede": null,
+    "title": "InnovateUS Branding",
+    "colors": [
+      {
+        "color_name": "Deep Space Blue",
+        "hex_code": "#142941"
+      },
+      {
+        "color_name": "Steel Azure",
+        "hex_code": "#124D8F"
+      },
+      {
+        "color_name": "Smart Blue",
+        "hex_code": "#0064d1"
+      },
+      {
+        "color_name": "Icy Blue",
+        "hex_code": "#bcd8f6"
+      },
+      {
+        "color_name": "Alice Blue",
+        "hex_code": "#e4effc"
+      },
+      {
+        "color_name": "Ghost White",
+        "hex_code": "#f9fbff"
+      },
+      {
+        "color_name": "Harvest Gold",
+        "hex_code": "#D09006"
+      },
+      {
+        "color_name": "Golden Pollen",
+        "hex_code": "#FDCE3E"
+      },
+      {
+        "color_name": "Blue Spruce",
+        "hex_code": "#097261"
+      },
+      {
+        "color_name": "Deep Crimson",
+        "hex_code": "#9D0C1B"
+      }
+    ],
+    "id": 1,
+    "our_fonts": "<h3 dir=\"ltr\">Title text: &lsquo;DM Serif Display&rsquo;</h3>\n<p dir=\"ltr\">Body text: &lsquo;Libre Franklin&rsquo;</p>",
+    "ourcolors": null,
+    "our_colors": "<p dir=\"ltr\">Blue: #124D8F</p>\n<p dir=\"ltr\">Yellow (for icons):&nbsp;&nbsp;#FDCE3E</p>\n<p dir=\"ltr\">Dark yellow (for text): #D09006</p>\n<p dir=\"ltr\">Red: #9D0C1B</p>\n<p dir=\"ltr\">Teal: #097261</p>\n<p dir=\"ltr\">Light blue: #E4EFFC</p>"
+  }
+]

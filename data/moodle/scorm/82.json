@@ -1,0 +1,584 @@
+{
+  "description": "<div data-editor-id=\"77537028-0a8a-426a-9ae8-a294ca8eaba2\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video explains why goal-setting is the foundation of effective public engagement. It walks through how to define goals that are specific, actionable, and transparent, and shows how AI can help refine goal statements and test messaging.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "lkETughW5FPFniuAIOt1HbDp_4fUNe3d",
+      "items": [
+        {
+          "id": "thNCYegRW0UB28rVdwVGR7aKHOBIuwwt",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"f7b49367-b005-4636-b291-e7ce087ccc62\"><p>This video explains why goal-setting is the foundation of effective public engagement. It walks through how to define goals that are specific, actionable, and transparent, and shows how you can use AI to help refine goal statements and test messaging.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "bd36185e-2f48-454b-8dc9-080d280e610d"
+        },
+        {
+          "id": "rQV_I79_HZmchIF2pL40JamiBScz_m5q",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 3",
+              "description": "<div data-editor-id=\"79cb7160-d15e-4b95-a38a-3e0909e99d2c\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Defining Goals for Engagement and Action.</p><p style=\"line-height: 1.5\">Welcome back.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Danielle Allen, Professor, Harvard University.</p><p style=\"line-height: 1.5\">[Visual description]: A globe appears. Mexico is highlighted.</p><p style=\"line-height: 1.5\">In Mexico, more than 116,000 people have gone missing or disappeared, contributing to deep distrust in the justice system.</p><p style=\"line-height: 1.5\">[Visual description]: A Supreme Court forum is shown where people sit at round tables.</p><p style=\"line-height: 1.5\">In 2024, the Supreme Court convened national forums across 31 regions to generate actionable ideas for reforming the justice system. Judges, lawyers, community organizations, and families of the disappeared participated. Forum organizers used AI to analyze their contributions and identify proposals for implementation. The Supreme Court defined upfront success both as producing usable recommendations and ensuring participants felt heard and connected to a broader community working toward change. When goals are clear, even the most difficult conversations can produce real results.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">In this video, you'll learn how transparent goal-setting builds trust. Identify how you can use AI to support goal articulation, from refining goal statements to testing messaging with participants. Let's dive in.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Why goals matter.</p><p style=\"line-height: 1.5\">You need to be able to explain to yourself, to your team, to your leaders and the public why you are asking people to engage. Clear goals create a reason for people to participate. Clear goals also build trust by reassuring participants that their contributions matter. Goals define what success looks like for both participants and institutions. Without them, there's no way to know whether an engagement produced the desired outcomes.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: How to set clear goals.</p><p style=\"line-height: 1.5\">Strong engagement goals share a few characteristics. They are specific and measurable, not \"gather public input on transportation\", but \"identify the three highest priority improvements residents want to see in the city's bus network.\" They are actionable: tied to a decision the institution has the authority and resources to act on. They're honest about scope: making clear what is and isn't on the table. They reflect clear values: making explicit what principles will guide how the process is run and how input will be used. And they're understandable: written in plain language that anyone can immediately grasp.</p><p style=\"line-height: 1.5\">Ask yourself: What is the problem you're trying to solve? Be clear about why it matters, what is at stake, who is affected, and what values make this worth addressing. If the problem isn't yet clear, the goal of the engagement could be to work with those affected to understand its root causes.</p><p style=\"line-height: 1.5\">What do you need to learn from the community and why? What information do you need to help you solve the problem? This might be data to improve a service, priorities to guide a budget or lived experience to inform decision-making. And why is public engagement the right way to gather it? When vital expertise or lived experience exists in the community, engagement isn't just helpful, it's necessary.</p><p style=\"line-height: 1.5\">What impact do you want participants to experience? Being explicit about what you want the engagement to mean for participants - not just what you want from them - helps you design a process that builds trust.</p><p style=\"line-height: 1.5\">How will you measure success? A set number of actionable proposals? A clear picture of community priorities? Or input specific enough to shape policy?</p><p style=\"line-height: 1.5\">Make sure the goal matters to those affected. Because Mexico's national justice reform defined success as both producing actionable recommendations and rebuilding trust, the process was designed to deliver both.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Using AI to Help Articulate Goals.</p><p style=\"line-height: 1.5\">You can use AI to draft and refine clear goal statements that resonate with both participants and stakeholders. Prompting the tool to rewrite your goals for different audiences, ask where the language is confusing and suggest clearer or more specific alternatives. That can help you to think through where your goals may be unclear or unpersuasive before going further.</p><p style=\"line-height: 1.5\">[Visual description]: On screen, ChatGPT is used to rewrite and refine goals by stakeholder groups. It produces a numbered list of goals.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Risks in Goal Setting.</p><p style=\"line-height: 1.5\">Goal setting is where some of the most consequential mistakes happen. First, overly broad or ambitious goals can lead to disappointment or erode trust. Focused, clear and specific goals are more likely to produce meaningful results. Second, don't use AI as a substitute for judgment. It can help you articulate your goals more clearly, but shouldn't decide your goals for you. AI also can't tell you what your institution is actually prepared to do with the input you collect.</p><p style=\"line-height: 1.5\">[Visual description]: A globe appears on screen with the title: Project Spotlight. The camera zooms in on Kentucky, United States.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Ben Peterson, Executive Director, The City-County Planning Commission of Warren County.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: A screenshot of the \"What Could BG be?\" website is shown, with a button leading to the Final Report.</p><p style=\"line-height: 1.5\">In Warren County, Kentucky, we launched an initiative called \"What Could BG be?\" to engage residents in shaping our community's vision for the next 25 years. From the start, we were clear about our goal: we wanted to understand residents' priorities for the future and identify where people agreed and disagreed.</p><p style=\"line-height: 1.5\">[Visual description]: A bubble plot graph showcasing various idea areas and the number of ideas submitted to each topic appears.</p><p style=\"line-height: 1.5\">So we asked a simple question: \"What do you want to see in Bowling Green's future?\" We conducted an extensive outreach campaign using word of mouth, print and digital media. To manage participation at scale, we used AI-supported tools.</p><p style=\"line-height: 1.5\">[Visual description]: A survey asking people to imagine Bowling Green in 2050 is shown.</p><p style=\"line-height: 1.5\">Pol.is helped us facilitate deliberation and identify consensus, and Google Jigsaw's Sensemaking tool helped synthesize answers into digestible categories of agreement.</p><p style=\"line-height: 1.5\">[Visual description]: Jigsaw's Sensemaking is shown in action, having broken down the survey answers into color-coded categories showing both the number of positive and negative reactions to each question.</p><p style=\"line-height: 1.5\">We were explicit with participants that AI was helping us manage volume while preserving the meaning of what they said.</p><p style=\"line-height: 1.5\">We heard from nearly 8,000 people, who contributed almost 4,000 ideas and over 1 million responses. Those inputs are now informing BG2050, our new 25-year comprehensive plan, as well as other public policy and private partner initiatives. Just as important, the process helped people better understand one another. Most participants told us they came away with a clearer sense of different viewpoints, and we were able to surface areas of broad agreement that had not been visible before. By defining our goals clearly from the outset - for both the engagement and the role of AI - we were able to gain confidence that we were having the right conversations to turn participation into actionable insights, which then built trust and a shared understanding.</p><p style=\"line-height: 1.5\">[Visual description]: A screenshot of the \"What Could BG be?\" Final Report is shown.</p><p style=\"line-height: 1.5\">[Visual description]: Danielle appears.</p><p style=\"line-height: 1.5\">In this video, we discussed how clear goals shape effective and trustworthy engagement. Next up, picking an owner accountable for turning input into action.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Next Up: Picking an Accountable Owner.</p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "11e5e760-3eb3-4a6c-a713-86455053842d"
+        },
+        {
+          "id": "uSHtWufu34teZVKLD8uoqblIApHghPaE",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2003%20v5.mp4",
+                  "url": "transcoded-k51752RxZESIlEyW.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2003%20v5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsali1cj00393d79nr2pchjh",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2003%20v5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 03 v5.vtt"
+                    }
+                  ],
+                  "duration": 445,
+                  "inputKey": "rise/courses/eRNU_ROO68lkot2KEkM-Vi0VRo1flY6E/k51752RxZESIlEyW.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/eRNU_ROO68lkot2KEkM-Vi0VRo1flY6E/transcoded-k51752RxZESIlEyW.0000000.jpg",
+                  "captionUID": "cmsali1my003a3d79d6hy9upg",
+                  "originalUrl": "2625GovLab Public Engagement Video 03 v5.mp4",
+                  "transcodeId": "1784850607189-avza8g"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "93254c78-d3a3-4a4a-a669-b679eb78e121"
+        },
+        {
+          "id": "XLlcwkyZPh9lZO6KDqXRPT9ytGICEdqp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "be6ad80f-1d11-4b18-b13e-9b9dfd42d409"
+        }
+      ],
+      "settings": {},
+      "title": "Video 3: Defining Goals for Engagement and Action",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "eRNU_ROO68lkot2KEkM-Vi0VRo1flY6E",
+      "createdAt": "2026-07-26T18:59:38.114Z",
+      "deleted": false,
+      "duplicatedFromId": "6BQZrVBuHdHpJvRFXBYrhUF1OsvJ03rt",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T17:14:37.392Z"
+    },
+    {
+      "description": "",
+      "id": "xeKZEyYs-MwRLlKFl2I217PSlLCyPy6N",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "aeb82bcb-e4a8-453e-af09-ed135074faea"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"67ab485c-e092-48f4-b8d1-aad7f0817bae\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>Which of the following is a characteristic of a strong engagement goal?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"610d512f-9289-4ea7-bfde-18ce4040de28\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It is broad enough to cover any possible outcome</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"e1d794aa-0ee7-412a-95d6-00458b3577f6\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It is specific, measurable, and tied to a decision the institution can act on</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"aca3dcdc-1edc-41bd-a149-bb617d43eebe\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It focuses on collecting as much input as possible</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"c25e9a44-9c43-423e-bd4f-e4d87f9e50c4\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It avoids setting expectations about how input will be used</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "872adffd-ef33-432d-a422-fc807db42b47"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "2dc615ca-4cfa-41ef-82ce-d383b2513bfd"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"de8a7131-8337-4d43-b119-6d583c4a8cd4\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>What is a key risk in goal-setting?</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"03cb95b7-edc0-41d7-95d2-788e3c76801c\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Defining goals that are overly broad or disconnected from what the institution can realistically act on</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"43f2e592-86c3-4a93-b820-b6d9759fea53\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Setting goals that are too specific for participants to understand</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"9225d827-9890-40b9-bf25-fb17218fc3bc\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Sharing goals publicly before the engagement begins</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"fc5dc8f1-4387-4af0-8ad0-67a2cf4e5fad\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Allowing participants to suggest changes to the goals</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "6d285a39-1461-44ee-8e99-3f9f270aef4a"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "57a1cefc-21a6-4f34-a6c1-1c64e23500ce"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "eRNU_ROO68lkot2KEkM-Vi0VRo1flY6E",
+      "createdAt": "2026-08-01T02:47:59.008Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-02T20:53:26.491Z"
+    },
+    {
+      "description": "",
+      "id": "o7cIs2wFfxFK3VTb0F37YTW5fwBzVrkp",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"b70c685a-cfc2-432d-a705-3e27dedace93\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 3 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to <em>Video 4. Ensuring Ownership, Accountability and Action.</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "07630929-9da5-49c9-980c-fe0fcbb6a9bf"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "eRNU_ROO68lkot2KEkM-Vi0VRo1flY6E",
+      "createdAt": "2026-08-01T02:48:20.190Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:48:31.253Z"
+    }
+  ],
+  "title": "Video 3: Defining Goals for Engagement and Action",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "eRNU_ROO68lkot2KEkM-Vi0VRo1flY6E_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 3: Defining Goals for Engagement and Action",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "eRNU_ROO68lkot2KEkM-Vi0VRo1flY6E",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "IUr2bFX7U75VloI3sNU1ZUuRVDRXJIsM",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773240530",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:41:32.948Z",
+  "updatedAt": "2026-08-03T16:07:20.530Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:07:21.689Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-02T20:53:26.491Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:07:21.689Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

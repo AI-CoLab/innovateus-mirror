@@ -1,0 +1,1024 @@
+{
+  "id": "uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124c8e",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "-uwsIZSEGpyuv138HBdx09eZpOTGxxc1",
+  "copyOf": "",
+  "order": "1781217628183",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "lessons": [
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k",
+      "createdAt": "2026-02-10T20:59:49.655Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "F9up0bysyiGi09r4MY6QpwUzZiPnB3MD",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "Go4ZgivWzu_iTxvdOUobLf4OnyxfoM1D",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 0,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 2.1 | Copyright",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-03T20:04:06.549Z",
+      "items": [
+        {
+          "id": "clx8tfk4l000s3b6ccps30ll3",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 6.1 | Copyright</strong></p>",
+              "paragraph": "<p>Broader societal risks and uncertainties surrounding GenAI are introduced. The video focuses on copyright issues, discussing the lack of protection for AI-generated works and the unsettled question of using copyrighted material for training GenAI models.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "a3f7ff49-9061-4698-973c-71efe1a0940d"
+        },
+        {
+          "id": "cmiq86pac00i43b6ouf13oaq8",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq86pac00i73b6o92l1qvmt",
+              "title": "Audio description transcript - Copyright",
+              "description": "<div data-editor-id=\"c3c89b40-c9a0-4e8d-9806-365bf811b04c\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Copyright.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back. Last time we addressed risks you may encounter when using GenAI tools in your day-to-day work. Now let’s zoom out. There are broader societal risks and uncertainties that will shape policy and regulation in the years ahead.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Learning Goals.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">By the end of this video, you will be able to:</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Identify key emerging policy risks related to Generative AI</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Recognize when these risks require additional caution or oversight in your own practice</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">We’ll focus on four areas where policy is still evolving:</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Copyright</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Deepfakes</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Astroturfing</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Private ownership</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Copyright.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">What remains especially contested is whether GenAI companies have the right to use other people’s content to train their models in the first place.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of The New York Times article titled: The Times Sues OpenAI and Microsoft Over A.I. Use of Copyrighted Work.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">&nbsp;As of this recording, dozens of copyright lawsuits have been filed against AI companies in the United States—and that number continues to grow.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the Reuters article titled: Disney, Universal sue image creator Midjourney for copyright infringement.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">A large portion of training data comes from public domain or openly licensed sources, such as government publications and Wikipedia.&nbsp;</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The logos of the National Archives, the DPLA, and Wikipedia are shown.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">But concerns arise with privately owned content. Some platforms have entered licensing agreements to provide data for AI training. Others have taken legal action—for example, the New York Times has sued Microsoft and OpenAI over the use of its articles, and courts have allowed key parts of that case to move forward.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the NPR article titled: Judge allows ‘New York Times’ copyright case against OpenAI to go forward.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Other disputes have resulted in major settlements. The legal landscape is evolving quickly.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In 2025, the U.S. Copyright Office issued guidance indicating that some uses of copyrighted material for AI training may qualify as fair use, while others may not.&nbsp;</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of an article titled: United States Copyright Office weighs in on fair use defense for Generative AI Training.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">These questions are likely to be resolved through ongoing litigation on a case-by-case basis.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">In Europe, the 2024 AI Act requires providers of general-purpose AI systems to publish summaries of their training data, so that copyright holders can better understand and enforce their rights.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the EU AI Act. A specific section of the Transparency requirements is highlighted: “Publishing summaries of copyrighted data used for training.”</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: AI governance shapes.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">How this is resolved will shape what data AI systems can be trained on—and, in turn, the quality and capabilities of these tools.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Next, we'll look at deepfakes, astroturfing, and the perils of private ownership.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "6bb0b3fd-f287-447a-a04b-156bab7bc849"
+        },
+        {
+          "id": "clwyxyw9900033b6c28ei3uhk",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-poEjPgJYUrmMMwsn.mp4",
+                  "type": "video",
+                  "poster": "2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6q7zf00373b7jbe9oxtta",
+                      "key": "Video%2018%20-%206.1%20-.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 18 - 6.1 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "inputKey": "rise/courses/uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k/poEjPgJYUrmMMwsn.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k/transcoded-poEjPgJYUrmMMwsn.0000000.jpg",
+                  "captionUID": "cmpx6q87z00383b7jkf2hctmq",
+                  "originalUrl": "2408GovLabAI 2026 Video 18 - 6.1 v3.1.mp4",
+                  "transcodeId": "1780434826080-jxsruc"
+                }
+              },
+              "caption": "<div data-editor-id=\"a1c701e1-50f3-4b5c-b2ce-86d5d6ddfb24\"><p>Video 2.1: Copyright</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "94f23893-f3c1-42d3-92a3-0f8efcaaa78c"
+        },
+        {
+          "id": "clwyy6nzy000j3b6c4tcdhfg2",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "71ea22e1-56dd-4523-9bd4-bc50e11566cb"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k",
+      "createdAt": "2026-02-10T21:04:38.138Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"7159319a-85bc-4128-b6a6-ac5a44934f98\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "6B4WcVOVCFdcdp8VdiBhEw9liyrWImmV",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "GVGbBPJ5Wpatj2OCThJKvcSGwKctHrXn",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 2.1",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-02-10T21:04:38.224Z",
+      "items": [
+        {
+          "id": "clx3w9jro00063b78vmdx4ww7",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What could be the impact of developments of copyright lawsuits in the US on generative AI companies?</p>",
+          "answers": [
+            {
+              "id": "clx3w9jrp00073b78gsfkgu2x",
+              "title": "<p>Generative AI companies may have to improve the quality of their results</p>",
+              "correct": true,
+              "feedback": "<p>The developments and lawsuits could lead to a decrease in the quality of results, not an improvement.</p>"
+            },
+            {
+              "id": "clx3w9jrp00093b78o9o900o2",
+              "title": "<p>Generative AI companies may have to license content or remove certain sources from their training data</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3w9jrp000a3b78jt4dixk3",
+              "title": "<p>Generative AI companies may have to increase the amount of copyrighted data in their training</p>",
+              "feedback": "<p>The developments and lawsuits aim to restrict the use of copyrighted data, not increase it.</p>"
+            },
+            {
+              "id": "clx3w9jrp00083b78hqb9et6a",
+              "title": "<p>Generative AI companies may start charging less</p>",
+              "correct": true,
+              "feedback": "<p>The developments and lawsuits would not be a cause of a reduction in cost.</p>"
+            }
+          ],
+          "correct": "clx3w9jrp00093b78o9o900o2",
+          "corrects": [
+            "clx3w9jrp00073b78gsfkgu2x",
+            "clx3w9jrp00083b78hqb9et6a"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "67e01f85-e4a6-4997-8986-d42e49ebe9fe"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k",
+      "createdAt": "2026-02-10T21:02:45.706Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "hVWJH_H8_LJ2O-OZefalwIF9DLGCnp1u",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "cgbwoeR7SpTEi-Of60fBMM84KL_rL5Y9",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 2.2 | Deep Fakes, Astroturfing & Private Ownership",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-05T21:54:25.678Z",
+      "items": [
+        {
+          "id": "1zs7yj6sJx_fkeZx_YGCtL0qKsXIvb37",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 6.2 | Deep Fakes &amp; Astroturfing</strong></p>",
+              "paragraph": "<p>Deep fakes, astroturfing, and private ownership of GenAI models are discussed. The video explores the potential misuse of GenAI for deception, the challenges of identifying AI-generated content in public feedback, and the concentration of power among a few tech companies.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "08e22a3c-12b8-4a60-9d93-73430eb8d091"
+        },
+        {
+          "id": "clx928tjy00493b6cj4rvbtlq",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clx928tjy004a3b6c5urfnlor",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course at innovate-us.org/ai-resources</p>",
+              "destination": "https://innovate-us.org/ai-resources"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "b577f650-bec0-4498-8348-f0fcda4aebf4"
+        },
+        {
+          "id": "cmiq8fh3n00lk3b6ozhkqhfrn",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq8fh3n00ln3b6ouwtnnyvv",
+              "title": "Audio description transcript -  Deep Fakes, Astroturfing & Private Ownership",
+              "description": "<div data-editor-id=\"8ecd6524-a5eb-4a09-926b-6819ee966ae1\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Deepfakes, Astroturfing and Private Ownership.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Welcome back!</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Deepfakes.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">GenAI has the power to produce life-like images and videos. This creates extraordinary opportunity — and serious risk.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>A short David Beckham commercial for Malaria fundraising is shown, generated by AI.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">With the ability to create video from text at minimal cost, this dramatically reduces the price of producing educational content and training videos.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana is not AI, she’s a real person.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">This is what the company Synthesia did when it created a malaria awareness campaign with David Beckham — using AI to make the soccer star speak in nine different languages. It's hard to tell the difference from the real thing.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the Malaria No More case study webpage.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">But some are misusing this ability to impersonate real people. In a recent elaborate phishing scheme, bad actors impersonated a company's CFO on a video call and tricked an employee into wiring them $25 million.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the CNN World article titled: Finance worker pays out $25 million after video call with deepfake ‘chief financial officer.’</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">It's imperative that public sector organizations understand this technology — so we can use it responsibly and recognize when others use it against us and the residents we serve.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the Congressional ‘TAKE IT DOWN’ Act. A specific section is highlighted: “Upon receiving such a notice, a covered platform must remove the intimate visual depiction “as soon as possible” but no later than 48 hours after receiving the notice.”</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Governments are responding. The TAKE IT DOWN Act — signed into federal law in May 2025 — criminalizes the non-consensual publication of deepfake intimate images and requires platforms to remove flagged content within 48 hours. The first federal conviction under the law came in April 2026. At the state level, almost every state now has deep-fake-related laws, with 64 new laws enacted in 2025 alone. More legislation is expected as the technology becomes more accessible and the harms more visible.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">GenAI holds real promise for improving public engagement.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of The Los Angeles Times article titled: Southern California air board rejected pollution rules after flood of comments from AI-powered platform.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">But this same technology makes it dramatically easier to flood comment systems with computer-generated submissions — a practice known as astroturfing.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Not exclusive to AI.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">With GenAI, bad actors can generate thousands of unique, convincing submissions, making organized manipulation far harder to detect.&nbsp;</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Bad actors can generate fake submissions, or even use real names and identities.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">More troubling: real people's names and identities are now being used to submit fake comments without their knowledge.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the Futurism article titled: Barrage of Emails From AI Politics Platform Defeats Clean Air Initiative.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">&nbsp;In Los Angeles, more than 20,000 AI-generated comments opposing a clean air initiative were submitted by a platform billing itself as an \"AI-powered grassroots advocacy platform\" — with some constituents later reporting they had no idea comments had been filed in their names.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">As the volume and sophistication of AI-generated comments grows, agencies will need both technical tools and clear policies to distinguish genuine public input from fabricated submissions — because the integrity of public participation depends on it.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Private Ownership.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Today the GenAI we use in government is controlled by just a handful of companies. These companies are ultimately beholden to shareholders, not the public interest.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">This concentration of power is prompting serious debate about what's often called AI sovereignty — the idea that nations and communities should have meaningful control over the AI systems that shape their information, services, and decisions, rather than depending entirely on a small number of private platforms.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the European Commission press release titled: EU launches InvestAI initiative to mobilise €200 billion of investment in artificial intelligence.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Governments around the world are responding.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the EU AI Continent Action Plan.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The EU's AI Continent Action Plan commits roughly €200 billion to building European AI infrastructure and launched the OpenEuroLLM initiative to develop open large language models across all 24 official EU languages.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the OpenEuroLLM website.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">India's national AI mission, approved in 2024 with over $1 billion in funding, is investing in domestically developed models that can serve India's 22 languages and public digital infrastructure.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the Stip Compass website on the India AI Mission. A specific section is highlighted: “to erect a cutting-edge, scalable AI computing infrastructure by deploying over 10,000 Graphics Processing Units (GPUs) through strategic public-private collaborations.”</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">There is also growing demand for public AI — publicly funded models and infrastructure that operate under principles of transparency and democratic accountability, serving as counterweights to private concentration.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The question is not whether private sector innovation matters — it clearly does — but whether it's sufficient on its own, without public alternatives or democratic oversight, to govern a technology this consequential.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Much of the information we consume and create will increasingly be mediated by a small number of GenAI models. How that power is governed — and by whom — is one of the defining public policy questions of our time.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "62912983-842d-475b-b7dc-5bbea5cf859f"
+        },
+        {
+          "id": "Hy29G1huiGZmakn6PMYztbxMtp1DOmXi",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "N59bzN/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-K869N1fR5qjXgk6e.mp4",
+                  "type": "video",
+                  "poster": "1JnuPW/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6qrzx00453b7jkauva4gw",
+                      "key": "Video%2019%20-%206.2%20-.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 19 - 6.2 - V3 QCd.vtt"
+                    }
+                  ],
+                  "duration": 317,
+                  "inputKey": "rise/courses/uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k/K869N1fR5qjXgk6e.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k/transcoded-K869N1fR5qjXgk6e.0000000.jpg",
+                  "captionUID": "cmpx6qs7q00463b7jfxv7eqr3",
+                  "originalUrl": "2408GovLabAI 2026 Video 19 - 6.2 v3.mp4",
+                  "transcodeId": "1780434989494-a40dfe"
+                }
+              },
+              "caption": "<div data-editor-id=\"5a74c596-83eb-403b-abee-6e8d34b78d4b\"><p>Video 2.2: Deep Fakes &amp; Astroturfing</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "0cb2fd71-4ec7-49b3-9eb4-45523d648d4a"
+        },
+        {
+          "id": "3P-8hKvnfZLdxKIA0kDR-womltv7gXE_",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "f5807a36-b599-4503-90ef-81b39e0f3933"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k",
+      "createdAt": "2026-02-10T21:02:50.930Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"ad902456-aad2-4bd1-9d4e-4f2dc396b17f\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "TAAVZvtQ-pNuM2Try9IRGtqKFDHPeCQh",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "5Lj5L9cUaNLtGBD1lRoY5gmI07FCk7NJ",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 2.2",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-02-10T21:02:50.980Z",
+      "items": [
+        {
+          "id": "clx3wbs0c00103b78w7zcykrd",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the main purpose of astroturfing?</p>",
+          "answers": [
+            {
+              "id": "clx3wbs0c00113b787lpfjmri",
+              "title": "<p>To express genuine support for a cause</p>",
+              "correct": true,
+              "feedback": "<p>Astroturfing is not about expressing genuine support, but rather about creating a false impression of support or opposition.</p>"
+            },
+            {
+              "id": "clx3wbs0c00133b78fw5qtx4b",
+              "title": "<p>To create a false impression of public opinion</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3wbs0c00143b783gcj9cw5",
+              "title": "<p>To encourage authentic grassroots participation</p>",
+              "feedback": "<p>Astroturfing seeks to create an artificial sense of grassroots participation, not encourage authentic participation.</p>"
+            },
+            {
+              "id": "clx3wbs0c00123b7880bu9wxr",
+              "title": "<p>To generate a small number of high-quality comments</p>",
+              "correct": true,
+              "feedback": "<p>The goal of astroturfing is typically to generate a large number of comments to flood a system, not to create a small number of high-quality comments.</p>"
+            }
+          ],
+          "correct": "clx3wbs0c00133b78fw5qtx4b",
+          "corrects": [
+            "clx3wbs0c00113b787lpfjmri",
+            "clx3wbs0c00123b7880bu9wxr"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "701cf359-6bc7-46f6-85cc-eb7b1899337e"
+        },
+        {
+          "id": "clx3wd85a00253b78hlpdi2sl",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What potential concern arises from the control of core generative AI models by a select few private tech companies?</p>",
+          "answers": [
+            {
+              "id": "clx3wbs0c00113b787lpfjmri",
+              "title": "<p>The prioritization of shareholder interests over the public interest</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clx3wbs0c00133b78fw5qtx4b",
+              "title": "<p>The development of AI models that are too transparent and open</p>",
+              "feedback": "<p>The concern is not about AI models being too transparent, but rather about the prioritization of shareholder interests.</p>"
+            },
+            {
+              "id": "clx3wbs0c00143b783gcj9cw5",
+              "title": "<p>The lack of profitability for the private tech companies</p>",
+              "feedback": "<p>The profitability of the private tech companies is not the main concern raised in the topic.</p>"
+            },
+            {
+              "id": "clx3wbs0c00123b7880bu9wxr",
+              "title": "<p>The overemphasis on collaboration with government agencies</p>",
+              "correct": true,
+              "feedback": "<p>Collaboration with government agencies is not mentioned as a primary concern related to the control of AI models by private companies.</p>"
+            }
+          ],
+          "correct": "clx3wbs0c00113b787lpfjmri",
+          "corrects": [
+            "clx3wbs0c00113b787lpfjmri",
+            "clx3wbs0c00123b7880bu9wxr"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "5f0209cc-ce8f-409a-a793-2a9d249f6c04"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k",
+      "createdAt": "2026-06-02T21:30:42.842Z",
+      "deleted": false,
+      "description": "",
+      "duplicatedFromId": "cgbwoeR7SpTEi-Of60fBMM84KL_rL5Y9",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "id": "PkTDKwZkrWioPA29bNKY-3M9IXxy7U61",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {},
+      "title": "Video 2.3 | Public Trust and the Future of AI",
+      "transferredAt": null,
+      "type": "blocks",
+      "updatedAt": "2026-06-03T22:20:24.928Z",
+      "items": [
+        {
+          "id": "T7ech5QPH1OslrZ-RQYAdkTXAjbX4ZHv",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clx8tfk4m000y3b6ct79no51w",
+              "heading": "<p><strong>Video 6.2 | Deep Fakes &amp; Astroturfing</strong></p>",
+              "paragraph": "<div data-editor-id=\"4104391a-7c4e-40a6-b6cf-90e8c4cebc54\"><p>Public trust, responsible AI principles, and the future of the technology are discussed. The video explores the public servant's role as a steward of public trust and looks ahead to emerging tools—agentic and predictive AI—and the critical-thinking habits needed to use them responsibly.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "fc9fceb1-b259-4342-9d37-ad887a42bc00"
+        },
+        {
+          "id": "J-_K6azrzRZyH_zPv1ajpaN2jN-icmi3",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clx928tjy004a3b6c5urfnlor",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course at innovate-us.org/ai-resources</p>",
+              "destination": "https://innovate-us.org/ai-resources"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "36c15556-b300-4990-84d0-2777ed77f52b"
+        },
+        {
+          "id": "GnAhTc7qWCtpHAr8KFCkWpN48X_pZ_Mm",
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq8fh3n00ln3b6ouwtnnyvv",
+              "title": "Audio description transcript -  Public Trust and the Future of AI",
+              "description": "<div data-editor-id=\"65749a5a-ceae-406d-b2d4-4986cfa75497\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Public Trust and the Future of AI.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">As public servants, our core mission is to act in the best interests of the people we serve.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Governments worldwide have embedded this mission into their AI frameworks. Among Ohio's five principles for responsible AI: any use must be \"Human-Centric and Socially Beneficial.\"&nbsp;</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Ohio.govs’ logo is visible next to the 5 principles: Fair, Accountable, Secure and safe, Explainable and Transparent, and Human-centric and socially beneficial.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The City of Boston calls for centering \"Public Purpose\" — ensuring service to the public stays at the center of every decision.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The City of Boston logo is visible next to its AI principles: Empowerment, Inclusion and respect, Transparency and accountability, Innovation and risk management, Privacy and security, and Public purpose.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">&nbsp;The EU calls for ensuring AI use provides for \"societal and environmental well-being.\"</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The EU Flag is visible next to its 7 AI requirements: Human agency and oversight, Technical robustness and safety, Privacy and data governance, Transparency, Diversity, Non-discrimination and fairness, Societal and environmental well-being, and Accountability.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">These principles must translate into tangible actions: identifying and addressing challenges facing our communities, actively seeking public and worker input throughout the development and deployment of AI solutions, and establishing robust feedback and accountability systems that allow residents to evaluate their effectiveness.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Just because we can do something with technology does not mean we should do it.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a signpost with a trail map standing at a split on a trail, showing potential paths to take. Generated by ChatGPT.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">As public professionals, you occupy a unique position in the AI landscape. You are not just potential users of these tools — you are also the stewards of public trust. The decisions your agencies make about how and when to deploy AI will shape whether residents experience these technologies as empowering or alienating. That's a responsibility worth taking seriously.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">This means pushing back when AI is proposed for uses where it isn't ready — or where the stakes of an error are too high.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a city being overlayed by a neon computer grid labeled CITY OS 4.7. Generated by ChatGPT.</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">&nbsp;It means asking hard questions about accountability: if a GenAI system helps make a decision that harms a resident, who is responsible? It means advocating within your organization for clear guidelines, training, and oversight mechanisms before AI tools are deployed at scale.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">It also means being curious and engaged. The professionals who shape how AI is used in government will largely be people who know both the work and the tools — people who can spot an opportunity, and also spot a risk. That's the knowledge this course has been building toward.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The pace of change means the tools you use a year from now may look quite different from what we've covered here.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Two developments on the horizon are worth learning more about.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The first is agentic AI. Generative AI and agentic AI differ in how work gets done.&nbsp;</span></span><br class=\"break-when-trailing\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The logos of Gumloop, Claude, N8n, <a rel=\"noopener noreferrer nofollow\" target=\"_blank\" href=\"http://Relay.app\">Relay.app</a>, Cursor, Zapier, Crewai, and StackAI are displayed.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Generative AI.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">With Generative AI, you direct each step: you ask a question, review the response, and decide what to do next. The AI generates content, but you remain in control of each step of the work.</span></span></p><p></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Agentic AI.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">With agentic AI, you define the goal and the AI carries out a sequence of actions to achieve it. For example, if asking an agent to help you with a policy memo, it might research a topic, pull relevant documents, draft the text, and flag questions for your review. Agents raise new questions about accountability and oversight.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The second is predictive AI.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>The logos of DOMO, Azure, SAS Viya, and <a rel=\"noopener noreferrer nofollow\" target=\"_blank\" href=\"http://H20.ai\">H20.ai</a> are displayed.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Systems that analyze patterns in historical data to forecast outcomes. Governments are already exploring this for infrastructure maintenance, budget forecasting, and identifying residents at risk of losing critical services. Used well, predictive AI helps agencies get ahead of problems rather than just respond to them. Used carelessly, it can automate bias at scale.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The fundamentals this course covers — evaluating outputs, spotting hallucinations, thinking through bias, maintaining human oversight — transfer directly to these more advanced tools. Understanding how a language model works makes it much easier to audit an agent's actions or interrogate a predictive model's assumptions.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Knowing the fundamentals you learned here will make you better able to know how to test how different tools perform. Benchmarking which tool is most accurate for your policy domain? Which hallucinates least on questions your constituents actually ask? These are questions your organization will need to answer.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: What you’ll need (whatever comes next).</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Both agents and predictive AI represent real opportunities — and real responsibilities. The habits of critical thinking, human oversight, and ethical judgment this course has been building are exactly what you'll need for whatever comes next.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "a5247dca-c2f4-4f5a-ba63-689302c40751"
+        },
+        {
+          "id": "9TnkUtiuGkm5SUMEkfpeHDEHoKa-e_gd",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "XSQwn3/2408GovLabAI%202026%20Vide.mp4",
+                  "url": "transcoded-Cz0PhbJQRQ-iNuCT.mp4",
+                  "type": "video",
+                  "poster": "FAIRct/2408GovLabAI%202026%20Vide.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6rfxr00533b7j4ny3q82o",
+                      "key": "Video%2020%20-%206.3%20-.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 20 - 6.3 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 312,
+                  "inputKey": "rise/courses/uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k/Cz0PhbJQRQ-iNuCT.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k/transcoded-Cz0PhbJQRQ-iNuCT.0000000.jpg",
+                  "captionUID": "cmpx6rg4e00543b7j7m0938ma",
+                  "originalUrl": "2408GovLabAI 2026 Video 20 - 6.3 v3.2.mp4",
+                  "transcodeId": "1780435951991-x2fhzq"
+                }
+              },
+              "caption": "<div data-editor-id=\"3d8ccc7c-9b5a-4587-aea9-b6f02358c502\"><p>Video 2.3: Public Trust and the Future of AI</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {},
+          "globalBlockId": "b53648f5-818f-4faa-8efc-3f12702881fb"
+        },
+        {
+          "id": "nrZ3UvYg74FqKRq6YNjr1yADlVhKWWaS",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clwyy6nzz000k3b6c3qs3j8lj",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          },
+          "globalBlockId": "76d4861e-4231-46ca-b69e-a468522eba58"
+        }
+      ]
+    },
+    {
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k",
+      "createdAt": "2026-06-03T21:23:13.606Z",
+      "deleted": false,
+      "description": "<div data-editor-id=\"ad902456-aad2-4bd1-9d4e-4f2dc396b17f\"><p>You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>",
+      "duplicatedFromId": "5Lj5L9cUaNLtGBD1lRoY5gmI07FCk7NJ",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Quiz",
+      "id": "7-BvA4oFJxznHTqZTZOfeFaq1j-st4Kj",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 4,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": "50",
+        "revealAnswers": "all",
+        "passToContinue": true,
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "title": "Self Assessment 2.3",
+      "transferredAt": null,
+      "type": "quiz",
+      "updatedAt": "2026-06-03T21:26:12.155Z",
+      "items": [
+        {
+          "id": "WpBAIu_xVM1L1WbT06SN2JH90spZnpbD",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<div data-editor-id=\"bd93484a-0d62-47cc-8a63-53b55ca46821\"><p style=\"line-height: 1.38\">What is the core mission of public servants, according to the topic?</p></div>",
+          "answers": [
+            {
+              "id": "clx3wbs0c00113b787lpfjmri",
+              "title": "<div data-editor-id=\"508020a0-0d61-43b9-bf38-bebada00fd63\"><p>To prioritize the interests of private companies</p></div>",
+              "correct": true,
+              "feedback": "<div data-editor-id=\"d9fbf40e-580a-4b38-98c5-780466e74bb9\"><p>The core mission of public servants is to serve the public interest, not prioritize private companies.</p></div>"
+            },
+            {
+              "id": "clx3wbs0c00133b78fw5qtx4b",
+              "title": "<div data-editor-id=\"5d389119-9bee-47c5-8909-790e1bbf783e\"><p>To act in the best interests of the people they serve</p></div>",
+              "feedback": ""
+            },
+            {
+              "id": "clx3wbs0c00143b783gcj9cw5",
+              "title": "<div data-editor-id=\"7a64060f-2bcc-4451-ae06-fa8c732bec38\"><p>To maximize government revenue</p></div>",
+              "feedback": "<div data-editor-id=\"1be76534-9f26-4695-b546-f147f0d24c2c\"><p>Maximizing government revenue is not mentioned as the core mission of public servants in the topic.</p></div>"
+            },
+            {
+              "id": "clx3wbs0c00123b7880bu9wxr",
+              "title": "<div data-editor-id=\"c1c5248c-f9af-46b7-bf45-db317f4f626d\"><p>To avoid engaging with emerging technologies like generative AI</p></div>",
+              "correct": true,
+              "feedback": "<div data-editor-id=\"0ebf792b-35da-40e0-adff-bd26751ad486\"><p>The topic suggests that public servants should navigate the transformative landscape of generative AI, not avoid engaging with it.</p></div>"
+            }
+          ],
+          "correct": "clx3wbs0c00133b78fw5qtx4b",
+          "corrects": [
+            "clx3wbs0c00113b787lpfjmri",
+            "clx3wbs0c00123b7880bu9wxr"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE",
+          "globalBlockId": "e3a656e7-a53c-4d0b-aba4-8bd8a2e78d8e"
+        }
+      ]
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-02-10T20:30:01.176Z",
+  "updatedAt": "2026-06-11T22:40:28.183Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 2: Societal Challenges",
+    "format": "zip",
+    "quizId": "5Lj5L9cUaNLtGBD1lRoY5gmI07FCk7NJ",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "-uwsIZSEGpyuv138HBdx09eZpOTGxxc1",
+    "activeLMS": 0,
+    "hideLmsUi": false,
+    "reporting": "passed-incomplete",
+    "exportType": "lms",
+    "identifier": "uN4CrtEGyPnCFXvzYyxc7LaBxYLXWR2k_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": true,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "completionPercentage": 100,
+    "notifyLearnersOfUpdates": false,
+    "translationModelVersion": null,
+    "enableTelemetryCollection": false
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124c8e",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/22_creative.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": false,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-06-11T22:40:35.350Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {},
+  "description": "",
+  "title": "Module 2: Societal Challenges",
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "blank"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-06-07T19:08:33.130Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-06-11T22:40:35.350Z",
+  "aiTutorImage": null,
+  "localizationMetadata": {},
+  "features": {
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "lmsOptions": {
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "enableTelemetryCollection": false
+  },
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

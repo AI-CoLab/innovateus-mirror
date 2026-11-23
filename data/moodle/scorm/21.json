@@ -1,0 +1,1755 @@
+{
+  "id": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "title": "Module 5: AI Foundations: People & Talent",
+  "sharePassword": "",
+  "description": "<p>This module discusses the importance of understanding different types of AI organizations and their talent needs for making informed decisions about an organization&#39;s AI strategy. It explores the key competencies required for AI talent, particularly in the critical role of data scientist, and discusses the collaborative effort required from various teams. The module also presents three main avenues for developing an AI-ready workforce.</p>",
+  "shareId": "bXYexmPYZRznrnpNCvZ329V7fUu7KMrA",
+  "copyOf": "",
+  "order": "1727121020760",
+  "fonts": null,
+  "media": {},
+  "coverImage": {
+    "media": {
+      "image": {
+        "key": "rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/hCREQjpY0j1NhDWG-DALL%25C2%25B7E%25202024-08-10%252015.36.16%2520-%2520A%2520simple%2520abstract%2520art%2520piece%2520with%2520a%2520color%2520theme%2520focusing%2520on%2520dark%2520blue%2520and%2520white%252C%2520with%2520more%2520curved%2520and%2520flowing%2520lines.%2520The%2520composition%2520should%2520feature%2520a%2520b%2520copy.jpg",
+        "crushedKey": "X--WVyLe-Bv8LkcQVR.jpg",
+        "originalUrl": "DALL·E 2024-08-10 15.36.16 - A simple abstract art piece with a color theme focusing on dark blue and white, with more curved and flowing lines. The composition should feature a b copy.jpg",
+        "sourcedFrom": "USER",
+        "useCrushedKey": true,
+        "src": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/10_misc.jpg"
+      }
+    }
+  },
+  "lessons": [
+    {
+      "id": "1WaQIRQbvW4wn_hYTJCCzpmagaRtG4Gj",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Welcome Back!",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0r76en1002q356uzlncwk5h",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0r76en2002w356uojwneqqp",
+              "heading": "<p><strong>Module 5: AI Foundations: People &amp; Talent</strong></p>",
+              "paragraph": "<p>This module discusses the importance of understanding different types of AI organizations and their talent needs for making informed decisions about an organization's AI strategy. It explores the key competencies required for AI talent, particularly in the critical role of data scientist, and discusses the collaborative effort required from various teams. The module also presents three main avenues for developing an AI-ready workforce.</p><p>After each video ends, a continue button appears below the video player. Click it to reveal the additional navigation and the InnovateUS website link containing readings and resources. Learners with screen readers can use the down arrow key to navigate through the video player’s controls and access the continue button. <strong><em>Another</em></strong> “continue” button will appear to move on to the Self-Assessments after each video. </p><ul><li><p><strong>Reminder:</strong> Consult with your organization’s policies before using any tool or platform. &nbsp;</p></li><li><p><strong>Disclaimer</strong>: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</p></li></ul>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r7h9jb004s356ux81nswr1",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r7h9jc004t356u6u5zrkns",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "E1_wx-OvCvA0j14jB4s_mKBrvxGZO1Ex",
+      "deleted": false,
+      "createdAt": "2024-09-06T20:56:50.509Z",
+      "updatedAt": "2024-09-06T21:06:00.395Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "E1_wx-OvCvA0j14jB4s_mKBrvxGZO1Ex",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Video 5.1: Three organization types",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrmndet00033b7c28p35wel",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrmndeu00093b7ci6s82wo8",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video discusses three organization types: AI innovators, AI implementers, and AI adopters, and explains their different talent requirements. The video also emphasizes the need to cultivate a diverse talent pool by actively recruiting or contracting experienced AI talent and training existing staff to become responsible users of AI.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrmnnhc000q3b7cplqybyyx",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrmnnhc000r3b7cl2c2bj0b",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzohcbcj000s3b6ey1szl44c",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzohcbck000t3b6e94x82ftd",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%205.1%20V2.1.mp4",
+                  "url": "transcoded-sJCY5LZlvpwJJRV6-2425GovLabAIP2%25205.1%2520V2.1.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%205.1%20V2.1.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj58m100153b6ey24k0d61",
+                      "key": "2425GovLabAIP2%205.1%20V2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 5.1 V2.1.mp4.vtt"
+                    }
+                  ],
+                  "duration": 360,
+                  "inputKey": "rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/sJCY5LZlvpwJJRV6-2425GovLabAIP2%205.1%20V2.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/transcoded-sJCY5LZlvpwJJRV6-2425GovLabAIP2%25205.1%2520V2.1.0000000.jpg",
+                  "captionUID": "clzoj58tu00163b6e2z0d5qxb",
+                  "originalUrl": "2425GovLabAIP2 5.1 V2.1.mp4",
+                  "transcodeId": "1723315189607-z47q90"
+                }
+              },
+              "caption": "<p>Video 5.1: Three organization type</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6jr8r001v3b6e13biexvc",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6jr8s001w3b6e1yvnuu7u",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0enhn001b3b6exeo7ezsd",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0enho001c3b6elikx3n6f",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6fndq002p356u3cg8zv6d",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6fndr002q356u1tuz4j2n",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:51:09.233Z",
+      "updatedAt": "2024-09-06T20:36:45.374Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 0,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "tFMOF3yBPKy3FV5LgEgvmyrzpEPPuw_N",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Self Assessment 5.1",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrmo2c100193b7cgj8gilo8",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>The GSA&#39;s AI Guide for Government suggests that having AI practitioners report directly to program office leaders helps ensure:</p>",
+          "answers": [
+            {
+              "id": "clyrmo2c1001a3b7c6epfi7kb",
+              "title": "<p>AI talent is closely aligned with policy priorities</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrmo2c1001c3b7czcoopmsn",
+              "title": "<p>AI projects have sufficient funding</p>",
+              "feedback": "<p>Reporting structure does not directly impact project funding</p>"
+            },
+            {
+              "id": "clyrmo2c1001d3b7c6quuxwyz",
+              "title": "<p>AI practitioners have complete autonomy</p>",
+              "feedback": "<p>The guide does not suggest AI practitioners should have complete autonomy</p>"
+            },
+            {
+              "id": "clyrmo2c1001b3b7c21lts7i7",
+              "title": "<p>AI development is driven by the latest technology trends</p>",
+              "correct": true,
+              "feedback": "<p>The guide emphasizes aligning AI with policy priorities, not technology trends</p>"
+            }
+          ],
+          "correct": "clyrmo2c1001a3b7c6epfi7kb",
+          "corrects": [
+            "clyrmo2c1001a3b7c6epfi7kb",
+            "clyrmo2c1001b3b7c21lts7i7"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:51:42.524Z",
+      "updatedAt": "2024-08-29T02:35:00.245Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "NQQfoudm6Dp7XWrOqq3Qi5EWSSy4JrQD",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Video 5.2: Data governance and AI ethics roles",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrmr7f400283b7cykanv7b8",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrmr7f5002e3b7czhwj221o",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video explores the key competencies required for AI talent, particularly Data governance and AI ethics roles. It discusses the collaborative effort required from various teams, including policy experts, design teams, and IT staff, and focuses on the roles and sourcing of talent in data governance and AI ethics.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrmrovk002v3b7c62n6pn2p",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrmrovk002w3b7ch1dhppzb",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzohfjl0001y3b6e66bwmlqm",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzohfjl0001z3b6ergnl6jv1",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%205.2%20V2.2.mp4",
+                  "url": "transcoded-DhehIfbJCOlI3ERp-2425GovLabAIP2%25205.2%2520V2.2.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%205.2%20V2.2.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj5pnj002g3b6ekhl5230x",
+                      "key": "2425GovLabAIP2%205.2%20V2.2.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 5.2 V2.2.mp4.vtt"
+                    }
+                  ],
+                  "duration": 356,
+                  "inputKey": "rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/DhehIfbJCOlI3ERp-2425GovLabAIP2%205.2%20V2.2.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/transcoded-DhehIfbJCOlI3ERp-2425GovLabAIP2%25205.2%2520V2.2.0000000.jpg",
+                  "captionUID": "clzoj5pw5002h3b6ek1l6wmng",
+                  "originalUrl": "2425GovLabAIP2 5.2 V2.2.mp4",
+                  "transcodeId": "1723315317836-lb920n"
+                }
+              },
+              "caption": "<p>Video 5.2: Data governance and AI ethics roles</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6k5gl004b3b6eygikseem",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6k5gm004c3b6er795q4ou",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0fmrz003r3b6ewnecw01k",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0fms0003s3b6evi7l9oyx",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6g2hw005u356u8ke6clyg",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6g2hw005v356uvjny468y",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:53:52.926Z",
+      "updatedAt": "2024-09-06T20:37:04.982Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 2,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "d3On4LWfZFk9tqnSJCJSbidZoH4mGIy7",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Self Assessment 5.2",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrms2te003e3b7cmdizo6m0",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>According to the passage, most AI teams start with:</p>",
+          "answers": [
+            {
+              "id": "clyrms2te003f3b7c85bkirf8",
+              "title": "<p>Hiring a single data scientist</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrms2te003h3b7c7o84q3hb",
+              "title": "<p>Hiring a team of 15 new positions</p>",
+              "feedback": "<p>The passage states that AI is attainable without hiring 15 new positions</p>"
+            },
+            {
+              "id": "clyrms2te003i3b7cmxvz0nly",
+              "title": "<p>Outsourcing AI development to a third-party vendor</p>",
+              "feedback": "<p>The passage does not mention outsourcing AI development</p>"
+            },
+            {
+              "id": "clyrms2te003g3b7cfj37nd4j",
+              "title": "<p>Recruiting a Chief AI Officer</p>",
+              "correct": true,
+              "feedback": "<p>The passage does not discuss recruiting a Chief AI Officer</p>"
+            }
+          ],
+          "correct": "clyrms2te003f3b7c85bkirf8",
+          "corrects": [
+            "clyrms2te003f3b7c85bkirf8",
+            "clyrms2te003g3b7cfj37nd4j"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clyrmtmah00443b7ccqlbb9oa",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>According to the passage, the primary responsibility of the Data Governance Team is to ensure:</p>",
+          "answers": [
+            {
+              "id": "clyrms2te003f3b7c85bkirf8",
+              "title": "<p>Data quality, accuracy, and consistency</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrms2te003h3b7c7o84q3hb",
+              "title": "<p>AI model development and deployment</p>",
+              "feedback": "<p>The passage does not mention AI model development and deployment as a responsibility of the Data Governance Team</p>"
+            },
+            {
+              "id": "clyrms2te003i3b7cmxvz0nly",
+              "title": "<p>Cybersecurity and data protection</p>",
+              "feedback": "<p>Cybersecurity and data protection are not listed as primary responsibilities of the Data Governance Team</p>"
+            },
+            {
+              "id": "clyrms2te003g3b7cfj37nd4j",
+              "title": "<p>Cloud infrastructure management</p>",
+              "correct": true,
+              "feedback": "<p>The passage does not discuss cloud infrastructure management in relation to the Data Governance Team</p>"
+            }
+          ],
+          "correct": "clyrms2te003f3b7c85bkirf8",
+          "corrects": [
+            "clyrms2te003f3b7c85bkirf8",
+            "clyrms2te003g3b7cfj37nd4j"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:54:49.327Z",
+      "updatedAt": "2024-08-29T02:35:08.764Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 3,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "vLi9hgochmJn5Vp1dc9iMLt-RN-F8aGs",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Video 5.3: AI project team roles",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrmyghp00463b7c2awb79c3",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrmyghq004c3b7conqadgq4",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video explores the key competencies required for AI talent, particularly in the critical role of data scientist. The video also provides guidance on the key skillset needed for data scientists and the importance of &nbsp;assessing a candidate&#39;s abilities through technical tests.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrmzmol004t3b7c50hhacyy",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrmzmou004u3b7cbjkmsqvl",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzohjjs300343b6ep7muvzg9",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzohjjs400353b6eo1yi6zdr",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%205.3%20V2.2.mp4",
+                  "url": "transcoded-TbrdW171yzkp_nWR-2425GovLabAIP2%25205.3%2520V2.2.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%205.3%20V2.2.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj69ae003r3b6eaeqz2xp8",
+                      "key": "2425GovLabAIP2%205.3%20V2.2.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 5.3 V2.2.mp4.vtt"
+                    }
+                  ],
+                  "duration": 483,
+                  "inputKey": "rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/TbrdW171yzkp_nWR-2425GovLabAIP2%205.3%20V2.2.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/transcoded-TbrdW171yzkp_nWR-2425GovLabAIP2%25205.3%2520V2.2.0000000.jpg",
+                  "captionUID": "clzoj69l8003s3b6ei1i66qff",
+                  "originalUrl": "2425GovLabAIP2 5.3 V2.2.mp4",
+                  "transcodeId": "1723315510040-wf4slk"
+                }
+              },
+              "caption": "<p>Video 5.3: AI project team roles</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6kjba006r3b6erhzxjmhq",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6kjbb006s3b6ejyxpm77z",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0gkjm00673b6egbmzcszn",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0gkjn00683b6erhdl2eou",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6gjq9008z356uvq99brj8",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6gjq90090356uh0rqmbt9",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:59:39.156Z",
+      "updatedAt": "2024-09-06T20:37:27.329Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 4,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "3UIa8YRUAcRjg2USdNUsQxZR_-yQTbJe",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Self Assessment 5.3",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrw678z005d3b7c1baedu11",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>According to the passage, poor choice of statistical and computational models in AI systems can lead to:</p>",
+          "answers": [
+            {
+              "id": "clyrw678z005e3b7cvw8928yv",
+              "title": "<p>Major ethical implications</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrw678z005g3b7cmyynhfsy",
+              "title": "<p>Increased project efficiency</p>",
+              "feedback": "<p>The passage does not suggest that poor model choice leads to increased project efficiency</p>"
+            },
+            {
+              "id": "clyrw678z005h3b7c2g7jfci3",
+              "title": "<p>Improved data security</p>",
+              "feedback": "<p>Improved data security is not mentioned as a consequence of poor model selection</p>"
+            },
+            {
+              "id": "clyrw678z005f3b7clnuz2frr",
+              "title": "<p>Enhanced user experience</p>",
+              "correct": true,
+              "feedback": "<p>The passage does not indicate that poor model choice results in enhanced user experience</p>"
+            }
+          ],
+          "correct": "clyrw678z005e3b7cvw8928yv",
+          "corrects": [
+            "clyrw678z005e3b7cvw8928yv",
+            "clyrw678z005f3b7clnuz2frr"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:17:47.212Z",
+      "updatedAt": "2024-08-29T02:35:16.736Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 6,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "k1FB-TTJ52bsZ3nzoDjawdToCSzvlWQY",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Video 5.4: Training and recruiting talent",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrwaaxa006o3b7ccq8lk1xg",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrwaaxb006u3b7c294pvumm",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video discusses three main avenues for developing an AI-ready workforce: training existing staff, hiring new talent, and seeking outside assistance. It explains the advantages and considerations associated with each approach. The video also emphasizes the importance of creating roles and structures that signal to data scientists that they will be doing meaningful work and the need to prioritize diversity and rigorously evaluate skills when building an AI team.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrwaeu6007b3b7ctpwrxodr",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrwaeu7007c3b7cnvysjrcz",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzohn59x004a3b6eege0babf",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzohn59x004b3b6ee9bqmxn8",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%205.4%20V3.mp4",
+                  "url": "transcoded-y40TM_b_NNStTpmV-2425GovLabAIP2%25205.4%2520V3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%205.4%20V3.jpg",
+                  "captions": [
+                    {
+                      "id": "cm0fd7xnh002q3b6axeevonu3",
+                      "key": "2425GovLabAIP2%205.4%20V3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 5.4 V3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 353,
+                  "inputKey": "rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/y40TM_b_NNStTpmV-2425GovLabAIP2%205.4%20V3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-/transcoded-y40TM_b_NNStTpmV-2425GovLabAIP2%25205.4%2520V3.0000000.jpg",
+                  "captionUID": "cm0fd7xze002r3b6avmu5ok6f",
+                  "originalUrl": "2425GovLabAIP2 5.4 V3.mp4",
+                  "transcodeId": "1723315671509-qktmh4"
+                }
+              },
+              "caption": "<p>Video 5.4: Training and recruiting talent</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6kxh400973b6eq5ecut10",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6kxh600983b6eas7fwuf7",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0hlca00943b6ejznctdl9",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0hlca00953b6es8a68gt3",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6h4f700c4356ut5jr78oz",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6h4f700c5356uy5rfhu6p",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:20:45.165Z",
+      "updatedAt": "2024-09-06T20:37:54.119Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 6,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "nBxXXQT-jntO2aUPIYlPDrQelZbuZ1j7",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Self Assessment 5.4",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrwatgh007u3b7chtm9o041",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>According to the passage, what must public sector organizations do to attract AI talent like data scientist? Select all that apply.</p>",
+          "answers": [
+            {
+              "id": "clyrwatgh007v3b7cj0t60s1k",
+              "title": "<p>Create roles that signal to data scientists they will be doing meaningful AI work</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrwatgh007x3b7caizu3fds",
+              "title": "<p>Offer salaries that are competitive with the private sector</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrwatgh007y3b7cgr7tsjew",
+              "title": "<p>Provide opportunities for rapid career advancement</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrwatgh007w3b7csjqt0lf8",
+              "title": "<p>Develop structures that indicate AI talent will be able to utilize their skills effectively</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "",
+          "corrects": [
+            "clyrwatgh007v3b7cj0t60s1k",
+            "clyrwatgh007w3b7csjqt0lf8"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackCorrect": "<p>The passage states that to attract AI talent, public sector organizations must create roles that signal to data scientists they will be doing meaningful AI work and develop structures that indicate AI talent will be able to utilize their skills effectively</p>",
+          "feedbackIncorrect": "<p>The incorrect answers, B and C, are not supported by the information provided, as the passage does not mention competitive salaries or rapid career advancement opportunities as necessary actions for attracting AI talent</p>"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T23:21:21.932Z",
+      "updatedAt": "2024-08-29T02:35:25.643Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 7,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "1R-0ifwm9NXY2VsOtELkXld2E4Q7kRp7",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-",
+      "title": "Next Up: Module 6: Ethical Risk Frameworks and Toolkits",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0r7iqu80073356utajf5c2b",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cm0r7iqu90074356ugxv9f56h",
+              "type": "exit-course",
+              "label": "Exit Module",
+              "description": "<p><span style=\"font-size: 1.7rem\"><strong>Next Up! Module 6: Ethical Risk Frameworks and Toolkits</strong></span></p><p><span style=\"font-size: 1.6rem\">In the next module we focus on </span>the critical importance of robust AI risk management and the role of the National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI RMF) in ensuring responsible and safe AI deployment<span style=\"font-size: 1.6rem\">. </span>Click \"Exit module\" to proceed. </p>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "1WaQIRQbvW4wn_hYTJCCzpmagaRtG4Gj",
+      "deleted": false,
+      "createdAt": "2024-09-06T21:06:22.444Z",
+      "updatedAt": "2024-09-06T21:09:46.378Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2024-07-18T18:50:01.160Z",
+  "updatedAt": "2024-09-23T19:50:20.760Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 5: AI Foundations: People & Talent",
+    "format": "zip",
+    "quizId": "tFMOF3yBPKy3FV5LgEgvmyrzpEPPuw_N",
+    "target": "scorm12",
+    "shareId": "bXYexmPYZRznrnpNCvZ329V7fUu7KMrA",
+    "activeLMS": 0,
+    "reporting": "completed-incomplete",
+    "exportType": "lms",
+    "identifier": "rTkEcv3T3v5S6ubqMbVCyv6YrPSf9r8-_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "quizComplete": false,
+    "activeEdition": 0,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": true,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "completionPercentage": 100
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "-MPEM2R_v3eTh0hQInNv-2WAwVwql-Pw",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": {},
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "SPLIT_LEFT_IMAGE",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/10_misc.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "locale": null,
+  "sourceCourseLocaleId": null,
+  "experiments": null,
+  "settings": {},
+  "features": {
+    "rise-a-11-y-img-gallery-carousel": true,
+    "rise-course-navigation": true,
+    "rise-img-dimensions": true,
+    "rise-img-zoom": true,
+    "rise-timed-quizzes": true
+  },
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "bodyTypeface": "DM Sans",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato",
+  "lmsOptions": {
+    "enableExitCourse": false,
+    "disableCoverPage": true
+  },
+  "mondrian": {}
+}

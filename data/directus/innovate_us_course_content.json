@@ -1,0 +1,1679 @@
+[
+  {
+    "id": 1,
+    "title": "Innovative Problem Solving Pathways",
+    "description": "Introduces the concept of public problem solving - a set of strategies to understand problems and to take solutions from idea to implementation.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      7,
+      8,
+      10,
+      12,
+      18,
+      521
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Problem Definition",
+    "description": "Introduces the concept of problem definition, why it matters, and will teach viewers how to effectively define a problem, including developing a hypothesis, defining root causes, and reframing the problem. ",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      522
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Human Centered Design",
+    "description": "Introduces the benefits and limitations of human centered design, a set of methods that enables public servants to gather valuable input from citizens to better understand problems. ",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      5,
+      6,
+      9,
+      11,
+      15,
+      523
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Data Analytical Mindset",
+    "description": "Introduces how data can be used to help solve public problems, defines a process for applying data analytical thinking, and identifies key risks and mitigations when using data to solve public problems. ",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      13,
+      14,
+      16,
+      19,
+      23,
+      524
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Expanding Your Solution Toolkit",
+    "description": "Provides an overview of the tools and methods available to government to address public problems",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      17,
+      20,
+      22,
+      25,
+      27,
+      525
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Collective Intelligence",
+    "description": "Introduces how co-creation, collaboration, and crowdsourcing can be used to define problems and identify solutions and available tools to put collective intelligence into practice.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      36,
+      39,
+      43,
+      48,
+      50,
+      526
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Equitable Engagement",
+    "description": "Introduces a practical guide for how to engage communities in identifying solutions, with an emphasis on how to reach underrepresented voices and communities.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      35,
+      37,
+      41,
+      45,
+      46,
+      527
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Fast Field Scanning",
+    "description": "Introduces a set of research strategies that enable public servants to identify and evaluate solutions in place in other jurisdictions and adapt them to our context and community. ",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      21,
+      24,
+      26,
+      28,
+      29,
+      528
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Behavioral Insights",
+    "description": "Introduces how public servants can use insights from behavioral sciences to improve the delivery of policies and public services.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      67,
+      70,
+      73,
+      76,
+      79,
+      529
+    ]
+  },
+  {
+    "id": 10,
+    "title": "New Technologies and the Public Sector",
+    "description": "Introduces several new technologies that are enabling new ways of working in government - namely, big data, artificial intelligence and machine learning, blockchain, predictive analytics, chatbots and voice assistants.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      61,
+      63,
+      65,
+      69,
+      72,
+      530
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Implementation: Powerful Partnerships",
+    "description": "Introduces the benefits of partnerships in implementing projects, goes over the how-to's of partnership and collaboration with accompanying practical worksheets and guidance, and lays out the challenges of partnerships and how to mitigate them. ",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      78,
+      82,
+      85,
+      89,
+      92,
+      531
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Implementation: Theory of Change",
+    "description": "Introduces the concept of a theory of change (also known as a logic model), teaches how to create a logic model, with accompanying practical worksheets and guidance, and lays out steps to implement a solution in practice, including how to break down the solution into milestones and deliverables",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      127,
+      130,
+      132,
+      134,
+      137,
+      532
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Implementation: Writing the Killer Memo and Letter",
+    "description": "Introduces strategies for persuasive memo writing in order to pitch your projects persuasively and teaches how to write an effective and persuasive letter",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      60,
+      62,
+      64,
+      66,
+      68,
+      533
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Evaluation and Evolution: Designing Pilots",
+    "description": "Introduces how and why to design experiments and pilots and also how to use more participatory and democratic techniques to measure the results and know how to scale the learnings.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      100,
+      101,
+      102,
+      103,
+      105,
+      534
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Evaluation and Evolution: Designing Experiments",
+    "description": "Introduces how and why to design experiments and pilots and also how to use more participatory and democratic techniques to measure the results and know how to scale the learnings.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      104,
+      106,
+      108,
+      110,
+      112,
+      535
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Innovative Problem Solving Pathways",
+    "description": "Introduces the concept of public problem solving - a set of strategies to understand problems and to take solutions from idea to implementation.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      38,
+      42,
+      49,
+      52,
+      53,
+      536
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Human-Centered Design Process",
+    "description": " Develop an understanding of the human-centered design process, including processes and design tools for each step.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      71,
+      74,
+      75,
+      77,
+      81,
+      537
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Empathize",
+    "description": "Gain experience applying human-centered design tools to solve a problem.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      40,
+      44,
+      47,
+      51,
+      54,
+      538
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Define",
+    "description": "Develop an understanding of the data synthesis, including affinity mapping. Learn to apply methods from the define process step to develop a “How Might We” statement and personas.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      118,
+      123,
+      126,
+      129,
+      131,
+      539
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Ideate",
+    "description": "Apply methods from the ideate process to generate and evaluate ideas and develop a concept solution.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      84,
+      87,
+      93,
+      96,
+      98,
+      540
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Prototype + Test",
+    "description": "Develop an understanding of rapid prototyping. Apply methods from the prototyping and testing process to prototype and test a concept with a person who will be impacted.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      111,
+      115,
+      119,
+      122,
+      124,
+      541
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Finding what works",
+    "description": "Provides a general overview of fast-field scanning including its three key stages: discover, evaluate, and implement. Demonstrates the value of fast-field scanning in practice and explains the importance of evaluating conditions for success from one place to another. \n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      542
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Discovery: Formulating your question",
+    "description": "Uses root cause analysis and the 5 whys exercise to frame and scope a specific problem that is within your authority to act upon. Helps you identify and engage people who are most impacted to fully describe the problem from multiple perspectives. Shows you how to form a purposeful query using resources like search engines, the library, and generative AI to discover new solutions. \n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      321,
+      332,
+      343,
+      357,
+      372,
+      543
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Discovery: Finding solutions from documents and data",
+    "description": "Identifies and evaluates sources of information for validity and relevance to the problem you are trying to solve. Uses Generative AI to search for and synthesize documentary sources.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      144,
+      146,
+      148,
+      151,
+      154,
+      544
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Discovery: Finding solutions from people",
+    "description": "Uses tools like Google Scholar and SSRN to identify experts in academic and practitioner networks. Supplements your research with social media and Generative AI to identify knowledgeable individuals and organizations that can give you an honest assessment of what has and hasn’t worked in other jurisdictions. \n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      181,
+      185,
+      193,
+      196,
+      199,
+      545
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Evaluate: Did it work?",
+    "description": "Learn about the concept of evidence hierarchy to identify the best quality data to help you assess how risky a particular solution may be. Understand the importance of diverse perspectives and using generative AI to enhance your search for evidence. ",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      168,
+      170,
+      173,
+      176,
+      178,
+      546
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Evaluate: Participatory evaluation of what worked",
+    "description": "Helps you understand the benefits of participatory evaluation and how to mitigate the potential impact on your interpretation of information by collecting first-hand evidence from people who are most affected by the problem. Uses AI to identify themes and synthesize across data sets.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      88,
+      91,
+      95,
+      97,
+      99,
+      547
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Implement: Will what worked “there” work “here”",
+    "description": "Learn to identify supporting factors that contribute to making a solution successful in a specific community. Explores the use of Policy Synth to search for and evaluate solutions using a combination of artificial and collective intelligence.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      80,
+      83,
+      86,
+      90,
+      94,
+      548
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Implement: Crafting your plan of attack",
+    "description": "Makes a compelling case for your recommended solution and develops a plan for systematically validating your assumptions.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      147,
+      150,
+      152,
+      157,
+      159,
+      549
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Finding what works",
+    "description": "In this introduction, we explain why it is urgent and important to have a set of agile methods for finding and evaluating what works and why it is vital to ensure that what works in one community can also work for yours. This introduction provides a general overview of the three key stages of fast-field scanning: discover, evaluate, and implement, and introduces you to the topics we will cover in each module. \n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      107,
+      109,
+      113,
+      116,
+      120,
+      550
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Discovery: Formulating your question",
+    "description": "Uses root cause analysis and the 5 whys exercise to frame and scope a specific problem that is within your authority to act upon. Helps you identify and engage people who are most impacted to fully describe the problem from multiple perspectives. Shows you how to form a purposeful query using resources like search engines, the library, and GenAI to discover new solutions.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      215,
+      226,
+      235,
+      248,
+      255,
+      551
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Discovery: Finding solutions from documents and data",
+    "description": "In this set of videos, we leverage your problem definition to help you scavenge for solutions from documentary and data sources, including news searches and catalogs of evidence-based interventions. We show you how to get faster and more targeted in plowing through academic research. We teach you how to use commonly available GenAI tools to search for and synthesize voluminous documentary sources, helping you to review them faster to find solutions.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      240,
+      249,
+      261,
+      270,
+      282,
+      552
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Discovery: Finding solutions from people",
+    "description": "One of the fastest ways to find what works is by talking to knowledgeable people with experience. But how do you form a strategy for deciding whom to talk to and when? And how can you get faster at connecting with academics, civil servants, and others with on-the-ground know-how? We will show you how to supplement your desk research by accessing practitioner and academic networks, scanning social media and the emerging ‘fediverse,’ and how to use GenAI to identify knowledgeable individuals and organizations.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      259,
+      271,
+      279,
+      287,
+      299,
+      553
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Evaluate: Did it work?",
+    "description": "Finding solutions is half the battle. You next need to know if those interventions actually solved a problem. Learn about the concept of evidence hierarchy and explore how sources such as evidence clearinghouses and systematic reviews help you to identify the best quality evidence of what works or doesn’t. We will show you how to use GenAI and bring in diverse human perspectives to enhance your search for evidence.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      224,
+      230,
+      246,
+      254,
+      263,
+      554
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Evaluate: Participatory evaluation of what worked",
+    "description": "Getting others involved in the process of evaluating what works can help to ensure an intervention is effective. In this module, we focus on participatory evaluation with an emphasis on the perspectives of those most affected by the problem. We show you how GenAI can be used to make the process of public listening more efficient. \n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      239,
+      251,
+      264,
+      273,
+      289,
+      555
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Implement: Will what worked “there” work “here”",
+    "description": "Learn to identify supporting factors that contribute to making a solution successful in your community. Explores the use of “Policy Synth,” a free AI toolkit to search for and evaluate solutions using a combination of artificial and collective intelligence.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      258,
+      268,
+      275,
+      295,
+      304,
+      556
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Implement: Crafting your plan of attack",
+    "description": "Finally, make a compelling case for your recommended solution and develop your plan for systematically searching for solutions.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      165,
+      166,
+      167,
+      169,
+      171,
+      557
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Course overview",
+    "description": "Provides an overview of the course, including its learning objectives and relevance for professionals in the public sector. Suitable for individuals at all levels, the course aims to enhance productivity and effectiveness in their respective roles.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      133,
+      135,
+      136,
+      138,
+      140,
+      558
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Explaining Generative AI: What it is",
+    "description": "Describes basics of GenAI and its capabilities, and how its use can enhance a public professional’s daily work and their impact on residents.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      114,
+      117,
+      121,
+      125,
+      128,
+      559
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Effective use part 1: How Generative AI can help your day-to-day",
+    "description": "Introduces 10 typical work activities compatible with GenAI, along with a framework for responsibly identifying suitable personal work tasks for its application.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      139,
+      141,
+      142,
+      143,
+      145,
+      560
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Effective use part 2: Generative AI best practices",
+    "description": "Offers best practices for utilizing GenAI via 'prompt engineering,' complemented by interactive hypothetical exercises to facilitate practical application of acquired knowledge.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      149,
+      153,
+      155,
+      158,
+      162,
+      561
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Overcoming risks: Your individual use ",
+    "description": "Reviews ethical risks that are relevant to the day-to-day use of GenAI. Discusses practical approaches to addressing and mitigating risks.  \n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      182,
+      187,
+      191,
+      195,
+      198,
+      562
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Societal challenges ",
+    "description": "Explores the ethical implications of employing GenAI at a societal level and dissects potential challenges such as copyright infringement, deep fakes, astroturfing, and issues related to private platforms. Additionally, this module delves into ongoing efforts aimed at mitigating these risks.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      156,
+      160,
+      161,
+      163,
+      164,
+      563
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Conclusion",
+    "description": "Learners interested in scaling AI in their organization should continue to the next course in this series. ",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      174,
+      177,
+      180,
+      186,
+      192,
+      564
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Course overview",
+    "description": "This module introduces the course \"Responsible AI for Public Sector Professionals: Scaling AI in your organization\" and provides an overview of the key topics covered, including different AI approaches, selecting impactful projects, ensuring data quality, developing AI talent, and navigating ethical considerations and risk management practices. The module emphasizes the potential of AI to revolutionize public sector operations and the importance of government leaders making informed decisions about AI implementation while maintaining public trust.\n\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      214,
+      222,
+      234,
+      242,
+      250,
+      565
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Overview of AI approaches",
+    "description": "This module provides a comprehensive introduction to artificial intelligence (AI), machine learning, and generative AI. It explores the three main approaches to machine learning (supervised learning, unsupervised learning, and reinforcement learning) and the crucial decision of choosing the right algorithm for an AI project. The module also discusses the differences between generative AI and traditional machine learning, highlighting the accessibility and challenges of generative AI.\n\n\n",
+    "innovate_us_course_parts": [
+      22
+    ],
+    "course_content_translations": [
+      281,
+      293,
+      305,
+      314,
+      325,
+      566
+    ]
+  },
+  {
+    "id": 47,
+    "title": "AI foundations: Data quality",
+    "description": "This module emphasizes the critical role of data quality in AI projects, explaining why it is especially impactful for AI systems. It defines data quality in the public sector and discusses the impact of data quality issues on AI projects. The module also explores the common causes of data quality issues in public sector organizations and provides practical steps for improving data quality for responsible and ethical AI deployment.\n\n",
+    "innovate_us_course_parts": [
+      26
+    ],
+    "course_content_translations": [
+      211,
+      223,
+      233,
+      244,
+      253,
+      567
+    ]
+  },
+  {
+    "id": 48,
+    "title": "AI foundations: People & talent",
+    "description": "This module discusses the importance of understanding different types of AI organizations and their talent needs for making informed decisions about an organization's AI strategy. It explores the key competencies required for AI talent, particularly in the critical role of data scientist, and discusses the collaborative effort required from various teams. The module also presents three main avenues for developing an AI-ready workforce.\n\n",
+    "innovate_us_course_parts": [
+      27
+    ],
+    "course_content_translations": [
+      266,
+      274,
+      284,
+      301,
+      310,
+      568
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Surfacing and selecting AI projects for scale",
+    "description": "This module focuses on identifying and prioritizing AI projects that deliver meaningful results for the organization and the public. It presents three methods for recognizing business challenges that could benefit from AI solutions. The module also explores the criteria for evaluating and selecting AI projects and the pivotal role of pilot programs in validating AI projects before wider-scale deployments.\n",
+    "innovate_us_course_parts": [
+      23
+    ],
+    "course_content_translations": [
+      341,
+      354,
+      366,
+      376,
+      388,
+      569
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Ethical risk frameworks and toolkits",
+    "description": "This module introduces the critical importance of robust AI risk management and the role of the National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI RMF) in ensuring responsible and safe AI deployment. It explores the seven key characteristics of trustworthy AI and the four functions outlined in the AI RMF that can help reduce risk and maximize benefits. The module also discusses the unique risks posed by Generative AI (GenAI) and provides practical next steps for implementing AI risk management in an organization.\n\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      286,
+      298,
+      307,
+      316,
+      329,
+      570
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Conclusion",
+    "description": "The conclusion module summarizes the key learning points from the course and emphasizes the importance of focusing on solving real problems, maintaining transparency, minimizing and managing AI risk, and prioritizing the public good. It highlights the crucial role of government leaders in shaping the future of AI in the public sector and the importance of continuous learning, collaboration, and adaptation to navigate the evolving AI landscape with confidence.\n\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      245,
+      256,
+      267,
+      276,
+      285,
+      571
+    ]
+  },
+  {
+    "id": 52,
+    "title": "From Transparency to Open Data and Open Justice ",
+    "description": "What is open justice, what is the value proposition?",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      172,
+      175,
+      179,
+      184,
+      189,
+      572
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Open Justice Technologies and The Mindset of the Public Entrepreneur",
+    "description": "Open justice as the pathway to innovating public value",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      183,
+      188,
+      190,
+      194,
+      197,
+      573
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Open Justice for Efficiency",
+    "description": "Covering data driven projects designed to help courts increase throughput and efficiency",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      201,
+      204,
+      208,
+      216,
+      225,
+      574
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Open Justice for Equity",
+    "description": "Covering data driven projects designed to improve public policy outcomes",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      200,
+      205,
+      213,
+      221,
+      232,
+      575
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Open Justice for Legitimacy",
+    "description": "Covering projects designed to improve the selection and oversight of judges and other officials",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      202,
+      206,
+      210,
+      217,
+      228,
+      576
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Open Justice against Corruption",
+    "description": "Covering judicial transparency projects designed to reduce corruption",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      203,
+      209,
+      219,
+      229,
+      241,
+      577
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Open Justice Collaborations",
+    "description": "Covering participation, engagement and inter-agency collaboration projects",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      207,
+      212,
+      220,
+      231,
+      238,
+      578
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Open Justice Projects: Problem Definition",
+    "description": "Here we focus on advancing your own open justice project by helping you to define the problem you are solving specifically and concretely.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      218,
+      227,
+      236,
+      243,
+      252,
+      579
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Open Justice Project: Risks ",
+    "description": "In this module, we address the risks with open justice projects and how to overcome them.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      237,
+      247,
+      257,
+      265,
+      277,
+      580
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Open Justice Projects: Implementation",
+    "description": "Finally, we discuss strategies for taking your open justice project from idea to implementation.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      260,
+      269,
+      283,
+      294,
+      302,
+      581
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Introduction",
+    "description": "Overview of the course, including its learning objectives and relevance for legal professionals in the public sector. The opening explains why you will want and need to know about AI. Suitable for government lawyers and legal staff at all levels, the course explores how AI is transforming the legal profession and how lawyers can responsibly use AI to better serve the public.\n\n",
+    "innovate_us_course_parts": [
+      1,
+      7
+    ],
+    "course_content_translations": [
+      280,
+      291,
+      297,
+      303,
+      313,
+      582
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Explaining GenAI and machine learning",
+    "description": "Describes the basics and capabilities of GenAI and machine learning and how these technologies differ. Explains what large language models (LLMs) are and how they process data and what’s happening under the hood when you type something in. Introduces how public sector lawyers can use GenAI to conduct their work more efficiently and effectively while safeguarding privacy.\n",
+    "innovate_us_course_parts": [
+      2
+    ],
+    "course_content_translations": [
+      319,
+      324,
+      335,
+      344,
+      360,
+      583
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Overcoming risks: Your individual use",
+    "description": "Reviews ethical risks, including hallucination, mistakes, and privacy concerns, that are relevant to using GenAI in the context of public sector legal practice. Discusses practical approaches to addressing and mitigating risks.\n",
+    "innovate_us_course_parts": [
+      3
+    ],
+    "course_content_translations": [
+      262,
+      272,
+      288,
+      296,
+      308,
+      584
+    ]
+  },
+  {
+    "id": 65,
+    "title": "How Generative AI can help your day-to-day",
+    "description": "Introduces typical use cases compatible with GenAI in public sector legal applications. Provides a framework for responsibly identifying suitable work tasks for its application, including emerging innovations and case studies.\n\n",
+    "innovate_us_course_parts": [
+      4
+    ],
+    "course_content_translations": [
+      278,
+      290,
+      300,
+      309,
+      318,
+      585
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Generative AI best practices",
+    "description": "Offers best practices for using GenAI with skills like prompt engineering, complemented by interactive exercises to test and confirm any acquired knowledge. Discusses retrieval augmented generation (RAG), how legal staff can use RAG technology to ensure privacy and reliability, and how this approach differs from large language models (LLM).",
+    "innovate_us_course_parts": [
+      5
+    ],
+    "course_content_translations": [
+      322,
+      330,
+      342,
+      352,
+      367,
+      586
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Conclusion",
+    "description": "The final module summarizes learnings from across the course about the safe and responsible individual use of GenAI tools and their value for public sector legal professionals.",
+    "innovate_us_course_parts": [
+      6
+    ],
+    "course_content_translations": [
+      292,
+      306,
+      312,
+      320,
+      331,
+      587
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Introduction",
+    "description": "Overview of the course, including its learning objectives and relevance for legal professionals in the public sector. Provides an overview of the learning objectives and course curriculum. The course aims to equip public sector lawyers with the skills needed to safely and responsibly design of AI policies and projects and their social impact.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      328,
+      340,
+      353,
+      364,
+      377,
+      588
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Overcoming risks: Data governance",
+    "description": "Discusses best practices for data segregation and the use of “walled gardens.” Discusses the Criminal Justice Information Security (CJIS) standard and how to ensure compliance. Distinguishes between tasks that require paid AI tools versus those that can be handled by free tools and how to evaluate AI vendors.",
+    "innovate_us_course_parts": [
+      8
+    ],
+    "course_content_translations": [
+      338,
+      351,
+      363,
+      381,
+      392,
+      589
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Designing your own projects: From concept to creation",
+    "description": "Guides learners through the process of identifying problems within their own work that AI tools can help to solve. Explains how to take these solutions from idea to implementation, covering the process of developing and implementing AI-enabled tools. Profiles several existing AI tools built by public sector legal offices.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      336,
+      345,
+      361,
+      375,
+      387,
+      590
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Societal challenges",
+    "description": "Explores the ethical implications of employing GenAI at a societal level and dissects potential challenges like copyright infringement, deep fakes, astroturfing, issues related to private platforms, and the challenge of developing effective and proactive AI regulation. Additionally, this module delves into ongoing efforts aimed at mitigating these risks.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      346,
+      356,
+      368,
+      379,
+      391,
+      591
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Writing your own AI governance and use policy",
+    "description": "Guides legal professionals on how to develop and implement an AI acceptable use policy for their office in line with best practices for data governance when using AI tools.",
+    "innovate_us_course_parts": [
+      11
+    ],
+    "course_content_translations": [
+      311,
+      315,
+      327,
+      339,
+      349,
+      592
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Conclusion",
+    "description": "The final module summarizes learnings from across the course about the safe and responsible design of AI policies and projects and their social impact.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      317,
+      326,
+      337,
+      350,
+      362,
+      593
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Overcoming risks: Data governance",
+    "description": "Discusses best practices for data segregation and the use of “walled gardens.” Discusses the Criminal Justice Information Security (CJIS) standard and how to ensure compliance. Distinguishes between tasks that require paid AI tools versus those that can be handled by free tools and how to evaluate AI vendors.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      374,
+      386,
+      398,
+      409,
+      426,
+      594
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Designing your own projects: From concept to creation",
+    "description": "Guides learners through the process of identifying problems within their own work that AI tools can help to solve. Explains how to take these solutions from idea to implementation, covering the process of developing and implementing AI-enabled tools. Profiles several existing AI tools built by public sector legal offices.",
+    "innovate_us_course_parts": [
+      9
+    ],
+    "course_content_translations": [
+      358,
+      371,
+      383,
+      397,
+      407,
+      595
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Societal challenges",
+    "description": "Explores the ethical implications of employing GenAI at a societal level and dissects potential challenges like copyright infringement, deepfakes, astroturfing, issues related to private platforms, and the challenge of developing effective and proactive AI regulation. Additionally, this module delves into ongoing efforts aimed at mitigating these risks.",
+    "innovate_us_course_parts": [
+      10
+    ],
+    "course_content_translations": [
+      365,
+      380,
+      394,
+      402,
+      420,
+      596
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Writing your own AI governance and use policy",
+    "description": "Guides legal professionals on how to develop and implement an AI acceptable use policy for their office in line with best practices for data governance when using AI tools",
+    "innovate_us_course_parts": [],
+    "course_content_translations": [
+      333,
+      348,
+      355,
+      369,
+      384,
+      597
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Conclusion",
+    "description": "The final module summarizes learnings from across the course about the safe and responsible design of AI policies and projects and their social impact.",
+    "innovate_us_course_parts": [
+      12
+    ],
+    "course_content_translations": [
+      323,
+      334,
+      347,
+      359,
+      373,
+      598
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Course overview",
+    "description": "This module introduces the course and highlights the transformative potential of Generative AI (GenAI) in the public sector. Participants will gain an understanding of how GenAI can assist them in their work through hands-on activities and best practices. The importance of delivering value while maintaining public trust and safety is emphasized.",
+    "innovate_us_course_parts": [
+      30,
+      31
+    ],
+    "course_content_translations": [
+      3,
+      385,
+      395,
+      404,
+      417,
+      599,
+      653
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Explaining Generative AI: What it is",
+    "description": "In this module, participants will learn about artificial intelligence (AI) and generative AI (GenAI) in simple terms. The module explores GenAI's ability to understand, create, and synthesize knowledge based on training data. Examples demonstrate GenAI's capabilities in generating text, images, and engaging in multi-modal interaction, as well as its potential to save time and improve outcomes in government work.\n",
+    "innovate_us_course_parts": [
+      13,
+      32
+    ],
+    "course_content_translations": [
+      4,
+      436,
+      455,
+      472,
+      487,
+      600,
+      654
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Effective use part 1: How Generative AI can help your day-to-day",
+    "description": "This module provides a systematic understanding of GenAI's application to public sector work. Participants will learn about ten key areas where GenAI can streamline tasks and be encouraged to experiment with different platforms. The module covers applications such as drafting content, brainstorming ideas, proofreading, summarizing information, role-playing, accelerating learning, coding, analyzing data, and more.",
+    "innovate_us_course_parts": [
+      14,
+      33
+    ],
+    "course_content_translations": [
+      370,
+      382,
+      396,
+      410,
+      423,
+      601,
+      655
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Effective use part 2: Generative AI best practices",
+    "description": "Focusing on prompt engineering, this module teaches participants how to craft effective instructions for GenAI. A prompting framework with five components (Instruction, Role, Context, Format, and Example) is introduced, along with best practices for simplicity, clarity, flexibility, and efficiency. Participants will engage in hands-on exercises to refine prompts and explore techniques to enhance GenAI interactions.\n",
+    "innovate_us_course_parts": [
+      15,
+      34
+    ],
+    "course_content_translations": [
+      378,
+      389,
+      400,
+      421,
+      441,
+      602,
+      656
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Course conclusion",
+    "description": "The course conclusion summarizes the key learning points, including understanding GenAI, and mastering prompt engineering. Participants are encouraged to continue their learning journey through additional resources and courses on risk management and organizational AI deployment.",
+    "innovate_us_course_parts": [
+      16,
+      35
+    ],
+    "course_content_translations": [
+      390,
+      401,
+      415,
+      439,
+      460,
+      603,
+      657
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Course overview",
+    "description": "This module introduces the course and highlights the transformative potential of Generative AI (GenAI) in the public sector. Participants will learn the risks associated with these powerful tools, such as data privacy, hallucinations, and bias. The importance of delivering value while maintaining public trust and safety is emphasized.",
+    "innovate_us_course_parts": [
+      17
+    ],
+    "course_content_translations": [
+      399,
+      413,
+      427,
+      448,
+      469,
+      604,
+      658
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Overcoming risks: Your individual use",
+    "description": "This module addresses the responsible use of GenAI by discussing potential risks and mitigation strategies. Participants will learn about data privacy, hallucinations (inaccurate outputs), and bias as key challenges. The module provides practical guidance and organizational policies to assess and avoid these risks, along with strategies to identify and mitigate them. Five crucial behaviors for responsible GenAI use are presented.",
+    "innovate_us_course_parts": [
+      18
+    ],
+    "course_content_translations": [
+      438,
+      453,
+      475,
+      491,
+      503,
+      605,
+      659
+    ]
+  },
+  {
+    "id": 86,
+    "title": "Societal challenges",
+    "description": "In this module, participants will explore the broader societal risks and uncertainties surrounding GenAI. The module focuses on copyright issues, deep fakes, astroturfing, and the private ownership of GenAI models. Participants will learn about the potential misuse of GenAI for deception, the challenges of identifying AI-generated content in public feedback, and the concentration of power among a few tech companies. The importance of aligning GenAI use with public values and the well-being of communities is emphasized.",
+    "innovate_us_course_parts": [
+      19
+    ],
+    "course_content_translations": [
+      430,
+      447,
+      467,
+      486,
+      502,
+      606,
+      660
+    ]
+  },
+  {
+    "id": 87,
+    "title": "Course conclusion",
+    "description": "The final module summarizes the key learning points of the course, mitigating AI risks and navigating societal challenges. Participants are encouraged to continue their learning journey through additional resources and courses on advanced topics and organizational AI deployment. The course conclusion emphasizes the importance of harnessing the power of GenAI responsibly and effectively in public sector roles.",
+    "innovate_us_course_parts": [
+      20
+    ],
+    "course_content_translations": [
+      412,
+      429,
+      444,
+      461,
+      471,
+      607,
+      661
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Course overview",
+    "description": "This module introduces the course and provides an overview of the key topics covered, including different AI approaches and selecting impactful projects. The module emphasizes the potential of AI to revolutionize public sector operations and the importance of government leaders making informed decisions about AI implementation.",
+    "innovate_us_course_parts": [
+      21
+    ],
+    "course_content_translations": [
+      419,
+      435,
+      457,
+      476,
+      489,
+      608
+    ]
+  },
+  {
+    "id": 89,
+    "title": "Course conclusion",
+    "description": "The conclusion summarizes the key learning points from the course, including understanding different AI approaches and selecting and prioritizing impactful AI projects. It emphasizes the importance of focusing on solving real problems and prioritizing the public good. It also highlights the crucial role of government leaders in shaping the future of AI in the public sector and the importance of continuous learning, collaboration, and adaptation to navigate the evolving AI landscape with confidence.",
+    "innovate_us_course_parts": [
+      24
+    ],
+    "course_content_translations": [
+      437,
+      458,
+      473,
+      488,
+      501,
+      609
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Course overview",
+    "description": "This module introduces the course and provides an overview of the key topics covered, including ensuring data quality, developing AI talent, and navigating ethical considerations and risk management practices. The module emphasizes the importance of government leaders making informed decisions about AI implementation while maintaining public trust.",
+    "innovate_us_course_parts": [
+      25
+    ],
+    "course_content_translations": [
+      434,
+      452,
+      470,
+      483,
+      500,
+      610
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Ethical risk frameworks & toolkits",
+    "description": "This module introduces the critical importance of robust AI risk management and the role of the National Institute of Standards and Technology (NIST) AI Risk Management Framework (AI RMF) in ensuring responsible and safe AI deployment. It explores the seven key characteristics of trustworthy AI and the four functions outlined in the AI RMF that can help reduce risk and maximize benefits. The module also discusses the unique risks posed by Generative AI (GenAI) and provides practical next steps for implementing AI risk management in an organization.",
+    "innovate_us_course_parts": [
+      28
+    ],
+    "course_content_translations": [
+      478,
+      497,
+      508,
+      514,
+      518,
+      611
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Course conclusion",
+    "description": "The conclusion module summarizes the key learning points from the course and emphasizes the importance of maintaining transparency, minimizing and managing AI risk, and prioritizing the public good. It highlights the crucial role of government leaders in shaping the future of AI in the public sector and the importance of continuous learning, collaboration, and adaptation to navigate the evolving AI landscape with confidence.",
+    "innovate_us_course_parts": [
+      29
+    ],
+    "course_content_translations": [
+      459,
+      479,
+      495,
+      509,
+      515,
+      612
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Why Engagement Matters Today",
+    "description": "Why public engagement is essential for effective governance and how AI can make it easier to do well.",
+    "innovate_us_course_parts": [
+      67
+    ],
+    "course_content_translations": [
+      1,
+      403,
+      418,
+      433,
+      451,
+      613,
+      662
+    ]
+  },
+  {
+    "id": 122,
+    "title": " A Checklist for Planning Your Engagement",
+    "description": "Introduces a framework for designing effective public engagement from idea to impact.",
+    "innovate_us_course_parts": [
+      68
+    ],
+    "course_content_translations": [
+      2,
+      405,
+      414,
+      431,
+      450,
+      614,
+      663
+    ]
+  },
+  {
+    "id": 123,
+    "title": " Defining Goals for Engagement and Action",
+    "description": "How clear, realistic goals guide both participants and institutions toward meaningful engagement outcomes.",
+    "innovate_us_course_parts": [
+      69
+    ],
+    "course_content_translations": [
+      408,
+      424,
+      443,
+      463,
+      480,
+      615,
+      664
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Ensuring Ownership, Accountability and Action",
+    "description": "Why clear ownership is essential for turning public input into real decisions and lasting impact.",
+    "innovate_us_course_parts": [
+      70
+    ],
+    "course_content_translations": [
+      393,
+      406,
+      416,
+      432,
+      456,
+      616,
+      665
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Identifying Participants",
+    "description": " How to match participants to your engagement goals by combining different selection approaches.",
+    "innovate_us_course_parts": [
+      71
+    ],
+    "course_content_translations": [
+      422,
+      440,
+      462,
+      481,
+      494,
+      617,
+      666
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Designing Outreach Strategies",
+    "description": "How to design outreach that reaches beyond the usual suspects and lowers barriers to participation.",
+    "innovate_us_course_parts": [
+      72
+    ],
+    "course_content_translations": [
+      425,
+      442,
+      465,
+      474,
+      490,
+      618,
+      667
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Designing Incentives for Participation",
+    "description": "How to motivate participation through a combination of intrinsic and extrinsic incentives and reducing barriers to participation.",
+    "innovate_us_course_parts": [
+      73
+    ],
+    "course_content_translations": [
+      411,
+      428,
+      446,
+      466,
+      484,
+      619,
+      668
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Defining the Tasks: What You Ask Participants to Do",
+    "description": "How to define clear tasks, write effective instructions, and pick the right platform for your engagement goals.",
+    "innovate_us_course_parts": [
+      74
+    ],
+    "course_content_translations": [
+      454,
+      477,
+      492,
+      504,
+      511,
+      620,
+      669
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Reviewing Inputs",
+    "description": "How to organize, analyze, and evaluate public input so it can inform real decisions.",
+    "innovate_us_course_parts": [
+      75
+    ],
+    "course_content_translations": [
+      493,
+      510,
+      512,
+      517,
+      520,
+      621,
+      670
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Using What the Group Creates",
+    "description": " How to close the loop by acting on public input and showing participants that their contributions mattered.",
+    "innovate_us_course_parts": [
+      76
+    ],
+    "course_content_translations": [
+      445,
+      464,
+      482,
+      498,
+      506,
+      622,
+      671
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Designing Your Project Plan",
+    "description": "How to map the full engagement journey — from planning through implementation — into a clear, sequenced project plan.",
+    "innovate_us_course_parts": [
+      77
+    ],
+    "course_content_translations": [
+      496,
+      505,
+      513,
+      516,
+      519,
+      623,
+      672
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Conclusion",
+    "description": "A recap of the nine-step framework and an invitation to put these principles into practice.",
+    "innovate_us_course_parts": [
+      78
+    ],
+    "course_content_translations": [
+      449,
+      468,
+      485,
+      499,
+      507,
+      624,
+      673
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Welcome and Course Overview",
+    "description": "An orientation to the course, who it's for, and its core principle: AI on tap, not on top.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": []
+  },
+  {
+    "id": 134,
+    "title": "Understanding AI's Potential for Public Procurement",
+    "description": "What AI is, how it can support procurement work, and how the profession will change as AI becomes part of government operations.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": []
+  },
+  {
+    "id": 135,
+    "title": "AI Applications Across the Procurement Lifecycle",
+    "description": "Where AI can help at each stage of the procurement lifecycle — and where human judgment must stay in charge.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": []
+  },
+  {
+    "id": 136,
+    "title": "Practical Applications in AI Procurement",
+    "description": "How four jurisdictions turned to AI to solve real procurement problems, and what they learned along the way.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": []
+  },
+  {
+    "id": 137,
+    "title": "AI Risk Management",
+    "description": "How to identify and manage the risks of AI adoption through strong governance and consistent human oversight.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": []
+  },
+  {
+    "id": 138,
+    "title": "AI Implementation Strategies for Procurement Teams",
+    "description": "How to assess readiness, pick a first use case and the right tools, and anticipate common roadblocks to adoption.",
+    "innovate_us_course_parts": [],
+    "course_content_translations": []
+  },
+  {
+    "id": 139,
+    "title": "Strategy to Action: Building Your Procurement AI Plan",
+    "description": "How to turn AI experimentation into an accountable plan, from discovery and alignment through change management and measurement.\n",
+    "innovate_us_course_parts": [],
+    "course_content_translations": []
+  },
+  {
+    "id": 140,
+    "title": "Welcome and Course Overview",
+    "description": "An orientation to the course, who it's for, and its core principle: AI on tap, not on top.\n",
+    "innovate_us_course_parts": [
+      79
+    ],
+    "course_content_translations": []
+  },
+  {
+    "id": 141,
+    "title": "Understanding AI's Potential for Public Procurement",
+    "description": "What AI is, how it can support procurement work, and how the profession will change as AI becomes part of government operations.",
+    "innovate_us_course_parts": [
+      80
+    ],
+    "course_content_translations": []
+  },
+  {
+    "id": 142,
+    "title": "AI Applications Across the Procurement Lifecycle",
+    "description": "Where AI can help at each stage of the procurement lifecycle — and where human judgment must stay in charge.",
+    "innovate_us_course_parts": [
+      81
+    ],
+    "course_content_translations": []
+  },
+  {
+    "id": 143,
+    "title": "Practical Applications in AI Procurement",
+    "description": "How four jurisdictions turned to AI to solve real procurement problems, and what they learned along the way.",
+    "innovate_us_course_parts": [
+      82
+    ],
+    "course_content_translations": []
+  },
+  {
+    "id": 144,
+    "title": "AI Risk Management",
+    "description": "How to identify and manage the risks of AI adoption through strong governance and consistent human oversight.",
+    "innovate_us_course_parts": [
+      83
+    ],
+    "course_content_translations": []
+  },
+  {
+    "id": 145,
+    "title": "AI Implementation Strategies for Procurement Teams",
+    "description": "How to assess readiness, pick a first use case and the right tools, and anticipate common roadblocks to adoption.",
+    "innovate_us_course_parts": [
+      84
+    ],
+    "course_content_translations": []
+  },
+  {
+    "id": 146,
+    "title": "Strategy to Action: Building Your Procurement AI Plan",
+    "description": "How to turn AI experimentation into an accountable plan, from discovery and alignment through change management and measurement.",
+    "innovate_us_course_parts": [
+      85
+    ],
+    "course_content_translations": []
+  }
+]

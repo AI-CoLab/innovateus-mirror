@@ -1,0 +1,131 @@
+{
+  "title": "Module 6 Quiz",
+  "mainLibrary": "InnovateUS.KnowledgeCheck",
+  "language": "und",
+  "content": {
+    "behaviour": {
+      "passPercentage": 100,
+      "autoAdvance": false,
+      "delayCorrect": 3,
+      "delayWrong": 5,
+      "shuffleAnswers": true,
+      "showNextModule": true
+    },
+    "l10n": {
+      "progress": "Question :num of :total",
+      "correct": "Correct!",
+      "incorrect": "Not quite. The right answer is highlighted.",
+      "incorrectMulti": "Not quite. Select every right answer and no wrong ones.",
+      "nextQuestion": "Next question",
+      "seeResult": "See your result",
+      "resultPassed": "Well done!",
+      "resultFailed": "Almost there",
+      "scoreText": "You got :score of :total right.",
+      "passedText": "Continue to the next module when you are ready.",
+      "failedText": "You need to answer every question correctly to continue. Have a look at the answers below, then try again.",
+      "yourAnswer": "Your answer",
+      "yourAnswers": "You chose",
+      "rightAnswer": "Right answer",
+      "rightAnswers": "Right answers",
+      "retry": "Try again",
+      "nextModule": "Next module",
+      "backToCourse": "Back to course",
+      "checkAnswer": "Check answer",
+      "selectAll": "Select all that apply."
+    },
+    "questions": [
+      {
+        "text": "A procurement team wants to pilot an AI tool for the first time. Which of the following use cases would be the most appropriate starting point?",
+        "answers": [
+          {
+            "text": "A public-facing AI chatbot that answers vendor questions about open solicitations",
+            "correct": false
+          },
+          {
+            "text": "An AI tool that automatically scores and ranks vendor proposals without human review",
+            "correct": false
+          },
+          {
+            "text": "An internal AI assistant that helps staff navigate the jurisdiction&#039;s procurement policy documents",
+            "correct": true
+          },
+          {
+            "text": "An AI system that generates contract terms and conditions based on historical agreements",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "A small procurement team has limited budget and wants to start experimenting with AI. Their IT department has approved Microsoft Copilot for general use but hasn&#039;t provided any procurement-specific guidance. A vendor has also reached out offering a free 90-day trial of a standalone AI procurement tool that looks promising. What should the team do?",
+        "answers": [
+          {
+            "text": "Accept the vendor&#039;s free trial immediately; a procurement-specific tool is likely to produce better results than a general-purpose one",
+            "correct": false
+          },
+          {
+            "text": "Start with Copilot since it&#039;s already approved, while researching the standalone tool more thoroughly before committing to a trial",
+            "correct": true
+          },
+          {
+            "text": "Wait for IT to provide procurement-specific guidance before using either tool",
+            "correct": false
+          },
+          {
+            "text": "Request budget to purchase the standalone tool outright rather than starting with a free trial",
+            "correct": false
+          },
+          {
+            "text": "Use both tools simultaneously to compare results and decide which works better",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "A procurement team launches an AI pilot but discovers midway through that their contract documents are stored inconsistently across multiple systems, making it difficult for the AI to produce reliable outputs. What does this most clearly illustrate?",
+        "answers": [
+          {
+            "text": "The AI tool was poorly designed and should be replaced",
+            "correct": false
+          },
+          {
+            "text": "AI is not appropriate for contract management tasks in government",
+            "correct": false
+          },
+          {
+            "text": "The pilot should be abandoned and the team should return to manual processes",
+            "correct": false
+          },
+          {
+            "text": "The team should have assessed their data readiness before selecting and deploying the tool",
+            "correct": true
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "Which of the following best describes the difference between the Try, Buy, and Build pathways for AI adoption?",
+        "answers": [
+          {
+            "text": "Try is for large jurisdictions, Buy is for mid-sized, and Build is for small cities",
+            "correct": false
+          },
+          {
+            "text": "Try and Buy are for procurement use cases, while Build is only appropriate for IT departments",
+            "correct": false
+          },
+          {
+            "text": "Buy is always the best option because it provides the most reliable and tested tools",
+            "correct": false
+          },
+          {
+            "text": "They represent different levels of cost, complexity, and risk, and the right choice depends on a team&#039;s readiness, resources, and goals",
+            "correct": true
+          }
+        ],
+        "multiple": false
+      }
+    ]
+  }
+}

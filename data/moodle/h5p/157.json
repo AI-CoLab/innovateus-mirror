@@ -1,0 +1,83 @@
+{
+  "title": "Module 1 Quiz",
+  "mainLibrary": "InnovateUS.KnowledgeCheck",
+  "language": "und",
+  "content": {
+    "behaviour": {
+      "passPercentage": 100,
+      "autoAdvance": false,
+      "delayCorrect": 3,
+      "delayWrong": 5,
+      "shuffleAnswers": true,
+      "showNextModule": true
+    },
+    "l10n": {
+      "progress": "Question :num of :total",
+      "correct": "Correct!",
+      "incorrect": "Not quite. The right answer is highlighted.",
+      "incorrectMulti": "Not quite. Select every right answer and no wrong ones.",
+      "nextQuestion": "Next question",
+      "seeResult": "See your result",
+      "resultPassed": "Well done!",
+      "resultFailed": "Almost there",
+      "scoreText": "You got :score of :total right.",
+      "passedText": "Continue to the next module when you are ready.",
+      "failedText": "You need to answer every question correctly to continue. Have a look at the answers below, then try again.",
+      "yourAnswer": "Your answer",
+      "yourAnswers": "You chose",
+      "rightAnswer": "Right answer",
+      "rightAnswers": "Right answers",
+      "retry": "Try again",
+      "nextModule": "Next module",
+      "backToCourse": "Back to course",
+      "checkAnswer": "Check answer",
+      "selectAll": "Select all that apply."
+    },
+    "questions": [
+      {
+        "text": "Which of the following best captures the course&#039;s core principle about AI in procurement?",
+        "answers": [
+          {
+            "text": "AI should eventually replace routine procurement roles to improve efficiency",
+            "correct": false
+          },
+          {
+            "text": "AI is too risky for government use until regulations catch up",
+            "correct": false
+          },
+          {
+            "text": "AI works best as a tool that supports procurement professionals, not as a replacement for them",
+            "correct": true
+          },
+          {
+            "text": "AI is only appropriate for large jurisdictions with dedicated technology staff",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      },
+      {
+        "text": "Before using any AI tool in your procurement work, what should you do first?",
+        "answers": [
+          {
+            "text": "Run a pilot with a small set of vendors to test the tool",
+            "correct": false
+          },
+          {
+            "text": "Check your agency&#039;s policies on permissible AI tools and acceptable uses",
+            "correct": true
+          },
+          {
+            "text": "Get approval from your jurisdiction&#039;s technology vendor",
+            "correct": false
+          },
+          {
+            "text": "Complete an advanced AI certification program",
+            "correct": false
+          }
+        ],
+        "multiple": false
+      }
+    ]
+  }
+}

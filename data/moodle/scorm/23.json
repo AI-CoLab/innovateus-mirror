@@ -1,0 +1,590 @@
+{
+  "id": "5H7Bj1oAEsHjbfMe95wmLVmTCzTGB4oO",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "title": "Module 7: Course Conclusion",
+  "sharePassword": "",
+  "description": "<p>The conclusion module summarizes the key learning points from the course and emphasizes the importance of focusing on solving real problems, maintaining transparency, minimizing and managing AI risk, and prioritizing the public good. It highlights the crucial role of government leaders in shaping the future of AI in the public sector and the importance of continuous learning, collaboration, and adaptation to navigate the evolving AI landscape with confidence.</p>",
+  "shareId": "BKoyGvl5gH45Quon8ybaYs0w5oqEOM5s",
+  "copyOf": "",
+  "order": "1727121121327",
+  "fonts": null,
+  "media": {},
+  "coverImage": {
+    "media": {
+      "image": {
+        "key": "rise/courses/5H7Bj1oAEsHjbfMe95wmLVmTCzTGB4oO/1nQIWch9UMEqOFfn-DALL%25C2%25B7E%25202024-08-10%252015.36.16%2520-%2520A%2520simple%2520abstract%2520art%2520piece%2520with%2520a%2520color%2520theme%2520focusing%2520on%2520dark%2520blue%2520and%2520white%252C%2520with%2520more%2520curved%2520and%2520flowing%2520lines.%2520The%2520composition%2520should%2520feature%2520a%2520b%2520copy.jpg",
+        "crushedKey": "QCOyekeT-KNn_EFi.jpg",
+        "originalUrl": "DALL·E 2024-08-10 15.36.16 - A simple abstract art piece with a color theme focusing on dark blue and white, with more curved and flowing lines. The composition should feature a b copy.jpg",
+        "sourcedFrom": "USER",
+        "useCrushedKey": true,
+        "src": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/12_wfh.jpg"
+      }
+    }
+  },
+  "lessons": [
+    {
+      "id": "ALLbO1sfXuZHFQwYU1NJKmHXaCUPw-sK",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "5H7Bj1oAEsHjbfMe95wmLVmTCzTGB4oO",
+      "title": "Welcome Back!",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0r7x64w002q356ut6mbk456",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0r7x64w002w356utj2iwf2m",
+              "heading": "<p><strong>Module 7: Course Conclusion</strong></p>",
+              "paragraph": "<p>The conclusion module summarizes the key learning points from the course and emphasizes the importance of focusing on solving real problems, maintaining transparency, minimizing and managing AI risk, and prioritizing the public good. It highlights the crucial role of government leaders in shaping the future of AI in the public sector and the importance of continuous learning, collaboration, and adaptation to navigate the evolving AI landscape with confidence.</p><p>After each video ends, a continue button appears below the video player. Click it to reveal the additional navigation and the InnovateUS website link containing readings and resources. Learners with screen readers can use the down arrow key to navigate through the video player’s controls and access the continue button. <strong><em>Another</em></strong> “continue” button will appear to move on to the Self-Assessments after each video. </p><ul><li><p><strong>Reminder:</strong> Consult with your organization’s policies before using any tool or platform. &nbsp;</p></li><li><p><strong>Disclaimer</strong>: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</p></li></ul>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r7xkv9003g356unhymfltt",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r7xkvi003h356uqu598jeq",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "det0k6tY8-VY8oyOsGsmiZLiNORPqRzS",
+      "deleted": false,
+      "createdAt": "2024-09-06T21:17:21.003Z",
+      "updatedAt": "2024-09-06T21:19:14.447Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "det0k6tY8-VY8oyOsGsmiZLiNORPqRzS",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "5H7Bj1oAEsHjbfMe95wmLVmTCzTGB4oO",
+      "title": "Video 7.1: Conclusion",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyssqaes00033b7c5ec5qn31",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyssqaes00093b7cxknufjqk",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>The conclusion video summarizes the key learning points from the course, including understanding different AI approaches, selecting and prioritizing impactful AI projects, ensuring data quality, developing an AI-ready workforce, and navigating ethical considerations and risk management practices. It emphasizes the importance of focusing on solving real problems, maintaining transparency, minimizing and managing AI risk, and prioritizing the public good. The video also highlights the crucial role of government leaders in shaping the future of AI in the public sector and the importance of continuous learning, collaboration, and adaptation to navigate the evolving AI landscape with confidence.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyssqzra000q3b7cjyikf9n5",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyssqzrh000r3b7c9809qwcx",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzoiky6k000s3b6eb8qjwhcy",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoiky6l000t3b6emu0i1nl5",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%207.1%20v3.mp4",
+                  "url": "transcoded-mIiZGfslCxw7dCsb-2425GovLabAIP2%25207.1%2520v3.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%207.1%20v3.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoisqvk001t3b6eboqrvz0f",
+                      "key": "2425GovLabAIP2%207.1%20v3.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 7.1 v3.mp4.vtt"
+                    }
+                  ],
+                  "duration": 195,
+                  "inputKey": "rise/courses/5H7Bj1oAEsHjbfMe95wmLVmTCzTGB4oO/mIiZGfslCxw7dCsb-2425GovLabAIP2%207.1%20v3.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/5H7Bj1oAEsHjbfMe95wmLVmTCzTGB4oO/transcoded-mIiZGfslCxw7dCsb-2425GovLabAIP2%25207.1%2520v3.0000000.jpg",
+                  "captionUID": "clzoisr4o001u3b6e855lo4kx",
+                  "originalUrl": "2425GovLabAIP2 7.1 v3.mp4",
+                  "transcodeId": "1723317394416-lf5lgj"
+                }
+              },
+              "caption": "<p>Video 7.1: Conclusion</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6vflx001v3b6e0c3vrnbl",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6vfly001w3b6epi31bdjn",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0ree9001b3b6efcdoi1kj",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0reea001c3b6epri8y0oo",
+              "type": "link",
+              "label": "Start Survey!",
+              "description": "<p><strong>Post-Course Survey</strong></p><p>Before you complete the course, we want to your thoughts on this experience. Please click the &quot;start survey&quot; button. It will take no longer than 5 minutes to complete!</p>",
+              "destination": "https://neu.co1.qualtrics.com/jfe/form/SV_86cuym08AgIYzFc"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0v9yedm005s3b6el2ck4pee",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0v9yedn005t3b6e0c07re1b",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-19T14:29:10.464Z",
+      "updatedAt": "2024-09-12T17:57:38.918Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 0,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "OrNv_861HveNImu7NXEYjpxhuXPircJN",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "5H7Bj1oAEsHjbfMe95wmLVmTCzTGB4oO",
+      "title": "Next Up: Course  Complete!",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0zkrb5o004y356uxrr2m0zt",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cm0zkrb5p004z356uxyu0t4nf",
+              "type": "exit-course",
+              "label": "exit module",
+              "description": "<p><strong>Course Complete!</strong></p><p>Congratulations on completing the course. Click \"Exit Module\" to return to course dashboard.</p>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "ALLbO1sfXuZHFQwYU1NJKmHXaCUPw-sK",
+      "deleted": false,
+      "createdAt": "2024-09-12T17:37:22.280Z",
+      "updatedAt": "2024-09-12T17:40:26.807Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2024-07-19T14:28:16.634Z",
+  "updatedAt": "2024-09-23T19:52:01.327Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 7: Course Conclusion",
+    "format": "zip",
+    "quizId": null,
+    "target": "scorm12",
+    "shareId": "BKoyGvl5gH45Quon8ybaYs0w5oqEOM5s",
+    "activeLMS": 0,
+    "reporting": "completed-incomplete",
+    "exportType": "lms",
+    "identifier": "5H7Bj1oAEsHjbfMe95wmLVmTCzTGB4oO_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "quizComplete": false,
+    "activeEdition": 0,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": true,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "completionPercentage": 100
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "-MPEM2R_v3eTh0hQInNv-2WAwVwql-Pw",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": {},
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "SPLIT_LEFT_IMAGE",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/12_wfh.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": false,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "locale": null,
+  "sourceCourseLocaleId": null,
+  "experiments": null,
+  "settings": {},
+  "features": {
+    "rise-a-11-y-img-gallery-carousel": true,
+    "rise-course-navigation": true,
+    "rise-img-dimensions": true,
+    "rise-img-zoom": true,
+    "rise-timed-quizzes": true
+  },
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "bodyTypeface": "DM Sans",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato",
+  "lmsOptions": {
+    "enableExitCourse": false,
+    "disableCoverPage": true
+  },
+  "mondrian": {}
+}

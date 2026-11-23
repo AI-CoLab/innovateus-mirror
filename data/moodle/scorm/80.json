@@ -1,0 +1,661 @@
+{
+  "description": "<div data-editor-id=\"b922f0bb-b937-4c9f-9d83-6b9d54f5635a\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video explains how well-designed public engagement improves the legitimacy and effectiveness of decision-making for institutions, leaders, and the public. It illustrates how practitioners around the world are already using AI to analyze input, model policy options, and make participation more accessible — and sets the stage for the practical framework that follows.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "ptgbnyJGSYGCbwnNZR-W6VTrVEj12xDi",
+      "items": [
+        {
+          "id": "cmrur5vwg002i3d7bvb6d6dma",
+          "settings": {
+            "v": 2,
+            "paddingTop": 1,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 1,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrur5vwh002o3d7b6s0er800",
+              "heading": "<div data-editor-id=\"33900993-01af-4b7f-bb0d-475b3d4e020a\"><p><strong>Welcome!</strong></p></div>",
+              "paragraph": "<div data-editor-id=\"d72558f3-99cd-490e-94e7-294ea76972d2\"><p style=\"line-height: 1.5\">This free, self-paced course equips public servants with the skills needed to plan, run, learn from, and institutionalize meaningful engagement with communities.</p><p style=\"line-height: 1.5\">Designed for public professionals globally, the course responds to a common challenge in public service: many institutions know engagement matters, but lack clear guidance on how to do it well. Learners gain practical, design-focused skills for running engagement across contexts, including consultation, deliberation, co-creation, and other ways of listening to communities.</p><p style=\"line-height: 1.5\">Delivered through short, accessible videos, the course focuses on concrete design choices, such as whom to engage, what to ask, and how to use public input in decision-making. Throughout, it shows how artificial intelligence can responsibly support public engagement by reducing time, cost, and complexity while improving accessibility, inclusion, and insight, without replacing human judgment.</p><p style=\"line-height: 1.5\">Developed in collaboration with The GovLab and the Allen Lab for Democracy Renovation at Harvard University and a design and advisory board of 50+ global experts on public engagement.</p><p style=\"line-height: 1.5\"><strong>Audio description transcripts</strong><br class=\"break-when-trailing\">All videos in this module include audio description transcripts. You’ll find them directly below each video in an accordion titled “Audio description transcript”</p><ul><li><p style=\"line-height: 1.5\">Select the heading to expand and read the transcript.</p></li><li><p style=\"line-height: 1.5\">Screen reader and keyboard users: tab to the accordion heading and press Enter or Space to open or close it.</p></li></ul></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:32:22.771Z",
+          "updatedAt": "2026-07-21T14:32:22.771Z",
+          "globalBlockId": "2e2ba0cc-7743-4167-8dd0-b97de18f989b"
+        },
+        {
+          "id": "cmrur89yk002y3d7bt4oos04m",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmrur89yl002z3d7bhepa1qnv",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "32e099bc-ce8e-481f-9b38-b4883a5c606a"
+        }
+      ],
+      "settings": {},
+      "title": "Welcome",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+      "createdAt": "2026-07-25T03:01:06.239Z",
+      "deleted": false,
+      "duplicatedFromId": "Q3j3PwZpK2QMAz7Q214ea0vDVc0VIO_C",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 0,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T17:08:23.685Z"
+    },
+    {
+      "description": "",
+      "id": "q4ucpWxy5HWs5TyP-WcB2a5sUO7ba1cL",
+      "items": [
+        {
+          "id": "cmrurczw300at3d7bix6rh2r1",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"9e84e678-ea5e-42dc-bf63-e3c6817e20e9\"><p>This video explains how well-designed public engagement improves the legitimacy and effectiveness of decision-making for institutions, leaders, and the public. It illustrates how practitioners around the world are already using AI to analyze input, model policy options, and make participation more accessible — and sets the stage for the practical framework that follows.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "2e5b9fab-5b30-4405-b89d-dcb1a2f34272"
+        },
+        {
+          "id": "cmry5j1gt003q3d7d9mirzlb7",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 1",
+              "description": "<div data-editor-id=\"2d982672-d7f2-4d1d-b627-10d14e048a9e\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS Logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Why Engagement Matters Today.</p><p style=\"line-height: 1.5\">Welcome. I'm Danielle Allen and I'm Beth Noveck.</p><p style=\"line-height: 1.5\">[Visual description]: Two speakers appear side by side in separate windows.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the first speaker: Danielle Allen, Professor, Harvard University.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the second speaker: Beth Simone Noveck, Professor, Northeastern University.</p><p style=\"line-height: 1.5\">Together with leading engagement practitioners, we will be your guides as we explore how to design public engagement that improves how you make decisions and solve public problems.</p><p style=\"line-height: 1.5\">[Visual description]: A full-screen list of 50 names with titles is shown. The list contains the names of people who have contributed to this course.</p><p style=\"line-height: 1.5\">[Visual description]: Beth appears.</p><p style=\"line-height: 1.5\">Many institutions and leaders would engage the public more often, if only they knew how to do it efficiently and effectively. But few of us have learned how to design public engagement online or even in person.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">[Visual description]: A bullet-pointed list appears, the text of each point mirrors what is said by Beth.</p><p style=\"line-height: 1.5\">In this short course, you will understand why public engagement is essential for effective governance. Learn how to design and run effective, efficient engagement processes with the help of AI. Our hope is that after an hour, you know the questions you need to ask and answer for yourself to help you design and run an engagement. In one hour we cannot teach the intricacies, but we hope to offer a practical introduction that encourages you to incorporate public engagement into your day-to-day work.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: The Democratic Participation Crisis. This section is presented by Danielle.</p><p style=\"line-height: 1.5\">When Joca, a four-year-old golden retriever, died on a scorching Brazilian tarmac after an airline's tragic mistake, the nation's outrage could have remained another trending hashtag.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of a Yahoo! news article, Title: Airline under fire after ‘operational’ mistake kills man’s beloved dog.</p><p style=\"line-height: 1.5\">Instead, Fernando, a young man in São Paulo, submitted a proposal for Joca's Law through the Brazilian Senate's e-citizenship portal.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of the idea proposal website on the e-Citizenship portal.</p><p style=\"line-height: 1.5\">Thousands of ordinary people endorsed the idea. Lawmakers held hearings, and the first comprehensive law for animal transport safety followed.</p><p style=\"line-height: 1.5\">[Visual description]: Various videos of pets, people voting, and politicians are shown.</p><p style=\"line-height: 1.5\">This is what democratic participation can look like.</p><p style=\"line-height: 1.5\">But stories of citizens shaping how institutions decide are vanishingly rare, even in most democracies. Across 24 nations, three out of four residents say elected officials don't care what they think. Done well, engagement improves both the legitimacy and effectiveness of decision-making. For institutions, engagement surfaces expertise, experience and opinions to improve the quality of decision-making. For leaders, public input enhances the legitimacy and effectiveness of their actions and strengthens the sense that leaders are listening and responsive. And for the public, it creates a genuine opportunity to shape the decisions that affect their lives.</p><p style=\"line-height: 1.5\">[Visual description]: This section is presented by Beth.</p><p style=\"line-height: 1.5\">Public engagement is hard. When everyone can speak, institutions struggle to listen. I learned this lesson during the 2008 presidential transition.</p><p style=\"line-height: 1.5\">[Visual description]: The Citizen’s Briefing Book from May 2009 is shown.</p><p style=\"line-height: 1.5\">The incoming administration invited Americans to submit ideas for the first 100 days. More than 125,000 people responded with over 44,000 ideas. Making sense of it all was impossible.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: A screenshot of a GOV.UK article, Title: Government-built \"Humphrey\" AI tool reviews responses to consultation for first time, in bid to save millions.</p><p style=\"line-height: 1.5\">It's no wonder the U.K. Cabinet Office estimates that a consultation attracting 30,000 responses requires a team of around 25 analysts for three months to analyze the data and write the report. While many institutions want to engage, the challenge is how to do it well with limited time, budgets and growing demands.</p><p style=\"line-height: 1.5\">You can use AI to make engagement easier, faster and more accessible. Around the world, practitioners are already using these tools in different ways.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: A screenshot of a Reboot Democracy article, Title: Listening to the Unheard: Mexico’s Unprecedented Effort to Rebuild Trust in its Justice System.</p><p style=\"line-height: 1.5\">In Mexico, the Supreme Court used AI to analyze large volumes of public input to detect emerging issues and surface less visible viewpoints.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: A screenshot of a Reboot Democracy article, Title: How New Jersey’s AI Task Force Used AI Agents to Develop Evidence-Based Policy Solutions with New Jersey Residents.</p><p style=\"line-height: 1.5\">In New Jersey, the state's AI task force used AI to model policy options and inform conversations with the public.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of a Reboot Democracy article, Title: How Hamburg is Turning Resident Comments into Actionable Insight.</p><p style=\"line-height: 1.5\">In Hamburg, AI helps categorize residents' proposals so staff can review them more efficiently.</p><p style=\"line-height: 1.5\">[Visual description]: Image appears: Screenshot of the AI tool Bhashini.</p><p style=\"line-height: 1.5\">In India, AI enables public meeting notes to be transcribed and translated into multiple languages, making participation accessible to communities that would otherwise be excluded.</p><p style=\"line-height: 1.5\">[Visual description]: This section is presented by Danielle.</p><p style=\"line-height: 1.5\">A few cautions before we go further. First, before using AI tools at work, check with your agency AI or IT lead for the most current information about your organization's policies. Second, AI cannot substitute for human engagement. Conversation, trust and judgment are not inefficiencies. Used well, AI frees up time to do more of that work. Used poorly, it undermines it. Third, we don't recommend a single engagement platform or AI tool. We will show you examples with a variety of common tools. Finally, AI has limitations. Its outputs depend on how it is used. We'll address these risks throughout the course. If you're new to these tools, we recommend starting with the AI basics course linked in the materials.</p><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS website appears. Highlighting a section titled: Responsible AI for Public Professionals. Next to this text, an image of a painting is shown of people being connected by lines, creating the image of a web.</p><p style=\"line-height: 1.5\">The videos ahead will give you the practical know-how to engage the public more often, more effectively and more equitably, with AI as a capable assistant, not a substitute for the hard work of listening, deliberating and deciding together.</p><p style=\"line-height: 1.5\">[Visual description]: Beth appears.</p><p style=\"line-height: 1.5\">Next, we'll introduce the planning checklist that will serve as your course roadmap.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Next Up: Planning Your Engagement.</p><p style=\"line-height: 1.5\"></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "3ad401de-ef8f-4f76-acd2-9387abc9ecd7"
+        },
+        {
+          "id": "cmry58wpz00303d7d56tvu5zq",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2001%20v5.mp4",
+                  "url": "transcoded-Y1kFozmvlVLwA0Sg.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2001%20v5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsamr6r000383d79m1c4d1ys",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2001%20v5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 01 v5.vtt"
+                    }
+                  ],
+                  "duration": 323,
+                  "inputKey": "rise/courses/f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i/Y1kFozmvlVLwA0Sg.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i/transcoded-Y1kFozmvlVLwA0Sg.0000000.jpg",
+                  "captionUID": "cmsamr72k00393d79j9drhrix",
+                  "originalUrl": "2625GovLab Public Engagement Video 01 v5.mp4",
+                  "transcodeId": "1785604275257-k2om8k"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "02cb0ca5-9eaa-430c-8cd6-aa68bc228951"
+        },
+        {
+          "id": "cms9dp41z00am3d7fidm0ghya",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9dp41z00an3d7fui1qcg57",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "6b082659-ae10-4698-a32b-81b1add5df48"
+        }
+      ],
+      "settings": {},
+      "title": "Video 1: Why Engagement Matters Today",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+      "createdAt": "2026-07-25T03:01:06.239Z",
+      "deleted": false,
+      "duplicatedFromId": "3wWLn5uWOGErXcBm3bNgAUoR6FXJRVIG",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T17:13:18.294Z"
+    },
+    {
+      "description": "",
+      "id": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "f5afabee-7a3b-490d-9169-c5556d65ad26"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"1efe4372-637a-4426-ba3a-ce7c8c647afb\"><ol><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">According to the video, what role should AI play in public engagement?</span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"16913f8a-a229-4e9c-9aa1-c02d59f601be\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>&nbsp;It should replace in-person deliberation to save costs</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"0b0a07c8-ef9a-42b5-b2cb-c69bd0cede94\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It should free up time for conversation, trust-building, and judgment — not substitute for them</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"0344fed6-6e6c-4d19-99e4-2e9ebd85cc68\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It should make final decisions based on public input</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"2e432f6e-fe08-487a-93b9-eac9abd5a80d\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>It should be used only after all human review is complete</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "b1127c52-9fd9-407b-a5a1-bf0f5b6327aa"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "f7c40661-aa3d-4d19-b103-a5399e84252b"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"25f94816-9187-47bd-9bda-354c823d0409\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">The video recommends that before using AI tools at work, you should:</span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"67fa5d3d-d38b-48ec-9df4-5442001c0b98\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Complete an advanced certification in AI</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"dd05348b-6a1e-4202-9e6d-ec121980c82d\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Purchase an enterprise license for a specific platform</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"0f3d00d6-fb69-44b5-a6e6-c228e8d39852\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Check with your agency AI or IT lead about your organization's policies</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"23a06f76-9e58-40d7-b25d-4754c3707236\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Wait until your organization has adopted a formal AI strategy</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "c761fb56-1be0-4837-b7f9-7bda7469d441"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "20875409-2989-436e-b732-4c68c45d58b6"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+      "createdAt": "2026-07-31T20:12:15.314Z",
+      "deleted": false,
+      "duplicatedFromId": "q4ucpWxy5HWs5TyP-WcB2a5sUO7ba1cL",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T01:53:54.187Z"
+    },
+    {
+      "description": "",
+      "id": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"9b7de285-4380-4cb5-8701-92cafb8d5aeb\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 1 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next video\" button to proceed to <em>Video 2: A Checklist for Planning Your Engagement.</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "c8acd63a-9c29-4dd1-91a4-31cdfa3106df"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+      "createdAt": "2026-07-31T20:34:49.914Z",
+      "deleted": false,
+      "duplicatedFromId": "",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:47:27.592Z"
+    }
+  ],
+  "title": "Video 1: Why Engagement Matters Today",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 75,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 1: Why Engagement Matters Today",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": true
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": true,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "Zxqgg0WLaK4GE8AIz62wkC-GmOu_6MnE",
+  "copyOf": "wj4Xw4MONWPtaKDAqScmIM3QYCdE4ODs",
+  "order": "1785772928889",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-25T03:01:02.539Z",
+  "updatedAt": "2026-08-03T16:02:08.889Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:02:09.564Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-01T20:47:27.592Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:02:09.564Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

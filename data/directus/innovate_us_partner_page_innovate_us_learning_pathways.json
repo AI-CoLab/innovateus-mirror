@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "innovate_us_partner_page_id": 1,
+    "innovate_us_learning_pathways_id": 16
+  },
+  {
+    "id": 2,
+    "innovate_us_partner_page_id": 1,
+    "innovate_us_learning_pathways_id": 12
+  },
+  {
+    "id": 3,
+    "innovate_us_partner_page_id": null,
+    "innovate_us_learning_pathways_id": 17
+  }
+]

@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "url": "https://thegovlab.org",
+    "name": "The Govlab",
+    "status": "published",
+    "logo": "5f318324-2585-4924-97d9-925fdf0e3a8e"
+  },
+  {
+    "id": 2,
+    "url": "http://thegovlab.org",
+    "name": "Test",
+    "status": "published",
+    "logo": "16260642-82ae-4c93-b169-ac5d82910a3b"
+  },
+  {
+    "id": 3,
+    "url": "http://thegovlab.org",
+    "name": "Test 3",
+    "status": "published",
+    "logo": "94cbf9f6-d564-4c9f-b994-6b42d829cea0"
+  },
+  {
+    "id": 4,
+    "url": "https://thegovlab.org/",
+    "name": "The GovLab",
+    "status": "draft",
+    "logo": "a6cf644c-fbb5-453d-b9e9-9442572b7d3d"
+  },
+  {
+    "id": 5,
+    "url": "http://thegovlab.org",
+    "name": "The Govlab",
+    "status": "published",
+    "logo": "a6cf644c-fbb5-453d-b9e9-9442572b7d3d"
+  },
+  {
+    "id": 6,
+    "url": null,
+    "name": "Northeastern",
+    "status": "draft",
+    "logo": "b7f9ea86-e478-46b1-9a45-fdb12b6995fd"
+  },
+  {
+    "id": 7,
+    "url": null,
+    "name": "Burnes Center",
+    "status": "draft",
+    "logo": "6347d122-d7d0-46d9-8b2a-522d3936a373"
+  },
+  {
+    "id": 8,
+    "url": null,
+    "name": "Burnes Center",
+    "status": "draft",
+    "logo": "1d76cb96-20b0-48f4-bbd0-1d847687a67b"
+  },
+  {
+    "id": 9,
+    "url": "https://nj.gov/",
+    "name": "New Jersey",
+    "status": "published",
+    "logo": "cbfeb500-bd95-4c41-af86-ccea91ab624e"
+  },
+  {
+    "id": 10,
+    "url": "https://www.ca.gov/",
+    "name": "California",
+    "status": "published",
+    "logo": "df8b826c-0a24-47df-9be4-6ba7249a0f5b"
+  },
+  {
+    "id": 11,
+    "url": null,
+    "name": "Pennsylvania",
+    "status": "draft",
+    "logo": "04ae7bae-e020-4b2c-b1ad-75959132a9c8"
+  },
+  {
+    "id": 12,
+    "url": "https://www.colorado.gov/",
+    "name": "Colorado",
+    "status": "published",
+    "logo": "eb58fec8-5542-4742-b643-e584c8d3e909"
+  },
+  {
+    "id": 13,
+    "url": null,
+    "name": "Maine",
+    "status": "draft",
+    "logo": "496cdbcc-413e-4541-ba62-800c400279c7"
+  },
+  {
+    "id": 14,
+    "url": "https://burnes.northeastern.edu/",
+    "name": "Burnes",
+    "status": "draft",
+    "logo": "09f1c719-f1d4-49c5-b713-26f32990ea96"
+  },
+  {
+    "id": 15,
+    "url": "https://www.hluce.org/",
+    "name": "Luce",
+    "status": "draft",
+    "logo": "c183d04f-dc39-475d-821b-945284bece77"
+  },
+  {
+    "id": 16,
+    "url": "https://www.rockefellerfoundation.org/",
+    "name": "Rockefeller",
+    "status": "draft",
+    "logo": "cd67358d-431c-49f7-b68a-62e7ca3298ab"
+  },
+  {
+    "id": 17,
+    "url": "https://www.google.org/",
+    "name": "Google.org",
+    "status": "published",
+    "logo": "78e20fab-b92e-4e44-ac5a-7e695aeafaaa"
+  },
+  {
+    "id": 18,
+    "url": "http://schmidtfutures.org",
+    "name": "Schmidt Futures",
+    "status": "published",
+    "logo": "55087c06-bcbc-4f34-90d4-8e66248b2afa"
+  },
+  {
+    "id": 19,
+    "url": "https://www.miamidade.gov/global/home.page",
+    "name": "Miami Dade County",
+    "status": "published",
+    "logo": "14533f55-d329-4421-900d-406da41175c3"
+  },
+  {
+    "id": 20,
+    "url": "https://www.maryland.gov/Pages/default.aspx",
+    "name": "Maryland",
+    "status": "published",
+    "logo": "39f00beb-e52d-4038-a3c9-f4182940ca34"
+  },
+  {
+    "id": 21,
+    "url": null,
+    "name": "Georgia",
+    "status": "draft",
+    "logo": "56057e31-13bd-4163-82ff-5044d17b1bb0"
+  },
+  {
+    "id": 22,
+    "url": null,
+    "name": "New York",
+    "status": "draft",
+    "logo": "8070037d-cea2-4e52-bf67-0bef06b9905f"
+  },
+  {
+    "id": 23,
+    "url": null,
+    "name": "Montgomery County",
+    "status": "draft",
+    "logo": "c96e8456-608f-44e1-a10e-dff4f446fb14"
+  },
+  {
+    "id": 24,
+    "url": "https://mn.gov/mnit/",
+    "name": "Minnesota",
+    "status": "published",
+    "logo": "51212f59-c5d1-470b-bbd7-3bc79bd1cdc7"
+  },
+  {
+    "id": 25,
+    "url": "https://az.gov/",
+    "name": "Arizona",
+    "status": "published",
+    "logo": "ce1c5a19-f37c-4fef-a962-0d87076c23d5"
+  },
+  {
+    "id": 26,
+    "url": "https://www.indy.gov/",
+    "name": "Indianapolis & Marion County",
+    "status": "published",
+    "logo": "b4fc7db8-ecda-4b63-a350-7498cd8c189a"
+  },
+  {
+    "id": 27,
+    "url": "https://www.montgomerycountymd.gov/",
+    "name": "Montgomery County Maryland",
+    "status": "published",
+    "logo": "d9a15b97-866c-4df3-8847-efe9cb1476cf"
+  },
+  {
+    "id": 28,
+    "url": "https://www.pa.gov/",
+    "name": "Pennsylvania",
+    "status": "published",
+    "logo": "6b0a1cab-7ada-43c8-a7f6-26f7e2c9503e"
+  },
+  {
+    "id": 29,
+    "url": "https://georgia.gov/",
+    "name": "Georgia ",
+    "status": "published",
+    "logo": "3eace4c5-6d55-403c-9c60-6b9e3323059a"
+  },
+  {
+    "id": 30,
+    "url": "https://portal.ct.gov/",
+    "name": "Connecticut",
+    "status": "published",
+    "logo": "08a8b35f-9279-42a9-bcff-0f9d538e21d9"
+  },
+  {
+    "id": 31,
+    "url": "https://www.usda.gov/",
+    "name": "USDA",
+    "status": "published",
+    "logo": "694328c6-3d0b-4d50-83d1-c2e8c5d853bc"
+  },
+  {
+    "id": 32,
+    "url": "https://www.boston.gov/",
+    "name": "City of Boston",
+    "status": "published",
+    "logo": "09ba85e4-735a-4057-bd7f-b2d9bac829dd"
+  },
+  {
+    "id": 33,
+    "url": "https://www.oregon.gov/das/hr/Pages/OPMAB-Agile-Community-of-Practice.aspx",
+    "name": "Oregon's Agile Community of Practice",
+    "status": "published",
+    "logo": "8f7f8b2b-71a3-4d0c-931f-37081b2b4316"
+  },
+  {
+    "id": 34,
+    "url": "https://www.maine.gov/portal/index.html",
+    "name": "Maine DHHS",
+    "status": "published",
+    "logo": "57f85eb1-4a14-4ba5-a2bd-523f4171f670"
+  },
+  {
+    "id": 35,
+    "url": "https://www.memun.org/",
+    "name": "Maine Municipal Association",
+    "status": "published",
+    "logo": "4d8b469b-a137-4455-8c99-cc3bb3432907"
+  },
+  {
+    "id": 36,
+    "url": "https://www.njlm.org/",
+    "name": "New Jersey State League of Municipalities",
+    "status": "published",
+    "logo": "35ba9d91-1d58-4315-8013-cce8aaaceca5"
+  },
+  {
+    "id": 37,
+    "url": "https://portal.kansas.gov/",
+    "name": "Kansas ",
+    "status": "published",
+    "logo": "d464fde1-d18b-45a4-8804-5f2b81500e87"
+  },
+  {
+    "id": 38,
+    "url": "https://portal.ehawaii.gov/",
+    "name": "Hawaii",
+    "status": "published",
+    "logo": "36e819a4-ef3b-4f76-826f-ca1515386f1a"
+  },
+  {
+    "id": 39,
+    "url": "https://www.oregon.gov",
+    "name": "Oregon",
+    "status": "published",
+    "logo": "8acc20a0-d1e8-4132-9c92-698a295b99ac"
+  },
+  {
+    "id": 40,
+    "url": "http://thegovlab.org",
+    "name": "GovLab",
+    "status": "draft",
+    "logo": "4cc5d601-98c5-4101-90c8-df15791c1b94"
+  },
+  {
+    "id": 41,
+    "url": "https://www.sf.gov/",
+    "name": "City and County of San Francisco",
+    "status": "published",
+    "logo": "c8e62c6d-aea6-4495-bfe7-e50318161d57"
+  },
+  {
+    "id": 42,
+    "url": "https://www.dupagecounty.gov/?mode=full",
+    "name": "DuPage County, IL",
+    "status": "published",
+    "logo": "0d591534-5952-4b6d-af48-b0f69dbd3169"
+  },
+  {
+    "id": 43,
+    "url": "https://www.ny.gov/",
+    "name": "New York State",
+    "status": "published",
+    "logo": "a715ef76-8a7b-4f83-9875-001ff4bcd3c6"
+  },
+  {
+    "id": 72,
+    "url": null,
+    "name": "Miami",
+    "status": "published",
+    "logo": "b184f7cf-0fe1-4473-9ef0-c876a5324eef"
+  },
+  {
+    "id": 73,
+    "url": null,
+    "name": "Cherokee Nation",
+    "status": "published",
+    "logo": "4b7968ec-8382-4cb9-9d51-fbdb30f1e2aa"
+  },
+  {
+    "id": 74,
+    "url": null,
+    "name": "Colorado",
+    "status": "draft",
+    "logo": "6d390fa7-9ade-4152-a386-195565e230bd"
+  },
+  {
+    "id": 75,
+    "url": null,
+    "name": "Delaware",
+    "status": "published",
+    "logo": "ed6f2f14-a1ce-43ff-8224-7b9f72f706a0"
+  },
+  {
+    "id": 76,
+    "url": null,
+    "name": "Kentucky",
+    "status": "published",
+    "logo": "6466e0fe-4389-46a2-93cf-c8819bab65af"
+  },
+  {
+    "id": 77,
+    "url": null,
+    "name": "Massachusetts",
+    "status": "published",
+    "logo": "d188d65f-82e9-4ead-a8dc-ccf90aad166c"
+  },
+  {
+    "id": 78,
+    "url": null,
+    "name": "Town of Normal",
+    "status": "draft",
+    "logo": "18fce527-d13f-4a4e-8692-45a97cae14c7"
+  },
+  {
+    "id": 79,
+    "url": null,
+    "name": "Illinois",
+    "status": "published",
+    "logo": "d323d640-338d-40bd-822f-b874aca3ab06"
+  },
+  {
+    "id": 80,
+    "url": null,
+    "name": "Rhode Island",
+    "status": "published",
+    "logo": "4f00c975-3a34-42d3-a873-76c35eea49d4"
+  },
+  {
+    "id": 81,
+    "url": null,
+    "name": "Washington DC",
+    "status": "published",
+    "logo": "258a3747-8a6b-4d60-ba15-0edd3b601a75"
+  },
+  {
+    "id": 82,
+    "url": null,
+    "name": "Alabama",
+    "status": "published",
+    "logo": "ee0ed916-0b5f-4d0e-b88a-92b663a328b7"
+  },
+  {
+    "id": 83,
+    "url": null,
+    "name": "Ohio",
+    "status": "published",
+    "logo": "1eb17b28-9cbc-4f2f-90f2-f15b1d5a6946"
+  },
+  {
+    "id": 84,
+    "url": null,
+    "name": "Utah",
+    "status": "published",
+    "logo": "e6ea44ac-1735-4bbf-b390-4a6af7212110"
+  },
+  {
+    "id": 114,
+    "url": "https://www.sonora.gob.mx/",
+    "name": "State of Sonora, Mexico",
+    "status": "published",
+    "logo": "828d5243-04c3-40f3-8d75-dc696913e105"
+  },
+  {
+    "id": 115,
+    "url": "https://www.kitsap.gov/",
+    "name": "Kitsap County",
+    "status": "published",
+    "logo": "8e1b4b4b-3fba-409a-9004-23adfcd9283f"
+  },
+  {
+    "id": 116,
+    "url": "https://www.michigan.gov/som",
+    "name": "Michigan",
+    "status": "published",
+    "logo": "3f9ca0fd-1461-47e3-9c0c-ffb73e32954e"
+  },
+  {
+    "id": 117,
+    "url": "https://www.nyc.gov/site/doh/index.page",
+    "name": "New York City Department of Health",
+    "status": "published",
+    "logo": "2389cc18-084f-4710-8674-446ffc1e78ab"
+  },
+  {
+    "id": 118,
+    "url": "https://portal.arkansas.gov/",
+    "name": "Arkansas",
+    "status": "published",
+    "logo": "714379a7-e20d-4c00-a1a6-5d60723b4621"
+  },
+  {
+    "id": 119,
+    "url": "https://www.alexandriava.gov/",
+    "name": "Alexandria",
+    "status": "published",
+    "logo": "43d13c9e-2e23-43fe-9fd2-18c5380ddf58"
+  }
+]

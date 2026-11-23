@@ -1,0 +1,589 @@
+{
+  "description": "<div data-editor-id=\"7700bd09-cfe7-46ad-b8f2-18772abdc8a9\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>This video introduces the nine essential design decisions that shape whether an engagement produces meaningful, legitimate results. Learners will see how each step — from defining goals to designing a project plan — builds on the others, and how AI can enhance each one while keeping human judgment and democratic accountability at the center.</span></span></span></p><p><span style=\"font-size: 1.2rem\"><span style=\"color: rgb(222, 222, 222); text-decoration: inherit\" data-color-scope=\"inner\">Last Updated: July 24, 2026</span></span></p></div>",
+  "lessons": [
+    {
+      "description": "",
+      "id": "WtVs-p5FBuszXdBZIFMrYgriqX07yNtx",
+      "items": [
+        {
+          "id": "EYFbUz_nfGNMrlhD6pX2UXm3vBWZ--5s",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cmrurczw400az3d7bhcphr1xu",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<div data-editor-id=\"b0634f59-e9de-48ff-aea4-c90a84256338\"><p>This video introduces the nine essential design decisions that shape whether an engagement produces meaningful, legitimate results. Learners will see how each step — from defining goals to designing a project plan — builds on the others, and how you can use AI to enhance each one while keeping human judgment and democratic accountability at the center.</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-21T14:37:54.542Z",
+          "updatedAt": "2026-07-21T14:37:54.542Z",
+          "globalBlockId": "d76f95e3-ffeb-4e5f-9763-f026b52bec1e"
+        },
+        {
+          "id": "y0fB19PMwIqIysWsl6i8aGyIgLh4rrWM",
+          "settings": {
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmry5j1gu003r3d7djfn2awxs",
+              "title": "Audio Description Transcript: Video 2",
+              "description": "<div data-editor-id=\"e98f87d3-6924-47eb-b098-63cfab2748fd\"><p style=\"line-height: 1.5\">[Visual description]: The InnovateUS logo appears.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Designing Democratic Engagement with AI: Practical Strategies for Public Participation.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: A Checklist for Planning Your Engagement.</p><p style=\"line-height: 1.5\"></p><p style=\"line-height: 1.5\">[Visual description]: Text appears with the speaker: Beth Simone Noveck, Professor, Northeastern University.</p><p style=\"line-height: 1.5\">In our last video, we reviewed how public engagement helps institutions, leaders, and the public and can improve the legitimacy and effectiveness of the decisions we make. We illustrated how AI can make engagement better. Now, I will introduce nine steps to guide you in designing your engagement.</p><p style=\"line-height: 1.5\">[Visual description]: Title appears: Learning Goals.</p><p style=\"line-height: 1.5\">By the end of this module, you'll be able to identify nine essential steps for designing public engagement. Explain how each contributes to effective and legitimate outcomes. Recognize how AI can enhance each step while keeping human judgment and democratic accountability at the center.</p><p style=\"line-height: 1.5\">The nine steps provide a roadmap for designing your engagement from idea to impact.</p><p style=\"line-height: 1.5\">[Visual description]: The nine steps are visualized between “Idea” and “Impact” using empty circles connected by arrows to form a flowchart.</p><p style=\"line-height: 1.5\">Each step addresses a design decision you'll need to make. Together, they'll ensure you've thought through the questions that matter most before you begin.</p><p style=\"line-height: 1.5\">Ask yourself: what are we trying to achieve? What would success look like for our engagement? Can we name a core value that motivates our goal?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 1. Defining Goals.</p><p style=\"line-height: 1.5\">Who else should be accountable for design, implementation, and acting on results?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 2. Ensuring ownership, accountability, and action.</p><p style=\"line-height: 1.5\">Whose knowledge, experience, or perspective should be brought to the table?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 3. Identifying participants.</p><p style=\"line-height: 1.5\">How will we reach the communities and people we want to engage?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 4. Designing outreach strategies.</p><p style=\"line-height: 1.5\">How will we motivate people to take part?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 5. Designing incentives for participation.</p><p style=\"line-height: 1.5\">What will we ask participants to contribute and how will we collect their input?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 6. Designing the tasks.</p><p style=\"line-height: 1.5\">How will we organize, review, and make sense of contributions?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 7. Reviewing inputs.</p><p style=\"line-height: 1.5\">How will we weigh and act on the input we receive?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 8. Using what the group creates.</p><p style=\"line-height: 1.5\">How will we put it all together into a clear sequenced plan before we act?</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: 9. Designing your project plan.</p><p style=\"line-height: 1.5\">AI can support each of these decisions, helping you reach more people, process input at scale, and communicate results more clearly. But the design principles come first. AI is most useful when it enhances a process that is already well-designed, used purposefully and transparently with human judgment at the center.</p><p style=\"line-height: 1.5\">The videos ahead explore each step in detail. Planning ahead matters, and the checklist helps you think through the entire engagement from beginning to end. The process is iterative, not linear, and you may need to revisit earlier choices.</p><p style=\"line-height: 1.5\">[Visual description]: An arrow crosses the screen and makes three loops labeled Sprint 1, 2, and 3. Each loop contains the following steps: Plan, Build, Test, and Review.</p><p style=\"line-height: 1.5\">Before you begin, be honest about whether you're ready to engage. Ask yourself: will engagement help you incorporate public perspectives into decision-making? Will it help you make better decisions? Do a better job serving the community? Participation needs to connect to and inform both decision-making and implementation. If you're not ready to design, run, or use the outputs of the engagement, then focus first on building the conditions that make meaningful engagement possible.</p><p style=\"line-height: 1.5\">Next, we walk through each step in practice, starting with defining clear goals.</p><p style=\"line-height: 1.5\">[Visual description]: Text appears: Next Up: Defining Goals.</p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "createdAt": "2026-07-23T23:37:49.712Z",
+          "updatedAt": "2026-07-23T23:37:49.712Z",
+          "globalBlockId": "843adfe7-ab7d-471a-b6cc-f7c0b274aff7"
+        },
+        {
+          "id": "L5wuAIHXLP1f5l019PuY7NPUNOrB72mZ",
+          "settings": {
+            "v": 2,
+            "mediaWidth": "0",
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true
+          },
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "cmry58wq100313d7dv1i4uo9w",
+              "media": {
+                "video": {
+                  "key": "2625GovLab%20Public%20Engagement%20Video%2002%20v5.mp4",
+                  "url": "transcoded-jFvgc33S6W1THlQ2.mp4",
+                  "type": "video",
+                  "poster": "2625GovLab%20Public%20Engagement%20Video%2002%20v5.jpg",
+                  "captions": [
+                    {
+                      "id": "cmsalfmd7004b3d79x7wkbd76",
+                      "key": "2625GovLab%20Public%20Engagement%20Video%2002%20v5.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2625GovLab Public Engagement Video 02 v5.vtt"
+                    }
+                  ],
+                  "duration": 186,
+                  "inputKey": "rise/courses/pP-ibShY_MsqIsn-sfc_Phouh-Qf3H1E/jFvgc33S6W1THlQ2.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/pP-ibShY_MsqIsn-sfc_Phouh-Qf3H1E/transcoded-jFvgc33S6W1THlQ2.0000000.jpg",
+                  "captionUID": "cmsalfmsi004c3d79knoyyenn",
+                  "originalUrl": "2625GovLab Public Engagement Video 02 v5.mp4",
+                  "transcodeId": "1784850407312-r17m34"
+                }
+              },
+              "caption": ""
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "createdAt": "2026-07-23T23:29:56.964Z",
+          "updatedAt": "2026-07-23T23:29:56.964Z",
+          "globalBlockId": "02e3af6c-b089-43e4-81df-5cea4bf58f5c"
+        },
+        {
+          "id": "XKk6EVkKegyjZ726zNEKhTv_Om444aZ-",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "continueWidth": 76,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cmry5jpiu004a3d7dkcthq8yw",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-23T23:38:20.884Z",
+          "updatedAt": "2026-07-23T23:38:20.884Z",
+          "globalBlockId": "c4e04f6c-2318-4540-a83b-4912820a314c"
+        }
+      ],
+      "settings": {},
+      "title": "Video 2: A Checklist for Planning Your Engagement",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "pP-ibShY_MsqIsn-sfc_Phouh-Qf3H1E",
+      "createdAt": "2026-07-26T18:59:25.127Z",
+      "deleted": false,
+      "duplicatedFromId": "i0IZ-VC9d9HHT8UZ9JNh2e7DnSY0QBr-",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 3,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:12:07.196Z"
+    },
+    {
+      "description": "",
+      "id": "BfaicvsUSCgfcgNvEpU26FqBrqqJxa44",
+      "items": [
+        {
+          "id": "cms9dz06r00j73d7fbcv4nc8b",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9dz06s00j83d7fcxzqlhxa",
+              "paragraph": "<div data-editor-id=\"58a56467-f8de-4670-9c67-b69c5cb3f846\"><p>There are 2 questions in this self assessment quiz. Once you submit the answers to each quiz, please scroll down and click \"Continue\" to progress.&nbsp;You have unlimited attempts to complete this quiz.<br class=\"break-when-trailing\"><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. If you attempt to submit the quiz without selecting any of the answer options, you will be unable to move forward. &nbsp;</p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:19:39.353Z",
+          "updatedAt": "2026-07-31T20:19:39.353Z",
+          "globalBlockId": "0857cad7-33df-40d2-a53e-982e213399d8"
+        },
+        {
+          "id": "DmDybta8EgQ-sWXF1PksduKE0VORIXUp",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9co1ua00al3d79ygc2ikyt",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"d71cd4c8-39db-42f5-9fda-dc804e617b15\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>1. Before launching an engagement, what should you ask yourself first?</span></strong></span></span></p></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"74a2618f-ab0e-4adf-8464-1270c498059f\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Which AI platform has the best features</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"5decf27a-6b32-4ac6-8bb8-bb44d9713003\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Whether engagement will help you incorporate public perspectives and make better decisions</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"b3efa30c-215f-4b9b-b30a-a9e84fca1d5c\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>How many participants you can attract</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"592f6e63-b49c-49d1-a682-72b059f52bbd\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Whether similar engagements have been done before</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "9fecc287-2e26-4b38-9579-13883c070cc0"
+        },
+        {
+          "id": "cms9e44oz00mc3d7fmekhixoy",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9e44p000md3d7f4oh435ge",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "createdAt": "2026-07-31T20:23:38.761Z",
+          "updatedAt": "2026-07-31T20:23:38.761Z",
+          "globalBlockId": "2efa7622-be1d-45a7-a579-6a51a562968f"
+        },
+        {
+          "id": "cms9ef6tl003x3d79lw57m1yi",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "retryCount": -1,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "knowledgeCheckWidth": 76,
+            "markerColorContrast": "AUTO",
+            "requireCorrectAnswer": true,
+            "revealCorrectAnswers": false,
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "knowledgeCheck",
+          "items": [
+            {
+              "id": "cms9ef6tl003y3d79rd09gtjr",
+              "type": "MULTIPLE_CHOICE",
+              "title": "<div data-editor-id=\"417b5c3d-ffdd-4a34-9561-316d1345cd05\"><ol start=\"2\"><li><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><strong><span>According to the video, the planning process is:</span></strong></span></span></p></li></ol></div>",
+              "answers": [
+                {
+                  "id": "cms9co1ua00am3d79r170f6o0",
+                  "title": "<div data-editor-id=\"4594687d-58dd-4622-97d9-72745850811b\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Linear — each step should be completed before moving to the next</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00an3d79ln9h1mb6",
+                  "title": "<div data-editor-id=\"fcd4e4d5-acb7-407c-947f-7d0c461f0894\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Iterative — you may need to revisit earlier choices as you go</span></span></span></p></div>",
+                  "correct": true
+                },
+                {
+                  "id": "cms9co1ua00ao3d796zrxem7x",
+                  "title": "<div data-editor-id=\"6bde252a-a998-46ca-8b6c-93c00359d5f2\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Optional — experienced practitioners can skip most steps</span></span></span></p></div>",
+                  "correct": false
+                },
+                {
+                  "id": "cms9co1ua00ap3d79ifbqx3h8",
+                  "title": "<div data-editor-id=\"9929565e-04e3-4062-93d6-6eb39b326e48\"><p><span style=\"font-size: 1.5rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><span>Fixed — the framework should not be adapted to local context</span></span></span></p></div>",
+                  "correct": false
+                }
+              ],
+              "feedback": ""
+            }
+          ],
+          "family": "knowledgeCheck",
+          "variant": "multiple choice",
+          "createdAt": "2026-07-31T19:43:08.781Z",
+          "updatedAt": "2026-07-31T19:43:08.781Z",
+          "globalBlockId": "f9f64199-dc33-467b-8276-0f1679bd02af"
+        },
+        {
+          "id": "cms9eia8y003i3d7970myc0c7",
+          "settings": {
+            "v": 2,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "divider",
+          "items": [
+            {
+              "id": "cms9eia8y003j3d797ry3xy5s",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "globalBlockId": "8f9a6183-1bbf-41f2-9320-5f39c6ea53f2"
+        }
+      ],
+      "settings": {},
+      "title": "Self Assessment",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "pP-ibShY_MsqIsn-sfc_Phouh-Qf3H1E",
+      "createdAt": "2026-08-01T16:33:09.606Z",
+      "deleted": false,
+      "duplicatedFromId": "VeUmVIOpWU-xeJ2YYsoU9TjnDvUy70Kn",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-02T20:52:50.727Z"
+    },
+    {
+      "description": "",
+      "id": "v5CdB7X85s2z53ejugYQCqtJGdFzq3Ya",
+      "items": [
+        {
+          "id": "cms9eil7d003r3d79erpy8zv1",
+          "settings": {
+            "v": 2,
+            "textWidth": 76,
+            "paddingTop": 0,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "text",
+          "items": [
+            {
+              "id": "cms9eil7e003x3d79cxkwtmoe",
+              "heading": "<div data-editor-id=\"a74e536b-a6c5-4c5a-bfa4-d6b58c55664a\"></div>",
+              "paragraph": "<div data-editor-id=\"cf413c80-caea-4a84-a53c-11eef683c277\"><p style=\"text-align: center\"><span style=\"color: rgb(18, 77, 143); text-decoration: inherit\" data-color-scope=\"inner\"><strong>Great job! You've completed Video 2 of this course!</strong></span></p><p style=\"text-align: center\">Scroll down and click the \"Next Video\" button to proceed to <em>Video 3. Defining Goals for Engagement and Action.</em></p></div>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "createdAt": "2026-07-31T20:34:53.044Z",
+          "updatedAt": "2026-07-31T20:34:53.044Z",
+          "globalBlockId": "3bbc02a9-5bce-4db0-84cc-055baf21e70e"
+        }
+      ],
+      "settings": {},
+      "title": "Video Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "pP-ibShY_MsqIsn-sfc_Phouh-Qf3H1E",
+      "createdAt": "2026-08-01T16:33:13.516Z",
+      "deleted": false,
+      "duplicatedFromId": "DFU8PcJAe5hVSskXVhgdzOy0NI3HdUGr",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 2,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-08-01T20:47:55.821Z"
+    }
+  ],
+  "title": "Video 2: A Checklist for Planning Your Engagement ",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "pP-ibShY_MsqIsn-sfc_Phouh-Qf3H1E_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 66,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Video 2: A Checklist for Planning Your Engagement ",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "gskKoqEnf8AA69VZdXr18VvWyS_rGDfS",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "pP-ibShY_MsqIsn-sfc_Phouh-Qf3H1E",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "lZxdvjeUgPLb__PMdmq0ExGLRHEroz1t",
+  "copyOf": "f2ySjgLZ_B506nZo0OsVoOrXBoPMyE0i",
+  "order": "1785773195768",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-26T17:38:39.288Z",
+  "updatedAt": "2026-08-03T16:06:35.768Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": false,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": false,
+    "showStartButton": true,
+    "lessonHeaderSize": "SMALL",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/6_tech.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-03T16:06:36.428Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      },
+      "REVIEW": {
+        "published_at": "2026-08-01T20:09:14.691Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {
+    "aiTutorEnabled": false
+  },
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-08-02T20:52:50.727Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-03T16:06:36.428Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

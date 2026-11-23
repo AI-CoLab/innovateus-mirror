@@ -1,0 +1,633 @@
+{
+  "id": "31bJ1_7wMqW3Ks5mIt4e-v3Lahf_6rOb",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "title": "Module 1: Understanding AI ",
+  "sharePassword": "",
+  "description": "<p>This module introduces the course &quot;Responsible AI for Public Sector Professionals: Scaling AI in your organization&quot; and provides an overview of the key topics covered, including different AI approaches, selecting impactful projects, ensuring data quality, developing AI talent, and navigating ethical considerations and risk management practices. The module emphasizes the potential of AI to revolutionize public sector operations and the importance of government leaders making informed decisions about AI implementation while maintaining public trust.</p>",
+  "shareId": "YVJdy4-dPxk7WuS0U475gv_UjNaohRcl",
+  "copyOf": "",
+  "order": "1727111192327",
+  "fonts": null,
+  "media": {},
+  "coverImage": {
+    "media": {
+      "image": {
+        "key": "rise/courses/31bJ1_7wMqW3Ks5mIt4e-v3Lahf_6rOb/KUhhgR7m_4MUA1Ul-DALL%25C2%25B7E%25202024-08-10%252015.36.16%2520-%2520A%2520simple%2520abstract%2520art%2520piece%2520with%2520a%2520color%2520theme%2520focusing%2520on%2520dark%2520blue%2520and%2520white%252C%2520with%2520more%2520curved%2520and%2520flowing%2520lines.%2520The%2520composition%2520should%2520feature%2520a%2520b%2520copy.jpg",
+        "crushedKey": "LXcQUd8KzGPptYV8.jpg",
+        "originalUrl": "DALL·E 2024-08-10 15.36.16 - A simple abstract art piece with a color theme focusing on dark blue and white, with more curved and flowing lines. The composition should feature a b copy.jpg",
+        "sourcedFrom": "USER",
+        "useCrushedKey": true,
+        "src": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/10_hospitality.jpg"
+      }
+    }
+  },
+  "lessons": [
+    {
+      "id": "QE66C1wSLXWgfrDlN0zoAtyudfzp5A9Y",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "31bJ1_7wMqW3Ks5mIt4e-v3Lahf_6rOb",
+      "title": "Welcome!",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0zl1h8x0036356ufuy1rlup",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0zl1h8y003c356utta3q4ku",
+              "heading": "<p><strong>Module 1: Understanding AI </strong></p>",
+              "paragraph": "<p>This module introduces the course \"Responsible AI for Public Sector Professionals: Scaling AI in your organization\" and provides an overview of the key topics covered, including different AI approaches, selecting impactful projects, ensuring data quality, developing AI talent, and navigating ethical considerations and risk management practices. The module emphasizes the potential of AI to revolutionize public sector operations and the importance of government leaders making informed decisions about AI implementation while maintaining public trust.<br class=\"break-when-trailing\"><br class=\"break-when-trailing\">After each video ends, a continue button appears below the video player. Click it to reveal the additional navigation and the InnovateUS website link containing readings and resources. Learners with screen readers can use the down arrow key to navigate through the video player’s controls and access the continue button. <strong><em>Another</em></strong> “continue” button will appear to move on to the Self-Assessments after each video.</p><ul><li><p><strong>Reminder:</strong> Consult with your organization’s policies before using any tool or platform. &nbsp;</p></li><li><p><strong>Disclaimer</strong>: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</p></li></ul>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0zl2a7j004s356um6fykvti",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0zl2a7k004t356ulo3a1fha",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "Lmiq5jrNJq697Cwk2e61J5jbEGx72BHT",
+      "deleted": false,
+      "createdAt": "2024-09-12T17:46:59.213Z",
+      "updatedAt": "2024-09-12T17:48:26.299Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "Lmiq5jrNJq697Cwk2e61J5jbEGx72BHT",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "31bJ1_7wMqW3Ks5mIt4e-v3Lahf_6rOb",
+      "title": "Video 1.1: Course Overview",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clzub4rjl00283b6enxyu4uif",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzub4rjm00293b6e5sjdocuq",
+              "type": "link",
+              "label": "Start Survey!",
+              "description": "<p><strong>Pre-Course Survey</strong></p><p>Before you begin the course, we want to get to know you better. Please click the &quot;start survey&quot; button. It will take no longer than 5 minutes to complete!</p>",
+              "destination": "https://neu.co1.qualtrics.com/jfe/form/SV_4Jxbm0Vu39vjEbA"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzub5c48002p3b6ewe92h4u1",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzub5c4b002q3b6e2ua4c917",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrhpjvp00023b7cymqi0cfc",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrhpjvq00083b7cz0zh03aj",
+              "heading": "",
+              "paragraph": "<p>This video introduces the course &quot;Responsible AI for Public Sector Professionals: Scaling AI in your organization&quot; and highlights the potential of AI to revolutionize public sector operations. The course aims to equip government leaders with the knowledge and strategies needed to make informed decisions about AI implementation while maintaining public trust. Participants will learn about different AI approaches, selecting impactful projects, ensuring data quality, developing AI talent, and navigating ethical considerations and risk management practices.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzms1nk5000s3b6ecrhkp2ez",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzms1nk6000t3b6eryons40h",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%201.1%20v2.2.mp4",
+                  "url": "transcoded-fyWDzWuvbe8vyz_8-2425GovLabAIP2%25201.1%2520v2.2.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%201.1%20v2.2.jpg",
+                  "captions": [
+                    {
+                      "id": "cm0fd1q1300363b6e06dfmrgy",
+                      "key": "2425GovLabAIP2%201.1%20v2.2.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 1.1 v2.2.mp4.vtt"
+                    }
+                  ],
+                  "duration": 205,
+                  "inputKey": "rise/courses/31bJ1_7wMqW3Ks5mIt4e-v3Lahf_6rOb/fyWDzWuvbe8vyz_8-2425GovLabAIP2%201.1%20v2.2.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/31bJ1_7wMqW3Ks5mIt4e-v3Lahf_6rOb/transcoded-fyWDzWuvbe8vyz_8-2425GovLabAIP2%25201.1%2520v2.2.0000000.jpg",
+                  "captionUID": "cm0fd1qzi00373b6ew3av88iq",
+                  "originalUrl": "2425GovLabAIP2 1.1 v2.2.mp4",
+                  "transcodeId": "1723218818032-hducpz"
+                }
+              },
+              "caption": "<p>Video 1.1: Course Overview</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu4z8vj00ft3b6e912apvar",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu4z8vk00fu3b6e75687ns1",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clztzjte1001y3b6eseinirrn",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clztzjte2001z3b6e4j06zcq0",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0v3sef10035356u4a3al9vx",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0v3sef10036356uchcztxbb",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T16:25:30.164Z",
+      "updatedAt": "2024-09-09T14:33:46.493Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 0,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "IDCA_XYlvK_dDDzzXjuB65gMEy30-nJl",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "31bJ1_7wMqW3Ks5mIt4e-v3Lahf_6rOb",
+      "title": "Next Up: Module 2: Overview of AI approaches",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0zl3tpw0067356uvuswwel1",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cm0zl3tpx0068356u788fvsyl",
+              "type": "exit-course",
+              "label": "exit module",
+              "description": "<p><span style=\"font-size: 1.7rem\"><strong>Next Up! Module 2: Overview of AI approaches</strong></span></p><p><span style=\"font-size: 1.6rem\">In the next module we focus on </span>a comprehensive introduction to artificial intelligence (AI), machine learning, and generative AI<span style=\"font-size: 1.6rem\">. </span>Click \"Exit module\" to proceed.</p>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "QE66C1wSLXWgfrDlN0zoAtyudfzp5A9Y",
+      "deleted": false,
+      "createdAt": "2024-09-12T17:48:49.254Z",
+      "updatedAt": "2024-09-12T17:50:45.357Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2024-07-18T16:14:50.049Z",
+  "updatedAt": "2024-09-23T17:06:32.327Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 1: Understanding AI ",
+    "format": "zip",
+    "quizId": null,
+    "target": "scorm12",
+    "shareId": "YVJdy4-dPxk7WuS0U475gv_UjNaohRcl",
+    "activeLMS": 0,
+    "reporting": "completed-incomplete",
+    "exportType": "lms",
+    "identifier": "31bJ1_7wMqW3Ks5mIt4e-v3Lahf_6rOb_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "quizComplete": false,
+    "activeEdition": 0,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": true,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "completionPercentage": 100
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "-MPEM2R_v3eTh0hQInNv-2WAwVwql-Pw",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": {},
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "SPLIT_LEFT_IMAGE",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/10_hospitality.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "locale": null,
+  "sourceCourseLocaleId": null,
+  "experiments": null,
+  "settings": {},
+  "features": {
+    "rise-a-11-y-img-gallery-carousel": true,
+    "rise-course-navigation": true,
+    "rise-img-dimensions": true,
+    "rise-img-zoom": true,
+    "rise-timed-quizzes": true
+  },
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "bodyTypeface": "DM Sans",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato",
+  "lmsOptions": {
+    "enableExitCourse": false,
+    "disableCoverPage": true
+  },
+  "mondrian": {}
+}

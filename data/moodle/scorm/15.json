@@ -1,0 +1,389 @@
+{
+  "description": "",
+  "lessons": [
+    {
+      "description": "",
+      "id": "UvtCHYyAkojMtiuIiPyOI-jucdFafd3d",
+      "items": [
+        {
+          "id": "cmiq8ntpp00pg3b6olpijt7yv",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "zoomOnClick": true,
+            "quotesInline": false,
+            "audioPosition": "bottom",
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmiq8ntpp00pj3b6ob3ywitxm",
+              "title": "Audio description transcript - Conclusion",
+              "description": "<div data-editor-id=\"cd0f8cda-927f-41ba-b00f-16d065f98a4c\"><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Responsible AI for Public Professionals: Understanding Risks and Building Resilience.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: Course Conclusion.</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: Ariana Escanlante, presenter, InnovateUS</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Congratulations on completing the Responsible AI for Public Professionals course!</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Title card: What we’ve covered.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">We began by demystifying GenAI — providing a clear understanding of what it is and how it can enhance our work in government. We then explored practical applications across ten key areas, from drafting and brainstorming to data analysis and coding. Through hands-on exercises, you mastered the art of prompt engineering.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Recognizing the importance of responsible AI use, we addressed risks — data privacy, hallucinations, and bias — and gave you practical strategies for managing them: continuous learning, critical evaluation, human oversight, transparency, and prioritizing low-risk uses.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">We also explored broader societal issues: copyright, deepfakes, astroturfing, and the implications of private ownership.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Our ultimate goal is to place humanity at the heart of technological advancement — AI on tap, not on top — ensuring that AI helps our public sector workers and strengthens our communities.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">What's next in your journey?</span></span></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Image appears: a screenshot of the InnovateUS webpage with the link <a rel=\"noopener noreferrer nofollow\" target=\"_blank\" href=\"http://innovate-us.org/ai-resources\">innovate-us.org/ai-resources</a>.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Visit the InnovateUS homepage to explore more courses and live workshops, learn alongside peers from across the country and around the world, and build a learning pathway tailored to your role and the challenges you're actually working on. Tell us what you want to learn next — this field is moving fast, and so are we.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Every major technology shift rewards the professionals who stay curious, ask hard questions, and keep their values at the center of their work. That's exactly what this course has been preparing you to do. GenAI is a force multiplier for people who think critically and care about their work — and that's you.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\">Thank you for your dedication to public service. The residents you serve are lucky to have professionals who take both the opportunity and the responsibility seriously.</span></span></p><p style=\"line-height: 1.38\"></p><p style=\"line-height: 1.38\"><span style=\"font-size: 1.6rem\"><span style=\"color: rgb(0, 0, 0); text-decoration: inherit\" data-color-scope=\"outer\"><em>[Visual description]: </em>Text appears: The InnovateUS Logo.</span></span></p></div>"
+            }
+          ],
+          "family": "interactive",
+          "variant": "accordion",
+          "background": {},
+          "globalBlockId": "2878a0aa-d61b-4fe3-b1f7-6b6d706eb82f"
+        },
+        {
+          "id": "w9p7JEcZtEzGMH9lQ4lXlFgiTwdvOEEs",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "multimedia",
+          "data": {},
+          "items": [
+            {
+              "id": "clwyxyw9a00043b6chl379a7m",
+              "media": {
+                "video": {
+                  "key": "2408GovLabAI%202026%20Video%2021.mp4",
+                  "url": "transcoded-9WqbRgTYz3-FNf72.mp4",
+                  "type": "video",
+                  "poster": "2408GovLabAI%202026%20Video%2021.jpg",
+                  "captions": [
+                    {
+                      "id": "cmpx6sg5k003d3b7jcy7cjywf",
+                      "key": "Video%2021%20-%207.1%20-%20V3.1%20QCd.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "Video 21 - 7.1 - V3.1 QCd.vtt"
+                    }
+                  ],
+                  "duration": 154,
+                  "inputKey": "rise/courses/BlRjSkNOd-1UsKJ6kZePMh1vx4bcXFbJ/9WqbRgTYz3-FNf72.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/BlRjSkNOd-1UsKJ6kZePMh1vx4bcXFbJ/transcoded-9WqbRgTYz3-FNf72.0000000.jpg",
+                  "captionUID": "cmpx6sgco003e3b7je2igs8tl",
+                  "originalUrl": "2408GovLabAI 2026 Video 21 - 7.1 V3.1.mp4",
+                  "transcodeId": "1780435671674-5q0eqo"
+                }
+              },
+              "caption": "<div data-editor-id=\"6facc028-a914-4d11-8fe4-9f46d97ea8d1\"><p>Video 3: Conclusion</p></div>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "background": {},
+          "globalBlockId": "5f4ba55c-da5a-4f16-bd76-7eb42c2f09c6"
+        },
+        {
+          "id": "clx929ibc006l3b6c4ageb977",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "data": {},
+          "items": [
+            {
+              "id": "clx929ibc006m3b6cjre698ba",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course at innovate-us.org/ai-resources</p>",
+              "destination": "https://innovate-us.org/ai-resources"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "background": {},
+          "globalBlockId": "da173e7c-f24b-4a31-9312-89c84695876f"
+        },
+        {
+          "id": "cmawkdq66012r3b6lcfce73sn",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmawkdq67012s3b6l9006sa3c",
+              "type": "exit-course",
+              "label": "Exit Course",
+              "description": "<div data-editor-id=\"5ae374ba-6db6-4d97-88e9-6572a52ec610\"><p><strong>Course Complete!</strong></p><p>Congratulations on completing the course. Click \"Exit Course\" to return to course dashboard.</p></div>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "background": {},
+          "globalBlockId": "60da9219-655a-4901-97f6-8d60f6e25e87"
+        }
+      ],
+      "settings": {},
+      "title": "Course Conclusion",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "BlRjSkNOd-1UsKJ6kZePMh1vx4bcXFbJ",
+      "createdAt": "2026-07-24T21:23:21.426Z",
+      "deleted": false,
+      "duplicatedFromId": "iO3K1c8U4Up5fTFWkmTgtORXQSYpzRa6",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": null,
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 4,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:23:21.426Z"
+    },
+    {
+      "description": "",
+      "id": "fsXJ8K-StJYRRugyxfvImMKbt5gqKjwv",
+      "items": [
+        {
+          "id": "cmrtjycck004o3d7bgpu8s21w",
+          "settings": {
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO"
+          },
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cmrtjycck004p3d7bwfnks94f",
+              "type": "exit-course",
+              "label": "Exit",
+              "description": "<div data-editor-id=\"c42f925c-eef0-4bdc-b7f3-4aa849e042c5\"><p><strong>You completed Module 7 of this course.&nbsp;<br class=\"break-when-trailing\">Click \"Exit\" to return to the course navigation.</strong></p></div>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "globalBlockId": "8a2f3968-1aa9-471a-86ca-599d586abab6"
+        }
+      ],
+      "settings": {},
+      "title": "Module Complete!",
+      "type": "blocks",
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "courseId": "BlRjSkNOd-1UsKJ6kZePMh1vx4bcXFbJ",
+      "createdAt": "2026-07-24T21:23:21.426Z",
+      "deleted": false,
+      "duplicatedFromId": "0zzsJnF19tniwUt85NG-vs7QjZiznqyZ",
+      "experiments": null,
+      "headerImage": {},
+      "icon": "Article",
+      "isPartnerContentAuthor": null,
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "media": {},
+      "metadata": null,
+      "originalId": null,
+      "piles": [],
+      "position": 1,
+      "ready": true,
+      "selectedAuthorId": "none",
+      "transferredAt": null,
+      "updatedAt": "2026-07-24T21:38:50.526Z"
+    }
+  ],
+  "title": "Module 7: Conclusion",
+  "exportSettings": {
+    "completeWith": "reporting",
+    "identifier": "BlRjSkNOd-1UsKJ6kZePMh1vx4bcXFbJ_rise",
+    "resetLearnerData": true,
+    "quizId": null,
+    "storylineId": null,
+    "completionPercentage": 100,
+    "reporting": "passed-incomplete",
+    "updateResumeData": true,
+    "hideLmsUi": false,
+    "title": "Module 7: Conclusion",
+    "format": "zip",
+    "target": "scorm12",
+    "locales": [],
+    "shareId": "-uwsIZSEGpyuv138HBdx09eZpOTGxxc1",
+    "activeLMS": 0,
+    "exportType": "lms",
+    "targetName": "SCORM 1.2",
+    "isTranslated": false,
+    "quizComplete": false,
+    "activeEdition": 0,
+    "loadOnlyInLMS": true,
+    "isRemotePackage": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "storylineComplete": false,
+    "localesPackageType": "single",
+    "notifyLearnersOfUpdates": false,
+    "translationModelVersion": null,
+    "enableTelemetryCollection": false
+  },
+  "lmsOptions": {
+    "enableTelemetryCollection": false,
+    "disableCoverPage": true,
+    "enableExitCourse": false
+  },
+  "id": "BlRjSkNOd-1UsKJ6kZePMh1vx4bcXFbJ",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124c8e",
+  "navigationMode": "",
+  "sharePassword": "",
+  "shareId": "hOWeTHUMO4EdX0vRk8A9OoR2tKkgyjuJ",
+  "copyOf": "G9rVUxuY5oFvGm__Q9VERdVkPbjRfx9t",
+  "order": "1787673261067",
+  "fonts": null,
+  "media": {},
+  "coverImage": null,
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2026-07-24T21:23:20.352Z",
+  "updatedAt": "2026-08-25T15:54:21.067Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": null,
+  "theme": {
+    "themeId": "classic",
+    "coverImage": "",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124c8e",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "CENTERED",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://cdn.articulate.com/assets/rise/assets/themes/classic/cover-image/22_creative.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderImage": "",
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": true,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "experiments": {
+    "publishes": {
+      "LMS": {
+        "published_at": "2026-08-25T15:54:21.921Z",
+        "published_by": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609"
+      }
+    }
+  },
+  "settings": {},
+  "defaultLocaleId": null,
+  "metadata": {
+    "createdVia": "duplicate"
+  },
+  "blockBackgroundImage": {},
+  "otherTypefaceIds": null,
+  "contentUpdatedAt": "2026-07-24T21:38:50.526Z",
+  "authorType": "standard",
+  "lastPublishedAt": "2026-08-25T15:54:21.921Z",
+  "localizationMetadata": {},
+  "features": {
+    "rise-rte-fonts": true,
+    "ai-learner-chatbot": true,
+    "rise-audio-release": true,
+    "rise-course-navigation": true,
+    "rise-process-accessibility": true,
+    "rise-matching-accessibility": true,
+    "rise-block-controls-phase-four": true
+  },
+  "aiTutorConfig": null,
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "avatar": "",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "aiLearnerCourseApiKey": null,
+  "mondrian": {},
+  "bodyTypeface": "Merriweather",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato"
+}

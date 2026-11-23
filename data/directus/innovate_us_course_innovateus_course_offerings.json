@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "innovate_us_course_id": 1,
+    "innovateus_course_offerings_id": 10
+  },
+  {
+    "id": 2,
+    "innovate_us_course_id": 1,
+    "innovateus_course_offerings_id": 11
+  },
+  {
+    "id": 3,
+    "innovate_us_course_id": 1,
+    "innovateus_course_offerings_id": 12
+  },
+  {
+    "id": 4,
+    "innovate_us_course_id": 1,
+    "innovateus_course_offerings_id": 13
+  },
+  {
+    "id": 5,
+    "innovate_us_course_id": 1,
+    "innovateus_course_offerings_id": 14
+  },
+  {
+    "id": 6,
+    "innovate_us_course_id": 1,
+    "innovateus_course_offerings_id": 15
+  },
+  {
+    "id": 7,
+    "innovate_us_course_id": 1,
+    "innovateus_course_offerings_id": 16
+  },
+  {
+    "id": 8,
+    "innovate_us_course_id": 1,
+    "innovateus_course_offerings_id": 17
+  },
+  {
+    "id": 9,
+    "innovate_us_course_id": 2,
+    "innovateus_course_offerings_id": 18
+  },
+  {
+    "id": 10,
+    "innovate_us_course_id": 2,
+    "innovateus_course_offerings_id": 19
+  },
+  {
+    "id": 11,
+    "innovate_us_course_id": 2,
+    "innovateus_course_offerings_id": 20
+  },
+  {
+    "id": 12,
+    "innovate_us_course_id": 2,
+    "innovateus_course_offerings_id": 21
+  },
+  {
+    "id": 13,
+    "innovate_us_course_id": 2,
+    "innovateus_course_offerings_id": 22
+  },
+  {
+    "id": 14,
+    "innovate_us_course_id": 2,
+    "innovateus_course_offerings_id": 23
+  },
+  {
+    "id": 15,
+    "innovate_us_course_id": 3,
+    "innovateus_course_offerings_id": 7
+  },
+  {
+    "id": 16,
+    "innovate_us_course_id": 3,
+    "innovateus_course_offerings_id": 8
+  },
+  {
+    "id": 17,
+    "innovate_us_course_id": 3,
+    "innovateus_course_offerings_id": 14
+  },
+  {
+    "id": 18,
+    "innovate_us_course_id": 3,
+    "innovateus_course_offerings_id": 24
+  },
+  {
+    "id": 19,
+    "innovate_us_course_id": 3,
+    "innovateus_course_offerings_id": 25
+  },
+  {
+    "id": 20,
+    "innovate_us_course_id": 4,
+    "innovateus_course_offerings_id": 6
+  },
+  {
+    "id": 21,
+    "innovate_us_course_id": 4,
+    "innovateus_course_offerings_id": 16
+  },
+  {
+    "id": 22,
+    "innovate_us_course_id": 4,
+    "innovateus_course_offerings_id": 7
+  },
+  {
+    "id": 23,
+    "innovate_us_course_id": 4,
+    "innovateus_course_offerings_id": 24
+  },
+  {
+    "id": 24,
+    "innovate_us_course_id": 4,
+    "innovateus_course_offerings_id": 25
+  },
+  {
+    "id": 25,
+    "innovate_us_course_id": 3,
+    "innovateus_course_offerings_id": 26
+  },
+  {
+    "id": 26,
+    "innovate_us_course_id": 3,
+    "innovateus_course_offerings_id": 27
+  },
+  {
+    "id": 27,
+    "innovate_us_course_id": 5,
+    "innovateus_course_offerings_id": 7
+  },
+  {
+    "id": 28,
+    "innovate_us_course_id": 5,
+    "innovateus_course_offerings_id": 8
+  },
+  {
+    "id": 29,
+    "innovate_us_course_id": 5,
+    "innovateus_course_offerings_id": 6
+  },
+  {
+    "id": 30,
+    "innovate_us_course_id": 5,
+    "innovateus_course_offerings_id": 24
+  },
+  {
+    "id": 31,
+    "innovate_us_course_id": 5,
+    "innovateus_course_offerings_id": 22
+  },
+  {
+    "id": 32,
+    "innovate_us_course_id": 4,
+    "innovateus_course_offerings_id": 26
+  },
+  {
+    "id": 33,
+    "innovate_us_course_id": 3,
+    "innovateus_course_offerings_id": 28
+  },
+  {
+    "id": 34,
+    "innovate_us_course_id": 6,
+    "innovateus_course_offerings_id": 8
+  },
+  {
+    "id": 35,
+    "innovate_us_course_id": 6,
+    "innovateus_course_offerings_id": 12
+  },
+  {
+    "id": 36,
+    "innovate_us_course_id": 6,
+    "innovateus_course_offerings_id": 22
+  },
+  {
+    "id": 37,
+    "innovate_us_course_id": 6,
+    "innovateus_course_offerings_id": 17
+  },
+  {
+    "id": 38,
+    "innovate_us_course_id": 7,
+    "innovateus_course_offerings_id": 8
+  },
+  {
+    "id": 39,
+    "innovate_us_course_id": 7,
+    "innovateus_course_offerings_id": 23
+  },
+  {
+    "id": 40,
+    "innovate_us_course_id": 7,
+    "innovateus_course_offerings_id": 19
+  },
+  {
+    "id": 41,
+    "innovate_us_course_id": 7,
+    "innovateus_course_offerings_id": 29
+  },
+  {
+    "id": 42,
+    "innovate_us_course_id": 7,
+    "innovateus_course_offerings_id": 30
+  },
+  {
+    "id": 43,
+    "innovate_us_course_id": 8,
+    "innovateus_course_offerings_id": 8
+  },
+  {
+    "id": 44,
+    "innovate_us_course_id": 8,
+    "innovateus_course_offerings_id": 15
+  },
+  {
+    "id": 45,
+    "innovate_us_course_id": 8,
+    "innovateus_course_offerings_id": 14
+  },
+  {
+    "id": 46,
+    "innovate_us_course_id": 8,
+    "innovateus_course_offerings_id": 22
+  },
+  {
+    "id": 47,
+    "innovate_us_course_id": 8,
+    "innovateus_course_offerings_id": 25
+  },
+  {
+    "id": 48,
+    "innovate_us_course_id": 9,
+    "innovateus_course_offerings_id": 8
+  },
+  {
+    "id": 49,
+    "innovate_us_course_id": 9,
+    "innovateus_course_offerings_id": 14
+  },
+  {
+    "id": 50,
+    "innovate_us_course_id": 9,
+    "innovateus_course_offerings_id": 15
+  },
+  {
+    "id": 51,
+    "innovate_us_course_id": 10,
+    "innovateus_course_offerings_id": 8
+  },
+  {
+    "id": 52,
+    "innovate_us_course_id": 10,
+    "innovateus_course_offerings_id": 14
+  },
+  {
+    "id": 53,
+    "innovate_us_course_id": 10,
+    "innovateus_course_offerings_id": 6
+  },
+  {
+    "id": 81,
+    "innovate_us_course_id": 43,
+    "innovateus_course_offerings_id": 8
+  },
+  {
+    "id": 82,
+    "innovate_us_course_id": 43,
+    "innovateus_course_offerings_id": 14
+  },
+  {
+    "id": 83,
+    "innovate_us_course_id": 43,
+    "innovateus_course_offerings_id": 15
+  }
+]

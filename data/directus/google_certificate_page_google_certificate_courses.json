@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "google_certificate_courses_id": 1,
+    "google_certificate_page_id": 1
+  },
+  {
+    "id": 2,
+    "google_certificate_courses_id": 2,
+    "google_certificate_page_id": 1
+  },
+  {
+    "id": 3,
+    "google_certificate_courses_id": 3,
+    "google_certificate_page_id": 1
+  },
+  {
+    "id": 4,
+    "google_certificate_courses_id": 4,
+    "google_certificate_page_id": 1
+  },
+  {
+    "id": 5,
+    "google_certificate_courses_id": 5,
+    "google_certificate_page_id": 1
+  },
+  {
+    "id": 6,
+    "google_certificate_courses_id": 6,
+    "google_certificate_page_id": 1
+  }
+]

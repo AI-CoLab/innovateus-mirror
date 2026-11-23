@@ -1,0 +1,10 @@
+{
+  "id": "innovateus",
+  "name": "InnovateUS",
+  "home": "https://innovate-us.org",
+  "licence": {
+    "spdx": "CC-BY-SA-4.0",
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "attribution": "InnovateUS, at the Burnes Center for Social Change, Northeastern University"
+}

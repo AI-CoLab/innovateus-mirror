@@ -1,0 +1,1792 @@
+{
+  "id": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+  "originalId": null,
+  "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+  "selectedAuthorId": "none",
+  "color": "#124d8f",
+  "navigationMode": "",
+  "title": "Module 4: AI Foundations: Data Quality",
+  "sharePassword": "",
+  "description": "<p>This module emphasizes the critical role of data quality in AI projects, explaining why it is especially impactful for AI systems. It defines data quality in the public sector and discusses the impact of data quality issues on AI projects. The module also explores the common causes of data quality issues in public sector organizations and provides practical steps for improving data quality for responsible and ethical AI deployment.</p>",
+  "shareId": "6Y3UTi_iaG50HZ-bxvTFLXZ0HGkTS1il",
+  "copyOf": "",
+  "order": "1727120980590",
+  "fonts": null,
+  "media": {},
+  "coverImage": {
+    "media": {
+      "image": {
+        "key": "rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/Cy8b1dXyNBYXbFWm-DALL%25C2%25B7E%25202024-08-10%252015.36.16%2520-%2520A%2520simple%2520abstract%2520art%2520piece%2520with%2520a%2520color%2520theme%2520focusing%2520on%2520dark%2520blue%2520and%2520white%252C%2520with%2520more%2520curved%2520and%2520flowing%2520lines.%2520The%2520composition%2520should%2520feature%2520a%2520b%2520copy.jpg",
+        "crushedKey": "hipIINK7P8uRaJpu.jpg",
+        "originalUrl": "DALL·E 2024-08-10 15.36.16 - A simple abstract art piece with a color theme focusing on dark blue and white, with more curved and flowing lines. The composition should feature a b copy.jpg",
+        "sourcedFrom": "USER",
+        "useCrushedKey": true,
+        "src": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/32_nature.jpg"
+      }
+    }
+  },
+  "lessons": [
+    {
+      "id": "ofrJyGMX0nvR9HlcvN91DZxq1NnUyzNI",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Welcome Back!",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0r67eiz00xr356u9ev6t5ep",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "cm0r67ej000xx356uuwuqsa21",
+              "heading": "<p><strong>Module 4: AI Foundations: Data Quality</strong></p>",
+              "paragraph": "<p>This module emphasizes the critical role of data quality in AI projects, explaining why it is especially impactful for AI systems. It defines data quality in the public sector and discusses the impact of data quality issues on AI projects. The module also explores the common causes of data quality issues in public sector organizations and provides practical steps for improving data quality for responsible and ethical AI deployment.</p><p>After each video ends, a continue button appears below the video player. Click it to reveal the additional navigation and the InnovateUS website link containing readings and resources. Learners with screen readers can use the down arrow key to navigate through the video player’s controls and access the continue button. <strong><em>Another</em></strong> “continue” button will appear to move on to the Self-Assessments after each video. </p><ul><li><p><strong>Reminder:</strong> Consult with your organization’s policies before using any tool or platform. &nbsp;</p></li><li><p><strong>Disclaimer</strong>: The commercial tools mentioned in this course are for illustrative purposes and do not imply endorsement by InnovateUS.</p></li></ul>"
+            }
+          ],
+          "family": "text",
+          "variant": "heading paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r68tw800zt356uix0bs1dj",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r68tw900zu356ugith6xsi",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "E0pGMzbUxqeyBByfMSMNo-2UN4vq0Mfl",
+      "deleted": false,
+      "createdAt": "2024-09-06T20:22:46.294Z",
+      "updatedAt": "2024-09-06T20:46:16.269Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "E0pGMzbUxqeyBByfMSMNo-2UN4vq0Mfl",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Video 4.1: Six dimensions of data quality",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrl3yhf00033b7bhh9zegm6",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrl3yhg00093b7b09xtm4jz",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video introduces the critical role of data quality in AI projects, emphasizing that data is the fuel that powers AI models. It defines data quality in the public sector and explains why it is especially impactful for AI projects. The video also discusses the importance of having a realistic and specific understanding of data quality based on the six established dimensions: accuracy, consistency, completeness, uniqueness, timeliness, and validity.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrl47y7000q3b7bhudawur6",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrl47ye000r3b7bulg0pjq1",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzoh1bny000s3b6e11yoaw8g",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoh1bnz000t3b6en1964rwx",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%204.1%20v3.1.mp4",
+                  "url": "transcoded-f4fDFyInMS1MT3KY-2425GovLabAIP2%25204.1%2520v3.1.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%204.1%20v3.1.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj33ny00153b6ef0c6xqod",
+                      "key": "2425GovLabAIP2%204.1%20v3.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 4.1 v3.1.mp4.vtt"
+                    }
+                  ],
+                  "duration": 362,
+                  "inputKey": "rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/f4fDFyInMS1MT3KY-2425GovLabAIP2%204.1%20v3.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/transcoded-f4fDFyInMS1MT3KY-2425GovLabAIP2%25204.1%2520v3.1.0000000.jpg",
+                  "captionUID": "clzoj33w500163b6ewgi55rrw",
+                  "originalUrl": "2425GovLabAIP2 4.1 v3.1.mp4",
+                  "transcodeId": "1723314658517-2abona"
+                }
+              },
+              "caption": "<p>Video 4.1: Six dimensions of data quality</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6gjz2001v3b6e858ljsxl",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6gjz3001w3b6e0hfq8js8",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu06xrp001b3b6eqaxwradc",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu06xrr001c3b6effja0eqk",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r60pn8005d356ujzo4r0ft",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r60pn9005e356ubgc9fnww",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:07:54.831Z",
+      "updatedAt": "2024-09-06T20:25:08.465Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 0,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "r3q1t2tRO_TMOhhxy0ojmNYa4JQatS5t",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Self Assessment 4.1",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrl4o5200193b7bv1hqqssj",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>When considering an AI project, a department should:</p>",
+          "answers": [
+            {
+              "id": "clyrl4o52001a3b7b8xavlpi9",
+              "title": "<p>Assume their data is too messy or incomplete and not pursue the project</p>",
+              "correct": true,
+              "feedback": "<p>Departments should assess data fitness for the specific purpose before deciding not to pursue an AI project.</p>"
+            },
+            {
+              "id": "clyrl4o52001c3b7bh4w69yls",
+              "title": "<p>Assess the fitness of their data for the specific purpose of the AI project</p>",
+              "feedback": "<p>The correct answer is B. Departments should assess the fitness of their data for the specific purpose of the AI project before deciding whether to proceed.</p>"
+            },
+            {
+              "id": "clyrl4o52001d3b7bdorm1aws",
+              "title": "<p>Proceed with the AI project regardless of data quality concerns</p>",
+              "feedback": "<p>Proceeding without assessing data quality can lead to inaccurate AI outputs and unintended consequences.</p>"
+            },
+            {
+              "id": "clyrl4o52001b3b7bv5gkqdes",
+              "title": "<p>Wait until they have perfect data before considering any AI projects</p>",
+              "correct": true,
+              "feedback": "<p>Perfect data is not necessary; data should be assessed for fitness for the specific purpose.</p>"
+            }
+          ],
+          "correct": "clyrl4o52001c3b7bh4w69yls",
+          "corrects": [
+            "clyrl4o52001a3b7b8xavlpi9",
+            "clyrl4o52001b3b7bv5gkqdes"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:08:38.146Z",
+      "updatedAt": "2024-08-29T02:34:11.519Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "ZcWLlNzXN_lpqAwFKvmq0awXvjQA0NvK",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Video 4.2: Data Quality in AI",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrm8lhd003f3b7bthep7la7",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrm8lhd003l3b7beb8wtazo",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video explores the impact of data quality issues on AI projects, highlighting how poor data quality can lead to wasted staff hours and wrong conclusions. It explains how AI systems are more sensitive to data quality problems and can propagate the impact of those problems more widely and rapidly compared to non-AI projects. The video also discusses how AI can amplify existing biases in the data, leading to discriminatory outcomes, and emphasizes the importance of addressing data quality issues to ensure responsible and ethical AI deployment.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrm8xmx00423b7bhq9zwvxs",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrm8xmx00433b7b6i3wjmzk",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzoh4ofx001y3b6ejt0w1lde",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoh4ofy001z3b6e23zy3q35",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%204.2%20V2.2.mp4",
+                  "url": "transcoded-Z78OpFIoicWBCNR4-2425GovLabAIP2%25204.2%2520V2.2.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%204.2%20V2.2.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj3kih002g3b6ezsbycrkl",
+                      "key": "2425GovLabAIP2%204.2%20V2.2.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 4.2 V2.2.mp4.vtt"
+                    }
+                  ],
+                  "duration": 204,
+                  "inputKey": "rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/Z78OpFIoicWBCNR4-2425GovLabAIP2%204.2%20V2.2.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/transcoded-Z78OpFIoicWBCNR4-2425GovLabAIP2%25204.2%2520V2.2.0000000.jpg",
+                  "captionUID": "clzoj3kry002h3b6efm2emb7x",
+                  "originalUrl": "2425GovLabAIP2 4.2 V2.2.mp4",
+                  "transcodeId": "1723314815904-6j2g8d"
+                }
+              },
+              "caption": "<p>Video 4.2: Data Quality in AI</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6gz3p004b3b6e5gr9x9ws",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6gz3p004c3b6etxo2uqmt",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu07wyx003r3b6e7b80s2pg",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu07wyx003s3b6eonvnwi8k",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r611rq008i356uoim08bzc",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r611rq008j356uw0elrdi4",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:39:41.144Z",
+      "updatedAt": "2024-09-06T20:25:24.244Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 2,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "5z3Xy1OHZtzPcWuB4CovDMAntchcx3q2",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Self Assessment 4.2",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrm9dl7004l3b7bk2839ew0",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>Why is labeled data essential for supervised learning in machine learning-based AI models?</p>",
+          "answers": [
+            {
+              "id": "clyrm9dl7004m3b7bnyefns4v",
+              "title": "<p>Labeled data helps the model learn to make accurate predictions or decisions</p>",
+              "correct": true,
+              "feedback": "<p>Labeled data is essential for training machine learning-based AI models because it helps the model learn to make accurate predictions or decisions.</p>"
+            },
+            {
+              "id": "clyrm9dl7004o3b7bm5nfov0x",
+              "title": "<p>Labeled data is easier to collect than unlabeled data</p>",
+              "feedback": "<p>Labeled data is often more challenging to collect than unlabeled data, as it requires human annotation.</p>"
+            },
+            {
+              "id": "clyrm9dl7004p3b7bklcyssf0",
+              "title": "<p>Labeled data ensures the model&#39;s outputs are always unbiased</p>",
+              "feedback": "<p>While labeled data is important, it does not guarantee unbiased model outputs, as bias can still be present in the labels or the data itself.</p>"
+            },
+            {
+              "id": "clyrm9dl7004n3b7bbh9nizsk",
+              "title": "<p>Labeled data is required for all types of AI models</p>",
+              "correct": true,
+              "feedback": "<p>Labeled data is particularly important for machine learning-based AI models, but not all types of AI models require labeled data.</p>"
+            }
+          ],
+          "correct": "clyrm9dl7004m3b7bnyefns4v",
+          "corrects": [
+            "clyrm9dl7004m3b7bnyefns4v",
+            "clyrm9dl7004n3b7bbh9nizsk"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clyrmae78005a3b7bylmfcj5b",
+          "type": "MULTIPLE_RESPONSE",
+          "title": "<p>Which of the following are potential consequences of AI models amplifying biases in data? Select all that apply.</p>",
+          "answers": [
+            {
+              "id": "clyrm9dl7004m3b7bnyefns4v",
+              "title": "<p>Unfair treatment of individuals based on protected characteristic</p>",
+              "correct": true,
+              "feedback": ""
+            },
+            {
+              "id": "clyrm9dl7004o3b7bm5nfov0x",
+              "title": "<p>Perpetuation of historical inequities and discrimination</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrm9dl7004p3b7bklcyssf0",
+              "title": "<p>Reduction in AI model accuracy and reliability</p>",
+              "feedback": ""
+            },
+            {
+              "id": "clyrm9dl7004n3b7bbh9nizsk",
+              "title": "<p>Increased public trust in AI-based decision-making</p>",
+              "correct": true,
+              "feedback": ""
+            }
+          ],
+          "correct": "clyrm9dl7004m3b7bnyefns4v",
+          "corrects": [
+            "clyrm9dl7004m3b7bnyefns4v",
+            "clyrm9dl7004o3b7bm5nfov0x",
+            "clyrm9dl7004p3b7bklcyssf0"
+          ],
+          "feedback": "",
+          "feedbackType": "CORRECT_INCORRECT",
+          "feedbackCorrect": "<p>The correct answers are A, B, and C. AI models amplifying biases in data can lead to unfair treatment of individuals based on protected characteristics, perpetuation of historical inequities and discrimination, and reduction in AI model accuracy and reliability.</p>",
+          "feedbackIncorrect": "<p>It does not increase public trust in AI-based decision-making.</p>"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:40:19.286Z",
+      "updatedAt": "2024-08-29T02:34:20.826Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 3,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "R6rxYhhp0gxlcC7jMAm14sctKEkl8GXi",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Video 4.3: Four common causes",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrmceul005x3b7b31wmqcdx",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrmceum00633b7bh6b7bwgi",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video discusses four common causes of data quality issues in public sector organizations: poor validation due to outdated systems, lack of formal data governance programs, cultural factors, and lack of funding. It provides examples of how these factors can impact data quality and offers practical solutions, such as prioritizing data validation capabilities when procuring new systems, establishing formal data governance processes, bridging cultural divides between IT and program units, and dedicating sufficient funding and resources for data quality efforts.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrmcqwp006k3b7bavfm00bj",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrmcqwq006l3b7bdvfl3oct",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzoh6x5100343b6eo6yr2nms",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoh6x5100353b6ee76nrejz",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%204.3%20v2.1.mp4",
+                  "url": "transcoded-aABu-eodnjYPb7mm-2425GovLabAIP2%25204.3%2520v2.1.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%204.3%20v2.1.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj43bi003r3b6e4ztmxu91",
+                      "key": "2425GovLabAIP2%204.3%20v2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 4.3 v2.1.mp4.vtt"
+                    }
+                  ],
+                  "duration": 303,
+                  "inputKey": "rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/aABu-eodnjYPb7mm-2425GovLabAIP2%204.3%20v2.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/transcoded-aABu-eodnjYPb7mm-2425GovLabAIP2%25204.3%2520v2.1.0000000.jpg",
+                  "captionUID": "clzoj43ix003s3b6eqj16r89u",
+                  "originalUrl": "2425GovLabAIP2 4.3 v2.1.mp4",
+                  "transcodeId": "1723314911360-v72kf7"
+                }
+              },
+              "caption": "<p>Video 4.3: Four common causes</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6he9x006u3b6euib2aa3e",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6he9x006v3b6e436lkcfb",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0bxqq00673b6ewb19rm6d",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0bxqr00683b6ehequayvj",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r6397400pc356uzy3qwqlu",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r6397500pd356uxvtgonu6",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:42:39.071Z",
+      "updatedAt": "2024-09-06T20:27:07.147Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 4,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "XdypqiBWjR5FV9sruzsmR-G0zJKu7evt",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Self Assessment 4.3",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrme99f00733b7bh08879g5",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What role can a Chief Data Officer or Director of Data and Research play in AI projects?</p>",
+          "answers": [
+            {
+              "id": "clyrme99f00743b7bn0i2m9fk",
+              "title": "<p>Acting as a cultural bridge between IT and program units</p>",
+              "correct": true,
+              "feedback": "<p>A Chief Data Officer or Director of Data and Research can play a key role in AI projects by acting as a cultural bridge between IT and program units.</p>"
+            },
+            {
+              "id": "clyrme99f00763b7bwnly0lye",
+              "title": "<p>Ensuring that AI projects only focus on data-related issues</p>",
+              "feedback": "<p>AI projects should consider a wide range of factors beyond just data-related issues.</p>"
+            },
+            {
+              "id": "clyrme99f00773b7b45e5fv79",
+              "title": "<p>Replacing the need for IT involvement in AI projects</p>",
+              "feedback": "<p>IT involvement is still crucial for AI projects, even with a Chief Data Officer or Director of Data and Research.</p>"
+            },
+            {
+              "id": "clyrme99f00753b7bgakb00kf",
+              "title": "<p>Guaranteeing the success of all AI projects</p>",
+              "correct": true,
+              "feedback": "<p>While a Chief Data Officer or Director of Data and Research can help facilitate success, they cannot guarantee the success of all AI projects.</p>"
+            }
+          ],
+          "correct": "clyrme99f00743b7bn0i2m9fk",
+          "corrects": [
+            "clyrme99f00743b7bn0i2m9fk",
+            "clyrme99f00753b7bgakb00kf"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        },
+        {
+          "id": "clyrmfk63007s3b7b9hp9w3vx",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What should be done before starting or funding major AI projects?</p>",
+          "answers": [
+            {
+              "id": "clyrme99f00743b7bn0i2m9fk",
+              "title": "<p>Allocate parallel resources for ongoing data quality efforts</p>",
+              "correct": true,
+              "feedback": "<p>Before starting or funding major AI projects, parallel resources should be allocated for ongoing data quality efforts. </p>"
+            },
+            {
+              "id": "clyrme99f00763b7bwnly0lye",
+              "title": "<p>Ignore data quality considerations and focus solely on AI development</p>",
+              "feedback": "<p>Data quality considerations should be addressed in parallel with AI development, not ignored.</p>"
+            },
+            {
+              "id": "clyrme99f00773b7b45e5fv79",
+              "title": "<p>Postpone data governance efforts until after AI projects are completed</p>",
+              "feedback": "<p>Data governance efforts should be undertaken before and during AI projects, not postponed until after completion.</p>"
+            },
+            {
+              "id": "clyrme99f00753b7bgakb00kf",
+              "title": "<p>Rely on existing resources without additional allocation for data quality</p>",
+              "correct": true,
+              "feedback": "<p>Additional resources should be allocated for data quality efforts, rather than solely relying on existing resources.</p>"
+            }
+          ],
+          "correct": "clyrme99f00743b7bn0i2m9fk",
+          "corrects": [
+            "clyrme99f00743b7bn0i2m9fk",
+            "clyrme99f00753b7bgakb00kf"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:44:06.555Z",
+      "updatedAt": "2024-08-29T02:34:32.411Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 5,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "PbuM1DHaa97aJWiC7XV0msVdqlP0O90G",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Video 4.4: Practical next steps",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "clyrmhgod007u3b7bbwketj2v",
+          "data": {},
+          "type": "text",
+          "items": [
+            {
+              "id": "clyrmhgod00803b7bwqjpx2xw",
+              "heading": "<strong>Heading</strong>",
+              "paragraph": "<p>This video emphasizes the importance of taking practical steps to improve data quality for responsible and ethical AI deployment. It explains that data governance doesn&#39;t have to be a massive, complex initiative and provides simple, actionable steps that organizations can take to begin improving data quality.</p>"
+            }
+          ],
+          "family": "text",
+          "variant": "paragraph",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clyrmhln0008h3b7bacr12c0s",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clyrmhln0008i3b7b8pl0kyuu",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "key": "assets/rise/assets/themes/example-header-image.jpg",
+            "type": "image",
+            "useCrushedKey": false
+          }
+        },
+        {
+          "id": "clzoh9rba004s3b6ev4gpv65b",
+          "data": {},
+          "type": "multimedia",
+          "items": [
+            {
+              "id": "clzoh9rbb004t3b6efp5kh2by",
+              "media": {
+                "video": {
+                  "key": "2425GovLabAIP2%204.4%20V2.1.mp4",
+                  "url": "transcoded-wRidu4Xa1M9BsHkq-2425GovLabAIP2%25204.4%2520V2.1.mp4",
+                  "type": "video",
+                  "poster": "2425GovLabAIP2%204.4%20V2.1.jpg",
+                  "captions": [
+                    {
+                      "id": "clzoj4kvw00523b6e98lz7shp",
+                      "key": "2425GovLabAIP2%204.4%20V2.1.mp4.vtt",
+                      "code": "en",
+                      "name": "English",
+                      "filename": "2425GovLabAIP2 4.4 V2.1.mp4.vtt"
+                    }
+                  ],
+                  "duration": 245,
+                  "inputKey": "rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/wRidu4Xa1M9BsHkq-2425GovLabAIP2%204.4%20V2.1.mp4",
+                  "thumbnail": "https://images.articulate.com/f:jpg,b:fff,w:100,h:100,s:cover/rise/courses/AtbwaKzLdvXLutiYVHHz1juAD64fFTVD/transcoded-wRidu4Xa1M9BsHkq-2425GovLabAIP2%25204.4%2520V2.1.0000000.jpg",
+                  "captionUID": "clzoj4l6600533b6euebvh6wa",
+                  "originalUrl": "2425GovLabAIP2 4.4 V2.1.mp4",
+                  "transcodeId": "1723315043317-hewlfi"
+                }
+              },
+              "caption": "<p>Video 4.4: Practical next steps</p>"
+            }
+          ],
+          "family": "multimedia",
+          "variant": "video",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "mediaWidth": "0",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "forwardSeekRestricted": true,
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu6hs42009a3b6exwmxllyc",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "clzu6hs43009b3b6e7jbbn31u",
+              "type": "completeBlock",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Finish watching the video above to proceed"
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "v": 2,
+            "cardMode": "WHITE",
+            "paddingTop": 0,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 0,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "customPaddingTop": 0,
+            "entranceAnimation": true,
+            "customPaddingBottom": 0,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "clzu0d9vb008n3b6eh2kic2oj",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "clzu0d9vc008o3b6emlr4hxhs",
+              "type": "link",
+              "label": "Visit the website",
+              "description": "<p><strong>Readings, Guides and Worksheets</strong></p><p>You can access all the resources mentioned in this course on the InnovateUS website.</p>",
+              "destination": "https://innovate-us.org/resources/scaling-ai-in-your-organization"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "accentColor": null,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        },
+        {
+          "id": "cm0r61qby00bn356uuku9cfew",
+          "data": {},
+          "type": "divider",
+          "items": [
+            {
+              "id": "cm0r61qby00bo356uj3kw26fj",
+              "type": "",
+              "title": "CONTINUE",
+              "buttonColor": "brand",
+              "completeHint": "Complete the content above before moving on."
+            }
+          ],
+          "family": "continue",
+          "variant": "continue",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:46:26.342Z",
+      "updatedAt": "2024-09-06T20:25:56.037Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 6,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "tUPKkRyA6MYqjl5kQxKZve5sD6gdHsji",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Self Assessment 4.4",
+      "description": "<p>You have unlimited attempts to complete this quiz.<br><strong>Screen reader users:&nbsp;</strong>In each quiz, please navigate using the down arrow key to be able to read the quiz results. <br>To retake the test using a screen reader, press Shift + Tab on the results screen to highlight the “take again” button.”</p>",
+      "type": "quiz",
+      "icon": "Quiz",
+      "items": [
+        {
+          "id": "clyrmi43s00903b7bejfx4op8",
+          "type": "MULTIPLE_CHOICE",
+          "title": "<p>What is the benefit of focusing on key datasets for AI projects?</p>",
+          "answers": [
+            {
+              "id": "clyrmi43s00913b7bedhu99la",
+              "title": "<p>It allows the project team to ignore data quality issues</p>",
+              "correct": true,
+              "feedback": "<p>Focusing on key datasets does not mean ignoring data quality issues; rather, it allows for targeted efforts to address quality issues in the most critical data.</p>"
+            },
+            {
+              "id": "clyrmi43s00933b7bmbrapqau",
+              "title": "<p>It ensures that all available data is used, regardless of relevance</p>",
+              "feedback": "<p>Focusing on key datasets involves prioritizing the most relevant data, not using all available data regardless of relevance.</p>"
+            },
+            {
+              "id": "clyrmi43s00943b7b6q11s7eq",
+              "title": "<p>It enables targeted efforts to improve data quality for the most critical data</p>",
+              "feedback": "<p>The benefit of focusing on key datasets for AI projects is that it enables targeted efforts to improve data quality for the most critical data.</p>"
+            },
+            {
+              "id": "clyrmi43s00923b7b4cm8vgf2",
+              "title": "<p>It eliminates the need for stakeholder involvement in data quality efforts</p>",
+              "correct": true,
+              "feedback": "<p>Focusing on key datasets does not eliminate the need for stakeholder involvement; in fact, stakeholder alignment is crucial for ensuring data quality in these critical datasets.</p>"
+            }
+          ],
+          "correct": "clyrmi43s00943b7b6q11s7eq",
+          "corrects": [
+            "clyrmi43s00913b7bedhu99la",
+            "clyrmi43s00923b7b4cm8vgf2"
+          ],
+          "feedback": "",
+          "feedbackType": "CHOICE"
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {
+        "retryCount": -1,
+        "continueType": "continue",
+        "passingScore": 80,
+        "revealAnswers": "all",
+        "shuffleAnswerChoices": false,
+        "randomizeQuestionOrder": false
+      },
+      "duplicatedFromId": "",
+      "deleted": false,
+      "createdAt": "2024-07-18T18:47:05.884Z",
+      "updatedAt": "2024-08-29T02:34:42.115Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 7,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    },
+    {
+      "id": "Vnt_blSj9AKovr8su45JvzFd0-sr4Xxc",
+      "originalId": null,
+      "author": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "selectedAuthorId": "none",
+      "courseId": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD",
+      "title": "Next Up: Module 5: AI Foundations: People & Talent",
+      "description": "",
+      "type": "blocks",
+      "icon": "Article",
+      "items": [
+        {
+          "id": "cm0r6azig0118356u1vthbtg2",
+          "data": {},
+          "type": "interactive",
+          "items": [
+            {
+              "id": "cm0r6azih0119356uosl03qtt",
+              "type": "exit-course",
+              "label": "Exit Module",
+              "description": "<p><span style=\"font-size: 1.7rem\"><strong>Next Up! Module 5: AI Foundations: People &amp; Talent</strong></span></p><p><span style=\"font-size: 1.6rem\">In the next module we focus on </span>the importance of understanding different types of AI organizations and their talent needs for making informed decisions about an organization's AI strategy<span style=\"font-size: 1.6rem\">. </span>Click \"Exit module\" to proceed. </p>",
+              "destination": "exit-course"
+            }
+          ],
+          "family": "buttons",
+          "variant": "button",
+          "settings": {
+            "cardMode": "WHITE",
+            "paddingTop": 3,
+            "quotesInline": false,
+            "paddingBottom": 3,
+            "paddingLinked": true,
+            "backgroundType": "LIGHT",
+            "backgroundColor": "",
+            "entranceAnimation": true,
+            "markerColorContrast": "AUTO",
+            "snippetColorContrast": "AUTO",
+            "customBackgroundColorContrast": "AUTO"
+          },
+          "background": {
+            "media": {
+              "image": {
+                "type": "image",
+                "sourcedFrom": "DEFAULT",
+                "useCrushedKey": false
+              }
+            }
+          }
+        }
+      ],
+      "media": {},
+      "piles": [],
+      "settings": {},
+      "duplicatedFromId": "ofrJyGMX0nvR9HlcvN91DZxq1NnUyzNI",
+      "deleted": false,
+      "createdAt": "2024-09-06T20:32:16.522Z",
+      "updatedAt": "2024-09-06T20:34:51.679Z",
+      "lastUpdatedBy": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "ready": true,
+      "position": 1,
+      "transferredAt": null,
+      "isPartnerContentAuthor": null,
+      "headerImage": {},
+      "sourceLessonLocaleId": null,
+      "experiments": null
+    }
+  ],
+  "jobs": [],
+  "labelSetId": "",
+  "deleted": false,
+  "createdAt": "2024-07-18T18:06:39.443Z",
+  "updatedAt": "2024-09-23T19:49:40.590Z",
+  "markComplete": false,
+  "isDefault": false,
+  "ready": true,
+  "reviewId": "",
+  "exportSettings": {
+    "title": "Module 4: AI Foundations: Data Quality",
+    "format": "zip",
+    "quizId": "tUPKkRyA6MYqjl5kQxKZve5sD6gdHsji",
+    "target": "scorm12",
+    "shareId": "6Y3UTi_iaG50HZ-bxvTFLXZ0HGkTS1il",
+    "activeLMS": 0,
+    "reporting": "completed-incomplete",
+    "exportType": "lms",
+    "identifier": "AtbwaKzLdvXLutiYVHHz1juAD64fFTVD_rise",
+    "targetName": "SCORM 1.2",
+    "storylineId": null,
+    "completeWith": "reporting",
+    "quizComplete": false,
+    "activeEdition": 0,
+    "disableCoverPage": true,
+    "enableExitCourse": false,
+    "resetLearnerData": true,
+    "updateResumeData": true,
+    "storylineComplete": false,
+    "completionPercentage": 100
+  },
+  "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "bodyTypefaceId": "-MPEM2R_v3eTh0hQInNv-2WAwVwql-Pw",
+  "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+  "sidebarMode": "open",
+  "tenantId": "06e29f3d-b6ce-4dc2-a041-3b98bbde4ccc",
+  "showLessonCount": true,
+  "showNavigationButtons": true,
+  "allowSearch": true,
+  "animateBlockEntrance": true,
+  "transferredAt": null,
+  "allowCopy": false,
+  "enableVideoPlaybackSpeed": null,
+  "jobType": null,
+  "partnerContentId": null,
+  "cardImage": {},
+  "theme": {
+    "themeId": "classic",
+    "navigation": true,
+    "showAuthor": true,
+    "allowSearch": true,
+    "colorAccent": "#124d8f",
+    "blockCorners": "ROUNDED",
+    "buttonScheme": "LIGHT",
+    "uiTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "coverPageType": "SPLIT_LEFT_IMAGE",
+    "accentContrast": "AUTO",
+    "bodyTypefaceId": "Wstu1lVkR_rUsAuU6x1N_UImwchzygj2",
+    "navigationType": "SIDEBAR",
+    "blockPaddingTop": 30,
+    "coverImageAlpha": 50,
+    "navigationStyle": "LIGHT",
+    "showLessonCount": true,
+    "lessonHeaderSize": "MEDIUM",
+    "buttonInlineStyle": "ROUNDED",
+    "coverImageDefault": "https://articulateusercontent.com/assets/rise/assets/themes/classic/cover-image/32_nature.jpg",
+    "headingTypefaceId": "_vy9IVqRPwz6wQlKi0wsA9dsYpZ7gsQ3",
+    "hideLessonHeaders": false,
+    "lessonHeaderColor": null,
+    "lessonHeaderStyle": "LIGHT",
+    "sidebarStartsOpen": true,
+    "blockPaddingBottom": 30,
+    "markLessonsComplete": false,
+    "animateBlockEntrance": false,
+    "navigationRestricted": true,
+    "buttonNavigationStyle": "FULL",
+    "showNavigationButtons": true,
+    "compactShowLessonCount": true,
+    "lessonHeaderImageAlpha": 0.6,
+    "lessonHeaderImageColor": "DARK",
+    "enableVideoPlaybackSpeed": true,
+    "customColorLessonHeaderContrast": "AUTO"
+  },
+  "lessonHeaderImage": {},
+  "overlayNavigationImage": {},
+  "type": null,
+  "locale": null,
+  "sourceCourseLocaleId": null,
+  "experiments": null,
+  "settings": {},
+  "features": {
+    "rise-a-11-y-img-gallery-carousel": true,
+    "rise-course-navigation": true,
+    "rise-img-dimensions": true,
+    "rise-img-zoom": true,
+    "rise-timed-quizzes": true
+  },
+  "authors": [
+    {
+      "id": "aid|c81a424d-bae2-465f-a33c-3f9bc6876609",
+      "authorName": "Anirudh Dinesh"
+    }
+  ],
+  "bodyTypeface": "DM Sans",
+  "headingTypeface": "Lato",
+  "uiTypeface": "Lato",
+  "lmsOptions": {
+    "enableExitCourse": false,
+    "disableCoverPage": true
+  },
+  "mondrian": {}
+}

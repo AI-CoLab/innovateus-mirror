@@ -1,0 +1,397 @@
+[
+  {
+    "title": "15 modules",
+    "icon": "fa-sharp fa-solid fa-cube",
+    "id": 1,
+    "translations": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "title": "15 modules and 26 lecture videos",
+    "icon": "fa-sharp fa-solid fa-circle-video",
+    "id": 2,
+    "translations": [
+      12,
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
+  },
+  {
+    "title": "Optional readings",
+    "icon": "fa-sharp fa-solid fa-book-open-cover",
+    "id": 3,
+    "translations": [
+      13,
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "title": "Interviews with leading faculty",
+    "icon": "fa-sharp fa-solid fa-users-rectangle",
+    "id": 4,
+    "translations": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      14
+    ]
+  },
+  {
+    "title": "Worksheets to apply course learnings to your work",
+    "icon": "fa-sharp fa-solid fa-clipboard-list-check",
+    "id": 5,
+    "translations": [
+      15,
+      51,
+      52,
+      53,
+      54,
+      55
+    ]
+  },
+  {
+    "title": "Designed for public professionals ",
+    "icon": "fa-sharp fa-solid fa-people-group",
+    "id": 6,
+    "translations": [
+      16,
+      56,
+      57,
+      58,
+      59,
+      60
+    ]
+  },
+  {
+    "title": "Course contents are screen reader-friendly  and all videos include English closed captions.",
+    "icon": "fa-sharp fa-solid fa-universal-access",
+    "id": 7,
+    "translations": [
+      17,
+      61,
+      62,
+      63,
+      64,
+      65
+    ]
+  },
+  {
+    "title": "At-your-own pace",
+    "icon": "fa-sharp fa-solid fa-calendar-lines-pen",
+    "id": 8,
+    "translations": [
+      18,
+      66,
+      67,
+      68,
+      69,
+      70,
+      206
+    ]
+  },
+  {
+    "title": "People-centered and data-driven",
+    "icon": "fa-sharp fa-solid fa-file-chart-pie",
+    "id": 9,
+    "translations": [
+      19,
+      71,
+      72,
+      73,
+      74,
+      75
+    ]
+  },
+  {
+    "title": "15 modules and 26 lecture videos",
+    "icon": "fa-sharp fa-solid fa-circle-video",
+    "id": 10,
+    "translations": [
+      20,
+      76,
+      77,
+      78,
+      79,
+      80
+    ]
+  },
+  {
+    "title": "Optional readings",
+    "icon": "fa-sharp fa-solid fa-book-open-cover",
+    "id": 11,
+    "translations": [
+      21,
+      81,
+      82,
+      83,
+      84,
+      85
+    ]
+  },
+  {
+    "title": "Interviews with leading faculty",
+    "icon": "fa-sharp fa-solid fa-users-rectangle",
+    "id": 12,
+    "translations": [
+      22,
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
+  },
+  {
+    "title": "Worksheets to apply course learnings to your work",
+    "icon": "fa-sharp fa-solid fa-clipboard-list-check",
+    "id": 13,
+    "translations": [
+      23,
+      91,
+      92,
+      93,
+      94,
+      95
+    ]
+  },
+  {
+    "title": "Certificate of completion ",
+    "icon": "fa-sharp fa-solid fa-file-certificate",
+    "id": 14,
+    "translations": [
+      24,
+      96,
+      97,
+      98,
+      99,
+      100,
+      208
+    ]
+  },
+  {
+    "title": "This course complies with WCAG2.1 web accessibility standards",
+    "icon": "fa-sharp fa-solid fa-universal-access",
+    "id": 15,
+    "translations": [
+      25,
+      101,
+      102,
+      103,
+      104,
+      105,
+      207
+    ]
+  },
+  {
+    "title": "At-your-own pace",
+    "icon": "fa-sharp fa-solid fa-calendar-lines-pen",
+    "id": 16,
+    "translations": [
+      26,
+      106,
+      107,
+      108,
+      109,
+      110
+    ]
+  },
+  {
+    "title": "People-centered and data-driven",
+    "icon": "fa-sharp fa-solid fa-file-chart-pie",
+    "id": 17,
+    "translations": [
+      27,
+      111,
+      112,
+      113,
+      114,
+      115
+    ]
+  },
+  {
+    "title": "19 videos",
+    "icon": "fa-sharp fa-solid fa-circle-video",
+    "id": 18,
+    "translations": [
+      28,
+      116,
+      117,
+      118,
+      119,
+      120
+    ]
+  },
+  {
+    "title": "This course complies with WCAG2.1 web accessibility standards",
+    "icon": "fa-sharp fa-solid fa-universal-access",
+    "id": 19,
+    "translations": [
+      29,
+      121,
+      122,
+      123,
+      124,
+      125
+    ]
+  },
+  {
+    "title": "At-your-own pace",
+    "icon": "fa-sharp fa-solid fa-calendar-lines-pen",
+    "id": 20,
+    "translations": [
+      30,
+      126,
+      127,
+      128,
+      129,
+      130
+    ]
+  },
+  {
+    "title": "Certificate of completion that may be applied to your state learning requirements",
+    "icon": "fa-sharp fa-solid fa-file-certificate",
+    "id": 21,
+    "translations": [
+      31,
+      131,
+      132,
+      133,
+      134,
+      135
+    ]
+  },
+  {
+    "title": "Course materials tailored to the government sector",
+    "icon": "fa-sharp fa-solid fa-clipboard-list-check",
+    "id": 22,
+    "translations": [
+      32,
+      136,
+      137,
+      138,
+      139,
+      140,
+      209
+    ]
+  },
+  {
+    "title": "Innovative activities to apply lessons to your own work",
+    "icon": "fa-sharp fa-solid fa-book-open-cover",
+    "id": 23,
+    "translations": [
+      33,
+      141,
+      142,
+      143,
+      144,
+      145
+    ]
+  },
+  {
+    "title": "The course is in plain, non-technical language and available in English ",
+    "icon": "fa-sharp fa-solid fa-headphones-simple",
+    "id": 24,
+    "translations": [
+      34,
+      146,
+      147,
+      148,
+      149,
+      150
+    ]
+  },
+  {
+    "title": "No technical background required",
+    "icon": "fa-sharp fa-solid fa-asterisk",
+    "id": 25,
+    "translations": [
+      35,
+      151,
+      152,
+      153,
+      154,
+      155,
+      210
+    ]
+  },
+  {
+    "title": "The course is an hour and 45 minutes divided into 24 short videos",
+    "icon": "fa-solid fa-video",
+    "id": 26,
+    "translations": [
+      36,
+      156,
+      157,
+      158,
+      159,
+      160
+    ]
+  },
+  {
+    "title": "Clear learning goals in each video",
+    "icon": "fa-solid fa-list",
+    "id": 27,
+    "translations": [
+      37,
+      161,
+      162,
+      163,
+      164,
+      165
+    ]
+  },
+  {
+    "title": "Learn novel AI skills",
+    "icon": "fa-sharp fa-light fa-sparkles",
+    "id": 28,
+    "translations": [
+      38,
+      166,
+      167,
+      168,
+      169,
+      170
+    ]
+  },
+  {
+    "title": "Certificate of completion that may be applied to CLE requirements in eligible states",
+    "icon": "fa-sharp fa-solid fa-file-certificate",
+    "id": 29,
+    "translations": [
+      39,
+      171,
+      172,
+      173,
+      174,
+      175
+    ]
+  },
+  {
+    "title": "Course materials tailored to the public lawyer and their office",
+    "icon": "fa-solid fa-gavel",
+    "id": 30,
+    "translations": [
+      40,
+      176,
+      177,
+      178,
+      179,
+      180
+    ]
+  }
+]

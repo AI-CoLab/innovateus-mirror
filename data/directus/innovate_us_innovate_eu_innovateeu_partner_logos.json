@@ -1,0 +1,20 @@
+[
+  {
+    "innovateeu_partner_logos_id": 1,
+    "sort": 3,
+    "innovate_us_innovate_eu_id": null,
+    "id": 1
+  },
+  {
+    "innovateeu_partner_logos_id": 2,
+    "sort": 1,
+    "innovate_us_innovate_eu_id": 1,
+    "id": 2
+  },
+  {
+    "innovateeu_partner_logos_id": 3,
+    "sort": 2,
+    "innovate_us_innovate_eu_id": 1,
+    "id": 3
+  }
+]
