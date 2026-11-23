@@ -80,7 +80,7 @@
     }
   ],
   "lessons": 504,
-  "words": 116375,
+  "words": 114397,
   "byKind": {
     "label": 2,
     "page": 61,
@@ -100,5 +100,6 @@
       "activity": "Certificate",
       "kind": "url"
     }
-  ]
+  ],
+  "navigation": 179
 }

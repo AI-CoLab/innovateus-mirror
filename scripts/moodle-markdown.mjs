@@ -192,6 +192,24 @@ export function page(record, shown = new Map()) {
   return { markdown, said }
 }
 
+const NAVIGATION = /<div\b[^>]*\bclass="[^"]*\bcustom-navigation-buttons\b[^"]*"[^>]*>([\s\S]*?)<\/div>/g
+
+/**
+ * Rich text without the Moodle site's own navigation. Their pages open with a block the site's
+ * theme draws as buttons, `<div aria-hidden="true" class="custom-navigation-buttons">`: a link
+ * to the activity before, the page's own name again, a link to the activity after. It is how
+ * their site is moved round, marked by them as no part of what the page says (`aria-hidden`),
+ * and its links lead into their Moodle; whoever shows a lesson has its own way from one to
+ * the next. `taken` counts the blocks taken out, for the build's report.
+ */
+export function withoutSiteNavigation(html, taken) {
+  return html.replace(NAVIGATION, (block, inside) => {
+    if (/<div\b/i.test(inside)) throw new Error(`a navigation block holds more than its buttons: ${block.slice(0, 200)}`)
+    taken.navigation += 1
+    return ''
+  })
+}
+
 export const vimeoActivity = (record) => ({
   markdown: [
     heading(1, lineOf(record.name)),

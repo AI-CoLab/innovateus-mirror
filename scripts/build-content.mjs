@@ -25,16 +25,27 @@
 import { readdir } from 'node:fs/promises'
 import { join } from 'node:path'
 import { DATA, ROOT, loadJson, remove, saveJson, saveText } from './lib.mjs'
-import { checkSaid, interactiveVideo, knowledgeCheck, label, link, page, quiz, vimeoActivity } from './moodle-markdown.mjs'
+import { checkSaid, interactiveVideo, knowledgeCheck, label, link, page, quiz, vimeoActivity, withoutSiteNavigation } from './moodle-markdown.mjs'
 import { heading, lessonFiles, lineOf, markdownOf, slugOf } from '@aicolab/learning-contracts/convert/rise'
 
 const OUT = join(ROOT, 'content')
 const MOODLE = join(DATA, 'moodle')
 const LEFT_OUT = new Set(['questionnaire', 'coursecertificate'])
 const numbered = (index, title) => `${String(index + 1).padStart(2, '0')}.${slugOf(title) || 'untitled'}`
-const byKey = (rows, key) => new Map(rows.map((row) => [row[key], row]))
+const report = { courses: [], lessons: 0, words: 0, byKind: {}, leftOut: {}, locked: [], navigation: 0 }
 
-const courses = await loadJson(join(MOODLE, 'courses.json'))
+/** A Moodle record with the site's own navigation taken out of its rich text (./moodle-markdown.mjs). */
+const RICH_TEXT = ['intro', 'content', 'summary']
+const own = (record) =>
+  record && {
+    ...record,
+    ...Object.fromEntries(
+      RICH_TEXT.filter((key) => typeof record[key] === 'string').map((key) => [key, withoutSiteNavigation(record[key], report)]),
+    ),
+  }
+const byKey = (rows, key) => new Map(rows.map((row) => [row[key], own(row)]))
+
+const courses = (await loadJson(join(MOODLE, 'courses.json'))).map(own)
 const h5pActivities = byKey(await loadJson(join(MOODLE, 'h5pactivities.json')), 'id')
 const pages = byKey(await loadJson(join(MOODLE, 'pages.json')), 'id')
 const urls = byKey(await loadJson(join(MOODLE, 'urls.json')), 'id')
@@ -70,13 +81,12 @@ const ONE_LESSON = {
     return h5p.mainLibrary === 'H5P.InteractiveVideo' ? interactiveVideo(activity, h5p) : knowledgeCheck(activity, h5p)
   },
   page: async (module) => page(pages.get(module.instance), await shownOn(module.instance)),
-  quiz: async (module) => quiz(await loadJson(join(MOODLE, 'quizzes', `${module.instance}.json`))),
+  quiz: async (module) => quiz(own(await loadJson(join(MOODLE, 'quizzes', `${module.instance}.json`)))),
   videotime: async (module) => vimeoActivity(vimeo.get(module.id)),
   url: async (module) => link(urls.get(module.instance)),
   label: async (module) => label(labels.get(module.instance)),
 }
 
-const report = { courses: [], lessons: 0, words: 0, byKind: {}, leftOut: {}, locked: [] }
 const count = (kind, lessons, words) => {
   report.byKind[kind] = (report.byKind[kind] ?? 0) + lessons
   report.lessons += lessons
@@ -94,7 +104,7 @@ await saveJson(join(OUT, 'source.json'), {
 })
 for (const course of courses) {
   const courseDir = join(OUT, 'courses', slugOf(course.fullname))
-  const sections = await loadJson(join(MOODLE, 'contents', `${course.id}.json`))
+  const sections = (await loadJson(join(MOODLE, 'contents', `${course.id}.json`))).map(own)
   const before = report.lessons
   const cover = course.overviewfiles?.[0]
   await writeIndex(courseDir, course.fullname, course.summary, cover && `moodle/courses/${course.id}/${cover.filename}`)
@@ -133,4 +143,5 @@ await saveJson(join(OUT, '_report.json'), report)
 console.log(`courses ${report.courses.length}, lessons written ${report.lessons}, words checked ${report.words}`)
 console.log(`  ${Object.entries(report.byKind).map(([kind, n]) => `${kind} ${n}`).join(', ')}`)
 console.log(`left out on purpose: ${Object.entries(report.leftOut).map(([kind, n]) => `${kind} ${n}`).join(', ')}`)
+console.log(`the Moodle site's own navigation blocks taken out: ${report.navigation}`)
 for (const item of report.locked) console.log(`locked at the source: course ${item.course}, "${item.activity}" (${item.kind})`)

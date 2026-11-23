@@ -12,4 +12,4 @@ Comprising eight modules, the course equips learners with skills for getting sma
 
 Designed for busy professionals, the course will help you scan for the most effective policies, innovations, and interventions and build them with the communities you serve.
 
-**This course is brought to you in partnership with [Results for America](https://results4america.org/) and [Solutions Journalism Network](https://www.solutionsjournalism.org/).**
+This course is brought to you in partnership with [Results for America](https://results4america.org/) and [Solutions Journalism Network](https://www.solutionsjournalism.org/).
