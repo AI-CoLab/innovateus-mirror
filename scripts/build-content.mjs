@@ -24,7 +24,7 @@
 
 import { readdir } from 'node:fs/promises'
 import { join } from 'node:path'
-import { DATA, ROOT, loadJson, remove, saveJson, saveText } from './lib.mjs'
+import { DATA, ROOT, loadJson, remove, safeName, saveJson, saveText } from './lib.mjs'
 import { checkSaid, interactiveVideo, knowledgeCheck, label, link, page, quiz, vimeoActivity, withoutSiteNavigation } from './moodle-markdown.mjs'
 import { heading, lessonFiles, lineOf, markdownOf, slugOf } from '@aicolab/learning-contracts/convert/rise'
 
@@ -107,7 +107,8 @@ for (const course of courses) {
   const sections = (await loadJson(join(MOODLE, 'contents', `${course.id}.json`))).map(own)
   const before = report.lessons
   const cover = course.overviewfiles?.[0]
-  await writeIndex(courseDir, course.fullname, course.summary, cover && `moodle/courses/${course.id}/${cover.filename}`)
+  // The cover by the name it was kept under (pull-moodle.mjs saves it as `safeName(filename)`).
+  await writeIndex(courseDir, course.fullname, course.summary, cover && `moodle/courses/${course.id}/${safeName(cover.filename)}`)
   let sectionIndex = 0
   for (const section of sections) {
     if ((section.modules ?? []).length === 0) continue

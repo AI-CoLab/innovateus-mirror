@@ -106,9 +106,17 @@ export async function remove(path) {
   await rm(path, { recursive: true, force: true })
 }
 
-/** A file name safe on any disk, keeping the extension. */
+/**
+ * A file name safe on any disk, at most 180 characters, keeping the extension however long the
+ * name is: a long name is cut in its stem. Whatever names a file kept under this name (a
+ * lesson's picture, a manifest row) must name it through this function too.
+ */
 export function safeName(name) {
-  return name.replace(/[^\w.\- ()]+/g, '_').slice(0, 180)
+  const safe = name.replace(/[^\w.\- ()]+/g, '_')
+  if (safe.length <= 180) return safe
+  const dot = safe.lastIndexOf('.')
+  const extension = dot > 0 && safe.length - dot <= 12 ? safe.slice(dot) : ''
+  return safe.slice(0, 180 - extension.length) + extension
 }
 
 export const megabytes = (bytes) => Math.round(Number(bytes ?? 0) / 1048576)
